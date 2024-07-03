@@ -1,0 +1,4 @@
+x: [[452 812 854 518]], y: [[386 326 536 593]], ornt: [u'm'], transcriptions: [u'Le']
+x: [[ 908 1541 2045 1997 1460  974]], y: [[302 245 308 491 473 530]], ornt: [u'c'], transcriptions: [u'Grenier']
+x: [[2126 2306 2288 2096]], y: [[335 362 512 482]], ornt: [u'm'], transcriptions: [u'a']
+x: [[2384 2795 3002 2981 2642 2357]], y: [[290 368 452 614 542 512]], ornt: [u'c'], transcriptions: [u'Pain']

@@ -1,0 +1,4 @@
+x: [[305 408 407 300]], y: [[166 185 227 215]], ornt: [u'm'], transcriptions: [u'cave']
+x: [[426 543 540 424]], y: [[190 210 252 229]], ornt: [u'm'], transcriptions: [u'SPRING']
+x: [[555 612 614 557]], y: [[214 230 266 253]], ornt: [u'm'], transcriptions: [u'HIGH']
+x: [[620 693 696 625]], y: [[233 255 294 270]], ornt: [u'm'], transcriptions: [u'SCHOOL']

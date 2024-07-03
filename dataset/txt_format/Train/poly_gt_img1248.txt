@@ -1,0 +1,5 @@
+x: [[446 480 511 513 481 450]], y: [[183 173 171 191 195 200]], ornt: [u'c'], transcriptions: [u'DENIM']
+x: [[514 533 538 522]], y: [[172 169 189 193]], ornt: [u'h'], transcriptions: [u'IS']
+x: [[540 581 583 546]], y: [[172 169 185 188]], ornt: [u'h'], transcriptions: [u'OUR']
+x: [[587 621 655 655 622 591]], y: [[169 169 173 191 188 188]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[588 628 629 595]], y: [[222 219 238 239]], ornt: [u'm'], transcriptions: [u'UES']

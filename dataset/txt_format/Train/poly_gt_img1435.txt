@@ -1,0 +1,5 @@
+x: [[364 572 763 958 927 748 565 390]], y: [[ 84  35  40  87 139  87  95 131]], ornt: [u'c'], transcriptions: [u'REFUGEES']
+x: [[ 332  536  777  950 1011  809  519  287]], y: [[227 287 282 224 294 368 375 307]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[456 637 649 469]], y: [[442 451 491 484]], ornt: [u'm'], transcriptions: [u'TRUTH']
+x: [[529 613 622 539]], y: [[488 488 525 524]], ornt: [u'm'], transcriptions: [u'NOT']
+x: [[472 664 673 494]], y: [[523 522 565 581]], ornt: [u'm'], transcriptions: [u'TRUMP']

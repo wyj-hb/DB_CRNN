@@ -1,0 +1,7 @@
+x: [[1079 1114 1148 1148 1114 1079]], y: [[833 833 833 877 877 877]], ornt: [u'#'], transcriptions: [u'#']
+x: [[651 729 726 656]], y: [[ 50  67 102  88]], ornt: [u'm'], transcriptions: [u'BEN']
+x: [[736 850 852 730]], y: [[ 76  97 132 112]], ornt: [u'm'], transcriptions: [u'THANH']
+x: [[ 12 510 514  23]], y: [[ 82 131 235 220]], ornt: [u'm'], transcriptions: [u'm']
+x: [[546 918 923 559]], y: [[132 205 291 252]], ornt: [u'm'], transcriptions: [u'FOOD']
+x: [[ 961 1258 1269  958]], y: [[217 296 392 310]], ornt: [u'm'], transcriptions: [u'MARK']
+x: [[698 927 932 697]], y: [[367 386 439 421]], ornt: [u'h'], transcriptions: [u'AUTHENTIC']

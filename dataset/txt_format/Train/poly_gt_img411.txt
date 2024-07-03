@@ -1,0 +1,7 @@
+x: [[137 156 193 212 187 170]], y: [[126  95  66  85 110 137]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[214 243 277 283 250 227]], y: [[54 38 34 63 67 77]], ornt: [u'c'], transcriptions: [u'TIP']
+x: [[301 345 347 303]], y: [[30 31 54 54]], ornt: [u'h'], transcriptions: [u'OF']
+x: [[373 445 496 471 428 361]], y: [[ 38  69 119 130  82  55]], ornt: [u'c'], transcriptions: [u'BORNEO']
+x: [[169 187 234 251 208 195]], y: [[155 109  72  92 125 164]], ornt: [u'c'], transcriptions: [u'TANJUNG']
+x: [[254 306 365 359 312 262]], y: [[67 54 61 78 71 85]], ornt: [u'c'], transcriptions: [u'SIMPANG']
+x: [[380 451 481 460 416 370]], y: [[ 65 105 151 159 105  82]], ornt: [u'c'], transcriptions: [u'MENGAYAU']

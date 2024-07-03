@@ -1,0 +1,5 @@
+x: [[  98 1094 1781 1745  950  179]], y: [[337 154 181 430 451 679]], ornt: [u'c'], transcriptions: [u'CAMERONc']
+x: [[1835 2564 2978 2936 2498 1970]], y: [[ 79 214 352 589 469 469]], ornt: [u'c'], transcriptions: [u'VALLE']
+x: [[1010 2204 2225 1001]], y: [[ 829  841 1114 1219]], ornt: [u'm'], transcriptions: [u'Cameron']
+x: [[1244 2066 2042 1250]], y: [[1204 1219 1438 1459]], ornt: [u'h'], transcriptions: [u'BHARAT']
+x: [[1292 1547 1808 2009 2084 1838 1526 1208]], y: [[1501 1609 1594 1489 1594 1720 1729 1600]], ornt: [u'c'], transcriptions: [u'PLANTATIONS']

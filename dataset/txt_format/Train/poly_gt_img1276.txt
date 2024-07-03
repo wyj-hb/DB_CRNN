@@ -1,0 +1,6 @@
+x: [[ 23 197 197  27]], y: [[471 444 563 581]], ornt: [u'm'], transcriptions: [u'OLD']
+x: [[224 556 550 217]], y: [[436 376 521 556]], ornt: [u'm'], transcriptions: [u'NAVY']
+x: [[ 951  992 1041 1041  991  957]], y: [[ 86  64  61  77  83 100]], ornt: [u'c'], transcriptions: [u'HOLIDAY']
+x: [[ 966 1033 1037  968]], y: [[ 94  77  90 109]], ornt: [u'm'], transcriptions: [u'GIFTING']
+x: [[ 955 1002 1005  959]], y: [[112 100 114 127]], ornt: [u'm'], transcriptions: [u'MADE']
+x: [[1008 1045 1048 1010]], y: [[ 98  88 101 113]], ornt: [u'm'], transcriptions: [u'EASY']

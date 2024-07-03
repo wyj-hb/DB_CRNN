@@ -1,0 +1,7 @@
+x: [[107 249 365 205]], y: [[654 578 720 814]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 359  782 1280 1523 1437 1177  764  451]], y: [[469 312 450 651 818 598 515 635]], ornt: [u'c'], transcriptions: [u'10000']
+x: [[718 934 931 717]], y: [[1081 1088 1141 1137]], ornt: [u'm'], transcriptions: [u'BUSINESS']
+x: [[ 945 1126 1126  946]], y: [[1090 1098 1146 1140]], ornt: [u'm'], transcriptions: [u'INVEST']
+x: [[ 916 1123 1120  919]], y: [[1146 1152 1173 1168]], ornt: [u'm'], transcriptions: [u'wwwbusinessinvestcouk']
+x: [[ 948 1013 1014  940]], y: [[1066 1072 1090 1091]], ornt: [u'm'], transcriptions: [u'2012']
+x: [[1017 1122 1122 1014]], y: [[1076 1076 1096 1093]], ornt: [u'm'], transcriptions: [u'campaign']

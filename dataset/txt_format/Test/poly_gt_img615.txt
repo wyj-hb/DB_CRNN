@@ -1,0 +1,7 @@
+x: [[268 292 317 369 395 389 362 324 301 293]], y: [[232 176 148 122 119 147 147 170 217 244]], ornt: [u'c'], transcriptions: [u'nonna']
+x: [[408 440 464 480 481 456 451 435 397 402]], y: [[118 123 144 179 200 206 174 157 148 133]], ornt: [u'c'], transcriptions: [u'gELSA']
+x: [[183 571 569 180]], y: [[324 247 301 372]], ornt: [u'h'], transcriptions: [u'RISTORANTE']
+x: [[186 308 312 183]], y: [[389 366 404 430]], ornt: [u'm'], transcriptions: [u'LOCANDA']
+x: [[327 352 354 323]], y: [[369 355 401 407]], ornt: [u'm'], transcriptions: [u'DI']
+x: [[369 455 460 365]], y: [[357 339 383 395]], ornt: [u'm'], transcriptions: [u'NONNA']
+x: [[468 562 566 472]], y: [[337 322 363 381]], ornt: [u'm'], transcriptions: [u'GELSA']

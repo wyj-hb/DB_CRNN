@@ -1,0 +1,4 @@
+x: [[842 871 900 900 871 842]], y: [[209 209 209 248 248 248]], ornt: [u'h'], transcriptions: [u'Stev']
+x: [[39 68 96 96 68 39]], y: [[ 1  1  1 21 21 21]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 2 23 43 43 23  2]], y: [[ 0  0  0 20 20 20]], ornt: [u'#'], transcriptions: [u'#']
+x: [[220 435 644 647 445 206]], y: [[117 170 104 166 248 183]], ornt: [u'c'], transcriptions: [u'EeeBeeDee']

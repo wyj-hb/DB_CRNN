@@ -1,0 +1,5 @@
+x: [[570 575 586 606 599 598]], y: [[346 311 291 295 324 351]], ornt: [u'c'], transcriptions: [u'COOL']
+x: [[583 596 611 627 613 608]], y: [[285 264 243 253 274 296]], ornt: [u'c'], transcriptions: [u'ZONE']
+x: [[718 756 760 720]], y: [[124 127 147 144]], ornt: [u'm'], transcriptions: [u'ELB']
+x: [[613 662 664 620]], y: [[499 498 524 525]], ornt: [u'h'], transcriptions: [u'OFF']
+x: [[868 917 918 872]], y: [[493 488 510 517]], ornt: [u'm'], transcriptions: [u'HIGH']

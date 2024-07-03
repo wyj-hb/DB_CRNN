@@ -1,0 +1,5 @@
+x: [[ 15 415 414   9]], y: [[331 332 466 470]], ornt: [u'h'], transcriptions: [u'Rozzis']
+x: [[  6  64 178 174  72  24]], y: [[206 154 121 170 202 242]], ornt: [u'c'], transcriptions: [u'LIAN']
+x: [[256 417 484 444 376 241]], y: [[122 194 350 359 229 160]], ornt: [u'c'], transcriptions: [u'CANTEEn']
+x: [[243 376 445 486 400 258]], y: [[619 554 419 440 598 659]], ornt: [u'c'], transcriptions: [u'ITALIAN']
+x: [[ 30 102 187 178  72  13]], y: [[536 595 619 667 628 572]], ornt: [u'c'], transcriptions: [u'CANT']

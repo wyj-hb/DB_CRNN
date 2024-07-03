@@ -1,0 +1,8 @@
+x: [[342 363 383 383 363 342]], y: [[274 274 274 288 288 288]], ornt: [u'h'], transcriptions: [u'TEGAS']
+x: [[245 238 276 305 321 291 264 266]], y: [[273 180 120 102 116 142 188 275]], ornt: [u'c'], transcriptions: [u'SURUHANJAYA']
+x: [[316 401 471 496 478 450 392 321]], y: [[ 93  76 105 144 156 127 101 112]], ornt: [u'c'], transcriptions: [u'PENCEGAHAN']
+x: [[500 512 494 473 488 478]], y: [[157 217 273 267 199 164]], ornt: [u'c'], transcriptions: [u'RASUAH']
+x: [[303 363 422 434 366 297]], y: [[315 328 314 333 356 336]], ornt: [u'c'], transcriptions: [u'MALAYSIA']
+x: [[328 400 402 332]], y: [[180 174 201 204]], ornt: [u'm'], transcriptions: [u'SPRM']
+x: [[397 432 432 400]], y: [[254 253 267 268]], ornt: [u'h'], transcriptions: [u'ADIL']
+x: [[292 340 338 291]], y: [[254 256 271 270]], ornt: [u'#'], transcriptions: [u'#']

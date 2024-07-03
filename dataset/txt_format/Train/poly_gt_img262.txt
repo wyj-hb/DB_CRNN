@@ -1,0 +1,6 @@
+x: [[126 125 156 134  93  99]], y: [[166 247 290 315 244 161]], ornt: [u'c'], transcriptions: [u'BORNEAN']
+x: [[109 127 149 166 141 131]], y: [[144 117  96 118 135 158]], ornt: [u'c'], transcriptions: [u'SUN']
+x: [[156 197 235 237 203 169]], y: [[ 89  69  61  87  90 109]], ornt: [u'c'], transcriptions: [u'BEAR']
+x: [[250 347 395 400 369 368 317 242]], y: [[ 57  86 160 219 217 165 100  82]], ornt: [u'c'], transcriptions: [u'CONSERVATION']
+x: [[178 222 279 282 214 168]], y: [[307 326 318 349 351 331]], ornt: [u'c'], transcriptions: [u'BSBCC']
+x: [[300 345 374 395 366 318]], y: [[311 276 223 231 301 341]], ornt: [u'c'], transcriptions: [u'CENTRE']

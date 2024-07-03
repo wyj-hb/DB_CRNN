@@ -1,0 +1,4 @@
+x: [[41 50 69 87 68 59]], y: [[128 101  80  94 114 138]], ornt: [u'c'], transcriptions: [u'GURU']
+x: [[ 74 103 139 144 115  91]], y: [[72 47 32 48 62 88]], ornt: [u'c'], transcriptions: [u'NANAK']
+x: [[150 215 280 274 211 152]], y: [[28 21 45 67 42 48]], ornt: [u'c'], transcriptions: [u'ENGINEERING']
+x: [[293 324 341 322 306 279]], y: [[ 56  89 128 134  99  69]], ornt: [u'c'], transcriptions: [u'COLLEGE']

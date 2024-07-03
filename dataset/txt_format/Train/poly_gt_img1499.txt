@@ -1,0 +1,4 @@
+x: [[ 50 106 235 291 289 202  99  51]], y: [[44 19 12 42 70 46 51 73]], ornt: [u'c'], transcriptions: [u'caracoles']
+x: [[ 97 149 226 232 145  98]], y: [[121 113 118 148 144 147]], ornt: [u'c'], transcriptions: [u'SCARACOLES']
+x: [[139 159 161 143]], y: [[198 197 203 205]], ornt: [u'#'], transcriptions: [u'#']
+x: [[124 150 176 182 154 120]], y: [[201 211 202 211 223 214]], ornt: [u'c'], transcriptions: [u'CARACOLES']

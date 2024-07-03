@@ -1,0 +1,2 @@
+x: [[102 172 240 252 197 126]], y: [[241 206 197 245 262 290]], ornt: [u'c'], transcriptions: [u'Magic']
+x: [[408 518 591 577 496 400]], y: [[186 212 262 299 267 241]], ornt: [u'c'], transcriptions: [u'Kingdom']

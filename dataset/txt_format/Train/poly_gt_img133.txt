@@ -1,0 +1,2 @@
+x: [[ 71 168 313 325 177 108]], y: [[161  48  12  47  93 186]], ornt: [u'c'], transcriptions: [u'SECOND']
+x: [[375 531 618 569 485 358]], y: [[  9  53 168 182  94  45]], ornt: [u'c'], transcriptions: [u'STREET']

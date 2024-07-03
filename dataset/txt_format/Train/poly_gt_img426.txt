@@ -1,0 +1,5 @@
+x: [[235 440 668 664 445 260]], y: [[520 474 508 574 537 582]], ornt: [u'c'], transcriptions: [u'PHILADELPHIA']
+x: [[346 461 577 568 460 362]], y: [[558 538 558 618 604 625]], ornt: [u'c'], transcriptions: [u'POLICE']
+x: [[379 464 535 535 455 389]], y: [[631 625 628 657 651 658]], ornt: [u'c'], transcriptions: [u'HONOR']
+x: [[299 337 397 379 308 269]], y: [[753 832 901 924 843 741]], ornt: [u'c'], transcriptions: [u'INTEGRITY']
+x: [[508 563 602 628 581 526]], y: [[883 805 739 750 832 901]], ornt: [u'c'], transcriptions: [u'SERVICE']

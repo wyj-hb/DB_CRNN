@@ -1,0 +1,8 @@
+x: [[389 430 432 392]], y: [[ 97 102 117 110]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[306 363 417 419 366 330]], y: [[131 106 111 142 146 166]], ornt: [u'c'], transcriptions: [u'DONUT']
+x: [[430 471 505 494 465 431]], y: [[117 128 154 180 155 145]], ornt: [u'c'], transcriptions: [u'HOLE']
+x: [[356 377 382 358]], y: [[154 146 161 171]], ornt: [u'm'], transcriptions: [u'ITS']
+x: [[384 414 413 387]], y: [[146 147 161 161]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[419 453 475 467 440 419]], y: [[146 155 169 180 167 165]], ornt: [u'c'], transcriptions: [u'QUALITY']
+x: [[308 329 328 308]], y: [[291 291 304 302]], ornt: [u'h'], transcriptions: [u'EXIT']
+x: [[434 452 454 436]], y: [[294 294 308 308]], ornt: [u'h'], transcriptions: [u'EXIT']

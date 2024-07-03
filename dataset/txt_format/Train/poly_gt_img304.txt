@@ -1,0 +1,5 @@
+x: [[138 208 298 306 248 180]], y: [[260 202 198 248 260 308]], ornt: [u'c'], transcriptions: [u'DAILY']
+x: [[314 512 600 572 484 314]], y: [[206 235 312 346 278 252]], ornt: [u'c'], transcriptions: [u'GROCERIES']
+x: [[100 152 248 226 122  42]], y: [[1032 1162 1226 1268 1214 1048]], ornt: [u'c'], transcriptions: [u'FRIENDLY']
+x: [[286 470 476 286]], y: [[1232 1230 1282 1288]], ornt: [u'h'], transcriptions: [u'LOCAL']
+x: [[522 618 630 680 638 568]], y: [[1204 1110 1012 1034 1182 1252]], ornt: [u'c'], transcriptions: [u'HEALTHY']

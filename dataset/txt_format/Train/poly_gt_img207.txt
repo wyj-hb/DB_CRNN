@@ -1,0 +1,3 @@
+x: [[ 79 103 140 169 136 118]], y: [[216 188 167 179 204 224]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[166 302 462 552 510 439 303 178]], y: [[157 134 158 238 248 184 152 174]], ornt: [u'c'], transcriptions: [u'CHAMPIONSHIPS']
+x: [[124 242 406 498 532 412 186  84]], y: [[300 360 358 310 337 406 395 339]], ornt: [u'c'], transcriptions: [u'WIMBLEDON']

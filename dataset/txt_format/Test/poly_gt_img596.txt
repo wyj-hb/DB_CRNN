@@ -1,0 +1,7 @@
+x: [[176 200 238 237 212 181]], y: [[36 28 38 63 52 60]], ornt: [u'c'], transcriptions: [u'QUAN']
+x: [[253 272 260 253 240]], y: [[54 75 83 72 63]], ornt: [u'c'], transcriptions: [u'AN']
+x: [[119 177 170 125]], y: [[ 70  85 108  99]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[186 269 268 182]], y: [[ 84 107 138 114]], ornt: [u'm'], transcriptions: [u'SUSHI']
+x: [[272 302 301 269]], y: [[115 120 142 133]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[179 206 238 237 200 171]], y: [[147 165 170 193 186 167]], ornt: [u'c'], transcriptions: [u'THIEN']
+x: [[244 257 267 278 243]], y: [[168 165 155 173 197]], ornt: [u'c'], transcriptions: [u'QUE']

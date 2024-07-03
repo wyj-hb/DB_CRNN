@@ -1,0 +1,6 @@
+x: [[590 618 646 646 618 590]], y: [[437 437 437 460 460 460]], ornt: [u'h'], transcriptions: [u'CHOCOLATE']
+x: [[235 302 380 368 305 248]], y: [[198 168 195 222 199 231]], ornt: [u'c'], transcriptions: [u'CAPILANO']
+x: [[244 311 368 391 322 229]], y: [[250 277 244 253 309 270]], ornt: [u'c'], transcriptions: [u'TIMBERCO']
+x: [[592 634 646 598]], y: [[415 397 417 436]], ornt: [u'#'], transcriptions: [u'#']
+x: [[604 647 650 602]], y: [[466 465 478 486]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 40 104 109  40]], y: [[432 427 451 454]], ornt: [u'#'], transcriptions: [u'#']

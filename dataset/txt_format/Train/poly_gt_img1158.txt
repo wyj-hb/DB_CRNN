@@ -1,0 +1,4 @@
+x: [[387 761 775 389]], y: [[338 352 438 406]], ornt: [u'h'], transcriptions: [u'copra']
+x: [[521 599 613 521]], y: [[414 416 448 444]], ornt: [u'h'], transcriptions: [u'mill']
+x: [[415 487 571 567 439 379]], y: [[442 510 524 592 554 484]], ornt: [u'c'], transcriptions: [u'LEISURE']
+x: [[575 687 749 797 687 597]], y: [[536 512 480 540 602 610]], ornt: [u'c'], transcriptions: [u'WORLD']

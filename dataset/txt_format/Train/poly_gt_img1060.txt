@@ -1,0 +1,4 @@
+x: [[557 568 625 634 595 580]], y: [[606 564 544 567 583 624]], ornt: [u'c'], transcriptions: [u'ASSUNTA']
+x: [[646 700 713 689 676 632]], y: [[544 573 627 630 585 570]], ornt: [u'c'], transcriptions: [u'HOSPITAL']
+x: [[598 629 671 680 634 590]], y: [[654 666 657 676 691 676]], ornt: [u'c'], transcriptions: [u'FIDELITY']
+x: [[1019 1040 1039 1015]], y: [[144 142 229 229]], ornt: [u'm'], transcriptions: [u'7ELEVEN']

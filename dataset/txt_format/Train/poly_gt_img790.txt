@@ -1,0 +1,5 @@
+x: [[277 325 372 372 325 277]], y: [[541 541 541 567 567 567]], ornt: [u'#'], transcriptions: [u'#']
+x: [[251 335 419 419 335 251]], y: [[567 567 567 590 590 590]], ornt: [u'#'], transcriptions: [u'#']
+x: [[189 283 261 154]], y: [[324 399 467 372]], ornt: [u'm'], transcriptions: [u'Cafe']
+x: [[127 273 252  95]], y: [[346 479 529 398]], ornt: [u'm'], transcriptions: [u'Breton']
+x: [[ 87 159 263 254 115  56]], y: [[401 500 539 582 541 430]], ornt: [u'c'], transcriptions: [u'CREPERIE']

@@ -1,0 +1,7 @@
+x: [[721 822 822 728]], y: [[478 475 514 517]], ornt: [u'h'], transcriptions: [u'www']
+x: [[ 828 1033 1036  834]], y: [[469 472 527 530]], ornt: [u'h'], transcriptions: [u'tribecafsp']
+x: [[1039 1118 1124 1045]], y: [[478 475 514 520]], ornt: [u'h'], transcriptions: [u'com']
+x: [[789 804 822 850 837 822]], y: [[1283 1243 1225 1249 1283 1313]], ornt: [u'c'], transcriptions: [u'FAITH']
+x: [[837 904 950 950 892 859]], y: [[1216 1194 1200 1234 1237 1258]], ornt: [u'c'], transcriptions: [u'BELEDIVE']
+x: [[ 959 1057 1106 1051 1014  953]], y: [[1191 1219 1283 1304 1261 1240]], ornt: [u'c'], transcriptions: [u'BASKANLIGI']
+x: [[ 871 1023 1017  874]], y: [[2012 2024 2057 2045]], ornt: [u'h'], transcriptions: [u'Triheca']

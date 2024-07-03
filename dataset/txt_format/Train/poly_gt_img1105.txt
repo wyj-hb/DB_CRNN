@@ -1,0 +1,4 @@
+x: [[203 218 229 214 197 185]], y: [[462 481 490 516 507 486]], ornt: [u'c'], transcriptions: [u'KL']
+x: [[239 283 340 337 280 221]], y: [[501 516 517 544 547 529]], ornt: [u'c'], transcriptions: [u'Seafood']
+x: [[352 404 425 449 415 356]], y: [[513 493 477 490 528 546]], ornt: [u'c'], transcriptions: [u'Market']
+x: [[602 652 649 605]], y: [[499 499 520 519]], ornt: [u'#'], transcriptions: [u'#']

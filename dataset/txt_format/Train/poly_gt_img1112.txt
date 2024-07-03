@@ -1,0 +1,2 @@
+x: [[446 623 799 799 623 446]], y: [[ 90  90  90 148 148 148]], ornt: [u'h'], transcriptions: [u'STBORIHACE']
+x: [[506 616 736 712 617 515]], y: [[267 232 268 322 289 313]], ornt: [u'c'], transcriptions: [u'sanoon']

@@ -1,0 +1,2 @@
+x: [[240 392 527 524 385 239]], y: [[ 97  71  81 119 125 152]], ornt: [u'c'], transcriptions: [u'Arcobrau']
+x: [[545 695 847 831 688 540]], y: [[ 70  76 113 160 133 125]], ornt: [u'c'], transcriptions: [u'Brauhaus']

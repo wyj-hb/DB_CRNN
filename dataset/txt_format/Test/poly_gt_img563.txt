@@ -1,0 +1,6 @@
+x: [[1343 1469 1664 1697 1694 1553 1418 1358]], y: [[920 872 848 857 929 944 977 995]], ornt: [u'c'], transcriptions: [u'SABETO']
+x: [[1715 1898 1895 1730]], y: [[848 866 962 938]], ornt: [u'c'], transcriptions: [u'MUD']
+x: [[1919 2129 2123 1913]], y: [[ 878  950 1049  962]], ornt: [u'c'], transcriptions: [u'POOL']
+x: [[1496 1661 1667 1499]], y: [[1187 1184 1265 1256]], ornt: [u'h'], transcriptions: [u'HOT']
+x: [[1685 1985 1976 1688]], y: [[1187 1196 1280 1271]], ornt: [u'h'], transcriptions: [u'SPRING']
+x: [[2783 3257 3248 2795]], y: [[2213 2243 2438 2438]], ornt: [u'#'], transcriptions: [u'#']

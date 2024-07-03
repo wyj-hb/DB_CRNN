@@ -1,0 +1,3 @@
+x: [[14 81 90 36]], y: [[338 344 412 421]], ornt: [u'm'], transcriptions: [u'St']
+x: [[105 197 288 271 115  59]], y: [[453 576 642 685 579 471]], ornt: [u'c'], transcriptions: [u'Moritz']
+x: [[340 473 601 661 696 651 495 337]], y: [[653 657 605 458 481 631 718 710]], ornt: [u'c'], transcriptions: [u'Restaurant']

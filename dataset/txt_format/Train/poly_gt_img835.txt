@@ -1,0 +1,4 @@
+x: [[ 82 135 193 180 134  88]], y: [[123 122 155 175 149 149]], ornt: [u'c'], transcriptions: [u'HOTEL']
+x: [[119 150 152 114]], y: [[145 152 169 163]], ornt: [u'm'], transcriptions: [u'DER']
+x: [[ 71 135 133  71]], y: [[149 164 187 174]], ornt: [u'm'], transcriptions: [u'KLEINE']
+x: [[142 191 188 135]], y: [[167 179 202 192]], ornt: [u'm'], transcriptions: [u'PRINZ']

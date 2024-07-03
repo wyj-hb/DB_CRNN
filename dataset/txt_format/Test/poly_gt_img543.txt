@@ -1,0 +1,5 @@
+x: [[647 710 790 856 928 898 835 740 673]], y: [[580 534 516 529 591 619 561 558 610]], ornt: [u'c'], transcriptions: [u'MSTAR']
+x: [[713 871 907 869 668]], y: [[612 601 660 738 727]], ornt: [u'h'], transcriptions: [u'MS']
+x: [[676 727 797 842 883 902 860 764 706 652]], y: [[748 777 790 778 748 772 822 831 816 772]], ornt: [u'c'], transcriptions: [u'GROUP']
+x: [[568 806 806 560]], y: [[891 888 928 933]], ornt: [u'h'], transcriptions: [u'HOSPITALITY']
+x: [[ 817 1001 1006  817]], y: [[891 891 930 925]], ornt: [u'h'], transcriptions: [u'SERVICES']

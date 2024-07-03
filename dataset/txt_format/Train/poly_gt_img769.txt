@@ -1,0 +1,8 @@
+x: [[630 708 801 784 713 651]], y: [[461 414 454 492 457 499]], ornt: [u'c'], transcriptions: [u'BUTANG']
+x: [[653 638 678 749 736 688 671 678]], y: [[589 526 484 474 502 506 534 584]], ornt: [u'c'], transcriptions: [u'EMERGENCY']
+x: [[758 793 783 763 768 743]], y: [[482 519 582 572 527 502]], ornt: [u'c'], transcriptions: [u'BUTTON']
+x: [[638 721 796 831 730 616]], y: [[592 634 577 599 674 614]], ornt: [u'c'], transcriptions: [u'KECEMASAN']
+x: [[593 849 848 593]], y: [[797 772 799 817]], ornt: [u'h'], transcriptions: [u'DENDAATASPENYALAHGUNAAN']
+x: [[633 818 819 633]], y: [[814 799 824 837]], ornt: [u'#'], transcriptions: [u'#']
+x: [[585 854 858]], y: [[898 879 908]], ornt: [u'#'], transcriptions: [u'#']
+x: [[245 380 397 263]], y: [[401 396 694 702]], ornt: [u'#'], transcriptions: [u'#']

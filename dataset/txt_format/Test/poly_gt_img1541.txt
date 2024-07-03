@@ -1,0 +1,8 @@
+x: [[328 357 386 386 357 328]], y: [[276 276 276 303 303 303]], ornt: [u'h'], transcriptions: [u'558']
+x: [[267 313 313 261]], y: [[138 138 177 177]], ornt: [u'm'], transcriptions: [u'M']
+x: [[317 462 467 317]], y: [[135 135 171 176]], ornt: [u'm'], transcriptions: [u'MONIZ']
+x: [[510 596 593 512]], y: [[135 131 185 187]], ornt: [u'm'], transcriptions: [u'28']
+x: [[157 311 502 621 583 460 291 160]], y: [[663 643 676 728 813 758 733 746]], ornt: [u'c'], transcriptions: [u'JAMESON']
+x: [[411 443 468 468 434 404]], y: [[831 844 845 866 861 851]], ornt: [u'c'], transcriptions: [u'SINE']
+x: [[473 506 535 537 515 473]], y: [[847 850 842 861 867 869]], ornt: [u'c'], transcriptions: [u'MENU']
+x: [[378 549 548 379]], y: [[867 881 897 886]], ornt: [u'#'], transcriptions: [u'#']

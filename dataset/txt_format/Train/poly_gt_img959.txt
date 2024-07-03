@@ -1,0 +1,5 @@
+x: [[ 8 31 53 53 31  8]], y: [[389 389 389 402 402 402]], ornt: [u'h'], transcriptions: [u'HKEP']
+x: [[208 277 279 209]], y: [[195 208 279 266]], ornt: [u'#'], transcriptions: [u'#']
+x: [[158 201 232 235 177 148]], y: [[296 340 355 379 355 317]], ornt: [u'c'], transcriptions: [u'SAPIENTIA']
+x: [[241 262 264 241]], y: [[358 360 384 383]], ornt: [u'h'], transcriptions: [u'ET']
+x: [[265 289 312 323 304 277]], y: [[357 346 323 346 370 382]], ornt: [u'c'], transcriptions: [u'VIRTUS']

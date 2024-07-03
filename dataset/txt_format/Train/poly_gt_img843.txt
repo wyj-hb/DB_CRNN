@@ -1,0 +1,7 @@
+x: [[319 333 350 335]], y: [[364 350 365 382]], ornt: [u'm'], transcriptions: [u'a']
+x: [[344 384 397 359]], y: [[339 312 327 360]], ornt: [u'm'], transcriptions: [u'cup']
+x: [[405 432 428 399]], y: [[296 297 334 331]], ornt: [u'h'], transcriptions: [u'of']
+x: [[447 535 576 553 494 437]], y: [[289 317 374 390 342 319]], ornt: [u'c'], transcriptions: [u'happiness']
+x: [[343 375 421 418 356 318]], y: [[478 511 527 564 543 498]], ornt: [u'c'], transcriptions: [u'CAFE']
+x: [[432 461 465 430]], y: [[535 533 564 566]], ornt: [u'h'], transcriptions: [u'de']
+x: [[474 520 542 573 535 482]], y: [[530 513 484 500 548 560]], ornt: [u'c'], transcriptions: [u'CRIE']

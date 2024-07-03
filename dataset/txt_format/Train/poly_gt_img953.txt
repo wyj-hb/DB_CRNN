@@ -1,0 +1,4 @@
+x: [[515 550 584 584 550 515]], y: [[ 84  84  84 106 106 106]], ornt: [u'h'], transcriptions: [u'Grinder']
+x: [[557 635 712 712 635 557]], y: [[340 340 340 390 390 390]], ornt: [u'h'], transcriptions: [u'BURGER']
+x: [[515 552 589 589 552 515]], y: [[103 103 103 118 118 118]], ornt: [u'h'], transcriptions: [u'andBurger']
+x: [[249 339 438 466 433 406 341 272]], y: [[ 82  46  64 108 139 117 103 135]], ornt: [u'c'], transcriptions: [u'Grinder']

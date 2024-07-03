@@ -1,0 +1,3 @@
+x: [[311 398 509 481 407 336]], y: [[326 253 321 350 295 352]], ornt: [u'c'], transcriptions: [u'STARBUCKS']
+x: [[346 412 457 475 415 333]], y: [[385 414 389 409 450 419]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[1020 1121 1128 1026]], y: [[ 32  28 107 113]], ornt: [u'#'], transcriptions: [u'#']

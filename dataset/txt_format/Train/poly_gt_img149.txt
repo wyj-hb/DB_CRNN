@@ -1,0 +1,5 @@
+x: [[1427 1718 1745 1451]], y: [[322 319 448 458]], ornt: [u'h'], transcriptions: [u'welcome']
+x: [[ 896 1142 1475 1568 1253 1037]], y: [[1016  692  560  731  896 1163]], ornt: [u'c'], transcriptions: [u'STAR']
+x: [[1664 2105 2480 2366 2072 1625]], y: [[ 545  569  923 1109  785  737]], ornt: [u'c'], transcriptions: [u'SNAKC']
+x: [[512 743 758 533]], y: [[1000  986 1133 1154]], ornt: [u'm'], transcriptions: [u'halal']
+x: [[530 770 764 533]], y: [[1475 1463 1577 1568]], ornt: [u'h'], transcriptions: [u'TAGINE']

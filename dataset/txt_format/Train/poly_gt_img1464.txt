@@ -1,0 +1,3 @@
+x: [[177 196 222 228 208 190]], y: [[121  88  67  91 103 136]], ornt: [u'c'], transcriptions: [u'ALOIS']
+x: [[232 270 286 279 259 232]], y: [[57 51 60 85 73 84]], ornt: [u'c'], transcriptions: [u'DANIEl']
+x: [[153 319 319 157]], y: [[175  97 171 250]], ornt: [u'm'], transcriptions: [u'BAKERY']

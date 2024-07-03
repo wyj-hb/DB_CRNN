@@ -1,0 +1,5 @@
+x: [[303 398 492 492 398 303]], y: [[424 424 424 495 495 495]], ornt: [u'h'], transcriptions: [u'CHOCOLATE']
+x: [[292 340 388 388 340 292]], y: [[332 332 332 424 424 424]], ornt: [u'h'], transcriptions: [u'HOT']
+x: [[ 38 283 504 720 665 498 295  68]], y: [[ 65  21  48 123 185 116  99 141]], ornt: [u'c'], transcriptions: [u'DOUGHNUT']
+x: [[279 487 498 284]], y: [[ 97 114 175 163]], ornt: [u'm'], transcriptions: [u'TIME']
+x: [[294 386 475 494 395 291]], y: [[274 276 273 305 323 336]], ornt: [u'c'], transcriptions: [u'Embrace']

@@ -1,0 +1,4 @@
+x: [[1007 1076 1121 1049]], y: [[ 985  950 1015 1075]], ornt: [u'm'], transcriptions: [u'al']
+x: [[1097 1313 1529 1526 1316 1160]], y: [[ 908  835  847  967  959 1027]], ornt: [u'c'], transcriptions: [u'PEOCETO']
+x: [[1571 1784 1955 1919 1718 1532]], y: [[ 853  914  985 1115 1033  985]], ornt: [u'c'], transcriptions: [u'RISORTO']
+x: [[1202 1514 1829 1850 1472 1145]], y: [[1307 1418 1397 1487 1529 1442]], ornt: [u'c'], transcriptions: [u'Ristorante']

@@ -1,0 +1,5 @@
+x: [[183 269 374 376 261 185]], y: [[465 469 446 487 504 502]], ornt: [u'c'], transcriptions: [u'TATTOOS']
+x: [[182 292 399 404 263 176]], y: [[530 536 519 553 577 569]], ornt: [u'c'], transcriptions: [u'PIERCING']
+x: [[279 310 339 336 311 278]], y: [[250 233 241 258 246 261]], ornt: [u'c'], transcriptions: [u'J88AA']
+x: [[219 337 373 372 299 228]], y: [[172 132 134 177 180 214]], ornt: [u'c'], transcriptions: [u'MOMS']
+x: [[326 348 347 325]], y: [[88 89 99 99]], ornt: [u'h'], transcriptions: [u'THAI']

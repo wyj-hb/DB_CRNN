@@ -1,0 +1,6 @@
+x: [[152 281 286 150]], y: [[ 68  71 102  99]], ornt: [u'm'], transcriptions: [u'NATIONAL']
+x: [[294 352 358 290 288]], y: [[ 75  79 106 103  90]], ornt: [u'm'], transcriptions: [u'CENTRAL']
+x: [[34 20 22 35 49 40 39 45]], y: [[115  93  69  44  53  72  83 103]], ornt: [u'c'], transcriptions: [u'NATIONAL']
+x: [[ 42  75 103  96  78  62  51  42]], y: [[33 24 39 53 43 45 49 46]], ornt: [u'c'], transcriptions: [u'CENTRAL']
+x: [[104 112 114 105  97 103  99  95]], y: [[ 49  69  83 111 102  82  67  59]], ornt: [u'c'], transcriptions: [u'LIBRARY']
+x: [[53 71 85 92 69 47]], y: [[113 118 111 126 136 126]], ornt: [u'c'], transcriptions: [u'ROC']

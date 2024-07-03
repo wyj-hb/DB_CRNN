@@ -1,0 +1,7 @@
+x: [[317 357 408 415 374 334]], y: [[ 98  67  55  74  88 119]], ornt: [u'c'], transcriptions: [u'Where']
+x: [[424 447 447 424]], y: [[47 40 65 71]], ornt: [u'm'], transcriptions: [u'It']
+x: [[461 500 501 458]], y: [[38 26 57 66]], ornt: [u'm'], transcriptions: [u'All']
+x: [[517 583 642 632 576 511]], y: [[23 23 42 68 63 55]], ornt: [u'c'], transcriptions: [u'Begins']
+x: [[409 482 482 409]], y: [[ 97  81  94 109]], ornt: [u'm'], transcriptions: [u'AIRFORCE']
+x: [[412 556 557 417]], y: [[183 166 175 191]], ornt: [u'#'], transcriptions: [u'#']
+x: [[414 483 485 416]], y: [[109  94 103 115]], ornt: [u'#'], transcriptions: [u'#']

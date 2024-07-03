@@ -1,0 +1,4 @@
+x: [[260 294 327 327 294 260]], y: [[407 407 407 425 425 425]], ornt: [u'h'], transcriptions: [u'Arcade']
+x: [[218 235 252 252 235 218]], y: [[406 406 406 421 421 421]], ornt: [u'h'], transcriptions: [u'Art']
+x: [[224 236 254 260 248 234]], y: [[352 336 332 348 357 372]], ornt: [u'c'], transcriptions: [u'ART']
+x: [[262 308 334 319 300 263]], y: [[326 337 358 376 353 350]], ornt: [u'c'], transcriptions: [u'ARCADE']

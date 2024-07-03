@@ -1,0 +1,2 @@
+x: [[334 422 547 661 611 532 464 385]], y: [[387 289 291 365 430 356 354 423]], ornt: [u'c'], transcriptions: [u'FISHING']
+x: [[362 618 615 369]], y: [[507 502 556 558]], ornt: [u'h'], transcriptions: [u'VILLAGE']

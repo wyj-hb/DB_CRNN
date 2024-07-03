@@ -1,0 +1,8 @@
+x: [[371 382 393 393 382 371]], y: [[327 327 327 362 362 362]], ornt: [u'#'], transcriptions: [u'#']
+x: [[309 366 438 420 371 319]], y: [[161 110 132 165 143 186]], ornt: [u'c'], transcriptions: [u'BOUDIN']
+x: [[271 298 331 326 305 274]], y: [[215 204 200 229 229 241]], ornt: [u'c'], transcriptions: [u'SINCE']
+x: [[416 444 469 470 443 417]], y: [[185 174 177 203 202 209]], ornt: [u'c'], transcriptions: [u'1849']
+x: [[335 401 400 336]], y: [[171 159 256 263]], ornt: [u'm'], transcriptions: [u'B']
+x: [[313 341 387 425 456 400 333 287]], y: [[242 282 277 218 229 314 317 254]], ornt: [u'c'], transcriptions: [u'SOURDOUGH']
+x: [[269 367 365 274]], y: [[340 334 359 366]], ornt: [u'm'], transcriptions: [u'BAKERY']
+x: [[400 475 479 404]], y: [[334 323 354 360]], ornt: [u'm'], transcriptions: [u'CAFE']

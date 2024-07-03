@@ -1,0 +1,4 @@
+x: [[ 31 341 621 661 365 124]], y: [[310 169 150 243 282 401]], ornt: [u'c'], transcriptions: [u'KUNDASANG']
+x: [[730 852 940 937 854 767]], y: [[169 199 233 299 271 254]], ornt: [u'c'], transcriptions: [u'WAR']
+x: [[1012 1166 1390 1375 1161 1001]], y: [[263 338 535 607 419 334]], ornt: [u'c'], transcriptions: [u'MEMORIAl']
+x: [[29 84 69 29]], y: [[671 680 780 774]], ornt: [u'#'], transcriptions: [u'#']

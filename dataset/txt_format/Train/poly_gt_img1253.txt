@@ -1,0 +1,7 @@
+x: [[331 353 374 374 353 331]], y: [[388 388 388 410 410 410]], ornt: [u'h'], transcriptions: [u'1567']
+x: [[146 201 299 298 216 159]], y: [[349 279 254 286 302 372]], ornt: [u'c'], transcriptions: [u'GRAFLICHES']
+x: [[319 406 440 421 382 303]], y: [[258 304 365 380 319 282]], ornt: [u'c'], transcriptions: [u'BRAUHAUS']
+x: [[226 268 267 224]], y: [[385 385 410 416]], ornt: [u'#'], transcriptions: [u'#']
+x: [[204 296 391 374 309 223]], y: [[445 423 453 491 473 490]], ornt: [u'c'], transcriptions: [u'ArcoBrau']
+x: [[265 332 329]], y: [[491 494 507]], ornt: [u'#'], transcriptions: [u'#']
+x: [[253 309 352 357 307 243]], y: [[506 521 510 518 549 528]], ornt: [u'#'], transcriptions: [u'#']

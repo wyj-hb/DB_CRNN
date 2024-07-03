@@ -1,0 +1,5 @@
+x: [[ 11 186 409 639 604 397 197  25]], y: [[367 314 344 474 542 418 380 425]], ornt: [u'c'], transcriptions: [u'GILHOOLEYS']
+x: [[178 218 258 257 220 181]], y: [[438 437 439 465 462 465]], ornt: [u'c'], transcriptions: [u'SPORTS']
+x: [[266 307 307 265]], y: [[440 449 472 466]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[315 334 332 313]], y: [[450 455 481 476]], ornt: [u'#'], transcriptions: [u'#']
+x: [[342 403 398 336]], y: [[457 478 506 483]], ornt: [u'm'], transcriptions: [u'GRILL']

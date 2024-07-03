@@ -1,0 +1,5 @@
+x: [[561 657 826 846 706 613]], y: [[486 322 250 312 370 499]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[858 948 948 861]], y: [[238 238 309 306]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[ 979 1131 1218 1159 1092  966]], y: [[253 340 489 517 390 310]], ornt: [u'c'], transcriptions: [u'HISTORIC']
+x: [[583 918 918 586]], y: [[816 810 903 921]], ornt: [u'm'], transcriptions: [u'Batteru']
+x: [[ 937 1180 1180  946]], y: [[808 808 891 888]], ornt: [u'h'], transcriptions: [u'Point']

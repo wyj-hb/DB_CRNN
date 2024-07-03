@@ -1,0 +1,8 @@
+x: [[135 184 213 223 227 203 178 155]], y: [[ 95  59  44  57  70  78  89 111]], ornt: [u'c'], transcriptions: [u"Holly's"]
+x: [[251 298 308 317 303 294 286 273 246 243]], y: [[ 56  76  91 138 146 135 110  90  80  71]], ornt: [u'c'], transcriptions: [u'Coffee']
+x: [[276 251 229 200 193 217 260 298]], y: [[171 191 196 200 223 235 222 184]], ornt: [u'c'], transcriptions: [u"Holly's"]
+x: [[179 154 144 140 120 117 118 138 160 174]], y: [[191 178 156 124 122 152 177 204 220 215]], ornt: [u'c'], transcriptions: [u'Coffee']
+x: [[191 246 245 190]], y: [[ 92  85 100 104]], ornt: [u'm'], transcriptions: [u"Holly's"]
+x: [[198 198 236 237]], y: [[103 116 109  99]], ornt: [u'm'], transcriptions: [u'cafe']
+x: [[235 239 270 267]], y: [[ 3 42 43  2]], ornt: [u'#'], transcriptions: [u'#']
+x: [[286 304 302 285]], y: [[234 235 279 278]], ornt: [u'v'], transcriptions: [u'fone']

@@ -1,0 +1,5 @@
+x: [[  2 173 189   5]], y: [[ 41  43 139 143]], ornt: [u'h'], transcriptions: [u'RIA']
+x: [[208 279 280 213]], y: [[294 290 332 336]], ornt: [u'h'], transcriptions: [u'ATM']
+x: [[636 654 691 695 670 656]], y: [[452 415 399 420 434 461]], ornt: [u'c'], transcriptions: [u'SEATING']
+x: [[696 737 758 765 749 741 722 697]], y: [[400 406 426 453 461 438 425 423]], ornt: [u'c'], transcriptions: [u'AVAILABLE']
+x: [[648 748 748 647]], y: [[458 460 483 484]], ornt: [u'h'], transcriptions: [u'UPSTAIRS']

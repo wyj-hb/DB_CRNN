@@ -1,0 +1,4 @@
+x: [[609 668 726 726 668 609]], y: [[387 387 387 478 478 478]], ornt: [u'h'], transcriptions: [u'CA']
+x: [[193 284 426 522 489 427 331 266]], y: [[309 234 205 220 283 273 300 361]], ornt: [u'c'], transcriptions: [u'CANNERY']
+x: [[550 623 673 590 560 511]], y: [[228 274 335 357 321 291]], ornt: [u'c'], transcriptions: [u'ROW']
+x: [[129 548 544 118]], y: [[386 390 467 466]], ornt: [u'h'], transcriptions: [u'MONTEREY']

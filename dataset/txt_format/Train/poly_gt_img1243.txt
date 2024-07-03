@@ -1,0 +1,8 @@
+x: [[288 308 342 343 294 264]], y: [[638 663 674 701 684 652]], ornt: [u'c'], transcriptions: [u'MILEWA']
+x: [[346 405 442 463 427 346]], y: [[674 673 651 667 698 704]], ornt: [u'c'], transcriptions: [u'AUSTRALIA']
+x: [[222 360 524 529 354 217]], y: [[693 720 726 771 771 734]], ornt: [u'c'], transcriptions: [u'MOSCATO']
+x: [[316 401 397 308]], y: [[767 778 813 804]], ornt: [u'm'], transcriptions: [u'2015']
+x: [[302 454 466 301]], y: [[824 807 871 905]], ornt: [u'm'], transcriptions: [u'White']
+x: [[474 624 611 474]], y: [[797 736 802 881]], ornt: [u'm'], transcriptions: [u'Gold']
+x: [[302 425 427 299]], y: [[599 611 640 630]], ornt: [u'm'], transcriptions: [u'BROWN']
+x: [[302 424 422 291]], y: [[632 640 668 654]], ornt: [u'm'], transcriptions: [u'BROTHERS']

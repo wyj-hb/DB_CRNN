@@ -1,0 +1,2 @@
+x: [[ 82 106 136 138 105  79]], y: [[329 336 340 361 358 348]], ornt: [u'c'], transcriptions: [u'HOTEL']
+x: [[144 194 237 240 193 144]], y: [[341 337 323 343 360 364]], ornt: [u'c'], transcriptions: [u'RECEPTIOn']

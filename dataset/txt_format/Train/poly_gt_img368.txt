@@ -1,0 +1,5 @@
+x: [[ 84 207 322 331 218 107]], y: [[ 58  28  36  92  88 118]], ornt: [u'c'], transcriptions: [u'MAMOUNS']
+x: [[397 476 548 542 462 392]], y: [[ 57  79 135 175 131 102]], ornt: [u'c'], transcriptions: [u'FALAFEL']
+x: [[316 348 346 318]], y: [[120 122 142 140]], ornt: [u'm'], transcriptions: [u'Est']
+x: [[355 374 398 397 379 355]], y: [[125 133 135 152 159 148]], ornt: [u'c'], transcriptions: [u'1971']
+x: [[245 288 292 244]], y: [[493 485 496 508]], ornt: [u'm'], transcriptions: [u'DUCATI']

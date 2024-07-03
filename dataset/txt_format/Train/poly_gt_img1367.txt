@@ -1,0 +1,5 @@
+x: [[232 267 301 312 269 234]], y: [[ 90  88  75 111 123 129]], ornt: [u'c'], transcriptions: [u'CAFE']
+x: [[303 326 335 317]], y: [[ 75  70  99 109]], ornt: [u'm'], transcriptions: [u'du']
+x: [[340 400 459 457 382 334]], y: [[ 62  86  99 134 111  94]], ornt: [u'c'], transcriptions: [u'COIFFEUR']
+x: [[257 355 433 435 357 256]], y: [[120 109 128 147 158 161]], ornt: [u'c'], transcriptions: [u'JVincent']
+x: [[626 658 644 612]], y: [[37 74 92 55]], ornt: [u'm'], transcriptions: [u'BAR']

@@ -1,0 +1,5 @@
+x: [[121 277 475 470 282 141]], y: [[195 140 176 231 193 241]], ornt: [u'c'], transcriptions: [u'BATTISTAS']
+x: [[171 207 248 258 219 191]], y: [[241 224 209 240 249 268]], ornt: [u'c'], transcriptions: [u'HOLE']
+x: [[261 291 295 267]], y: [[208 204 236 242]], ornt: [u'm'], transcriptions: [u'IN']
+x: [[301 334 354 348 326 311]], y: [[204 197 205 231 229 234]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[367 403 438 431 405 366]], y: [[208 217 230 255 242 233]], ornt: [u'c'], transcriptions: [u'WALL']

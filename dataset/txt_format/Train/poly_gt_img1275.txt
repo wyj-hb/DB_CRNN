@@ -1,0 +1,6 @@
+x: [[ 98 113 127 127 113  98]], y: [[246 246 246 261 261 261]], ornt: [u'h'], transcriptions: [u'B63']
+x: [[44 61 63 45]], y: [[ 22  25 143 139]], ornt: [u'm'], transcriptions: [u'PARK']
+x: [[123 131 128 115]], y: [[209 219 227 216]], ornt: [u'm'], transcriptions: [u'NO']
+x: [[131 149 161 171 150 129]], y: [[221 223 213 219 236 231]], ornt: [u'c'], transcriptions: [u'STANDING']
+x: [[149 184 183 149]], y: [[247 246 260 259]], ornt: [u'#'], transcriptions: [u'#']
+x: [[151 193 188 150]], y: [[293 294 313 311]], ornt: [u'#'], transcriptions: [u'#']

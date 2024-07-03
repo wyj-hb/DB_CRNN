@@ -1,0 +1,5 @@
+x: [[174 273 372 372 273 174]], y: [[424 424 424 460 460 460]], ornt: [u'h'], transcriptions: [u'MATHEW']
+x: [[420 502 583 583 502 420]], y: [[418 418 418 454 454 454]], ornt: [u'h'], transcriptions: [u'STREET']
+x: [[131 169 266 298 226 203]], y: [[366 295 226 278 332 385]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[345 537 638 569 494 331]], y: [[200 226 355 380 291 259]], ornt: [u'c'], transcriptions: [u'CAVERN']
+x: [[217 361 525 581 384 176]], y: [[549 618 551 587 691 611]], ornt: [u'c'], transcriptions: [u'QUARTER']

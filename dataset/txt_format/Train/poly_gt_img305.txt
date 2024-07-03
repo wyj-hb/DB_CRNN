@@ -1,0 +1,6 @@
+x: [[100 294 457 441 282 112]], y: [[154 132 166 244 215 234]], ornt: [u'c'], transcriptions: [u'DAM']
+x: [[139 235 307 305 226 142]], y: [[235 218 222 243 242 256]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[313 330 332 312]], y: [[221 222 242 239]], ornt: [u'#'], transcriptions: [u'#']
+x: [[337 392 426 425 380 344]], y: [[224 232 241 256 249 242]], ornt: [u'c'], transcriptions: [u'BUFFET']
+x: [[467 511 547 549 507 463]], y: [[208 216 224 249 239 235]], ornt: [u'c'], transcriptions: [u'NEVER']
+x: [[ 2 53 55  6]], y: [[204 198 228 235]], ornt: [u'm'], transcriptions: [u'ING']

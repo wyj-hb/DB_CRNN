@@ -1,0 +1,7 @@
+x: [[207 483 753 730 483 234]], y: [[496 466 513 655 589 664]], ornt: [u'c'], transcriptions: [u'STMARTIN']
+x: [[405 492 582 568 477 402]], y: [[604 589 595 649 640 649]], ornt: [u'c'], transcriptions: [u'BKK']
+x: [[423 562 558 435]], y: [[666 666 693 694]], ornt: [u'h'], transcriptions: [u'1999']
+x: [[279 339 393 384 313 258]], y: [[709 745 763 810 784 753]], ornt: [u'c'], transcriptions: [u'TATTOO']
+x: [[241 318 412 400 301 213]], y: [[759 793 816 873 847 793]], ornt: [u'c'], transcriptions: [u'KHAOSAN']
+x: [[592 637 688 718 651 583]], y: [[757 742 708 744 774 801]], ornt: [u'c'], transcriptions: [u'STUDIO']
+x: [[555 648 744 765 682 573]], y: [[820 790 744 795 843 873]], ornt: [u'c'], transcriptions: [u'THAILAND']

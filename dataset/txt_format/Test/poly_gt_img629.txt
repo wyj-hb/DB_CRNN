@@ -1,0 +1,7 @@
+x: [[165 211 271 308 302 236 205 180]], y: [[20  5  8 16 36 31 37 45]], ornt: [u'c'], transcriptions: [u'KEMAH']
+x: [[113 124 177 183 145 118]], y: [[75 65 50 69 78 94]], ornt: [u'c'], transcriptions: [u'Thank']
+x: [[189 199 234 232 196]], y: [[51 43 50 66 76]], ornt: [u'c'], transcriptions: [u'You']
+x: [[235 259 281 273 240]], y: [[43 38 54 65 67]], ornt: [u'h'], transcriptions: [u'For']
+x: [[303 369 356 319 291 283]], y: [[45 67 84 73 70 55]], ornt: [u'c'], transcriptions: [u'Visiting']
+x: [[386 489 485 471 410 403 392]], y: [[311 312 335 345 350 330 330]], ornt: [u'#'], transcriptions: [u'#']
+x: [[457 456 427 428]], y: [[191 181 184 198]], ornt: [u'h'], transcriptions: [u'STOP']

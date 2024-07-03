@@ -1,0 +1,7 @@
+x: [[ 86 103 155 201 162 144]], y: [[366 269 206 247 317 407]], ornt: [u'c'], transcriptions: [u'JIMI']
+x: [[168 252 407 405 291 206]], y: [[192 112  79 146 168 239]], ornt: [u'c'], transcriptions: [u'HENDRIX']
+x: [[420 471 506 483 452 411]], y: [[ 86 103 125 186 157 147]], ornt: [u'c'], transcriptions: [u'RED']
+x: [[516 564 563 527 518 487]], y: [[143 215 301 313 238 184]], ornt: [u'c'], transcriptions: [u'HOUSE']
+x: [[252 382 481 470 356 207]], y: [[249 234 214 324 280 376]], ornt: [u'c'], transcriptions: [u'ASHBURY']
+x: [[275 437 441 274]], y: [[299 271 312 342]], ornt: [u'm'], transcriptions: [u'TOBACCO']
+x: [[299 413 422 299]], y: [[342 319 355 369]], ornt: [u'm'], transcriptions: [u'CENTER']

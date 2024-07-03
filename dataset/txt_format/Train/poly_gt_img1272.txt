@@ -1,0 +1,4 @@
+x: [[262 285 308 308 285 262]], y: [[164 164 164 182 182 182]], ornt: [u'h'], transcriptions: [u'TAYAR']
+x: [[162 180 220 249 231 217 190 173]], y: [[ 99  68  66 100 116  86  84 110]], ornt: [u'c'], transcriptions: [u'CONTINENTAL']
+x: [[175 197 218 231 248 227 188 162]], y: [[124 155 153 126 130 170 170 134]], ornt: [u'c'], transcriptions: [u'CONTINENTAL']
+x: [[259 308 309 261]], y: [[145 145 161 165]], ornt: [u'm'], transcriptions: [u'PUSAT']

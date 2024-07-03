@@ -1,0 +1,4 @@
+x: [[248 286 381 455 410 364 307 279]], y: [[207 145 135 203 214 163 172 218]], ornt: [u'c'], transcriptions: [u'BAGAGES']
+x: [[313 370 375 320]], y: [[194 195 226 227]], ornt: [u'h'], transcriptions: [u'DE']
+x: [[283 341 405 439 349 259]], y: [[247 272 245 277 327 278]], ornt: [u'c'], transcriptions: [u'FRANCE']
+x: [[ 36 415 417  16]], y: [[335 336 360 361]], ornt: [u'#'], transcriptions: [u'#']

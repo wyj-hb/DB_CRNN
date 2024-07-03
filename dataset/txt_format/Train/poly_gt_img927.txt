@@ -1,0 +1,3 @@
+x: [[385 491 596 596 491 385]], y: [[297 297 297 332 332 332]], ornt: [u'#'], transcriptions: [u'#']
+x: [[236 423 690 688 445 258]], y: [[143  92 156 206 169 211]], ornt: [u'c'], transcriptions: [u'PetiteFrance']
+x: [[278 629 640 282]], y: [[218 223 276 280]], ornt: [u'#'], transcriptions: [u'#']

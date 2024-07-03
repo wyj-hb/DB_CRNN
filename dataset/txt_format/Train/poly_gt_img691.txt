@@ -1,0 +1,8 @@
+x: [[114 313 439 439 289 123]], y: [[220 162 162 244 264 305]], ornt: [u'c'], transcriptions: [u'Kids']
+x: [[468 572 575 478]], y: [[142 139 235 235]], ornt: [u'h'], transcriptions: [u'e']
+x: [[ 606  949 1150 1126  923  608]], y: [[133 146 180 302 254 232]], ornt: [u'c'], transcriptions: [u'World']
+x: [[ 882  933 1027 1020  944  909]], y: [[480 430 435 461 461 494]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[1037 1063 1070 1052 1036 1020]], y: [[444 461 485 497 483 472]], ornt: [u'c'], transcriptions: [u'TO']
+x: [[922 994 998 928]], y: [[484 483 528 529]], ornt: [u'h'], transcriptions: [u'kids']
+x: [[1006 1025 1026 1012]], y: [[495 497 525 525]], ornt: [u'h'], transcriptions: [u'e']
+x: [[ 920 1035 1031  912]], y: [[524 530 574 563]], ornt: [u'h'], transcriptions: [u'world']

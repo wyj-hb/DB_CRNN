@@ -1,0 +1,2 @@
+x: [[370 438 505 505 438 370]], y: [[375 375 375 392 392 392]], ornt: [u'h'], transcriptions: [u'CONNOISSENR']
+x: [[231 448 643 639 439 229]], y: [[361 342 355 387 375 388]], ornt: [u'c'], transcriptions: [u'CONFECTIONERY']

@@ -1,0 +1,8 @@
+x: [[559 625 701 693 629 569]], y: [[276 268 266 320 322 336]], ornt: [u'c'], transcriptions: [u'HEALY']
+x: [[703 769 827 811 755 701]], y: [[272 272 302 348 328 322]], ornt: [u'c'], transcriptions: [u'MACS']
+x: [[559 621 621 567]], y: [[334 338 386 382]], ornt: [u'm'], transcriptions: [u'RISH']
+x: [[629 671 673 625]], y: [[342 338 378 378]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[703 835 827 697]], y: [[346 346 384 388]], ornt: [u'm'], transcriptions: [u'RESTAURANT']
+x: [[ 79 123 181 169 123  83]], y: [[244 234 232 262 264 278]], ornt: [u'c'], transcriptions: [u'HEALY']
+x: [[185 273 265 177]], y: [[230 228 260 266]], ornt: [u'm'], transcriptions: [u'MACS']
+x: [[109 217 207  99]], y: [[282 278 318 316]], ornt: [u'm'], transcriptions: [u'GUINNESS']

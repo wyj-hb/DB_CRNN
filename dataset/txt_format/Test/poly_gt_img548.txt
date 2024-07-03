@@ -1,0 +1,5 @@
+x: [[ 72 161 157  72]], y: [[ 97  97 116 117]], ornt: [u'h'], transcriptions: [u'CONEY']
+x: [[175 206 264 292 287 243 196 173]], y: [[ 88  79  79  87 110 101 105 113]], ornt: [u'c'], transcriptions: [u'ATHENS']
+x: [[302 398 396 297]], y: [[ 97  94 122 120]], ornt: [u'h'], transcriptions: [u'ISLAND']
+x: [[175 201 203 171]], y: [[138 139 151 151]], ornt: [u'h'], transcriptions: [u'GOOD']
+x: [[230 265 259 233]], y: [[140 141 154 153]], ornt: [u'h'], transcriptions: [u'FOOD']

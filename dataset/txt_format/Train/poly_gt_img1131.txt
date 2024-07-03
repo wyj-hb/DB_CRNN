@@ -1,0 +1,4 @@
+x: [[129 375 631 665 429 233]], y: [[298 206 198 372 388 474]], ornt: [u'c'], transcriptions: [u'THAO']
+x: [[ 711  877 1013 1009  857  711]], y: [[192 252 298 446 402 378]], ornt: [u'c'], transcriptions: [u'CAM']
+x: [[1047 1219 1357 1297 1141 1017]], y: [[306 386 514 642 528 450]], ornt: [u'c'], transcriptions: [u'VIEN']
+x: [[639 987 995 629]], y: [[412 478 588 522]], ornt: [u'm'], transcriptions: [u'Saigon']

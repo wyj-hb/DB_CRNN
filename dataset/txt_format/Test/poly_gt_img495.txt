@@ -1,0 +1,8 @@
+x: [[ 928 3444 3448  940]], y: [[ 901 1161 1454 1202]], ornt: [u'm'], transcriptions: [u'KAPALICARSI']
+x: [[3900 4445 4481 3936]], y: [[1259 1324 1523 1450]], ornt: [u'm'], transcriptions: [u'1461']
+x: [[ 712 1232 1241  716]], y: [[1446 1487 1637 1596]], ornt: [u'm'], transcriptions: [u'GATE']
+x: [[1281 1419 1428 1281]], y: [[1470 1478 1641 1637]], ornt: [u'h'], transcriptions: [u'18']
+x: [[ 997 1761 2440 2501 1761 1058]], y: [[2052 1800 1767 1909 1958 2194]], ornt: [u'c'], transcriptions: [u'MAHMUTPASA']
+x: [[1115 1712 2416 2481 1818 1249]], y: [[2320 2076 2023 2328 2397 2588]], ornt: [u'c'], transcriptions: [u'GRAND']
+x: [[2753 3554 4221 4123 3452 2737]], y: [[2048 2190 2511 2788 2479 2336]], ornt: [u'c'], transcriptions: [u'BAZAAR']
+x: [[3066 3465 3839 3802 3428 3062]], y: [[1816 1909 2068 2210 2056 1966]], ornt: [u'c'], transcriptions: [u'KAPISI']

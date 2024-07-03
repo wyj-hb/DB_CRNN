@@ -1,0 +1,4 @@
+x: [[324 383 443 451 379 310]], y: [[588 606 589 613 638 625]], ornt: [u'c'], transcriptions: [u'THAILAND']
+x: [[226 260 290 267 229 186]], y: [[667 709 720 768 753 703]], ornt: [u'c'], transcriptions: [u'Hat']
+x: [[297 335 362 365 319 280]], y: [[719 738 738 789 794 772]], ornt: [u'c'], transcriptions: [u'Yai']
+x: [[380 462 523 575 495 389]], y: [[733 708 636 662 756 791]], ornt: [u'c'], transcriptions: [u'Thailand']

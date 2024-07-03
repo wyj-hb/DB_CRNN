@@ -1,0 +1,2 @@
+x: [[380 434 529 605 655 617 571 509 460 416]], y: [[247 166 145 190 247 297 229 204 223 286]], ornt: [u'c'], transcriptions: [u'PREMIER']
+x: [[323 767 758 337]], y: [[276 306 444 396]], ornt: [u'm'], transcriptions: [u'Grihalakshmi']

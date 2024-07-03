@@ -1,0 +1,8 @@
+x: [[ 9 65 59  6]], y: [[421 419 446 453]], ornt: [u'm'], transcriptions: [u'HONG']
+x: [[ 69 128 127  63]], y: [[418 411 447 451]], ornt: [u'm'], transcriptions: [u'KONG']
+x: [[134 216 214 130]], y: [[411 403 435 443]], ornt: [u'm'], transcriptions: [u'POLICE']
+x: [[229 486 488 225]], y: [[402 378 420 434]], ornt: [u'm'], transcriptions: [u'HEADQUARTERS']
+x: [[105 323 321 105]], y: [[356 328 371 398]], ornt: [u'#'], transcriptions: [u'#']
+x: [[155 173 161 138]], y: [[244 266 287 264]], ornt: [u'#'], transcriptions: [u'#']
+x: [[179 208 239 247 202 173]], y: [[268 273 257 275 297 290]], ornt: [u'c'], transcriptions: [u'HONGKONGPOLICE']
+x: [[248 285 303 259]], y: [[245 212 229 266]], ornt: [u'#'], transcriptions: [u'#']

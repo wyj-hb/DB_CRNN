@@ -1,0 +1,5 @@
+x: [[109 122 168 170 111  85]], y: [[ 79 126 141 157 147  81]], ornt: [u'c'], transcriptions: [u'MUJADES']
+x: [[ 97 129 183 182 138 113]], y: [[56 19 22 40 40 69]], ornt: [u'c'], transcriptions: [u'QUATRE']
+x: [[179 197 206 225 211 189]], y: [[137 123  98 103 138 152]], ornt: [u'c'], transcriptions: [u'CINC']
+x: [[142 177 184 153]], y: [[ 86  74  93 105]], ornt: [u'm'], transcriptions: [u'45']
+x: [[199 218 225 209 202 189]], y: [[39 54 84 85 65 48]], ornt: [u'c'], transcriptions: [u'AMB']

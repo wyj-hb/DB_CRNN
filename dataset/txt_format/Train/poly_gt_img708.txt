@@ -1,0 +1,3 @@
+x: [[ 78 870 872  83]], y: [[701 705 807 813]], ornt: [u'h'], transcriptions: [u'TapiocaBelize']
+x: [[380 394 459 460 370 342]], y: [[458 516 543 573 548 466]], ornt: [u'c'], transcriptions: [u'Tapioca']
+x: [[467 506 524 554 537 474]], y: [[536 514 466 468 543 573]], ornt: [u'c'], transcriptions: [u'Belize']

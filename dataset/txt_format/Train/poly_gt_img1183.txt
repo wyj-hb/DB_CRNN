@@ -1,0 +1,7 @@
+x: [[ 68 104 140 104]], y: [[373 363 466 478]], ornt: [u'm'], transcriptions: [u'I']
+x: [[149 268 412 395 274 184]], y: [[346 318 339 457 435 459]], ornt: [u'c'], transcriptions: [u'WILL']
+x: [[461 563 526 430]], y: [[352 415 517 457]], ornt: [u'm'], transcriptions: [u'BE']
+x: [[10 85 92 13]], y: [[519 525 591 588]], ornt: [u'#'], transcriptions: [u'#']
+x: [[  8 328 604 596 295   4]], y: [[616 583 546 759 813 825]], ornt: [u'c'], transcriptions: [u'OREVE']
+x: [[ 76 350 347  73]], y: [[850 880 964 925]], ornt: [u'm'], transcriptions: [u'YOULL']
+x: [[397 439 479 469 419 386]], y: [[870 870 864 952 940 954]], ornt: [u'c'], transcriptions: [u'BE']

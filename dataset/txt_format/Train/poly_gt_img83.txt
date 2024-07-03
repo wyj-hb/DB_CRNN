@@ -1,0 +1,8 @@
+x: [[122 281 284 124]], y: [[ 42  41  97 101]], ornt: [u'h'], transcriptions: [u'RENO']
+x: [[19 55 61 25]], y: [[143 129 149 158]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[ 61  98 140 141  97  66]], y: [[130 122 117 137 138 147]], ornt: [u'c'], transcriptions: [u'BIGGEST']
+x: [[143 174 200 199 172 146]], y: [[116 113 114 128 130 133]], ornt: [u'h'], transcriptions: [u'LITTLE']
+x: [[204 246 245 202]], y: [[112 114 132 133]], ornt: [u'h'], transcriptions: [u'CITY']
+x: [[243 270 271 244]], y: [[113 114 134 135]], ornt: [u'h'], transcriptions: [u'IN']
+x: [[274 309 307 271]], y: [[116 121 138 133]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[312 350 381 379 348 312]], y: [[123 126 138 156 148 143]], ornt: [u'c'], transcriptions: [u'WORLD']

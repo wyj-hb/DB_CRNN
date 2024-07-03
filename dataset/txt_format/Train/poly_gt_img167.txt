@@ -1,0 +1,3 @@
+x: [[302 425 617 645 476 379]], y: [[625 420 274 374 512 671]], ornt: [u'c'], transcriptions: [u'PUSAT']
+x: [[ 650  909 1260 1268  919  691]], y: [[240 112 141 248 207 312]], ornt: [u'c'], transcriptions: [u'PRIMATA']
+x: [[1332 1606 1758 1660 1524 1299]], y: [[174 371 761 792 428 246]], ornt: [u'c'], transcriptions: [u'SCHMUTZER']

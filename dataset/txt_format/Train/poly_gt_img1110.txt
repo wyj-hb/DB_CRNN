@@ -1,0 +1,8 @@
+x: [[307 372 437 437 372 307]], y: [[203 203 203 233 233 233]], ornt: [u'h'], transcriptions: [u'DONATED']
+x: [[ 96 145 194 207 144  99]], y: [[ 89  84  73 108 123 124]], ornt: [u'c'], transcriptions: [u'CAVITE']
+x: [[232 304 376 384 304 238]], y: [[ 63  51  53  92  89 103]], ornt: [u'c'], transcriptions: [u'NATIONAL']
+x: [[411 445 487 477 433 407]], y: [[ 59  62  71 105  99  98]], ornt: [u'c'], transcriptions: [u'HIGH']
+x: [[505 559 607 612 551 501]], y: [[ 79  94 103 137 127 112]], ornt: [u'c'], transcriptions: [u'SCHOOL']
+x: [[345 384 385 351]], y: [[241 242 270 268]], ornt: [u'h'], transcriptions: [u'BY']
+x: [[297 389 388 300]], y: [[273 275 311 308]], ornt: [u'h'], transcriptions: [u'CLASS']
+x: [[403 440 442 404]], y: [[273 273 310 312]], ornt: [u'h'], transcriptions: [u'59']

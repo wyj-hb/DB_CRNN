@@ -1,0 +1,6 @@
+x: [[437 538 635 637 550 464]], y: [[259 244 256 304 292 315]], ornt: [u'c'], transcriptions: [u'KINGDOM']
+x: [[653 724 722 644]], y: [[268 297 339 301]], ornt: [u'm'], transcriptions: [u'HALL']
+x: [[581 614 614 580]], y: [[306 312 334 339]], ornt: [u'h'], transcriptions: [u'of']
+x: [[439 584 590 445]], y: [[336 345 379 375]], ornt: [u'm'], transcriptions: [u'Jehovahs']
+x: [[605 725 724 610]], y: [[351 361 385 381]], ornt: [u'm'], transcriptions: [u'Witnesses']
+x: [[1141 1187 1189 1147]], y: [[426 427 457 457]], ornt: [u'#'], transcriptions: [u'#']

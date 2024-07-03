@@ -1,0 +1,8 @@
+x: [[116 136 155 155 136 116]], y: [[700 700 700 711 711 711]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 60  91 174 211 187 161 108  86]], y: [[521 474 466 526 538 497 503 542]], ornt: [u'c'], transcriptions: [u'BRENNIVIN']
+x: [[110 167 165 110]], y: [[618 615 632 632]], ornt: [u'#'], transcriptions: [u'#']
+x: [[225 254 252 233]], y: [[563 559 574 580]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[258 306 321 310 287 255]], y: [[556 576 604 614 587 577]], ornt: [u'c'], transcriptions: [u'REYKJAVIN']
+x: [[297 310 314 324 325 308]], y: [[676 651 613 606 656 693]], ornt: [u'c'], transcriptions: [u'GRAPEVINE']
+x: [[ 56 217 214  51]], y: [[647 644 661 668]], ornt: [u'h'], transcriptions: [u'THEORIGINALICELANDCSPIRIT']
+x: [[ 56 218 221  50]], y: [[675 669 705 711]], ornt: [u'#'], transcriptions: [u'#']

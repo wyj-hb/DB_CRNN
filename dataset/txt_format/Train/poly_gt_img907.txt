@@ -1,0 +1,2 @@
+x: [[459 551 632 633 549 465]], y: [[246 205 232 276 276 288]], ornt: [u'c'], transcriptions: [u'HoTeL']
+x: [[493 556 614 624 567 486]], y: [[348 362 342 353 384 370]], ornt: [u'c'], transcriptions: [u'Freadenzimmer']

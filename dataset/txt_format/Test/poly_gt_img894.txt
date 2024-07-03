@@ -1,0 +1,8 @@
+x: [[122 158 194 194 158 122]], y: [[55 55 55 76 76 76]], ornt: [u'h'], transcriptions: [u'Cross']
+x: [[ 35  74 112 112  74  35]], y: [[55 55 55 75 75 75]], ornt: [u'h'], transcriptions: [u'Silver']
+x: [[160 179 198 198 179 160]], y: [[322 322 322 338 338 338]], ornt: [u'h'], transcriptions: [u'Bar']
+x: [[ 33  94 155 155  94  33]], y: [[322 322 322 339 339 339]], ornt: [u'h'], transcriptions: [u'Downstairs']
+x: [[119 137 155 155 137 119]], y: [[429 429 429 435 435 435]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 83 101 119 119 101  83]], y: [[429 429 429 435 435 435]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 96 115 143 131 118 104]], y: [[391 377 390 398 389 401]], ornt: [u'c'], transcriptions: [u'TAYLOR']
+x: [[104 117 133 142 123  97]], y: [[400 410 402 410 423 414]], ornt: [u'c'], transcriptions: [u'WALKER']

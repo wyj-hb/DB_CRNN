@@ -1,0 +1,7 @@
+x: [[687 745 802 802 745 687]], y: [[247 247 247 308 308 308]], ornt: [u'h'], transcriptions: [u'HOTEL']
+x: [[427 476 524 524 476 427]], y: [[251 251 251 316 316 316]], ornt: [u'h'], transcriptions: [u'BLUE']
+x: [[529 605 681 681 605 529]], y: [[250 250 250 315 315 315]], ornt: [u'h'], transcriptions: [u'DIAMOND']
+x: [[700 782 793 713]], y: [[400 360 391 432]], ornt: [u'm'], transcriptions: [u'HUAN']
+x: [[615 652 688 704 650 611]], y: [[414 417 403 432 446 442]], ornt: [u'c'], transcriptions: [u'KHOA']
+x: [[545 602 604 533]], y: [[401 416 448 433]], ornt: [u'c'], transcriptions: [u'THU']
+x: [[501 542 531 496]], y: [[385 403 433 419]], ornt: [u'm'], transcriptions: [u'50']

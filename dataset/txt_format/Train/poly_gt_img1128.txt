@@ -1,0 +1,3 @@
+x: [[337 449 541 543 433 339]], y: [[169 211 191 253 257 227]], ornt: [u'c'], transcriptions: [u'WHISTLERS']
+x: [[121 453 459 117]], y: [[271 291 343 315]], ornt: [u'm'], transcriptions: [u'CHOCOLATE']
+x: [[489 721 717 487]], y: [[295 305 351 337]], ornt: [u'm'], transcriptions: [u'COMPANY']

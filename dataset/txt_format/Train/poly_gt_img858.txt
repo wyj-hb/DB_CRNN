@@ -1,0 +1,8 @@
+x: [[307 333 358 358 333 307]], y: [[219 219 219 231 231 231]], ornt: [u'h'], transcriptions: [u'EXPLORING']
+x: [[251 266 280 280 266 251]], y: [[216 216 216 227 227 227]], ornt: [u'h'], transcriptions: [u'NEVER']
+x: [[283 295 306 306 295 283]], y: [[218 218 218 227 227 227]], ornt: [u'h'], transcriptions: [u'STOp']
+x: [[133 178 180 134]], y: [[134 104 137 170]], ornt: [u'm'], transcriptions: [u'HOUS']
+x: [[ 88  98 128 125 108  95  99]], y: [[344 326 318 335 339 356 353]], ornt: [u'c'], transcriptions: [u'DSON']
+x: [[135 165 171 159 145 130]], y: [[320 336 360 366 341 334]], ornt: [u'c'], transcriptions: [u'HOUSE']
+x: [[130 146 159 170 156 127]], y: [[401 394 376 381 406 415]], ornt: [u'c'], transcriptions: [u'COMPANY']
+x: [[110 125 127 109]], y: [[400 401 414 412]], ornt: [u'#'], transcriptions: [u'#']

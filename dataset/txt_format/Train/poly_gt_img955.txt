@@ -1,0 +1,7 @@
+x: [[295 328 360 360 328 295]], y: [[217 217 217 255 255 255]], ornt: [u'h'], transcriptions: [u'1981']
+x: [[214 251 287 287 251 214]], y: [[221 221 221 252 252 252]], ornt: [u'h'], transcriptions: [u'since']
+x: [[ 72 111 171 187 136  91]], y: [[185 129  92 117 152 202]], ornt: [u'c'], transcriptions: [u'MATTAR']
+x: [[185 228 273 280 229 196]], y: [[ 85  70  69  96 100 112]], ornt: [u'c'], transcriptions: [u'ROAD']
+x: [[288 330 334 292]], y: [[67 68 97 98]], ornt: [u'h'], transcriptions: [u'NO']
+x: [[348 449 500 474 413 340]], y: [[ 75 121 192 206 137 100]], ornt: [u'c'], transcriptions: [u'SIGNBOARD']
+x: [[184 399 408 181]], y: [[133 133 224 212]], ornt: [u'#'], transcriptions: [u'#']

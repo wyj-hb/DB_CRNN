@@ -1,0 +1,8 @@
+x: [[ 31 218 404 404 218  31]], y: [[227 227 227 293 293 293]], ornt: [u'h'], transcriptions: [u'RENTALS']
+x: [[ 29 107 185 185 107  29]], y: [[ 69  69  69 128 128 128]], ornt: [u'h'], transcriptions: [u'uitar']
+x: [[318 352 386 386 352 318]], y: [[482 482 482 507 507 507]], ornt: [u'h'], transcriptions: [u'GENUINE']
+x: [[ 14 220 218  20]], y: [[133 128 191 193]], ornt: [u'h'], transcriptions: [u'Center']
+x: [[196 247 321 326 282 240]], y: [[475 421 397 455 468 511]], ornt: [u'c'], transcriptions: [u'TIMES']
+x: [[344 434 499 455 405 343]], y: [[395 413 472 507 464 446]], ornt: [u'c'], transcriptions: [u'SQUARE']
+x: [[335 436 429 333]], y: [[558 558 593 592]], ornt: [u'h'], transcriptions: [u'uitar']
+x: [[313 461 457 313]], y: [[599 596 638 638]], ornt: [u'h'], transcriptions: [u'Center']

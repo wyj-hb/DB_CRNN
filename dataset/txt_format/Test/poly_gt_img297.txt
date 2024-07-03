@@ -1,0 +1,3 @@
+x: [[ 91 241 455 461 291 201]], y: [[376 168 110 200 272 431]], ornt: [u'c'], transcriptions: [u'chucuk']
+x: [[539 763 889 789 689 519]], y: [[110 200 386 416 253 200]], ornt: [u'c'], transcriptions: [u'chucuk']
+x: [[193 389 651 766 865 681 353 115]], y: [[536 658 662 520 574 778 792 572]], ornt: [u'c'], transcriptions: [u'restaurant']

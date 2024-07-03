@@ -1,0 +1,6 @@
+x: [[160 210 251 257 220 184]], y: [[381 359 355 391 398 412]], ornt: [u'c'], transcriptions: [u'TAJ']
+x: [[277 360 457 459 361 282]], y: [[350 337 356 387 380 387]], ornt: [u'c'], transcriptions: [u'MAHAL']
+x: [[288 349 411 422 360 290]], y: [[830 833 822 857 868 866]], ornt: [u'c'], transcriptions: [u'INDIA']
+x: [[139 345 345 141]], y: [[ 1 -2 23 31]], ornt: [u'h'], transcriptions: [u'RAILWAY']
+x: [[ 79 249 251  80]], y: [[36 31 57 62]], ornt: [u'h'], transcriptions: [u'MELBOURNE']
+x: [[255 404 411 255]], y: [[33 29 55 58]], ornt: [u'h'], transcriptions: [u'AUSTRALIA']

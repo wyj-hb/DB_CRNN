@@ -1,0 +1,4 @@
+x: [[312 524 716 868 823 650 484 352]], y: [[310 212 223 308 377 302 313 386]], ornt: [u'c'], transcriptions: [u'CREAMLINE']
+x: [[ 105 1118 1100   93]], y: [[535 548 701 683]], ornt: [u'm'], transcriptions: [u'JERSEY']
+x: [[ 51 436 422  40]], y: [[767 788 920 906]], ornt: [u'm'], transcriptions: [u'Milk']
+x: [[ 685 1136 1134  674]], y: [[784 791 932 923]], ornt: [u'm'], transcriptions: [u'Curd']

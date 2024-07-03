@@ -1,0 +1,2 @@
+x: [[218 406 499 502 398 213]], y: [[ 20  57  88 118  86  60]], ornt: [u'c'], transcriptions: [u'CONSTANTINOS']
+x: [[295 393 455 455 384 296]], y: [[ 73  88 108 138 124 115]], ornt: [u'c'], transcriptions: [u'MARKET']

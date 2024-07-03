@@ -1,0 +1,6 @@
+x: [[218 248 289 285 256 241]], y: [[546 516 517 536 539 552]], ornt: [u'c'], transcriptions: [u'AUTHENTIC']
+x: [[287 317 333 320 304 282]], y: [[520 535 559 569 550 543]], ornt: [u'c'], transcriptions: [u'BAKERY']
+x: [[245 312 306 248]], y: [[555 559 585 581]], ornt: [u'h'], transcriptions: [u'TLJ']
+x: [[247 260 277 279 259 239]], y: [[594 600 607 621 620 609]], ornt: [u'c'], transcriptions: [u'SINCE']
+x: [[278 293 304 314 298 282]], y: [[608 604 596 611 628 629]], ornt: [u'c'], transcriptions: [u'1997']
+x: [[341 379 378 343]], y: [[180 178 197 204]], ornt: [u'#'], transcriptions: [u'#']

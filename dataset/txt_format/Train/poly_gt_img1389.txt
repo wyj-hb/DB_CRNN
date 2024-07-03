@@ -1,0 +1,7 @@
+x: [[159 165 254 272 226 215]], y: [[212  76  24  91 128 218]], ornt: [u'c'], transcriptions: [u'EASY']
+x: [[285 385 396 358 349 279]], y: [[ 29 116 238 235 146  81]], ornt: [u'c'], transcriptions: [u'TIGER']
+x: [[224 240 275 272 229 201]], y: [[234 265 289 312 298 247]], ornt: [u'c'], transcriptions: [u'BAKE']
+x: [[287 317 338 356 332 289]], y: [[292 287 264 277 308 322]], ornt: [u'c'], transcriptions: [u'SHOP']
+x: [[346 353 369 364]], y: [[253 241 249 266]], ornt: [u'#'], transcriptions: [u'#']
+x: [[192 224 259 257 210 175]], y: [[253 300 320 350 324 273]], ornt: [u'c'], transcriptions: [u'BEER']
+x: [[280 338 375 389 353 284]], y: [[326 312 256 268 335 364]], ornt: [u'c'], transcriptions: [u'GARDEN']

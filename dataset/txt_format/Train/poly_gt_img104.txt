@@ -1,0 +1,6 @@
+x: [[ 56 161 262 271 160  61]], y: [[220 193 181 222 232 257]], ornt: [u'c'], transcriptions: [u'BUTTER']
+x: [[418 516 619 613 506 421]], y: [[181 187 213 252 226 213]], ornt: [u'c'], transcriptions: [u'WORTH']
+x: [[ 63 124 128  69]], y: [[255 238 258 277]], ornt: [u'm'], transcriptions: [u'HIGH']
+x: [[132 174 229 231 179 136]], y: [[240 229 223 241 246 258]], ornt: [u'c'], transcriptions: [u'SCHOOL']
+x: [[294 317 342 345 310 291]], y: [[225 233 232 246 246 239]], ornt: [u'c'], transcriptions: [u'CARPE']
+x: [[349 370 387 395 375 351]], y: [[231 227 222 236 244 245]], ornt: [u'c'], transcriptions: [u'DIEM']

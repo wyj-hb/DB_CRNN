@@ -1,0 +1,4 @@
+x: [[ 1 46 94 79 43  1]], y: [[226 210 238 257 232 251]], ornt: [u'c'], transcriptions: [u'RAFTHOLIC']
+x: [[31 79 79 34]], y: [[308 308 337 335]], ornt: [u'h'], transcriptions: [u'Cafe']
+x: [[353 410 411 353]], y: [[308 306 318 320]], ornt: [u'h'], transcriptions: [u'CRAFTHOLIC']
+x: [[413 440 440 415]], y: [[308 308 321 321]], ornt: [u'h'], transcriptions: [u'CAFE']

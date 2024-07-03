@@ -1,0 +1,4 @@
+x: [[219 275 265 214]], y: [[172 203 220 196]], ornt: [u'm'], transcriptions: [u'The']
+x: [[171 321 316 170]], y: [[165 251 272 199]], ornt: [u'm'], transcriptions: [u'Washington']
+x: [[145 134 148 173 221 355 350 262 227]], y: [[200 225 284 302 289 330 274 254 211]], ornt: [u'c'], transcriptions: [u'Glass']
+x: [[189 219 253 283 278 258 235 221 198]], y: [[332 320 324 334 370 356 350 348 355]], ornt: [u'c'], transcriptions: [u'SCHOOL']

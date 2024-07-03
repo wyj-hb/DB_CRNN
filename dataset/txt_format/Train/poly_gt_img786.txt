@@ -1,0 +1,7 @@
+x: [[122 203 284 284 203 122]], y: [[188 188 188 236 236 236]], ornt: [u'h'], transcriptions: [u'SEAFOOD']
+x: [[124 149 173 173 149 124]], y: [[240 240 240 266 266 266]], ornt: [u'h'], transcriptions: [u'Bar']
+x: [[177 228 279 279 228 177]], y: [[242 242 242 267 267 267]], ornt: [u'h'], transcriptions: [u'Restaurant']
+x: [[170 184 198 200 172 159]], y: [[ 96 110 115 131 120 103]], ornt: [u'c'], transcriptions: [u'TARUA']
+x: [[205 222 226 241 226 205]], y: [[116 110 100 108 124 127]], ornt: [u'c'], transcriptions: [u'SAMUI']
+x: [[129 274 279 127]], y: [[156 159 184 184]], ornt: [u'#'], transcriptions: [u'#']
+x: [[160 180 222 240 231 211 186 171]], y: [[75 54 52 82 86 67 65 82]], ornt: [u'#'], transcriptions: [u'#']

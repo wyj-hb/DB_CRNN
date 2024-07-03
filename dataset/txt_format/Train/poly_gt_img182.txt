@@ -1,0 +1,4 @@
+x: [[223 284 388 452 335 301]], y: [[643 458 348 420 543 666]], ornt: [u'c'], transcriptions: [u'PUSAT']
+x: [[403 580 675 699 584 459]], y: [[316 193 163 220 282 365]], ornt: [u'c'], transcriptions: [u'PRIM']
+x: [[779 875 917 924 845 781]], y: [[144 127 146 216 203 220]], ornt: [u'c'], transcriptions: [u'TA']
+x: [[ 977 1336 1533 1444 1253  962]], y: [[146 273 607 647 354 218]], ornt: [u'c'], transcriptions: [u'SCHMUTZER']

@@ -1,0 +1,5 @@
+x: [[ 93  96 118 136 121 119]], y: [[181 127  82  97 140 189]], ornt: [u'c'], transcriptions: [u'AMERICAN']
+x: [[127 154 203 207 168 143]], y: [[72 47 28 47 61 87]], ornt: [u'c'], transcriptions: [u'SEAFOOD']
+x: [[210 223 228 215]], y: [[27 24 46 50]], ornt: [u'#'], transcriptions: [u'#']
+x: [[233 265 291 284 253 232]], y: [[25 27 36 57 45 45]], ornt: [u'c'], transcriptions: [u'STEAK']
+x: [[ 97 254 368 373 233  98]], y: [[226 217 220 275 278 282]], ornt: [u'c'], transcriptions: [u'SurfNTurf']

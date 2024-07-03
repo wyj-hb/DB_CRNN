@@ -1,0 +1,6 @@
+x: [[245 425 605 584 413 269]], y: [[1216 1168 1228 1288 1252 1285]], ornt: [u'c'], transcriptions: [u'Skeppsbar']
+x: [[395 503 497 380]], y: [[1558 1564 1603 1609]], ornt: [u'h'], transcriptions: [u'OPPET']
+x: [[1571 1643 1745 1754 1661 1574]], y: [[1213 1222 1186 1267 1309 1303]], ornt: [u'c'], transcriptions: [u'ZUM']
+x: [[1787 2042 2381 2477 2483 2381 2027 1802]], y: [[1177 1135 1216 1216 1318 1309 1231 1267]], ornt: [u'c'], transcriptions: [u'FRANZISKANER']
+x: [[1820 1940 1955 1832]], y: [[1369 1321 1375 1417]], ornt: [u'm'], transcriptions: [u'FALCON']
+x: [[2075 2216 2195 2072]], y: [[1321 1348 1393 1360]], ornt: [u'm'], transcriptions: [u'FALCOn']

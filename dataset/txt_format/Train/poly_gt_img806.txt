@@ -1,0 +1,4 @@
+x: [[111 155 229 233 177 139]], y: [[229 160 138 180 207 257]], ornt: [u'c'], transcriptions: [u'lepee']
+x: [[292 357 333 283]], y: [[113 131 175 161]], ornt: [u'm'], transcriptions: [u'de']
+x: [[384 402 384 345 356 335]], y: [[139 202 272 274 219 178]], ornt: [u'c'], transcriptions: [u'bois']
+x: [[147 244 342 363 251 139]], y: [[354 360 298 329 399 388]], ornt: [u'c'], transcriptions: [u'JOUETS']

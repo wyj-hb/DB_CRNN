@@ -1,0 +1,6 @@
+x: [[599 625 625 600]], y: [[337 335 362 363]], ornt: [u'm'], transcriptions: [u'CP']
+x: [[632 662 684 684 664 632]], y: [[339 345 343 361 365 359]], ornt: [u'c'], transcriptions: [u'PLAYLAND']
+x: [[784 842 844 787]], y: [[163 134 157 182]], ornt: [u'm'], transcriptions: [u'ROASTERS']
+x: [[ 953 1063 1071  958]], y: [[ 90  52  80 114]], ornt: [u'm'], transcriptions: [u'BARBQ']
+x: [[1077 1155 1166 1077]], y: [[43 12 41 74]], ornt: [u'm'], transcriptions: [u'PLAZA']
+x: [[782 822 824 780]], y: [[351 347 364 370]], ornt: [u'#'], transcriptions: [u'#']

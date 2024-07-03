@@ -1,0 +1,8 @@
+x: [[578 660 742 742 660 578]], y: [[483 483 483 528 528 528]], ornt: [u'h'], transcriptions: [u'1805']
+x: [[135 393 721 709 406 168]], y: [[307 202 181 277 296 373]], ornt: [u'c'], transcriptions: [u'TRUEFITT']
+x: [[736 814 818 726]], y: [[189 196 290 277]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 843  983 1187 1171  945  819]], y: [[181 197 254 357 306 282]], ornt: [u'c'], transcriptions: [u'HILL']
+x: [[312 899 898 307]], y: [[378 366 426 430]], ornt: [u'h'], transcriptions: [u'BARBERSHOP']
+x: [[439 556 552 449]], y: [[482 483 526 525]], ornt: [u'h'], transcriptions: [u'EST']
+x: [[1187 1250 1251 1205]], y: [[482 486 533 534]], ornt: [u'#'], transcriptions: [u'#']
+x: [[1059 1090 1091 1070]], y: [[483 485 511 509]], ornt: [u'#'], transcriptions: [u'#']

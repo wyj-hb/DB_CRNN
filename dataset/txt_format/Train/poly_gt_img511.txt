@@ -1,0 +1,6 @@
+x: [[374 494 680 677 515 389]], y: [[688 667 676 829 835 877]], ornt: [u'c'], transcriptions: [u'the']
+x: [[ 779 1316 1616 1628 1151  785]], y: [[646 634 667 829 820 835]], ornt: [u'h'], transcriptions: [u'istanbul']
+x: [[1751 2048 2240 2258 2015 1727]], y: [[649 688 736 889 859 850]], ornt: [u'c'], transcriptions: [u'hotel']
+x: [[ 344  779 1139 1142  701  347]], y: [[1090 1030 1048 1201 1201 1192]], ornt: [u'c'], transcriptions: [u'TRADITIONAL']
+x: [[1169 1673 1691 1169]], y: [[1033 1045 1195 1195]], ornt: [u'h'], transcriptions: [u'TURKISH']
+x: [[1724 1994 2267 2282 1985 1727]], y: [[1042 1081 1105 1204 1201 1204]], ornt: [u'c'], transcriptions: [u'HAMMAM']

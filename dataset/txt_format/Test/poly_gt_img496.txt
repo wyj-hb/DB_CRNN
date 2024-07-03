@@ -1,0 +1,3 @@
+x: [[ 58 153 241 251 169  86]], y: [[207 152 133 182 198 248]], ornt: [u'c'], transcriptions: [u'GRAND']
+x: [[270 395 499 475 369 275]], y: [[124 142 195 242 183 178]], ornt: [u'c'], transcriptions: [u'BAZAAR']
+x: [[449 541 538 442]], y: [[318 308 361 363]], ornt: [u'#'], transcriptions: [u'#']

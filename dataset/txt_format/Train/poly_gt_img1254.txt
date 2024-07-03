@@ -1,0 +1,7 @@
+x: [[251 380 508 508 380 251]], y: [[320 320 320 368 368 368]], ornt: [u'h'], transcriptions: [u'HAMBURGERS']
+x: [[195 286 377 377 286 195]], y: [[382 382 382 428 428 428]], ornt: [u'h'], transcriptions: [u'CHICKEN']
+x: [[381 475 569 569 475 381]], y: [[382 382 382 434 434 434]], ornt: [u'h'], transcriptions: [u'BURGERS']
+x: [[241 288 334 334 288 241]], y: [[445 445 445 490 490 490]], ornt: [u'h'], transcriptions: [u'COLD']
+x: [[310 385 460 460 385 310]], y: [[ 79  79  79 155 155 155]], ornt: [u'h'], transcriptions: [u'Cafe']
+x: [[359 432 505 505 432 359]], y: [[448 448 448 493 493 493]], ornt: [u'h'], transcriptions: [u'DRINKS']
+x: [[181 382 581 567 383 213]], y: [[190 168 183 268 251 268]], ornt: [u'c'], transcriptions: [u'WUNDERBAR']

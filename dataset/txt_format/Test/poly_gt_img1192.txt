@@ -1,0 +1,5 @@
+x: [[21 72 51  4]], y: [[ 17  17 365 355]], ornt: [u'm'], transcriptions: [u'ATTCCS']
+x: [[132 232 351 336 221 132]], y: [[103  63  76 136 124 156]], ornt: [u'c'], transcriptions: [u'MOMS']
+x: [[122 165 218 206 145  98]], y: [[209 241 257 301 281 236]], ornt: [u'c'], transcriptions: [u'BODY']
+x: [[241 306 363 390 323 256]], y: [[257 244 201 229 284 306]], ornt: [u'c'], transcriptions: [u'SHOP']
+x: [[477 542 549 510]], y: [[  7   3 365 364]], ornt: [u'#'], transcriptions: [u'#']

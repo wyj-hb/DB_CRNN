@@ -1,0 +1,4 @@
+x: [[ 78 121 105  70]], y: [[311 322 368 355]], ornt: [u'm'], transcriptions: [u'Le']
+x: [[ 70 130 231 271 187 138]], y: [[287 196 145 221 257 328]], ornt: [u'c'], transcriptions: [u'DOME']
+x: [[258 302 307 269]], y: [[164 156 195 203]], ornt: [u'm'], transcriptions: [u'du']
+x: [[324 475 575 480 428 308]], y: [[137 184 333 363 258 215]], ornt: [u'c'], transcriptions: [u'MARAIS']

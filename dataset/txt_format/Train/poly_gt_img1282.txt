@@ -1,0 +1,7 @@
+x: [[125 314 308 113]], y: [[228 248 317 279]], ornt: [u'm'], transcriptions: [u'DiSOS']
+x: [[146 254 249 145]], y: [[284 309 340 308]], ornt: [u'm'], transcriptions: [u'ITALIAN']
+x: [[112 148 205 204 138 102]], y: [[279 312 337 365 335 292]], ornt: [u'c'], transcriptions: [u'SANDWICH']
+x: [[215 278 335 340 266 210]], y: [[344 346 333 361 377 365]], ornt: [u'c'], transcriptions: [u'SOCIETY']
+x: [[285 359 360 273]], y: [[398 408 428 414]], ornt: [u'#'], transcriptions: [u'#']
+x: [[139 254 258 135]], y: [[390 446 476 408]], ornt: [u'm'], transcriptions: [u'DISOSNYCCOM']
+x: [[413 514 518 415]], y: [[47 26 54 70]], ornt: [u'm'], transcriptions: [u'MARSH']

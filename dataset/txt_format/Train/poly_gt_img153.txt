@@ -1,0 +1,5 @@
+x: [[215 367 489 518 363 225]], y: [[324 288 287 370 367 403]], ornt: [u'c'], transcriptions: [u'SANTA']
+x: [[535 713 859 877 698 535]], y: [[293 308 341 414 380 366]], ornt: [u'c'], transcriptions: [u'MONICA']
+x: [[ 889  968 1042 1050  972  895]], y: [[349 373 414 486 449 424]], ornt: [u'c'], transcriptions: [u'PIER']
+x: [[382 498 590 593 488 397]], y: [[388 382 385 440 437 449]], ornt: [u'c'], transcriptions: [u'NORTH']
+x: [[619 783 914 920 766 616]], y: [[390 409 442 492 453 438]], ornt: [u'c'], transcriptions: [u'ENTRANCE']

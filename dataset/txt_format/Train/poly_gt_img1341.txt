@@ -1,0 +1,4 @@
+x: [[116 243 370 370 243 116]], y: [[279 279 279 337 337 337]], ornt: [u'h'], transcriptions: [u'COASTER']
+x: [[127 252 247 128]], y: [[108  98 134 145]], ornt: [u'm'], transcriptions: [u'SCOOBY']
+x: [[268 316 362 349 304 262]], y: [[102 100 113 157 143 136]], ornt: [u'c'], transcriptions: [u'DOO']
+x: [[ 24 155 307 456 385 274 177  93]], y: [[213 144 143 214 301 246 246 304]], ornt: [u'c'], transcriptions: [u'SPOOKY']

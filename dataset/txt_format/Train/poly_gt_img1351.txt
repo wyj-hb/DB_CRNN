@@ -1,0 +1,4 @@
+x: [[134 220 298 305 223 135]], y: [[130 124 152 219 210 252]], ornt: [u'c'], transcriptions: [u'IDLE']
+x: [[315 400 489 503 412 315]], y: [[158 185 174 305 272 220]], ornt: [u'c'], transcriptions: [u'HAND']
+x: [[151 238 323 328 234 162]], y: [[250 216 228 261 252 283]], ornt: [u'c'], transcriptions: [u'TATTOO']
+x: [[342 420 503 502 422 336]], y: [[275 301 299 333 339 310]], ornt: [u'c'], transcriptions: [u'STUDIO']

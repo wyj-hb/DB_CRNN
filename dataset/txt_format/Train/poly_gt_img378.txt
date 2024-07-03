@@ -1,0 +1,5 @@
+x: [[129 365 626 861 795 590 372 203]], y: [[258 143 144 271 375 257 256 364]], ornt: [u'c'], transcriptions: [u'HORSTEAD']
+x: [[312 360 332 286]], y: [[352 384 418 387]], ornt: [u'm'], transcriptions: [u'19']
+x: [[376 441 428 360]], y: [[392 413 453 431]], ornt: [u'm'], transcriptions: [u'23']
+x: [[551 610 629 561]], y: [[416 399 443 459]], ornt: [u'm'], transcriptions: [u'19']
+x: [[633 685 712 652]], y: [[389 359 396 429]], ornt: [u'm'], transcriptions: [u'48']

@@ -1,0 +1,4 @@
+x: [[116 220 359 449 443 355 244 171]], y: [[206 111  54  63 121 117 170 241]], ornt: [u'c'], transcriptions: [u'PANGSAPURI']
+x: [[508 618 681 642 563 488]], y: [[ 80 139 206 247 166 132]], ornt: [u'c'], transcriptions: [u'PINANG']
+x: [[ 63 298 308  61]], y: [[310 310 367 371]], ornt: [u'h'], transcriptions: [u'PENHILL']
+x: [[396 734 739 396]], y: [[309 307 371 371]], ornt: [u'h'], transcriptions: [u'APARTMENT']

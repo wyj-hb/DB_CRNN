@@ -1,0 +1,6 @@
+x: [[189 334 484 506 354 199]], y: [[180  93  44 149 192 270]], ornt: [u'c'], transcriptions: [u'JUMBO']
+x: [[550 678 834 849 699 560]], y: [[ 38  35  69 167 142 146]], ornt: [u'c'], transcriptions: [u'XEROX']
+x: [[126 432 447 136]], y: [[354 295 369 425]], ornt: [u'm'], transcriptions: [u'BLUE']
+x: [[514 920 930 524]], y: [[279 208 278 353]], ornt: [u'm'], transcriptions: [u'PRINTS']
+x: [[233 392 556 575 396 227]], y: [[461 463 439 532 559 552]], ornt: [u'c'], transcriptions: [u'COLOUR']
+x: [[606 715 852 861 739 611]], y: [[428 396 344 420 488 522]], ornt: [u'c'], transcriptions: [u'XEROX']

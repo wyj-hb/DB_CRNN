@@ -1,0 +1,2 @@
+x: [[ 25 239 505 509 287  79]], y: [[373 250 184 292 357 471]], ornt: [u'c'], transcriptions: [u'EXPORT']
+x: [[ 574  946 1216 1162  902  569]], y: [[174 222 406 490 328 280]], ornt: [u'c'], transcriptions: [u'EXCELLENCE']

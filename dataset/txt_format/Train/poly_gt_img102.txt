@@ -1,0 +1,3 @@
+x: [[ 277  553  883 1151 1107  867  573  363]], y: [[261  47  41 273 355 159 163 339]], ornt: [u'c'], transcriptions: [u'COSENTINOS']
+x: [[  59 1317 1295   29]], y: [[473 307 737 899]], ornt: [u'm'], transcriptions: [u'Market']
+x: [[ 421  785 1105 1181  803  335]], y: [[ 957 1089  977 1095 1259 1053]], ornt: [u'c'], transcriptions: [u'DOWNTOWN']

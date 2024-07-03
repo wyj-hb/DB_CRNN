@@ -1,0 +1,6 @@
+x: [[226 319 321 226]], y: [[217 225 266 259]], ornt: [u'm'], transcriptions: [u'WCH']
+x: [[220 270 307 328 343 315 265 211]], y: [[282 306 293 282 295 317 322 296]], ornt: [u'c'], transcriptions: [u'ELECTRICITY']
+x: [[550 648 653 562]], y: [[198 194 340 329]], ornt: [u'#'], transcriptions: [u'#']
+x: [[807 891 898 833]], y: [[213 206 333 335]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 34 105 105  43]], y: [[222 191 220 244]], ornt: [u'#'], transcriptions: [u'#']
+x: [[115 186 204 113]], y: [[187 166 175 214]], ornt: [u'#'], transcriptions: [u'#']

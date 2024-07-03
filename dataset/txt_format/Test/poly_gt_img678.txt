@@ -1,0 +1,4 @@
+x: [[319 414 503 499 414 325]], y: [[34 21 35 65 53 62]], ornt: [u'c'], transcriptions: [u'KEMAH']
+x: [[137 269 449 443 279 151]], y: [[152  83  68 106 116 184]], ornt: [u'c'], transcriptions: [u'LIGHTHOUSE']
+x: [[467 577 675 660 564 462]], y: [[ 74  97 157 183 133 106]], ornt: [u'c'], transcriptions: [u'DISTRICT']
+x: [[602 805 806 605]], y: [[380 380 397 399]], ornt: [u'#'], transcriptions: [u'#']

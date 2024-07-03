@@ -1,0 +1,3 @@
+x: [[27 36 61 71 49 44]], y: [[104  67  38  57  82 112]], ornt: [u'c'], transcriptions: [u'BEIJING']
+x: [[ 67 104 137 127 103  71]], y: [[35 32 54 74 51 55]], ornt: [u'c'], transcriptions: [u'NOODLE']
+x: [[143 149 152 135 134 125]], y: [[ 68  82  98 108  90  79]], ornt: [u'c'], transcriptions: [u'NO']

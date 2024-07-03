@@ -1,0 +1,5 @@
+x: [[474 382 361 386 460 468 410 394 409 483]], y: [[143 192 283 380 416 383 353 287 218 171]], ornt: [u'c'], transcriptions: [u'FASHIONSHOES']
+x: [[569 579 611 605]], y: [[373 289 287 381]], ornt: [u'm'], transcriptions: [u'SWISS']
+x: [[585 619 612 578]], y: [[196 196 286 283]], ornt: [u'm'], transcriptions: [u'POLO']
+x: [[615 630 626 610]], y: [[231 232 305 305]], ornt: [u'm'], transcriptions: [u'Collections']
+x: [[609 623 623 607]], y: [[315 315 347 346]], ornt: [u'm'], transcriptions: [u'MEN']

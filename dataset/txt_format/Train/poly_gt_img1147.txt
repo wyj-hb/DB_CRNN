@@ -1,0 +1,7 @@
+x: [[ 97 153 157 100]], y: [[ 34  53 101  79]], ornt: [u'm'], transcriptions: [u'SIm']
+x: [[ 99 151 193 188 149 107]], y: [[190 187 224 241 217 218]], ornt: [u'c'], transcriptions: [u'Kindermusik']
+x: [[ 58 133 132  63]], y: [[300 314 331 322]], ornt: [u'#'], transcriptions: [u'#']
+x: [[127 186 187 138 133]], y: [[297 310 343 339 340]], ornt: [u'm'], transcriptions: [u'Selangor']
+x: [[184 247 246 185]], y: [[321 331 353 344]], ornt: [u'#'], transcriptions: [u'#']
+x: [[277 317 319 278]], y: [[249 259 297 288]], ornt: [u'm'], transcriptions: [u'TSY']
+x: [[550 594 595 549]], y: [[381 376 395 405]], ornt: [u'm'], transcriptions: [u'IBG']

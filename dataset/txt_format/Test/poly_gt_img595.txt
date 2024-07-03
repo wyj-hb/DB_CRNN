@@ -1,0 +1,8 @@
+x: [[108  79  81  98 162 150 173]], y: [[598 514 395 364 382 491 591]], ornt: [u'c'], transcriptions: [u'MUZIUM']
+x: [[110 148 232 263 191 173]], y: [[341 275 214 281 327 379]], ornt: [u'c'], transcriptions: [u'POLIS']
+x: [[255 369 430 459 425 376 271]], y: [[211 209 238 263 329 289 278]], ornt: [u'c'], transcriptions: [u'DIRAJA']
+x: [[473 506 511 488 421 453 453 430]], y: [[301 353 468 575 571 488 414 336]], ornt: [u'c'], transcriptions: [u'MALAYSIA']
+x: [[219 240 257 246 203]], y: [[523 540 551 577 545]], ornt: [u'c'], transcriptions: [u'POLIS']
+x: [[263 289 312 323 289 249]], y: [[555 564 558 587 591 578]], ornt: [u'c'], transcriptions: [u'DIRAJA']
+x: [[321 366 381 413 379 327]], y: [[557 537 516 529 558 583]], ornt: [u'c'], transcriptions: [u'MALAYSIA']
+x: [[ 21 298 298  17]], y: [[861 868 887 892]], ornt: [u'#'], transcriptions: [u'#']

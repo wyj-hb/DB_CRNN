@@ -1,0 +1,5 @@
+x: [[ 33  64 103  98  65  38]], y: [[38 27 38 54 45 55]], ornt: [u'c'], transcriptions: [u'RHONDAS']
+x: [[107 167 169 110]], y: [[54 54 81 81]], ornt: [u'h'], transcriptions: [u'DOG']
+x: [[ 33 194 199  34]], y: [[ 86  83 113 113]], ornt: [u'h'], transcriptions: [u'GROOMING']
+x: [[ 62 107 106  65]], y: [[113 112 132 130]], ornt: [u'h'], transcriptions: [u'389']
+x: [[115 171 172 116]], y: [[113 111 129 129]], ornt: [u'h'], transcriptions: [u'9962']

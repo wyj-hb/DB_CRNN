@@ -1,0 +1,3 @@
+x: [[364 412 474 472 414 366]], y: [[325 306 299 341 339 377]], ornt: [u'c'], transcriptions: [u'SHEPHERDS']
+x: [[388 415 456 461 419 395]], y: [[356 341 337 370 375 388]], ornt: [u'c'], transcriptions: [u'PURSE']
+x: [[370 470 472 366]], y: [[381 393 418 407]], ornt: [u'm'], transcriptions: [u'ACCOMMODATION']

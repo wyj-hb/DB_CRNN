@@ -1,0 +1,8 @@
+x: [[ 69 165 238 241 171  64]], y: [[604 611 578 631 657 651]], ornt: [u'c'], transcriptions: [u'BIRTHD']
+x: [[264 344 445 455 349 267]], y: [[437 454 440 468 495 470]], ornt: [u'c'], transcriptions: [u'ISABELLA']
+x: [[283 329 383 381 322 262]], y: [[578 587 582 623 638 631]], ornt: [u'c'], transcriptions: [u'6TH']
+x: [[395 430 473 479 451 402]], y: [[583 578 563 603 615 623]], ornt: [u'c'], transcriptions: [u'BIR']
+x: [[510 607 697 713 623 499]], y: [[600 611 577 612 648 644]], ornt: [u'c'], transcriptions: [u'BIRTHDAY']
+x: [[577 613 615 575]], y: [[518 517 546 549]], ornt: [u'h'], transcriptions: [u'B']
+x: [[ 7 52 29  3]], y: [[577 606 636 621]], ornt: [u'm'], transcriptions: [u'H']
+x: [[246 268 263 246]], y: [[568 574 608 607]], ornt: [u'#'], transcriptions: [u'#']

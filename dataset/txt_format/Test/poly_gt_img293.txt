@@ -1,0 +1,5 @@
+x: [[ 73 132 166 175 136 100]], y: [[260 248 244 296 298 306]], ornt: [u'c'], transcriptions: [u'TEA']
+x: [[191 273 321 309 263 186]], y: [[249 252 265 308 292 294]], ornt: [u'c'], transcriptions: [u'HOUSE']
+x: [[ 50 160 157  43]], y: [[330 328 381 378]], ornt: [u'h'], transcriptions: [u'WINE']
+x: [[172 345 351 180]], y: [[324 325 365 377]], ornt: [u'm'], transcriptions: [u'TASTING']
+x: [[ 75 197 341 353 192  46]], y: [[395 415 389 440 474 447]], ornt: [u'c'], transcriptions: [u'GASTRONOMY']

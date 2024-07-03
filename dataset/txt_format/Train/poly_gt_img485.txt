@@ -1,0 +1,8 @@
+x: [[ 32 158 371 419 242 124]], y: [[756 564 442 550 660 826]], ornt: [u'c'], transcriptions: [u'SRIDEVI']
+x: [[440 683 934 889 661 449]], y: [[418 409 478 591 517 526]], ornt: [u'c'], transcriptions: [u'NURSING']
+x: [[ 991 1139 1232 1120 1037  932]], y: [[498 622 762 822 679 591]], ornt: [u'c'], transcriptions: [u'HOME']
+x: [[206 533 529 193]], y: [[780 775 843 852]], ornt: [u'm'], transcriptions: [u'FERTILITY']
+x: [[557 943 944 551]], y: [[775 769 838 844]], ornt: [u'm'], transcriptions: [u'MATERNITY']
+x: [[265 695 697 253]], y: [[871 864 936 943]], ornt: [u'm'], transcriptions: [u'LAPROSCOPY']
+x: [[ 725  995 1003  724]], y: [[867 867 937 934]], ornt: [u'h'], transcriptions: [u'CENTRE']
+x: [[ 980 1042 1048  997]], y: [[778 777 844 855]], ornt: [u'#'], transcriptions: [u'#']

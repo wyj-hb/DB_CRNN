@@ -1,0 +1,3 @@
+x: [[323 379 435 435 379 323]], y: [[170 170 170 230 230 230]], ornt: [u'h'], transcriptions: [u'GO']
+x: [[157 309 477 460 313 178]], y: [[115  76 116 169 131 160]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[193 298 295 199]], y: [[176 178 233 233]], ornt: [u'h'], transcriptions: [u'TO']

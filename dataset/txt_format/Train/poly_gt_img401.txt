@@ -1,0 +1,4 @@
+x: [[312 417 487 484 412 322]], y: [[176 146 169 200 194 223]], ornt: [u'c'], transcriptions: [u'Modica']
+x: [[497 591 674 648 579 487]], y: [[166 200 272 299 235 206]], ornt: [u'c'], transcriptions: [u'MARKET']
+x: [[321 397 498 498 373 296]], y: [[393 461 500 535 493 416]], ornt: [u'c'], transcriptions: [u'SEASIDE']
+x: [[527 607 672 698 622 539]], y: [[501 497 458 481 535 542]], ornt: [u'c'], transcriptions: [u'FLORIDA']

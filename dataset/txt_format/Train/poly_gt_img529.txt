@@ -1,0 +1,8 @@
+x: [[103 279 276 110]], y: [[194 191 237 238]], ornt: [u'h'], transcriptions: [u'VIP']
+x: [[ 74 146 263 300 266 222 157 108]], y: [[358 315 329 356 394 373 370 391]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[138 169 210 204 174 151]], y: [[392 377 386 405 392 407]], ornt: [u'c'], transcriptions: [u'LONG']
+x: [[150 177 205 213 177 146]], y: [[403 407 400 415 425 418]], ornt: [u'c'], transcriptions: [u'BEACH']
+x: [[ 92 168 239 259 306 247 155  56]], y: [[404 432 419 398 446 488 501 451]], ornt: [u'c'], transcriptions: [u'FAMOUS']
+x: [[270 423 427 272]], y: [[545 536 561 574]], ornt: [u'm'], transcriptions: [u'RECORDS']
+x: [[250 350 351 257]], y: [[617 610 640 647]], ornt: [u'm'], transcriptions: [u'TAPES']
+x: [[396 454 459 403]], y: [[611 604 632 640]], ornt: [u'm'], transcriptions: [u'CDS']

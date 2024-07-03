@@ -1,0 +1,4 @@
+x: [[ 699 1096 1103  702]], y: [[380 399 551 548]], ornt: [u'h'], transcriptions: [u'Bar']
+x: [[ 437 1358 1364  434]], y: [[554 560 708 702]], ornt: [u'h'], transcriptions: [u'Restaurang']
+x: [[ 734 1128 1140  737]], y: [[1046 1058 1188 1181]], ornt: [u'h'], transcriptions: [u'Zum']
+x: [[ 585  607  894 1207 1301 1434 1342  888  466  409]], y: [[1144 1276 1342 1304 1137 1156 1418 1522 1367 1144]], ornt: [u'c'], transcriptions: [u'Franziskaner']

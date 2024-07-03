@@ -1,0 +1,4 @@
+x: [[ 80  90 187 206 134 120]], y: [[378 277 211 257 300 391]], ornt: [u'c'], transcriptions: [u'HAIGHT']
+x: [[159 266 365 403 276 133]], y: [[452 515 489 523 577 492]], ornt: [u'c'], transcriptions: [u'VINTAGE']
+x: [[311 417 428 389 374 284]], y: [[245 346 477 451 353 265]], ornt: [u'c'], transcriptions: [u'ASHBURY']
+x: [[363 448 467 375]], y: [[624 572 617 664]], ornt: [u'm'], transcriptions: [u'Vintage']

@@ -1,0 +1,7 @@
+x: [[267 400 408 268]], y: [[146 148 237 238]], ornt: [], transcriptions: [u'Dr']
+x: [[438 515 626 596 500 413]], y: [[191 170 185 234 231 252]], ornt: [u'c'], transcriptions: [u'AirWair']
+x: [[274 529 727 761 541 271]], y: [[238 239 181 247 331 334]], ornt: [u'c'], transcriptions: [u'Martens']
+x: [[440 457 473 465 438 429]], y: [[358 373 377 393 386 370]], ornt: [u'c'], transcriptions: [u'WITH']
+x: [[471 512 557 562 511 467]], y: [[378 391 379 405 415 399]], ornt: [u'c'], transcriptions: [u'BOUNCING']
+x: [[561 579 590 602 593 564]], y: [[382 370 354 367 385 399]], ornt: [u'c'], transcriptions: [u'SOLES']
+x: [[848 928 930 853]], y: [[266 266 312 312]], ornt: [u'h'], transcriptions: [u'COL']

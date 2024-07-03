@@ -1,0 +1,7 @@
+x: [[277 303 329 329 303 277]], y: [[179 179 179 206 206 206]], ornt: [u'h'], transcriptions: [u'The']
+x: [[288 311 333 333 311 288]], y: [[354 354 354 369 369 369]], ornt: [u'h'], transcriptions: [u'MINN']
+x: [[285 310 334 334 310 285]], y: [[295 295 295 311 311 311]], ornt: [u'h'], transcriptions: [u'MPLS']
+x: [[176 224 293 321 319 299 236 192]], y: [[188 134 120 119 136 133 151 198]], ornt: [u'c'], transcriptions: [u'BREAKFAST']
+x: [[332 353 370 360 349 332]], y: [[121 125 133 146 143 140]], ornt: [u'c'], transcriptions: [u'TO']
+x: [[384 417 435 420 403 377]], y: [[141 168 198 207 175 155]], ornt: [u'c'], transcriptions: [u'BEER']
+x: [[171 437 441 174]], y: [[215 224 282 276]], ornt: [u'h'], transcriptions: [u'FREEHOUSE']

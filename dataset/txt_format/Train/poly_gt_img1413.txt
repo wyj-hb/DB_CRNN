@@ -1,0 +1,5 @@
+x: [[808 831 853 853 831 808]], y: [[195 195 195 210 210 210]], ornt: [u'h'], transcriptions: [u'DIMILIK']
+x: [[887 921 954 954 921 887]], y: [[195 195 195 211 211 211]], ornt: [u'h'], transcriptions: [u'SWENSENS']
+x: [[238 483 719 737 475 227]], y: [[ 93 101 110 233 179 229]], ornt: [u'c'], transcriptions: [u'SWENSENS']
+x: [[853 885 889 855]], y: [[196 197 210 213]], ornt: [u'h'], transcriptions: [u'OLEH']
+x: [[ 962 1006 1009  960]], y: [[199 199 213 213]], ornt: [u'h'], transcriptions: [u'MALAYS']

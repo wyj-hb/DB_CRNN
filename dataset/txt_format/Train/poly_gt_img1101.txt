@@ -1,0 +1,8 @@
+x: [[283 286 304 367 338 332]], y: [[543 480 408 411 490 541]], ornt: [u'c'], transcriptions: [u'FOR']
+x: [[337 398 505 475 352 296]], y: [[601 693 745 804 729 618]], ornt: [u'c'], transcriptions: [u'AGENT']
+x: [[550 622 697 707 637 556]], y: [[735 721 660 742 780 804]], ornt: [u'c'], transcriptions: [u'SOLE']
+x: [[485 650 607 437]], y: [[250 373 409 291]], ornt: [u'm'], transcriptions: [u'SHOES']
+x: [[661 824 773 629]], y: [[382 492 544 445]], ornt: [u'm'], transcriptions: [u'LIDO']
+x: [[547 650 626 515]], y: [[213 295 333 256]], ornt: [u'm'], transcriptions: [u'ENGLAND']
+x: [[661 697 671 643]], y: [[300 322 364 343]], ornt: [u'm'], transcriptions: [u'IN']
+x: [[709 803 775 688]], y: [[336 396 430 375]], ornt: [u'm'], transcriptions: [u'MADE']

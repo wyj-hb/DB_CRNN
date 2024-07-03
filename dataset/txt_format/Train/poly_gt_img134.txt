@@ -1,0 +1,8 @@
+x: [[103 248 464 460 263 123]], y: [[163  96  90 140 142 193]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[475 518 513 476]], y: [[100 108 143 140]], ornt: [u'#'], transcriptions: [u'#']
+x: [[529 588 637 620 569 523]], y: [[113 129 154 189 164 147]], ornt: [u'c'], transcriptions: [u'BAR']
+x: [[ 95 644 657  64]], y: [[323 316 440 453]], ornt: [u'm'], transcriptions: [u'SINGHS']
+x: [[211 416 414 218]], y: [[470 465 509 511]], ornt: [u'm'], transcriptions: [u'CARIBBEN']
+x: [[426 566 568 425]], y: [[466 462 501 506]], ornt: [u'm'], transcriptions: [u'CUISINE']
+x: [[568 665 672 570]], y: [[53 39 74 91]], ornt: [u'm'], transcriptions: [u'Hampton']
+x: [[667 725 728 679]], y: [[43 37 64 75]], ornt: [u'm'], transcriptions: [u'INN']

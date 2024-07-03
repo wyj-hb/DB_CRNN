@@ -1,0 +1,4 @@
+x: [[374 423 477 478 431 385]], y: [[132 113 105 125 134 151]], ornt: [u'c'], transcriptions: [u'PRESTON']
+x: [[482 516 539 544 508 491]], y: [[104 101 102 122 122 127]], ornt: [u'c'], transcriptions: [u'WEST']
+x: [[563 600 637 629 590 560]], y: [[107 112 123 142 129 126]], ornt: [u'c'], transcriptions: [u'PRIMARY']
+x: [[644 671 704 701 661 636]], y: [[125 134 151 170 150 144]], ornt: [u'c'], transcriptions: [u'SCHOOL']

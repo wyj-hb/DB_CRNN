@@ -1,0 +1,4 @@
+x: [[360 514 712 715 541 412]], y: [[232 107 107 170 171 285]], ornt: [u'c'], transcriptions: [u'Cameron']
+x: [[760 903 940 856 836 751]], y: [[ 98 192 312 315 238 185]], ornt: [u'c'], transcriptions: [u'Valley']
+x: [[403 437 522 505 385 334]], y: [[465 534 599 681 596 489]], ornt: [u'c'], transcriptions: [u'TEA']
+x: [[562 746 875 946 792 535]], y: [[623 623 517 558 696 697]], ornt: [u'c'], transcriptions: [u'HOUSE']

@@ -1,0 +1,4 @@
+x: [[303 376 461 455 351 254]], y: [[418 481 503 561 535 453]], ornt: [u'c'], transcriptions: [u'Hello']
+x: [[228 219 281 319 281 290]], y: [[416 308 233 280 331 412]], ornt: [u'c'], transcriptions: [u'Kitty']
+x: [[482 589 646 610 563 472]], y: [[150 179 240 260 215 187]], ornt: [u'c'], transcriptions: [u'Hello']
+x: [[673 708 675 627 646 620]], y: [[252 346 437 394 332 267]], ornt: [u'c'], transcriptions: [u'Kitty']

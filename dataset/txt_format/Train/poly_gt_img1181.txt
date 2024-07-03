@@ -1,0 +1,8 @@
+x: [[453 465 476 476 465 453]], y: [[427 427 427 437 437 437]], ornt: [u'h'], transcriptions: [u'WAY']
+x: [[430 441 452 452 441 430]], y: [[428 428 428 437 437 437]], ornt: [u'h'], transcriptions: [u'ONE']
+x: [[274 294 353 388 381 353 311 297]], y: [[244 174 122 124 158 155 191 255]], ornt: [u'c'], transcriptions: [u'FISHERMANS']
+x: [[395 437 454 425 408 385]], y: [[122 156 211 215 172 153]], ornt: [u'c'], transcriptions: [u'WHARF']
+x: [[278 300 312 290]], y: [[274 260 283 300]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[309 323 344 332 308 296]], y: [[288 300 309 340 330 306]], ornt: [u'c'], transcriptions: [u'SAN']
+x: [[341 386 422 456 406 345]], y: [[312 301 223 231 327 341]], ornt: [u'c'], transcriptions: [u'FRANCISCO']
+x: [[10 48 47  6]], y: [[364 379 407 394]], ornt: [u'm'], transcriptions: [u'TOS']

@@ -1,0 +1,6 @@
+x: [[412 512 612 612 512 412]], y: [[377 377 377 437 437 437]], ornt: [u'h'], transcriptions: [u'SHOP']
+x: [[414 513 611 611 513 414]], y: [[315 315 315 378 378 378]], ornt: [u'h'], transcriptions: [u'BAKE']
+x: [[159 333 405 398 314 162]], y: [[355 313 319 365 371 445]], ornt: [u'c'], transcriptions: [u'CARLOS']
+x: [[289 357 394 390 350 290]], y: [[385 367 378 397 390 406]], ornt: [u'c'], transcriptions: [u'SINCE1910']
+x: [[755 802 797 762]], y: [[440 436 465 467]], ornt: [u'm'], transcriptions: [u'Stop']
+x: [[752 872 874 754]], y: [[474 473 494 496]], ornt: [u'h'], transcriptions: [u'FAMIGLIA']

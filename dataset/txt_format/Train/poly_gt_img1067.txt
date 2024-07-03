@@ -1,0 +1,6 @@
+x: [[532 606 680 680 606 532]], y: [[458 458 458 483 483 483]], ornt: [u'h'], transcriptions: [u'PASSAGE']
+x: [[583 631 678 678 631 583]], y: [[487 487 487 508 508 508]], ornt: [u'h'], transcriptions: [u'ASEAN']
+x: [[501 515 529 529 515 501]], y: [[490 490 490 511 511 511]], ornt: [u'#'], transcriptions: [u'#']
+x: [[455 511 581 579 516 469]], y: [[274 249 247 285 289 311]], ornt: [u'c'], transcriptions: [u'Field']
+x: [[593 656 709 696 645 598]], y: [[246 252 272 303 296 291]], ornt: [u'c'], transcriptions: [u'Trips']
+x: [[467 582 691 682 582 486]], y: [[328 300 321 369 350 380]], ornt: [u'c'], transcriptions: [u'NEWS']

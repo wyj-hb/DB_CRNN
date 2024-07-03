@@ -1,0 +1,3 @@
+x: [[104 129 156 167 126  90]], y: [[153 169 157 170 191 162]], ornt: [u'c'], transcriptions: [u'EXPRESS']
+x: [[172 373 379 175]], y: [[133 158 211 195]], ornt: [u'm'], transcriptions: [u'TEPPAN']
+x: [[388 486 491 396]], y: [[161 174 226 218]], ornt: [u'm'], transcriptions: [u'YAKI']

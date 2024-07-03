@@ -1,0 +1,3 @@
+x: [[ 28 121 256 255 141  58]], y: [[101  64  67 120 116 148]], ornt: [u'c'], transcriptions: [u'PARADISE']
+x: [[276 319 359 347 306 264]], y: [[ 71  86 107 151 129 119]], ornt: [u'c'], transcriptions: [u'CAFE']
+x: [[ 97 301 306 100]], y: [[190 190 231 231]], ornt: [u'h'], transcriptions: [u'GATHERING']

@@ -1,0 +1,4 @@
+x: [[384 448 535 531 468 412]], y: [[444 405 391 431 444 481]], ornt: [u'c'], transcriptions: [u'DONT']
+x: [[556 627 675 652 602 551]], y: [[395 405 434 476 440 434]], ornt: [u'c'], transcriptions: [u'PANIC']
+x: [[376 406 450 442 380 350]], y: [[560 588 610 652 624 587]], ornt: [u'c'], transcriptions: [u'ITS']
+x: [[468 580 655 696 588 462]], y: [[612 615 570 602 665 665]], ornt: [u'c'], transcriptions: [u'ORGANIC']

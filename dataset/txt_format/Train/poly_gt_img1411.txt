@@ -1,0 +1,2 @@
+x: [[142 300 475 479 295 117]], y: [[ 94  95  99 182 185 233]], ornt: [u'c'], transcriptions: [u'PACIFIC']
+x: [[525 617 700 745 632 533]], y: [[102 107 102 227 198 182]], ornt: [u'c'], transcriptions: [u'PARK']

@@ -1,0 +1,3 @@
+x: [[ 529  853 1195 1168  886  577]], y: [[730 664 724 856 778 853]], ornt: [u'c'], transcriptions: [u'RALLI']
+x: [[ 607 1117 1120  595]], y: [[844 844 922 916]], ornt: [u'h'], transcriptions: [u'APARTIMANI']
+x: [[778 928 928 772]], y: [[ 928  934 1012 1012]], ornt: [u'h'], transcriptions: [u'59']

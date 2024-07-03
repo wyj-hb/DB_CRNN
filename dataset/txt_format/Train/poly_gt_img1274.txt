@@ -1,0 +1,7 @@
+x: [[195 182 195 212 203 214]], y: [[225 181 141 155 186 221]], ornt: [u'c'], transcriptions: [u'HONESTY']
+x: [[209 241 284 282 247 220]], y: [[124 101  98 118 118 138]], ornt: [u'c'], transcriptions: [u'INTEGRIT']
+x: [[225 237 256 254 237 219]], y: [[232 238 240 255 255 248]], ornt: [u'c'], transcriptions: [u'EST']
+x: [[261 274 285 289 277 263]], y: [[240 239 232 249 257 259]], ornt: [u'c'], transcriptions: [u'190']
+x: [[318 343 328 313 324 303]], y: [[116 157 220 208 165 128]], ornt: [u'c'], transcriptions: [u'RELIABILITY']
+x: [[233 291 290 230]], y: [[153 148 206 216]], ornt: [u'm'], transcriptions: [u'R']
+x: [[584 673 673 585]], y: [[151 144 166 173]], ornt: [u'm'], transcriptions: [u'ATLANTIC']

@@ -1,0 +1,4 @@
+x: [[223 286 372 348 288 242]], y: [[373 351 402 442 400 418]], ornt: [u'c'], transcriptions: [u'IMOGENE']
+x: [[232 230 271 254 184 200]], y: [[430 517 582 624 529 400]], ornt: [u'c'], transcriptions: [u'NASHVILLE']
+x: [[283 313 336 357 309 277]], y: [[586 592 580 621 634 628]], ornt: [u'c'], transcriptions: [u'TENN']
+x: [[349 370 358 387 400 372]], y: [[565 513 460 453 540 603]], ornt: [u'c'], transcriptions: [u'WILLIE']

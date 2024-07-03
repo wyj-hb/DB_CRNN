@@ -1,0 +1,3 @@
+x: [[118 148 184 185 152 123]], y: [[74 58 58 81 76 89]], ornt: [u'c'], transcriptions: [u'JAMMIN']
+x: [[147 159 159 148]], y: [[77 75 89 90]], ornt: [u'h'], transcriptions: [u'N']
+x: [[122 151 178 177 148 126]], y: [[ 90  91  82 101 106 110]], ornt: [u'c'], transcriptions: [u'HAIGHT']

@@ -1,0 +1,4 @@
+x: [[135 198 309 308 231 176]], y: [[162  79  36 115 138 222]], ornt: [u'c'], transcriptions: [u'MEAN']
+x: [[348 448 526 464 405 341]], y: [[ 42  73 173 215 129 107]], ornt: [u'c'], transcriptions: [u'BEAN']
+x: [[160 204 265 253 138 100]], y: [[286 374 427 480 419 299]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[354 443 481 532 491 395]], y: [[405 357 273 267 414 482]], ornt: [u'c'], transcriptions: [u'House']

@@ -1,0 +1,4 @@
+x: [[404 615 792 775 585 357]], y: [[ 99 114 181 235 191 272]], ornt: [u'c'], transcriptions: [u'Blackebys']
+x: [[497 540 541 501]], y: [[224 220 240 249]], ornt: [u'm'], transcriptions: [u'OLD']
+x: [[541 583 623 614 577 550]], y: [[219 210 211 238 233 242]], ornt: [u'c'], transcriptions: [u'SWEET']
+x: [[626 649 687 680 648 621]], y: [[211 220 223 243 244 235]], ornt: [u'c'], transcriptions: [u'SHOP']

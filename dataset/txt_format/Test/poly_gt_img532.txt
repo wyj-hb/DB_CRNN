@@ -1,0 +1,6 @@
+x: [[650 833 839 689]], y: [[326 293 425 452]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[ 866  971 1226 1178 1055  863]], y: [[299 293 368 488 449 428]], ornt: [u'c'], transcriptions: [u'FAMOUS']
+x: [[ 169  475  929 1367 1862 1820  785  157]], y: [[ 593  521  500  566  773 1088  953  833]], ornt: [u'm'], transcriptions: [u'sheffield']
+x: [[608 821 803 608]], y: [[ 971 1040 1205 1169]], ornt: [u'm'], transcriptions: [u'PIE']
+x: [[ 863 1157 1139  845]], y: [[1016 1100 1259 1208]], ornt: [u'm'], transcriptions: [u'SHOP']
+x: [[1505 1943 1931 1514]], y: [[23 17 65 74]], ornt: [u'h'], transcriptions: [u'SHEFFIELD']

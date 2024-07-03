@@ -1,0 +1,8 @@
+x: [[186 165 204 264 283 232 210 222]], y: [[480 375 288 265 310 349 391 474]], ornt: [u'c'], transcriptions: [u'COULOMMIERS']
+x: [[273 349 412 390 340 289]], y: [[259 255 289 328 298 304]], ornt: [u'c'], transcriptions: [u'DOUBLE']
+x: [[436 460 462 415 418 394]], y: [[306 355 417 417 379 328]], ornt: [u'c'], transcriptions: [u'CREME']
+x: [[256 316 361 388 310 246]], y: [[486 504 490 528 552 532]], ornt: [u'c'], transcriptions: [u'EXTRA']
+x: [[375 388 406 462 442 399]], y: [[483 466 433 454 486 520]], ornt: [u'c'], transcriptions: [u'FIN']
+x: [[438 558 562 451]], y: [[693 685 730 735]], ornt: [u'#'], transcriptions: [u'#']
+x: [[454 510 510 454]], y: [[750 747 771 778]], ornt: [u'm'], transcriptions: [u'RDA']
+x: [[516 565 565 522]], y: [[750 744 765 771]], ornt: [u'#'], transcriptions: [u'#']

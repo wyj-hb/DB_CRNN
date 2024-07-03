@@ -1,0 +1,7 @@
+x: [[ 84 151 157  89]], y: [[ 76  55  80 104]], ornt: [u'm'], transcriptions: [u'Prydes']
+x: [[ 93 113 116  93]], y: [[104  96 109 117]], ornt: [u'm'], transcriptions: [u'Old']
+x: [[120 171 173 123]], y: [[ 92  68  87 106]], ornt: [u'm'], transcriptions: [u'Westport']
+x: [[ 87  98 108 107  84  76]], y: [[130 146 155 165 155 138]], ornt: [u'c'], transcriptions: [u'Kitchen']
+x: [[111 119 121 108]], y: [[157 157 168 165]], ornt: [u'#'], transcriptions: [u'#']
+x: [[123 139 154 157 142 124]], y: [[158 156 149 157 167 169]], ornt: [u'c'], transcriptions: [u'Home']
+x: [[154 172 174 184 185 162]], y: [[143 117  89  86 129 155]], ornt: [u'c'], transcriptions: [u'Accessories']

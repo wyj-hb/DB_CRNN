@@ -1,0 +1,5 @@
+x: [[150 218 299 298 224 161]], y: [[156 133 130 154 163 181]], ornt: [u'c'], transcriptions: [u'Cambridge']
+x: [[305 370 432 426 366 303]], y: [[131 134 151 172 158 156]], ornt: [u'c'], transcriptions: [u'Seminars']
+x: [[242 347 349 242]], y: [[175 176 204 204]], ornt: [u'h'], transcriptions: [u'College']
+x: [[230 301 355 348 297 243]], y: [[226 220 226 245 239 246]], ornt: [u'c'], transcriptions: [u'VERITAS']
+x: [[278 319 319 279]], y: [[295 296 312 312]], ornt: [u'h'], transcriptions: [u'1982']

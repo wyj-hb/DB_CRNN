@@ -1,0 +1,5 @@
+x: [[243 378 393 264]], y: [[1030  998 1062 1094]], ornt: [u'm'], transcriptions: [u'LE']
+x: [[404 574 754 762 582 422]], y: [[ 994  968  964 1034 1036 1064]], ornt: [u'c'], transcriptions: [u'BARBE']
+x: [[792 850 858 782]], y: [[ 974  972 1040 1032]], ornt: [u'm'], transcriptions: [u'A']
+x: [[ 898 1012 1160 1154  996  888]], y: [[ 980  994 1032 1102 1054 1042]], ornt: [u'c'], transcriptions: [u'PAPA']
+x: [[554 842 844 554]], y: [[1058 1056 1086 1086]], ornt: [u'h'], transcriptions: [u'RESTAURANT']

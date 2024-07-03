@@ -1,0 +1,2 @@
+x: [[197 243 308 306 256 203]], y: [[280 271 269 313 307 317]], ornt: [u'c'], transcriptions: [u'hotel']
+x: [[194 250 327 336 249 177]], y: [[466 482 464 504 516 498]], ornt: [u'c'], transcriptions: [u'Murtenhof']

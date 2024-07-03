@@ -1,0 +1,2 @@
+x: [[101 131 160 162 130 106]], y: [[ 98  76  70  79  88 107]], ornt: [u'c'], transcriptions: [u'BOLIVIAN']
+x: [[165 200 229 220 197 165]], y: [[69 72 83 90 80 78]], ornt: [u'c'], transcriptions: [u'EMBASSY']

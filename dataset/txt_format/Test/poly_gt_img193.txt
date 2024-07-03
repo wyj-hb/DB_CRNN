@@ -1,0 +1,2 @@
+x: [[ 59 272 539 500 265  74]], y: [[241 123  86 207 248 408]], ornt: [u'c'], transcriptions: [u'PLANET']
+x: [[100 313 623 776 723 535 269 117]], y: [[382 227 214 266 373 335 401 542]], ornt: [u'c'], transcriptions: [u'HOLLYWOOD']

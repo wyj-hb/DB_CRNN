@@ -1,0 +1,3 @@
+x: [[ 8 44 98 95 55 16]], y: [[ 81  56  41  71  79 103]], ornt: [u'c'], transcriptions: [u'SPACE']
+x: [[113 148 170 156 132 102]], y: [[37 45 56 84 75 70]], ornt: [u'c'], transcriptions: [u'AGE']
+x: [[ 16 156 155  17]], y: [[106  87 100 123]], ornt: [u'm'], transcriptions: [u'RESTAURANT']

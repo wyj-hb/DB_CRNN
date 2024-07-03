@@ -1,0 +1,4 @@
+x: [[ 319  390  616  859 1054  906  775  603  441  383]], y: [[649 438 305 361 664 728 477 436 552 705]], ornt: [u'c'], transcriptions: [u'QUESNEL']
+x: [[519 770 773 519]], y: [[574 584 647 630]], ornt: [u'h'], transcriptions: [u'GOLD']
+x: [[553 734 740 555]], y: [[640 649 718 713]], ornt: [u'h'], transcriptions: [u'PAN']
+x: [[540 721 727 553]], y: [[728 724 842 849]], ornt: [u'm'], transcriptions: [u'City']

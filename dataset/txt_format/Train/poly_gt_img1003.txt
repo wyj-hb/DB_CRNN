@@ -1,0 +1,6 @@
+x: [[606 622 637 637 622 606]], y: [[181 181 181 201 201 201]], ornt: [u'h'], transcriptions: [u'FUEL']
+x: [[496 598 720 736 621 502]], y: [[508 493 467 521 560 592]], ornt: [u'c'], transcriptions: [u'Peters']
+x: [[195 375 380 208]], y: [[ 5 12 49 52]], ornt: [u'#'], transcriptions: [u'#']
+x: [[299 365 365 306]], y: [[ 87  92 101 100]], ornt: [u'h'], transcriptions: [u'SPECIALS']
+x: [[421 464 465 419]], y: [[180 180 198 198]], ornt: [u'h'], transcriptions: [u'SWAPnGO']
+x: [[346 382 382 355]], y: [[190 191 206 207]], ornt: [u'h'], transcriptions: [u'ILK']

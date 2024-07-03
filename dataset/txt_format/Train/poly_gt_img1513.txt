@@ -1,0 +1,4 @@
+x: [[103 141 183 180 142 105]], y: [[224 239 246 263 257 242]], ornt: [u'c'], transcriptions: [u'VENICE']
+x: [[189 209 225 227 209 185]], y: [[243 243 241 254 260 258]], ornt: [u'c'], transcriptions: [u'ALE']
+x: [[159 260 243 173]], y: [[160 161 231 239]], ornt: [u'h'], transcriptions: [u'V']
+x: [[229 255 252 234]], y: [[237 222 237 252]], ornt: [u'#'], transcriptions: [u'#']

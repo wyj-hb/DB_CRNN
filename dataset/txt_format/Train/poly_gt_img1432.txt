@@ -1,0 +1,6 @@
+x: [[257 298 349 358 309 267]], y: [[288 264 249 265 281 301]], ornt: [u'c'], transcriptions: [u'MUZIUM']
+x: [[367 413 464 460 414 368]], y: [[246 238 242 260 259 263]], ornt: [u'c'], transcriptions: [u'SUNGAI']
+x: [[479 531 579 573 519 472]], y: [[243 260 286 302 278 265]], ornt: [u'c'], transcriptions: [u'LEMBING']
+x: [[307 334 370 372 337 315]], y: [[283 273 267 281 289 297]], ornt: [u'c'], transcriptions: [u'SUNGAI']
+x: [[376 414 452 451 416 381]], y: [[265 261 264 278 274 281]], ornt: [u'c'], transcriptions: [u'LEMBING']
+x: [[460 503 532 528 489 458]], y: [[264 271 286 299 283 278]], ornt: [u'c'], transcriptions: [u'MUSEUM']

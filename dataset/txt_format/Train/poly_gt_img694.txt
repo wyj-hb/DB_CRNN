@@ -1,0 +1,8 @@
+x: [[221 389 493 497 394 239]], y: [[256 243 244 325 345 412]], ornt: [u'c'], transcriptions: [u'Sanrio']
+x: [[494 650 773 766 643 509]], y: [[187 226 291 415 340 324]], ornt: [u'c'], transcriptions: [u'Gallery']
+x: [[1082 1142 1139 1082]], y: [[702 703 723 720]], ornt: [u'h'], transcriptions: [u'HELLO']
+x: [[1139 1193 1193 1141]], y: [[702 700 723 724]], ornt: [u'h'], transcriptions: [u'KITTY']
+x: [[1190 1238 1235 1193]], y: [[702 702 723 723]], ornt: [u'h'], transcriptions: [u'MEN']
+x: [[ 8 53 52  7]], y: [[580 586 648 649]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 5 46 41  5]], y: [[672 670 826 826]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 4 38 31  8]], y: [[855 850 958 957]], ornt: [u'#'], transcriptions: [u'#']

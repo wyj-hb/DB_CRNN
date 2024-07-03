@@ -1,0 +1,7 @@
+x: [[433 468 503 503 468 433]], y: [[396 396 396 491 491 491]], ornt: [u'#'], transcriptions: [u'#']
+x: [[393 444 442 397]], y: [[ 60  78 103  93]], ornt: [u'm'], transcriptions: [u'2012']
+x: [[387 429 478 472 427 385]], y: [[114 108 144 214 181 195]], ornt: [u'c'], transcriptions: [u'PORK']
+x: [[358 387 375 346]], y: [[280 307 333 310]], ornt: [u'm'], transcriptions: [u'WE']
+x: [[391 408 424 421 402 384]], y: [[307 319 319 348 349 337]], ornt: [u'c'], transcriptions: [u'Are']
+x: [[430 462 463 429]], y: [[321 322 357 355]], ornt: [u'c'], transcriptions: [u'The']
+x: [[460 480 492 513 495 468]], y: [[324 319 307 340 352 360]], ornt: [u'c'], transcriptions: [u'Best']

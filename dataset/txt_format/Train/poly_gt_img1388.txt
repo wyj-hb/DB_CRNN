@@ -1,0 +1,4 @@
+x: [[252 343 434 434 343 252]], y: [[475 475 475 508 508 508]], ornt: [u'h'], transcriptions: [u'SANDWICH']
+x: [[292 340 388 388 340 292]], y: [[521 521 521 557 557 557]], ornt: [u'h'], transcriptions: [u'SHOP']
+x: [[ 91 201 328 331 234 132]], y: [[327 261 241 303 318 377]], ornt: [u'c'], transcriptions: [u'TINYS']
+x: [[362 470 589 556 446 364]], y: [[246 263 325 379 325 302]], ornt: [u'c'], transcriptions: [u'GIANT']

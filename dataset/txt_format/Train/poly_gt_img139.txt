@@ -1,0 +1,3 @@
+x: [[111 208 333 309 220 129]], y: [[207 151 202 250 207 255]], ornt: [u'c'], transcriptions: [u'KOLIND']
+x: [[130 183 264 321 343 291 171  91]], y: [[325 384 387 328 349 429 432 345]], ornt: [u'c'], transcriptions: [u'KORESKOLE']
+x: [[621 724 727 618]], y: [[580 574 607 615]], ornt: [u'm'], transcriptions: [u'Koreskole']

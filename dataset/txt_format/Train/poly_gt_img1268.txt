@@ -1,0 +1,5 @@
+x: [[147 165 217 230 187 169]], y: [[343 244 210 246 282 360]], ornt: [u'c'], transcriptions: [u'apricot']
+x: [[438 510 556 525 481 419]], y: [[165 193 243 256 207 201]], ornt: [u'c'], transcriptions: [u'guava']
+x: [[490 545 618 613 551 499]], y: [[346 277 282 310 328 376]], ornt: [u'c'], transcriptions: [u'water']
+x: [[643 714 751 729 693 641]], y: [[281 302 351 369 330 308]], ornt: [u'c'], transcriptions: [u'melon']
+x: [[846 959 845]], y: [[ 6  3 96]], ornt: [u'#'], transcriptions: [u'#']

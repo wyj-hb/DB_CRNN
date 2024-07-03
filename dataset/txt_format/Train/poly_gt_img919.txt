@@ -1,0 +1,7 @@
+x: [[761 783 805 805 783 761]], y: [[586 586 586 607 607 607]], ornt: [u'h'], transcriptions: [u'9303']
+x: [[727 741 755 755 741 727]], y: [[588 588 588 605 605 605]], ornt: [u'h'], transcriptions: [u'BLU']
+x: [[382 431 497 492 435 389]], y: [[256 238 240 269 268 287]], ornt: [u'c'], transcriptions: [u'Shopping']
+x: [[500 548 587 559 534 502]], y: [[237 243 263 284 269 268]], ornt: [u'c'], transcriptions: [u'Gallery']
+x: [[548 585 577 538]], y: [[1085 1116 1164 1131]], ornt: [u'm'], transcriptions: [u'WYG']
+x: [[590 647 636 577]], y: [[1123 1164 1209 1169]], ornt: [u'm'], transcriptions: [u'2739']
+x: [[709 804 794 696]], y: [[1141 1172 1193 1167]], ornt: [u'm'], transcriptions: [u'MYVI']

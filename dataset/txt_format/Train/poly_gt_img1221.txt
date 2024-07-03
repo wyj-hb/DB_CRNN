@@ -1,0 +1,2 @@
+x: [[135 181 287 305 215 186]], y: [[217  91  23  72 136 231]], ornt: [u'c'], transcriptions: [u'MAISON']
+x: [[346 487 563 567 517 508 455 333]], y: [[  6  55 158 222 222 168  92  49]], ornt: [u'c'], transcriptions: [u'CENTRALE']

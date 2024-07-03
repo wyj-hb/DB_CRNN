@@ -1,0 +1,3 @@
+x: [[ 31  95 162 157  96  35]], y: [[19 10 30 49 34 40]], ornt: [u'c'], transcriptions: [u'ISTANBUL']
+x: [[ 85 114 114  86]], y: [[44 45 54 54]], ornt: [u'm'], transcriptions: [u'HOUSE']
+x: [[ 57  97 135 133  97  63]], y: [[37 33 43 51 43 47]], ornt: [u'#'], transcriptions: [u'#']

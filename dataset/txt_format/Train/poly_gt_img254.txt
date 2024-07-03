@@ -1,0 +1,4 @@
+x: [[ 28 126 224  99]], y: [[304 236 340 510]], ornt: [u'm'], transcriptions: [u'Le']
+x: [[185 413 632 617 424 274]], y: [[171 104 144 265 261 317]], ornt: [u'c'], transcriptions: [u'Train']
+x: [[772 939 976 910 782 623]], y: [[158 269 398 473 347 287]], ornt: [u'c'], transcriptions: [u'Bleu']
+x: [[222 768 795 222]], y: [[361 356 449 459]], ornt: [u'h'], transcriptions: [u'Restaurant']

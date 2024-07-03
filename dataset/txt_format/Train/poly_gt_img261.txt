@@ -1,0 +1,6 @@
+x: [[ 153  367  956 1523 1520  778  381  160]], y: [[301 345 114 244 525 474 620 554]], ornt: [u'c'], transcriptions: [u'FARWESTFUNGI']
+x: [[156 364 592 634 333 132]], y: [[572 646 625 703 739 653]], ornt: [u'c'], transcriptions: [u'CALIFORNIA']
+x: [[ 715  917 1309 1505 1489 1283  922  721]], y: [[563 502 528 604 709 631 599 650]], ornt: [u'c'], transcriptions: [u'MUSHROOMS']
+x: [[733 815 908 916 826 748]], y: [[724 683 668 739 754 787]], ornt: [u'c'], transcriptions: [u'MOSS']
+x: [[ 937 1120 1288 1292 1090  938]], y: [[665 673 701 778 736 734]], ornt: [u'c'], transcriptions: [u'lANDING']
+x: [[1319 1406 1411 1322]], y: [[716 751 833 785]], ornt: [u'm'], transcriptions: [u'CA']

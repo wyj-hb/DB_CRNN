@@ -1,0 +1,8 @@
+x: [[  59 1304 1286   38]], y: [[763 754 928 943]], ornt: [u'm'], transcriptions: [u'Sultanahmet']
+x: [[ 977 1151 1391 1334 1148  992]], y: [[637 595 655 742 712 733]], ornt: [u'c'], transcriptions: [u'Tarihi']
+x: [[ 995 1079 1163 1160 1019  926]], y: [[1015 1051 1075 1159 1138 1069]], ornt: [u'c'], transcriptions: [u'Selim']
+x: [[1403 2279 2282 1376]], y: [[751 778 994 982]], ornt: [u'm'], transcriptions: [u'Koftecisi']
+x: [[1184 1286 1367 1403 1307 1187]], y: [[1072 1048 1009 1084 1144 1171]], ornt: [u'c'], transcriptions: [u'Usta']
+x: [[ 59 464 443   5]], y: [[1600 1627 1768 1750]], ornt: [u'm'], transcriptions: [u'ARIHI']
+x: [[ 554 1601 1598  536]], y: [[1639 1705 1816 1771]], ornt: [u'm'], transcriptions: [u'SULTANAMET']
+x: [[1709 2525 2561 1724]], y: [[1717 1756 1888 1849]], ornt: [u'm'], transcriptions: [u'KOFTECISI']

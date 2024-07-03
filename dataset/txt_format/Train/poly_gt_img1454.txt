@@ -1,0 +1,2 @@
+x: [[161 190 248 264 214 189]], y: [[121  61  28  56  86 134]], ornt: [u'c'], transcriptions: [u'CENTRAL']
+x: [[359 408 437 404 378 344]], y: [[ 26  52 101 116  77  55]], ornt: [u'c'], transcriptions: [u'PARK']

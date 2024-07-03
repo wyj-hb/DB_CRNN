@@ -1,0 +1,4 @@
+x: [[22 46 84 93 62 44]], y: [[63 31 14 36 50 75]], ornt: [u'c'], transcriptions: [u'KING']
+x: [[ 98 168 202 188 147 101]], y: [[12 29 70 80 42 34]], ornt: [u'c'], transcriptions: [u'PALACE']
+x: [[ 44  98 147 185 203 163  87  22]], y: [[129 168 163 127 140 187 193 141]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[ 89 146 144  92]], y: [[236 237 258 258]], ornt: [u'h'], transcriptions: [u'820']

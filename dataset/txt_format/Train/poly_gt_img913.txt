@@ -1,0 +1,3 @@
+x: [[ 36 151 324 333 157  72]], y: [[430 356 299 353 403 467]], ornt: [u'c'], transcriptions: [u'CHILOCCO']
+x: [[366 463 583 570 463 357]], y: [[301 293 314 359 341 346]], ornt: [u'c'], transcriptions: [u'INDIAN']
+x: [[619 729 813 784 697 604]], y: [[328 370 442 481 409 371]], ornt: [u'c'], transcriptions: [u'SCHOOL']

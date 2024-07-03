@@ -1,0 +1,6 @@
+x: [[170 205 239 230 204 172]], y: [[395 380 395 413 398 412]], ornt: [u'c'], transcriptions: [u'STEAM']
+x: [[523 539 542 531]], y: [[564 563 597 599]], ornt: [u'm'], transcriptions: [u'PER']
+x: [[505 568 652 660 602 555]], y: [[130  85  66 112 139 178]], ornt: [u'c'], transcriptions: [u'Bus']
+x: [[721 824 910 865 805 705]], y: [[ 31  52 103 145 117 101]], ornt: [u'c'], transcriptions: [u'STOP']
+x: [[535 600 605 536]], y: [[240 230 255 264]], ornt: [u'm'], transcriptions: [u'Since']
+x: [[827 881 883 836]], y: [[201 191 216 227]], ornt: [u'm'], transcriptions: [u'1900']

@@ -1,0 +1,4 @@
+x: [[ 72  93 148 150 111  86]], y: [[58 31 14 32 47 71]], ornt: [u'c'], transcriptions: [u'Hotto']
+x: [[159 200 240 227 182 154]], y: [[12 20 52 62 37 33]], ornt: [u'c'], transcriptions: [u'Motto']
+x: [[ 72 220 241  74]], y: [[ 76  60 128 133]], ornt: [u'h'], transcriptions: [u'hm']
+x: [[ 99 155 214 227 188 143  80]], y: [[144 168 137 151 180 193 168]], ornt: [u'#'], transcriptions: [u'#']

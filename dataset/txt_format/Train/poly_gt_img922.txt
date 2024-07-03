@@ -1,0 +1,4 @@
+x: [[ 37  78 118 118  78  37]], y: [[207 207 207 236 236 236]], ornt: [u'h'], transcriptions: [u'Corner']
+x: [[343 362 359 342]], y: [[109 109 181 180]], ornt: [u'm'], transcriptions: [u'SHAWARMA']
+x: [[271 343 426 406 345 274]], y: [[210 184 214 243 222 242]], ornt: [u'c'], transcriptions: [u'MENU']
+x: [[290 395 394 288]], y: [[231 233 246 246]], ornt: [u'#'], transcriptions: [u'#']

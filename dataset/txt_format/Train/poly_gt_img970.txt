@@ -1,0 +1,7 @@
+x: [[122 158 197 210 174 143]], y: [[125 103  88 108 125 152]], ornt: [u'c'], transcriptions: [u'STJOHNS']
+x: [[201 233 269 272 239 213]], y: [[ 87  75  68  94 101 109]], ornt: [u'c'], transcriptions: [u'CHURCH']
+x: [[298 353 399 389 343 303]], y: [[ 67  70  78 106  96  94]], ornt: [u'c'], transcriptions: [u'STARNOLDS']
+x: [[407 423 441 428 410 396]], y: [[ 79  84  95 123 109 106]], ornt: [u'c'], transcriptions: [u'HIGH']
+x: [[452 473 503 488 463 432]], y: [[ 96 109 129 150 133 121]], ornt: [u'm'], transcriptions: [u'SCHOOL']
+x: [[574 638 634 572]], y: [[251 253 266 266]], ornt: [u'h'], transcriptions: [u'STMARY']
+x: [[567 636 636 567]], y: [[263 265 278 277]], ornt: [u'h'], transcriptions: [u'ORTHODOX']

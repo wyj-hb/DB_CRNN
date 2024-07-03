@@ -1,0 +1,7 @@
+x: [[134 316 461 463 305 131]], y: [[276 246 288 380 339 360]], ornt: [u'c'], transcriptions: [u'AKERSHUS']
+x: [[156 205 269 267 210 164]], y: [[369 354 350 384 388 399]], ornt: [u'c'], transcriptions: [u'ROYAL']
+x: [[274 355 443 429 361 278]], y: [[348 353 374 413 395 382]], ornt: [u'c'], transcriptions: [u'BANQUET']
+x: [[261 336 343 260]], y: [[392 395 419 417]], ornt: [u'h'], transcriptions: [u'HALL']
+x: [[253 299 352 352 296 256]], y: [[540 536 546 569 560 564]], ornt: [u'c'], transcriptions: [u'PRINCESS']
+x: [[234 316 319 229]], y: [[558 566 582 580]], ornt: [u'm'], transcriptions: [u'STORYBOOK']
+x: [[320 346 368 369 342 319]], y: [[571 571 570 586 585 584]], ornt: [u'c'], transcriptions: [u'DINING']

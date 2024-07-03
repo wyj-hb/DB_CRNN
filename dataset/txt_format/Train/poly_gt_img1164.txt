@@ -1,0 +1,3 @@
+x: [[635 663 695 694 668 640]], y: [[382 379 378 392 395 403]], ornt: [u'c'], transcriptions: [u'SPORTS']
+x: [[700 718 729 731 711 698]], y: [[375 378 382 401 393 395]], ornt: [u'c'], transcriptions: [u'BAR']
+x: [[664 703 703 668]], y: [[353 353 381 379]], ornt: [u'h'], transcriptions: [u'M2']

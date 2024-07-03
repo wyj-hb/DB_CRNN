@@ -1,0 +1,5 @@
+x: [[206 205 220 254 276 294 257 248 246]], y: [[192 155 124  73  78  97 118 142 191]], ornt: [u'c'], transcriptions: [u'Patok']
+x: [[300 346 357 354 302]], y: [[63 50 61 76 85]], ornt: [u'c'], transcriptions: [u'sa']
+x: [[388 430 456 481 460 435 436 422 404 369]], y: [[ 43  58 100 148 171 168 134 108  89  72]], ornt: [u'c'], transcriptions: [u'Manok']
+x: [[ 61 589 603  48]], y: [[371 336 440 473]], ornt: [u'm'], transcriptions: [u'Restaurant']
+x: [[  6 218 216   7]], y: [[520 520 537 537]], ornt: [u'#'], transcriptions: [u'#']

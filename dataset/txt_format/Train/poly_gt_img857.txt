@@ -1,0 +1,2 @@
+x: [[128 196 340 351 237 167]], y: [[215 112  62 135 173 279]], ornt: [u'c'], transcriptions: [u'AJAX']
+x: [[349 459 510 544 482 351]], y: [[505 456 370 379 495 543]], ornt: [u'c'], transcriptions: [u'AMSTERDAM']

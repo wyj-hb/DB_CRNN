@@ -1,0 +1,1 @@
+x: [[207 315 418 413 315 213]], y: [[785 751 791 826 785 811]], ornt: [u'c'], transcriptions: [u'MAISLINGER']

@@ -1,0 +1,5 @@
+x: [[108 250 392 392 250 108]], y: [[213 213 213 266 266 266]], ornt: [u'h'], transcriptions: [u'THOMAS']
+x: [[ 97 264 431 431 264  97]], y: [[410 410 410 468 468 468]], ornt: [u'h'], transcriptions: [u'HAMBURGERS']
+x: [[ 93 153 224 231 175 119]], y: [[342 301 282 325 342 375]], ornt: [u'c'], transcriptions: [u'World']
+x: [[263 347 416 380 327 260]], y: [[287 308 357 375 337 323]], ornt: [u'c'], transcriptions: [u'Famous']
+x: [[210 300 306 207]], y: [[333 337 383 386]], ornt: [u'h'], transcriptions: [u'Chili']

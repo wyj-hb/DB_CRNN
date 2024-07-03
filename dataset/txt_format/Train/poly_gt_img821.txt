@@ -1,0 +1,6 @@
+x: [[452 475 497 497 475 452]], y: [[444 444 444 466 466 466]], ornt: [u'h'], transcriptions: [u'OPEN']
+x: [[416 482 482 420]], y: [[305 296 334 339]], ornt: [u'm'], transcriptions: [u'1226']
+x: [[361 385 408 400 385 366]], y: [[217 208 208 229 227 236]], ornt: [u'c'], transcriptions: [u'FATTY']
+x: [[408 445 442 405]], y: [[207 207 225 224]], ornt: [u'm'], transcriptions: [u'PAPA']
+x: [[366 434 435 368]], y: [[232 223 243 250]], ornt: [u'#'], transcriptions: [u'#']
+x: [[292 349 347 297]], y: [[379 385 427 423]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,7 @@
+x: [[343 422 501 501 422 343]], y: [[523 523 523 565 565 565]], ornt: [u'#'], transcriptions: [u'#']
+x: [[154 243 332 332 243 154]], y: [[534 534 534 579 579 579]], ornt: [u'#'], transcriptions: [u'#']
+x: [[158 177 203 216 200 174]], y: [[425 400 389 409 427 443]], ornt: [u'c'], transcriptions: [u'City']
+x: [[209 278 374 370 288 218]], y: [[381 337 341 362 364 400]], ornt: [u'c'], transcriptions: [u'Convenience']
+x: [[381 449 505 489 433 376]], y: [[335 361 409 424 380 359]], ornt: [u'c'], transcriptions: [u'Restaurant']
+x: [[228 439 439 224]], y: [[413 403 458 472]], ornt: [u'm'], transcriptions: [u'First']
+x: [[160 496 500 160]], y: [[475 460 511 537]], ornt: [u'm'], transcriptions: [u'Kitchen']

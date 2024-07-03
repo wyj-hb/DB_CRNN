@@ -1,0 +1,5 @@
+x: [[273 286 298 298 286 273]], y: [[303 303 303 311 311 311]], ornt: [u'h'], transcriptions: [u'SEA']
+x: [[196 214 262 273 237 216]], y: [[224 151 120 137 168 223]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[272 301 305 282]], y: [[118 110 130 135]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[311 380 428 436 414 406 363 313]], y: [[110 123 178 225 230 186 137 127]], ornt: [u'c'], transcriptions: [u'SEAPARADISE']
+x: [[301 363 364 301]], y: [[304 304 316 316]], ornt: [u'h'], transcriptions: [u'PARADISE']

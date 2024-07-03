@@ -1,0 +1,5 @@
+x: [[ 64 185 323 281 192 119]], y: [[170  91 145 197 156 208]], ornt: [u'c'], transcriptions: [u'flatbread']
+x: [[148 243 241 154]], y: [[218 208 225 235]], ornt: [u'm'], transcriptions: [u'company']
+x: [[120 146 139 116]], y: [[239 245 264 260]], ornt: [u'm'], transcriptions: [u'all']
+x: [[148 177 209 213 170 141]], y: [[245 249 242 261 267 261]], ornt: [u'c'], transcriptions: [u'natural']
+x: [[216 243 260 270 242 221]], y: [[241 236 227 247 260 266]], ornt: [u'c'], transcriptions: [u'pizza']

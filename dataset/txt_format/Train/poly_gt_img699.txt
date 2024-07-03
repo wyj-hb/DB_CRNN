@@ -1,0 +1,6 @@
+x: [[248 369 525 523 408 301]], y: [[356 268 252 355 369 456]], ornt: [u'c'], transcriptions: [u'JAZZ']
+x: [[581 667 716 625 576 519]], y: [[252 302 377 440 381 355]], ornt: [u'c'], transcriptions: [u'INN']
+x: [[329 374 461 467 402 361]], y: [[451 394 369 411 431 470]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[475 500 500 477]], y: [[373 373 411 417]], ornt: [u'#'], transcriptions: [u'#']
+x: [[516 572 601 561 539 500]], y: [[372 392 434 459 422 415]], ornt: [u'c'], transcriptions: [u'JAZZ']
+x: [[288 676 673 287]], y: [[523 507 644 646]], ornt: [u'h'], transcriptions: [u'PONTO']

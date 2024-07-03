@@ -1,0 +1,2 @@
+x: [[ 48 156 269 269 154  54]], y: [[337 301 285 311 328 362]], ornt: [u'c'], transcriptions: [u'MONMOUTH']
+x: [[294 459 580 571 431 294]], y: [[281 284 306 334 308 308]], ornt: [u'c'], transcriptions: [u'UNIVERSITY']

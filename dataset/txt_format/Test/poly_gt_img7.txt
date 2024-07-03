@@ -1,0 +1,4 @@
+x: [[259 313 389 427 354 302]], y: [[542 462 417 459 507 582]], ornt: [u'c'], transcriptions: [u'PAUL']
+x: [[400 478 494 436]], y: [[398 380 448 465]], ornt: [u'#'], transcriptions: [u'#']
+x: [[492 637 763 701 607 494]], y: [[387 409 532 567 476 450]], ornt: [u'c'], transcriptions: [u'SHARK']
+x: [[305 701 654 280]], y: [[660 638 761 780]], ornt: [u'm'], transcriptions: [u'yachting']

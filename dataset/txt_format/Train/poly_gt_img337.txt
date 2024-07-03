@@ -1,0 +1,8 @@
+x: [[518 627 647 535]], y: [[357 316 351 397]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[ 653  840 1022 1016  834  659]], y: [[305 264 259 302 308 354]], ornt: [u'c'], transcriptions: [u'UNIVERSITY']
+x: [[1042 1122 1122 1042]], y: [[267 273 319 308]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[1148 1295 1405 1405 1252 1137]], y: [[282 316 368 403 348 316]], ornt: [u'c'], transcriptions: [u'GEORGIA']
+x: [[414 662 935 932 676 434]], y: [[469 342 305 362 408 527]], ornt: [u'c'], transcriptions: [u'SANFORD']
+x: [[1016 1298 1529 1491 1232 1007]], y: [[305 362 478 529 408 359]], ornt: [u'c'], transcriptions: [u'STADIUM']
+x: [[ 28 103  88  28]], y: [[636 694 717 679]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 6 93 90  4]], y: [[733 735 772 772]], ornt: [u'h'], transcriptions: [u'7257655']

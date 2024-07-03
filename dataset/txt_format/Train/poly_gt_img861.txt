@@ -1,0 +1,4 @@
+x: [[250 387 561 525 394 267]], y: [[139 105 190 244 178 220]], ornt: [u'c'], transcriptions: [u'Powder']
+x: [[277 318 318 279]], y: [[288 291 310 309]], ornt: [u'm'], transcriptions: [u'hein']
+x: [[328 372 373 325]], y: [[292 295 315 315]], ornt: [u'm'], transcriptions: [u'make']
+x: [[381 484 486 384]], y: [[283 289 315 315]], ornt: [u'm'], transcriptions: [u'Powder']

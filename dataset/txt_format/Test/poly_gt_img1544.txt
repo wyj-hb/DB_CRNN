@@ -1,0 +1,6 @@
+x: [[104 221 339 344 212  89]], y: [[  4  40  39 114  97  87]], ornt: [u'c'], transcriptions: [u'BELLS']
+x: [[ 88 274 274  90]], y: [[ 91 106 133 120]], ornt: [u'm'], transcriptions: [u'Amusement']
+x: [[278 338 338 281]], y: [[108 113 142 136]], ornt: [u'm'], transcriptions: [u'Park']
+x: [[361 394 398 362]], y: [[158 158 170 172]], ornt: [u'h'], transcriptions: [u'BELLS']
+x: [[223 239 241 226]], y: [[218 217 236 237]], ornt: [u'h'], transcriptions: [u'NO']
+x: [[113 256 254 115]], y: [[155 163 175 171]], ornt: [u'#'], transcriptions: [u'#']

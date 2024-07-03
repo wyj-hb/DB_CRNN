@@ -1,0 +1,5 @@
+x: [[ 25 418 406  58]], y: [[258 249 523 533]], ornt: [u'h'], transcriptions: [u'O']
+x: [[598 857 869 635]], y: [[231 215 514 527]], ornt: [u'm'], transcriptions: [u'S']
+x: [[1141 1857 1909 1150]], y: [[219 185 447 493]], ornt: [u'm'], transcriptions: [u'DO']
+x: [[ 397 1187 1205  406]], y: [[1072 1039 1194 1234]], ornt: [u'm'], transcriptions: [u'CHICOS']
+x: [[ 638  827 1055 1092  857  537]], y: [[1374 1435 1365 1447 1563 1478]], ornt: [u'c'], transcriptions: [u'doner']

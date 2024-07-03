@@ -1,0 +1,6 @@
+x: [[138 153 168 168 153 138]], y: [[572 572 572 606 606 606]], ornt: [u'h'], transcriptions: [u'G']
+x: [[ 82 122 161 161 122  82]], y: [[131 131 131 173 173 173]], ornt: [u'#'], transcriptions: [u'#']
+x: [[207 349 348 205]], y: [[501 508 535 532]], ornt: [u'm'], transcriptions: [u'SCHDEIDER']
+x: [[225 321 324 228]], y: [[528 535 559 561]], ornt: [u'm'], transcriptions: [u'WEISSE']
+x: [[172 217 261 271 230 167]], y: [[584 590 575 596 615 613]], ornt: [u'c'], transcriptions: [u'Schneider']
+x: [[290 321 352 343 321 285]], y: [[562 558 561 582 580 594]], ornt: [u'c'], transcriptions: [u'Sahn']

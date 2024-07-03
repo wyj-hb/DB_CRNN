@@ -1,0 +1,6 @@
+x: [[493 568 642 642 568 493]], y: [[287 287 287 314 314 314]], ornt: [u'h'], transcriptions: [u'PRODUCE']
+x: [[224 245 265 265 245 224]], y: [[ 94  94  94 114 114 114]], ornt: [u'h'], transcriptions: [u'Village']
+x: [[422 564 724 728 563 425]], y: [[180 152 175 224 204 221]], ornt: [u'c'], transcriptions: [u'RIVIERA']
+x: [[508 635 634 507]], y: [[330 332 355 348]], ornt: [u'h'], transcriptions: [u'2012277105']
+x: [[474 670 670 474]], y: [[355 364 378 366]], ornt: [u'm'], transcriptions: [u'wwwrivieraproducecom']
+x: [[ 55  96 142 144 107  65]], y: [[189 185 181 205 205 216]], ornt: [u'c'], transcriptions: [u'WBMASON']

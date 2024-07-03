@@ -1,0 +1,5 @@
+x: [[ 511  817 1159 1133  817  544]], y: [[351 261 372 454 360 436]], ornt: [u'c'], transcriptions: [u'DPUNCAK']
+x: [[ 601 1070 1079  595]], y: [[444 459 577 561]], ornt: [u'h'], transcriptions: [u'BERIS']
+x: [[360 739 739 372]], y: [[589 598 697 687]], ornt: [u'h'], transcriptions: [u'LAKE']
+x: [[ 770 1294 1304  775]], y: [[603 621 702 694]], ornt: [u'h'], transcriptions: [u'RESORT']
+x: [[ 375 1291 1291  379]], y: [[829 853 963 948]], ornt: [u'h'], transcriptions: [u'RESTORAN']

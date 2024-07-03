@@ -1,0 +1,5 @@
+x: [[466 525 584 584 525 466]], y: [[189 189 189 217 217 217]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 24 181 314 322 198  46]], y: [[154 133 138 209 234 335]], ornt: [u'c'], transcriptions: [u'Ocean']
+x: [[441 599 611 455]], y: [[106 107 178 194]], ornt: [u'm'], transcriptions: [u'Park']
+x: [[131 168 220 216 176 135]], y: [[277 259 242 278 285 309]], ornt: [u'c'], transcriptions: [u'Hong']
+x: [[224 258 306 306 260 227]], y: [[236 226 216 252 257 267]], ornt: [u'c'], transcriptions: [u'Kong']

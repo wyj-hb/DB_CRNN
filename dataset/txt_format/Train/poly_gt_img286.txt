@@ -1,0 +1,1 @@
+x: [[ 82 108 131 130 107  87]], y: [[85 80 89 97 91 95]], ornt: [u'c'], transcriptions: [u'TacoTime']

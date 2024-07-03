@@ -1,0 +1,8 @@
+x: [[  4 249 229   4]], y: [[ 36 246 311 146]], ornt: [u'm'], transcriptions: [u'UAWEI']
+x: [[294 334 380 386 346 321]], y: [[265 232 224 249 259 284]], ornt: [u'c'], transcriptions: [u'ONECARD']
+x: [[354 408 423 370]], y: [[434 408 442 463]], ornt: [u'm'], transcriptions: [u'ONE']
+x: [[370 421 439 385]], y: [[463 442 471 496]], ornt: [u'm'], transcriptions: [u'CARD']
+x: [[459 604 609 470]], y: [[639 521 542 663]], ornt: [u'#'], transcriptions: [u'#']
+x: [[318 440 455 340]], y: [[288 264 289 321]], ornt: [u'#'], transcriptions: [u'#']
+x: [[383 397 402 383]], y: [[232 227 248 253]], ornt: [u'h'], transcriptions: [u'e']
+x: [[407 431 450 456 431 405]], y: [[227 235 245 262 257 253]], ornt: [u'c'], transcriptions: [u'Kiosk']

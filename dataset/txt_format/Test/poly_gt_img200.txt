@@ -1,0 +1,5 @@
+x: [[304 326 392 422 380 356]], y: [[379 301 222 280 331 412]], ornt: [u'c'], transcriptions: [u'ALL']
+x: [[416 517 629 631 542 440]], y: [[202 153 156 225 220 264]], ornt: [u'c'], transcriptions: [u'INDIA']
+x: [[664 835 874 820 764 646]], y: [[162 250 421 421 292 226]], ornt: [u'c'], transcriptions: [u'PERMIT']
+x: [[352 418 581 571 385 302]], y: [[447 589 664 738 661 489]], ornt: [u'c'], transcriptions: [u'TOURIST']
+x: [[596 755 853 896 796 616]], y: [[658 601 466 499 675 736]], ornt: [u'c'], transcriptions: [u'VEHICLE']

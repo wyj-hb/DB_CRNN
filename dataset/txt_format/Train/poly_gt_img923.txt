@@ -1,0 +1,7 @@
+x: [[163 236 308 308 236 163]], y: [[453 453 453 484 484 484]], ornt: [u'h'], transcriptions: [u'BOUILLABAISSE']
+x: [[230 290 350 350 290 230]], y: [[426 426 426 453 453 453]], ornt: [u'h'], transcriptions: [u'PROVENCAL']
+x: [[101 163 225 225 163 101]], y: [[419 419 419 453 453 453]], ornt: [u'h'], transcriptions: [u'SPECIALITES']
+x: [[158 259 359 359 259 158]], y: [[376 376 376 424 424 424]], ornt: [u'h'], transcriptions: [u'ESCALADER']
+x: [[101 126 151 151 126 101]], y: [[368 368 368 414 414 414]], ornt: [u'h'], transcriptions: [u'L']
+x: [[110 178 264 327 302 253 184 141]], y: [[198 163 169 195 232 207 203 234]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[130 204 281 291 192 102]], y: [[302 329 324 359 367 344]], ornt: [u'c'], transcriptions: [u'LHAUTURE']

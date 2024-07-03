@@ -1,0 +1,3 @@
+x: [[124 158 270 268 187 167]], y: [[342 240 202 249 286 351]], ornt: [u'c'], transcriptions: [u'NEALS']
+x: [[307 384 384 348 339 297]], y: [[216 276 360 358 294 256]], ornt: [u'c'], transcriptions: [u'YARD']
+x: [[182 253 339 365 258 152]], y: [[466 507 462 510 555 507]], ornt: [u'c'], transcriptions: [u'DAIRY']

@@ -1,0 +1,6 @@
+x: [[237 286 353 355 301 268]], y: [[ 86  44  28 102 105 135]], ornt: [u'c'], transcriptions: [u'NO']
+x: [[421 531 570 499 466 528 485 405]], y: [[ 43 128 298 471 444 291 151  92]], ornt: [u'c'], transcriptions: [u'STRETCHED']
+x: [[250 393 475 478 367 259]], y: [[283 243 250 299 301 342]], ornt: [u'c'], transcriptions: [u'LOVE']
+x: [[148 158 212 201]], y: [[248 197 212 260]], ornt: [u'm'], transcriptions: [u'H']
+x: [[228 253 296 272 216 184]], y: [[407 450 474 516 492 440]], ornt: [u'c'], transcriptions: [u'GH']
+x: [[357 404 433 450 409 363]], y: [[495 478 462 510 521 528]], ornt: [u'c'], transcriptions: [u'DO']

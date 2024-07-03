@@ -1,0 +1,6 @@
+x: [[280 303 325 325 303 280]], y: [[427 427 427 441 441 441]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 80 116 167 168 129  85]], y: [[176 155 139 155 165 191]], ornt: [u'c'], transcriptions: [u'BOULANGERIE']
+x: [[177 215 246 240 208 176]], y: [[139 138 149 166 159 155]], ornt: [u'c'], transcriptions: [u'PATISSERIE']
+x: [[ 78 108 110  83]], y: [[300 294 315 319]], ornt: [u'm'], transcriptions: [u'La']
+x: [[ 82 246 252  85]], y: [[323 303 345 365]], ornt: [u'm'], transcriptions: [u'ChouRuetterie']
+x: [[187 330 333 194]], y: [[408 407 450 449]], ornt: [u'#'], transcriptions: [u'#']

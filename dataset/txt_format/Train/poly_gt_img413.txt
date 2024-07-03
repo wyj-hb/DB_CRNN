@@ -1,0 +1,8 @@
+x: [[ 436 1725 1725  426]], y: [[ 906  897 1016 1030]], ornt: [u'h'], transcriptions: [u'TYRETRADING']
+x: [[1789 2185 2194 1798]], y: [[ 878  878 1026 1021]], ornt: [u'h'], transcriptions: [u'COM']
+x: [[2300 2286 2309 2369 2355 2365]], y: [[1394 1265 1155 1187 1274 1376]], ornt: [u'c'], transcriptions: [u'SNAP']
+x: [[2314 2342 2378 2447 2401 2388]], y: [[1118 1067 1016 1049 1113 1178]], ornt: [u'c'], transcriptions: [u'ME']
+x: [[2521 2714 2972 2949 2733 2576]], y: [[846 768 791 901 855 929]], ornt: [u'c'], transcriptions: [u'Continental']
+x: [[3161 3258 3281 3216 3175 3124]], y: [[ 966 1109 1233 1251 1122 1026]], ornt: [u'c'], transcriptions: [u'TWEET']
+x: [[3221 3216 3276 3295]], y: [[1357 1260 1237 1362]], ornt: [u'm'], transcriptions: [u'ME']
+x: [[2710 3101 3115 2714]], y: [[1753 1748 1822 1845]], ornt: [u'm'], transcriptions: [u'Continental']

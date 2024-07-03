@@ -1,0 +1,5 @@
+x: [[210 243 298 311 263 235]], y: [[ 96  46  22  55  82 122]], ornt: [u'c'], transcriptions: [u'Fresh']
+x: [[311 366 436 425 369 321]], y: [[12  3  5 49 40 53]], ornt: [u'c'], transcriptions: [u'Local']
+x: [[450 555 594 566 523 438]], y: [[  7  52 135 152  87  52]], ornt: [u'c'], transcriptions: [u'Berries']
+x: [[262 368 360 253]], y: [[216 237 275 255]], ornt: [u'm'], transcriptions: [u'Egoroff']
+x: [[374 481 478 369]], y: [[239 261 289 271]], ornt: [u'm'], transcriptions: [u'Farms']

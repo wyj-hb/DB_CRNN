@@ -1,0 +1,3 @@
+x: [[157 216 216 157]], y: [[152 135 164 175]], ornt: [u'm'], transcriptions: [u'RBEIT']
+x: [[233 269 340 329 281 237]], y: [[128 102 105 140 129 158]], ornt: [u'c'], transcriptions: [u'MACHT']
+x: [[358 451 456 362]], y: [[104  83 122 139]], ornt: [u'm'], transcriptions: [u'FRE']

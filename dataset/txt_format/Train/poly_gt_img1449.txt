@@ -1,0 +1,4 @@
+x: [[220 285 376 487 454 378 304 238]], y: [[699 645 634 685 721 670 679 724]], ornt: [u'c'], transcriptions: [u'CALIFORNI']
+x: [[267 441 439 271]], y: [[727 739 769 757]], ornt: [u'm'], transcriptions: [u'BAKERY']
+x: [[268 333 337 267]], y: [[766 771 795 792]], ornt: [u'm'], transcriptions: [u'orno']
+x: [[343 454 447 339]], y: [[771 780 808 798]], ornt: [u'm'], transcriptions: [u'dAmer']

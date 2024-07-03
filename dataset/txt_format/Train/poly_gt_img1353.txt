@@ -1,0 +1,5 @@
+x: [[206 237 303 318 260 239]], y: [[385 302 266 301 331 398]], ornt: [u'c'], transcriptions: [u'NATIONAL']
+x: [[321 382 427 417 369 324]], y: [[267 261 280 309 287 294]], ornt: [u'c'], transcriptions: [u'TRACK']
+x: [[328 399 393 311]], y: [[316 378 427 369]], ornt: [u'm'], transcriptions: [u'IND']
+x: [[271 339 404 411 329 256]], y: [[466 501 492 527 532 498]], ornt: [u'c'], transcriptions: [u'MCMVIII']
+x: [[445 497 491 459 467 420]], y: [[292 378 459 447 381 317]], ornt: [u'c'], transcriptions: [u'ATHLETICS']

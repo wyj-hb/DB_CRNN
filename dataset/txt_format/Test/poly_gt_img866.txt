@@ -1,0 +1,5 @@
+x: [[202 410 656 629 424 224]], y: [[433 370 419 495 453 495]], ornt: [u'c'], transcriptions: [u'LONDON']
+x: [[311 522 526 311]], y: [[472 465 518 528]], ornt: [u'm'], transcriptions: [u'BAKERS']
+x: [[361 481 489 358]], y: [[778 774 827 833]], ornt: [u'm'], transcriptions: [u'1931']
+x: [[259 347 349 269]], y: [[577 582 601 599]], ornt: [u'm'], transcriptions: [u'LONDON']
+x: [[293 335 339 288]], y: [[599 601 616 616]], ornt: [u'#'], transcriptions: [u'#']

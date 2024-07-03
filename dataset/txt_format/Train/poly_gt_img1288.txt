@@ -1,0 +1,7 @@
+x: [[106 198 197  98]], y: [[ 70  84 108  97]], ornt: [u'h'], transcriptions: [u'Azuki']
+x: [[107 160 163 107]], y: [[108 115 128 125]], ornt: [u'h'], transcriptions: [u'SUSHI']
+x: [[42 77 78 35]], y: [[481 482 503 497]], ornt: [u'h'], transcriptions: [u'OBI']
+x: [[458 487 516 513 486 464]], y: [[118 115 123 139 132 133]], ornt: [u'c'], transcriptions: [u'LUKES']
+x: [[438 505 506 437]], y: [[144 153 168 162]], ornt: [u'm'], transcriptions: [u'LOBSTER']
+x: [[509 555 557 509]], y: [[152 159 172 169]], ornt: [u'm'], transcriptions: [u'ROLL']
+x: [[648 678 726 689]], y: [[156 154 416 414]], ornt: [u'm'], transcriptions: [u'KITCHEN']

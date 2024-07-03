@@ -1,0 +1,7 @@
+x: [[ 65 128 222 224 137  92]], y: [[202 127  98 132 161 229]], ornt: [u'c'], transcriptions: [u'BETTER']
+x: [[269 368 419 386 329 268]], y: [[104 137 200 219 157 134]], ornt: [u'c'], transcriptions: [u'VINES']
+x: [[ 13 489 486  25]], y: [[256 271 360 344]], ornt: [u'm'], transcriptions: [u'CLOSED']
+x: [[ 98 164 233 237 135  73]], y: [[384 450 472 500 476 403]], ornt: [u'c'], transcriptions: [u'BETTER']
+x: [[269 338 382 421 364 265]], y: [[472 450 405 419 477 501]], ornt: [u'c'], transcriptions: [u'WINES']
+x: [[431 556 554 430 428]], y: [[419 418 480 491 492]], ornt: [u'h'], transcriptions: [u'PPY']
+x: [[488 534 531 490]], y: [[174 174 193 191]], ornt: [u'h'], transcriptions: [u'Chees']

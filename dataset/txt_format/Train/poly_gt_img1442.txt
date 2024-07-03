@@ -1,0 +1,4 @@
+x: [[210 469 478 190]], y: [[139  70 264 355]], ornt: [u'm'], transcriptions: [u'Like']
+x: [[372 410 410 379]], y: [[277 272 305 311]], ornt: [u'm'], transcriptions: [u'US']
+x: [[425 461 464 428]], y: [[267 265 294 300]], ornt: [u'm'], transcriptions: [u'on']
+x: [[ 52 324 562 555 323  91  90]], y: [[444 339 308 410 446 549 551]], ornt: [u'c'], transcriptions: [u'FACEBOOk']

@@ -1,0 +1,5 @@
+x: [[208 250 295 301 265 235]], y: [[421 384 376 409 423 450]], ornt: [u'c'], transcriptions: [u'Happy']
+x: [[316 375 399 376 352 303]], y: [[378 399 427 453 426 408]], ornt: [u'c'], transcriptions: [u'Cooker']
+x: [[277 343 342 273]], y: [[487 487 516 520]], ornt: [u'm'], transcriptions: [u'Menu']
+x: [[213 292 298 214]], y: [[574 562 607 612]], ornt: [u'm'], transcriptions: [u'ABC']
+x: [[208 342 340 208]], y: [[612 604 651 663]], ornt: [u'm'], transcriptions: [u'TeRINGIN']

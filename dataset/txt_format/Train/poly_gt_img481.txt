@@ -1,0 +1,3 @@
+x: [[628 742 868 856 745 646]], y: [[124 129 190 228 172 168]], ornt: [u'c'], transcriptions: [u'MILLENNIA']
+x: [[631 809 803 629]], y: [[349 393 424 391]], ornt: [u'm'], transcriptions: [u'Pioneering']
+x: [[820 943 944 820]], y: [[393 420 453 433]], ornt: [u'm'], transcriptions: [u'Lifestyle']

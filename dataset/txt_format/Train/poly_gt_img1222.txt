@@ -1,0 +1,8 @@
+x: [[346 371 395 395 371 346]], y: [[293 293 293 312 312 312]], ornt: [u'h'], transcriptions: [u'1880']
+x: [[231 242 262 282 262 251]], y: [[264 241 225 237 255 275]], ornt: [u'c'], transcriptions: [u'DEO']
+x: [[301 344 398 394 348 308]], y: [[195 183 182 205 209 221]], ornt: [u'c'], transcriptions: [u'OPTIMO']
+x: [[430 482 513 494 460 419]], y: [[193 222 268 278 240 211]], ornt: [u'c'], transcriptions: [u'MAXIMO']
+x: [[248 273 323 333 287 269]], y: [[317 254 225 250 280 325]], ornt: [u'c'], transcriptions: [u'BEATCEQUE']
+x: [[341 391 431 425 386 345]], y: [[216 215 231 248 238 241]], ornt: [u'c'], transcriptions: [u'MARICE']
+x: [[442 483 493 472 458 434]], y: [[238 281 316 321 282 260]], ornt: [u'c'], transcriptions: [u'VIRGINI']
+x: [[299 355 409 452 432 398 359 312]], y: [[285 247 258 291 312 274 267 305]], ornt: [u'c'], transcriptions: [u'IMMACULATCE']

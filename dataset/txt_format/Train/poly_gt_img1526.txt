@@ -1,0 +1,7 @@
+x: [[330 384 437 437 384 330]], y: [[452 452 452 503 503 503]], ornt: [u'h'], transcriptions: [u'Oldest']
+x: [[244 299 353 353 299 244]], y: [[502 502 502 543 543 543]], ornt: [u'h'], transcriptions: [u'SMOKE']
+x: [[359 403 446 446 403 359]], y: [[507 507 507 547 547 547]], ornt: [u'h'], transcriptions: [u'SHOP']
+x: [[371 401 431 431 401 371]], y: [[388 388 388 418 418 418]], ornt: [u'h'], transcriptions: [u'SAN']
+x: [[ 68 135 205 210 143  76]], y: [[390 396 367 452 473 458]], ornt: [u'c'], transcriptions: [u'PIPE']
+x: [[221 388 491 481 376 220]], y: [[351 259 252 348 351 443]], ornt: [u'c'], transcriptions: [u'DREAMS']
+x: [[313 404 469 466 401 319]], y: [[430 419 433 464 451 459]], ornt: [u'c'], transcriptions: [u'FRANCISCOS']

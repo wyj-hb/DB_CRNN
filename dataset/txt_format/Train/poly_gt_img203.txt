@@ -1,0 +1,5 @@
+x: [[150 181 221 249 209 181]], y: [[195 131  91 124 159 211]], ornt: [u'c'], transcriptions: [u'EAST']
+x: [[240 340 427 422 332 259]], y: [[ 74  36  40  78  77 110]], ornt: [u'c'], transcriptions: [u'INDIAN']
+x: [[448 564 602 561 513 428]], y: [[ 45 110 199 214 134  80]], ornt: [u'c'], transcriptions: [u'CUISINE']
+x: [[ 38 395 396  15]], y: [[316 327 437 430]], ornt: [u'm'], transcriptions: [u'SPICE']
+x: [[424 743 725 416]], y: [[323 330 455 441]], ornt: [u'm'], transcriptions: [u'Hut']

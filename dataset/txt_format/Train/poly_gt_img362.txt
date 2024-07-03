@@ -1,0 +1,7 @@
+x: [[ 83  92 124 144 120 112]], y: [[263 215 185 199 234 270]], ornt: [u'c'], transcriptions: [u'LOie']
+x: [[293 325 331 311 297 277]], y: [[173 210 252 258 219 194]], ornt: [u'c'], transcriptions: [u'Bleue']
+x: [[143 196 275 290 201 120]], y: [[326 353 336 358 385 351]], ornt: [u'c'], transcriptions: [u'LIBRAIRIE']
+x: [[ 19 106 106  22]], y: [[323 330 349 343]], ornt: [u'm'], transcriptions: [u'ESTAURANT']
+x: [[15 24 33 25]], y: [[276 267 278 288]], ornt: [u'm'], transcriptions: [u'la']
+x: [[27 43 61 63 49 37]], y: [[261 257 259 272 274 280]], ornt: [u'c'], transcriptions: [u'tete']
+x: [[68 85 82 67]], y: [[257 262 280 273]], ornt: [u'm'], transcriptions: [u'de']

@@ -1,0 +1,6 @@
+x: [[641 675 719 723 691 671]], y: [[160 128 116 148 162 182]], ornt: [u'c'], transcriptions: [u'SKIN']
+x: [[735 763 787 761 749 725]], y: [[118 130 154 182 162 152]], ornt: [u'c'], transcriptions: [u'GYM']
+x: [[667 759 763 681]], y: [[182 178 238 242]], ornt: [u'm'], transcriptions: [u'SG']
+x: [[657 699 745 779 799 757 693 629]], y: [[222 262 256 214 232 286 294 242]], ornt: [u'c'], transcriptions: [u'AESTHETIC']
+x: [[571 657 655 569]], y: [[344 334 396 412]], ornt: [u'm'], transcriptions: [u'Sk']
+x: [[731 893 907 759]], y: [[312 298 372 382]], ornt: [u'm'], transcriptions: [u'Gym']

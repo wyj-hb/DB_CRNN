@@ -1,0 +1,4 @@
+x: [[311 339 366 366 339 311]], y: [[541 541 541 560 560 560]], ornt: [u'h'], transcriptions: [u'2008']
+x: [[263 281 298 298 281 263]], y: [[543 543 543 561 561 561]], ornt: [u'h'], transcriptions: [u'EST']
+x: [[157 315 486 475 303 180]], y: [[486 454 471 519 496 525]], ornt: [u'c'], transcriptions: [u'WELLINGTON']
+x: [[237 318 396 408 313 231]], y: [[591 600 594 634 646 631]], ornt: [u'c'], transcriptions: [u'COFFEE']

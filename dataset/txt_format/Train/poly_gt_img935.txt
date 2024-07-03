@@ -1,0 +1,8 @@
+x: [[186 207 256 229 165 144]], y: [[520 583 643 681 624 540]], ornt: [u'c'], transcriptions: [u'MUSIC']
+x: [[306 364 372 318]], y: [[286 270 309 313]], ornt: [u'm'], transcriptions: [u'BC']
+x: [[393 528 576 594 558 543 486 382]], y: [[270 313 376 435 447 403 340 301]], ornt: [u'c'], transcriptions: [u'ENTERTAINMENT']
+x: [[378 460 498 469 427 379]], y: [[355 379 421 454 414 403]], ornt: [u'c'], transcriptions: [u'CHRIS']
+x: [[511 517 498 463 483 472]], y: [[448 516 571 561 511 463]], ornt: [u'c'], transcriptions: [u'GAGE']
+x: [[594 607 598 567 568 552]], y: [[447 489 531 540 496 459]], ornt: [u'c'], transcriptions: [u'HALL']
+x: [[603 586 549 564]], y: [[550 594 577 537]], ornt: [u'c'], transcriptions: [u'OF']
+x: [[573 552 525 498 535 549]], y: [[610 645 679 648 619 585]], ornt: [u'c'], transcriptions: [u'FAME']

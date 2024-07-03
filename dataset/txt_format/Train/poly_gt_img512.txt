@@ -1,0 +1,7 @@
+x: [[740 842 965 974 884 794]], y: [[784 745 718 772 796 841]], ornt: [u'c'], transcriptions: [u'TAPU']
+x: [[1007 1097 1100 1013]], y: [[721 706 760 772]], ornt: [u'm'], transcriptions: [u've']
+x: [[1133 1367 1604 1574 1346 1136]], y: [[697 694 751 814 757 766]], ornt: [u'c'], transcriptions: [u'KADASTRO']
+x: [[ 815 1547 1547  830]], y: [[ 847  820  958 1009]], ornt: [u'm'], transcriptions: [u'TAKAV']
+x: [[ 821 1124 1124  818]], y: [[1024 1009 1081 1090]], ornt: [u'm'], transcriptions: [u'SOSYAL']
+x: [[1154 1550 1553 1151]], y: [[1006  985 1054 1072]], ornt: [u'm'], transcriptions: [u'TESISLERI']
+x: [[1016 1166 1343 1364 1187 1019]], y: [[1150 1159 1126 1207 1237 1225]], ornt: [u'c'], transcriptions: [u'VAKFI']

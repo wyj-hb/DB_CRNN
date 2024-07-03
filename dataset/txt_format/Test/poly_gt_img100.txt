@@ -1,0 +1,2 @@
+x: [[ 12 166 357 364 168  16]], y: [[507 486 503 550 535 548]], ornt: [u'c'], transcriptions: [u'GEMBIRA']
+x: [[427 518 576 576 503 424]], y: [[512 532 553 593 568 555]], ornt: [u'c'], transcriptions: [u'LOKA']

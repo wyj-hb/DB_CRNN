@@ -1,0 +1,6 @@
+x: [[415 490 583 586 509 454]], y: [[291 237 213 249 265 307]], ornt: [u'c'], transcriptions: [u'GREAT']
+x: [[610 707 758 713 667 599]], y: [[211 228 270 288 253 244]], ornt: [u'c'], transcriptions: [u'FOOD']
+x: [[329 590 586 322]], y: [[331 310 360 382]], ornt: [u'm'], transcriptions: [u'JOLTN']
+x: [[619 821 830 610]], y: [[309 292 343 357]], ornt: [u'm'], transcriptions: [u'JOES']
+x: [[436 476 565 545 440 386]], y: [[385 423 445 484 462 417]], ornt: [u'c'], transcriptions: [u'GREAT']
+x: [[574 647 719 760 689 580]], y: [[435 415 358 376 456 478]], ornt: [u'c'], transcriptions: [u'TIMES']

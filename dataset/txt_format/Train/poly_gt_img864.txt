@@ -1,0 +1,6 @@
+x: [[165 179 202 211 189 179]], y: [[ 97  74  57  66  92 113]], ornt: [u'c'], transcriptions: [u'ALLIANCE']
+x: [[208 232 260 258 229 217]], y: [[52 41 39 57 58 71]], ornt: [u'c'], transcriptions: [u'ISRAELIT']
+x: [[292 309 317 304 294 277]], y: [[ 53  70  90 103  81  69]], ornt: [u'c'], transcriptions: [u'ASELLE']
+x: [[226 250 251 229]], y: [[ 88  85  98 100]], ornt: [u'h'], transcriptions: [u'1882']
+x: [[144 214 216 144]], y: [[132 123 140 146]], ornt: [u'm'], transcriptions: [u'INSTITUITIOn']
+x: [[217 336 337 216]], y: [[123 111 131 142]], ornt: [u'm'], transcriptions: [u'PROFESSIONNELL']

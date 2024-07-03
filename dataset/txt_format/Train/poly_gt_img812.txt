@@ -1,0 +1,8 @@
+x: [[231 241 262 252]], y: [[183 148 153 193]], ornt: [u'm'], transcriptions: [u'PUB']
+x: [[254 303 364 385 363 346 307 271]], y: [[126 106 140 182 191 153 124 139]], ornt: [u'c'], transcriptions: [u'RESTAURACIA']
+x: [[265 294 277 246]], y: [[246 270 287 256]], ornt: [u'm'], transcriptions: [u'Pod']
+x: [[296 317 345 358 325 285]], y: [[270 280 277 287 305 292]], ornt: [u'c'], transcriptions: [u'Ziota']
+x: [[345 366 390 379 360]], y: [[269 242 250 273 282]], ornt: [u'c'], transcriptions: [u'Pipa']
+x: [[323 444 449 326]], y: [[356 357 381 382]], ornt: [u'h'], transcriptions: [u'KANTOR']
+x: [[318 453 454 326]], y: [[384 382 393 396]], ornt: [u'h'], transcriptions: [u'EXCHANGE']
+x: [[408 587 592 404]], y: [[389 384 402 404]], ornt: [u'#'], transcriptions: [u'#']

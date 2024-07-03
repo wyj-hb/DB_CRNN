@@ -1,0 +1,6 @@
+x: [[135 227 297 260 221 151]], y: [[25  8 52 80 56 70]], ornt: [u'c'], transcriptions: [u'HOT']
+x: [[ 55 210 182  27]], y: [[ 82 108 169 145]], ornt: [u'm'], transcriptions: [u'Krispy']
+x: [[213 384 361 191]], y: [[106 132 189 166]], ornt: [u'm'], transcriptions: [u'Kreme']
+x: [[ 38 197 198  34]], y: [[153 178 196 172]], ornt: [u'm'], transcriptions: [u'ORIGINAL']
+x: [[220 348 349 220]], y: [[183 199 220 199]], ornt: [u'm'], transcriptions: [u'GLAZED']
+x: [[123 179 263 261 159  94]], y: [[204 243 225 282 285 236]], ornt: [u'c'], transcriptions: [u'NOW']

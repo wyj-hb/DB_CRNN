@@ -1,0 +1,7 @@
+x: [[162 210 271 273 222 166]], y: [[73 36 39 54 65 88]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[ 58 159 157  48]], y: [[135 127 175 197]], ornt: [u'm'], transcriptions: [u'Cole']
+x: [[170 269 403 413 277 170]], y: [[114  67  40  80 120 169]], ornt: [u'c'], transcriptions: [u'Harbour']
+x: [[ 97 128 154 156 131  96]], y: [[217 211 201 220 229 235]], ornt: [u'c'], transcriptions: [u'HOME']
+x: [[157 185 187 159]], y: [[198 187 207 218]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[187 263 267 189]], y: [[187 156 174 206]], ornt: [u'm'], transcriptions: [u'SIDNEY']
+x: [[263 320 357 359 318 271]], y: [[153 132 127 144 156 173]], ornt: [u'c'], transcriptions: [u'CROSBY']

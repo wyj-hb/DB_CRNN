@@ -1,0 +1,4 @@
+x: [[  1  42 120 115  63  12]], y: [[297 274 261 319 327 361]], ornt: [u'c'], transcriptions: [u'ANET']
+x: [[133 227 374 358 233 144]], y: [[265 225 250 307 292 345]], ornt: [u'c'], transcriptions: [u'HOLLYWO']
+x: [[223 268 367 368 298 244]], y: [[399 346 315 358 373 421]], ornt: [u'c'], transcriptions: [u'DISNEY']
+x: [[376 458 545 520 451 382]], y: [[318 328 403 426 369 349]], ornt: [u'c'], transcriptions: [u'VILLAGE']

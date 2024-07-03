@@ -1,0 +1,5 @@
+x: [[191 193 230 209 168 166]], y: [[403 481 527 552 478 406]], ornt: [u'c'], transcriptions: [u'KUMPULAN']
+x: [[239 266 307 297 259 232]], y: [[544 559 569 598 584 566]], ornt: [u'c'], transcriptions: [u'WANG']
+x: [[323 382 430 448 397 328]], y: [[572 562 528 545 592 603]], ornt: [u'c'], transcriptions: [u'SIMPANAN']
+x: [[441 465 465 483 491 464]], y: [[507 464 411 401 477 527]], ornt: [u'c'], transcriptions: [u'PEKERJA']
+x: [[231 418 423 245]], y: [[332 329 523 523]], ornt: [u'#'], transcriptions: [u'#']

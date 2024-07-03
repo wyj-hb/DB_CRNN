@@ -1,0 +1,7 @@
+x: [[ 91 133 180 185 141 109]], y: [[107  64  47  65  85 123]], ornt: [u'c'], transcriptions: [u'Miles']
+x: [[196 254 281 261 237 191]], y: [[40 39 69 87 65 58]], ornt: [u'c'], transcriptions: [u'Better']
+x: [[152 213 212 152]], y: [[ 92  79  95 109]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[ 44 295 283  41]], y: [[145  86 137 183]], ornt: [u'm'], transcriptions: [u'TAXI']
+x: [[ 93 210 206 101]], y: [[187 165 183 206]], ornt: [u'm'], transcriptions: [u'CENTRE']
+x: [[ 85 108 127 118  72  63]], y: [[195 218 233 256 239 215]], ornt: [u'c'], transcriptions: [u'Miles']
+x: [[130 192 247 262 216 130]], y: [[227 211 172 185 235 254]], ornt: [u'c'], transcriptions: [u'Cheaper']

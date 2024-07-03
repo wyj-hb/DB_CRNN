@@ -1,0 +1,6 @@
+x: [[496 525 559 562 539 522]], y: [[320 305 309 331 335 340]], ornt: [u'c'], transcriptions: [u'OLD']
+x: [[578 606 639 635 604 572]], y: [[312 325 348 361 349 339]], ornt: [u'c'], transcriptions: [u'MILL']
+x: [[467 659 654 464]], y: [[323 372 397 357]], ornt: [u'm'], transcriptions: [u'RECEPTIO']
+x: [[512 540 569 569 531 500]], y: [[375 393 405 425 413 390]], ornt: [u'c'], transcriptions: [u'HOTEL']
+x: [[586 610 633 649 623 588]], y: [[410 411 402 412 430 433]], ornt: [u'c'], transcriptions: [u'MOTEL']
+x: [[784 812 817 792]], y: [[742 739 782 784]], ornt: [u'#'], transcriptions: [u'#']

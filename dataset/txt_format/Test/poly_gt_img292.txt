@@ -1,0 +1,5 @@
+x: [[356 611 878 917 638 431]], y: [[1154  968  863  953 1064 1202]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[1004 1154 1169 1028]], y: [[839 809 908 929]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[1280 1442 1439 1289]], y: [[827 824 866 869]], ornt: [u'h'], transcriptions: [u'CARNABY']
+x: [[1514 1808 2030 1994 1754 1505]], y: [[ 806  875  974 1064  950  893]], ornt: [u'c'], transcriptions: [u'CARNABY']
+x: [[2072 2264 2402 2345 2183 2030]], y: [[ 998 1127 1253 1310 1181 1076]], ornt: [u'c'], transcriptions: [u'STREET']

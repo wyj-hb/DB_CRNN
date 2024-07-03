@@ -1,0 +1,7 @@
+x: [[262 304 345 345 304 262]], y: [[363 363 363 388 388 388]], ornt: [u'h'], transcriptions: [u'TOURIST']
+x: [[275 304 333 333 304 275]], y: [[394 394 394 417 417 417]], ornt: [u'h'], transcriptions: [u'INFO']
+x: [[272 423 445 305]], y: [[613 595 665 683]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[445 657 874 862 666 467]], y: [[583 585 621 695 668 663]], ornt: [u'c'], transcriptions: [u'VANCOUVER']
+x: [[246 372 504 501 376 256]], y: [[727 738 730 802 805 811]], ornt: [u'c'], transcriptions: [u'TROLLEY']
+x: [[665 818 918 917 803 660]], y: [[732 752 759 829 827 815]], ornt: [u'c'], transcriptions: [u'COMPANY']
+x: [[518 580 583 514]], y: [[310 311 363 366]], ornt: [u'#'], transcriptions: [u'#']

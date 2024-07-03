@@ -1,0 +1,4 @@
+x: [[ 66 102 171 235 264 241 216 167 120  95]], y: [[101  44  32  66 116 131  83  59  73 117]], ornt: [u'c'], transcriptions: [u'LOUISIANA']
+x: [[113 206 236 141]], y: [[ 89  71 163 192]], ornt: [u'm'], transcriptions: [u'P']
+x: [[ 93 131 183 216 237 253 237 183 121  73]], y: [[149 199 207 191 167 191 208 238 224 172]], ornt: [u'c'], transcriptions: [u'KITCHEN']
+x: [[  8 295 292  10]], y: [[272 277 339 340]], ornt: [u'h'], transcriptions: [u'POPEYES']

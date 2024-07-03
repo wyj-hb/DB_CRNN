@@ -1,0 +1,6 @@
+x: [[151 218 284 284 218 151]], y: [[769 769 769 819 819 819]], ornt: [u'h'], transcriptions: [u'PERONI']
+x: [[205 242 279 279 242 205]], y: [[741 741 741 775 775 775]], ornt: [u'h'], transcriptions: [u'BIRRA']
+x: [[240 213 238 260 244 261]], y: [[416 334 252 263 337 400]], ornt: [u'c'], transcriptions: [u'LANTICA']
+x: [[246 306 345 339 295 259]], y: [[237 187 195 226 218 256]], ornt: [u'c'], transcriptions: [u'BIRBERIA']
+x: [[356 373 349 335 349 337]], y: [[211 273 367 341 278 224]], ornt: [u'c'], transcriptions: [u'PERONI']
+x: [[273 321 318 273]], y: [[397 376 399 419]], ornt: [u'm'], transcriptions: [u'Est1906']

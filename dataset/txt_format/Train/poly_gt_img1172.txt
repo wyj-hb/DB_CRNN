@@ -1,0 +1,7 @@
+x: [[280 309 342 317 282 254]], y: [[215 235 253 294 279 253]], ornt: [u'm'], transcriptions: [u'OLD']
+x: [[357 429 515 508 414 323]], y: [[263 301 322 369 351 313]], ornt: [u'c'], transcriptions: [u'HAHNDORF']
+x: [[526 581 628 647 588 533]], y: [[321 315 303 343 360 367]], ornt: [u'c'], transcriptions: [u'VILLAGE']
+x: [[644 682 727 751 709 649]], y: [[300 283 249 279 317 340]], ornt: [u'c'], transcriptions: [u'MARKET']
+x: [[781 831 816 781]], y: [[268 265 298 298]], ornt: [u'm'], transcriptions: [u'ery']
+x: [[828 903 900 831]], y: [[257 252 287 293]], ornt: [u'm'], transcriptions: [u'Gifts']
+x: [[787 858 860 782]], y: [[300 291 311 314]], ornt: [u'm'], transcriptions: [u'HNDORF']

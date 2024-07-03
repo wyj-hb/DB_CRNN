@@ -1,0 +1,4 @@
+x: [[173 231 251 205]], y: [[316 292 328 348]], ornt: [u'm'], transcriptions: [u'm']
+x: [[255 307 367 355 301 265]], y: [[288 284 308 342 320 330]], ornt: [u'c'], transcriptions: [u'FLYING']
+x: [[383 429 403 367]], y: [[322 358 392 354]], ornt: [u'm'], transcriptions: [u'PIG']
+x: [[219 287 367 383 293 211]], y: [[562 586 578 610 630 598]], ornt: [u'c'], transcriptions: [u'GASTOWN']

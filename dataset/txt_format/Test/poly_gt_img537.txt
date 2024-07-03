@@ -1,0 +1,6 @@
+x: [[346 392 413 371]], y: [[337 270 284 362]], ornt: [u'c'], transcriptions: [u'2nd']
+x: [[435 468 503 545 589 562 510 462 434]], y: [[225 200 189 177 191 234 229 244 265]], ornt: [u'c'], transcriptions: [u'STREET']
+x: [[240 380 392 256]], y: [[475 386 455 548]], ornt: [u'm'], transcriptions: [u'WILLIE']
+x: [[400 586 605 410]], y: [[371 250 326 449]], ornt: [u'm'], transcriptions: [u'NELSON']
+x: [[627 729 741 740 638]], y: [[215 149 161 190 253]], ornt: [u'm'], transcriptions: [u'BLVD']
+x: [[652 732 744 659]], y: [[250 198 231 289]], ornt: [u'm'], transcriptions: [u'300']

@@ -1,0 +1,6 @@
+x: [[ 35  48  84 104 105  86  66  52]], y: [[130  92  73  70  84  88 103 133]], ornt: [u'c'], transcriptions: [u'DESCHUTES']
+x: [[115 147 162 163 143 141 128 111]], y: [[ 71  85 111 131 129 113  93  84]], ornt: [u'c'], transcriptions: [u'BREWERY']
+x: [[27 37 37 23]], y: [[172 173 194 194]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 42 102 100  41]], y: [[175 174 188 190]], ornt: [u'h'], transcriptions: [u'PUBLIC']
+x: [[109 164 165 111]], y: [[174 172 188 190]], ornt: [u'm'], transcriptions: [u'HOUSE']
+x: [[ 69 109 110  73]], y: [[215 216 229 230]], ornt: [u'h'], transcriptions: [u'1044']

@@ -1,0 +1,5 @@
+x: [[317 379 441 441 379 317]], y: [[303 303 303 344 344 344]], ornt: [u'h'], transcriptions: [u'ichnuso']
+x: [[337 380 422 422 380 337]], y: [[353 353 353 378 378 378]], ornt: [u'h'], transcriptions: [u'1912']
+x: [[271 369 474 469 366 265]], y: [[715 754 745 795 820 772]], ornt: [u'c'], transcriptions: [u'ichnusa']
+x: [[298 361 360 292]], y: [[804 825 849 823]], ornt: [u'm'], transcriptions: [u'ANIMA']
+x: [[364 432 436 367]], y: [[828 820 841 847]], ornt: [u'm'], transcriptions: [u'SARDA']

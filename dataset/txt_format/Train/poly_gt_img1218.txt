@@ -1,0 +1,6 @@
+x: [[127 172 239 274 202 173]], y: [[462 367 319 366 421 487]], ornt: [u'c'], transcriptions: [u'STILL']
+x: [[280 418 502 457 389 277]], y: [[313 328 450 472 379 355]], ornt: [u'c'], transcriptions: [u'MOVING']
+x: [[178 226 341 344 203 127]], y: [[496 598 627 669 652 513]], ornt: [u'c'], transcriptions: [u'GUNFIRE']
+x: [[209 427 431 202]], y: [[459 459 537 537]], ornt: [u'h'], transcriptions: [u'SMG']
+x: [[244 388 386 251]], y: [[403 406 438 436]], ornt: [u'h'], transcriptions: [u'1307']
+x: [[344 433 452 499 469 362]], y: [[622 568 483 481 600 663]], ornt: [u'c'], transcriptions: [u'UNDER']

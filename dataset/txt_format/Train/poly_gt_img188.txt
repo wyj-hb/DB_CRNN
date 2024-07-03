@@ -1,0 +1,5 @@
+x: [[117 173 217 219 168 129]], y: [[74 36 31 55 61 90]], ornt: [u'c'], transcriptions: [u'MICHAEL']
+x: [[226 282 295 274 255 222]], y: [[33 53 85 94 65 54]], ornt: [u'c'], transcriptions: [u'SYMONS']
+x: [[ 65 329 297  33]], y: [[ 86 101 195 172]], ornt: [u'm'], transcriptions: [u'Roast']
+x: [[124 139 154 145 124 108]], y: [[222 239 241 268 257 246]], ornt: [u'c'], transcriptions: [u'EST']
+x: [[166 192 219 234 200 167]], y: [[246 245 234 254 271 271]], ornt: [u'c'], transcriptions: [u'2008']

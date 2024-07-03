@@ -1,0 +1,7 @@
+x: [[285 299 312 312 299 285]], y: [[124 124 124 144 144 144]], ornt: [u'h'], transcriptions: [u'56']
+x: [[241 298 363 364 300 237]], y: [[257 256 251 275 299 283]], ornt: [u'c'], transcriptions: [u'SOUVENIRS']
+x: [[176 200 189 154]], y: [[288 310 338 312]], ornt: [u'm'], transcriptions: [u'LA']
+x: [[209 250 297 294 233 191]], y: [[315 337 340 373 367 342]], ornt: [u'c'], transcriptions: [u'PORTE']
+x: [[308 344 350 309]], y: [[344 336 364 371]], ornt: [u'm'], transcriptions: [u'ST']
+x: [[359 394 424 451 412 367]], y: [[331 318 286 307 342 362]], ornt: [u'c'], transcriptions: [u'LOUIS']
+x: [[ 64 457 457  65]], y: [[384 386 418 414]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,3 @@
+x: [[74 70 87 79 56 61]], y: [[226 255 274 286 261 222]], ornt: [u'c'], transcriptions: [u'DOMINE']
+x: [[100 124 153 161 129  93]], y: [[267 275 267 279 290 281]], ornt: [u'c'], transcriptions: [u'DIRIGA']
+x: [[172 184 184 197 193 180]], y: [[268 255 239 246 265 281]], ornt: [u'c'], transcriptions: [u'ROB']

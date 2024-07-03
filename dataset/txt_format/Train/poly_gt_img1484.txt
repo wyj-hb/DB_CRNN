@@ -1,0 +1,7 @@
+x: [[176 205 265 326 302 265 222 197]], y: [[58 14  6 58 77 32 36 68]], ornt: [u'c'], transcriptions: [u'PAULANER']
+x: [[201 235 275 300 316 283 230 187]], y: [[102 129 127 103 119 146 148 111]], ornt: [u'c'], transcriptions: [u'MUNCHEN']
+x: [[173 255 323 375 406 323 244 154]], y: [[536 576 572 542 573 615 620 573]], ornt: [u'c'], transcriptions: [u'Biergarten']
+x: [[237 255 273 274 254 236]], y: [[443 438 437 454 453 459]], ornt: [u'c'], transcriptions: [u'HOPFEN']
+x: [[233 248 265 263 250 232]], y: [[458 454 453 465 469 472]], ornt: [u'c'], transcriptions: [u'GOTT']
+x: [[267 286 308 311 290 265]], y: [[452 454 460 471 466 469]], ornt: [u'c'], transcriptions: [u'ERHALTS']
+x: [[276 288 301 303 287 278]], y: [[440 439 443 457 455 455]], ornt: [u'c'], transcriptions: [u'MAI']

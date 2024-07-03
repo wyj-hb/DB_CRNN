@@ -1,0 +1,3 @@
+x: [[172 258 341 335 260 180]], y: [[175 154 174 197 180 197]], ornt: [u'c'], transcriptions: [u'CONVERSE']
+x: [[191 237 239 192]], y: [[212 210 228 230]], ornt: [u'h'], transcriptions: [u'JOHN']
+x: [[241 325 327 243]], y: [[209 207 227 229]], ornt: [u'h'], transcriptions: [u'VARVATOS']

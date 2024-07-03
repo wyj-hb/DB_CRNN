@@ -1,0 +1,6 @@
+x: [[742 868 994 994 868 742]], y: [[472 472 472 535 535 535]], ornt: [u'h'], transcriptions: [u'SERRA']
+x: [[1045 1093 1140 1140 1093 1045]], y: [[621 621 621 650 650 650]], ornt: [u'h'], transcriptions: [u'COM']
+x: [[559 608 656 656 608 559]], y: [[643 643 643 673 673 673]], ornt: [u'h'], transcriptions: [u'WWW']
+x: [[271 316 361 361 316 271]], y: [[618 618 618 650 650 650]], ornt: [u'h'], transcriptions: [u'GROUP']
+x: [[109 230 367 379 247 178]], y: [[604 502 496 570 585 652]], ornt: [u'c'], transcriptions: [u'LEDCOR']
+x: [[ 677 1030 1031  676]], y: [[640 631 660 675]], ornt: [u'm'], transcriptions: [u'FIVETENSEYMOUR']

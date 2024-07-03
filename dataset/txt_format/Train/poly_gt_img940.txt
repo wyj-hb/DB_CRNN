@@ -1,0 +1,4 @@
+x: [[239 262 284 284 262 239]], y: [[187 187 187 200 200 200]], ornt: [u'h'], transcriptions: [u'KORMUV']
+x: [[248 262 276 276 262 248]], y: [[207 207 207 219 219 219]], ornt: [u'h'], transcriptions: [u'DOSR']
+x: [[216 242 272 274 247 231]], y: [[188 173 171 180 185 197]], ornt: [u'c'], transcriptions: [u'RYBARSKA']
+x: [[278 294 308 305 289 277]], y: [[171 175 183 194 184 184]], ornt: [u'c'], transcriptions: [u'BASTA']

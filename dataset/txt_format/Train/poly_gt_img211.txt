@@ -1,0 +1,3 @@
+x: [[252 327 382 369 282 224]], y: [[582 638 660 710 680 610]], ornt: [u'c'], transcriptions: [u'Magic']
+x: [[417 461 505 511 453 403]], y: [[676 691 693 736 733 722]], ornt: [u'c'], transcriptions: [u'food']
+x: [[257 366 466 475 339 221]], y: [[655 722 742 802 785 704]], ornt: [u'c'], transcriptions: [u'BANANA']

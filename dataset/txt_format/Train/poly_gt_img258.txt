@@ -1,0 +1,4 @@
+x: [[ 93 132 180 177 136 105]], y: [[259 243 260 281 264 277]], ornt: [u'c'], transcriptions: [u'ORGANIC']
+x: [[112 167 167 116]], y: [[294 294 320 318]], ornt: [u'm'], transcriptions: [u'MINI']
+x: [[ 80 120 120  79]], y: [[317 322 344 340]], ornt: [u'm'], transcriptions: [u'TEA']
+x: [[124 213 215 122]], y: [[323 332 355 344]], ornt: [u'm'], transcriptions: [u'FACTORY']

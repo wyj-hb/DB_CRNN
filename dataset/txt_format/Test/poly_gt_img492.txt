@@ -1,0 +1,1 @@
+x: [[ 35 125 222 220 139  50]], y: [[ 97  61  66 108 103 148]], ornt: [u'c'], transcriptions: [u'ERECTED']

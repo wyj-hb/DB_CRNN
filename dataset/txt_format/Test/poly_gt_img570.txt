@@ -1,0 +1,6 @@
+x: [[ 74 166 299 304 182 110]], y: [[149  93  61 128 153 203]], ornt: [u'c'], transcriptions: [u'INDIAN']
+x: [[333 459 583 552 460 375 323]], y: [[ 64  82 155 207 148 125 120]], ornt: [u'c'], transcriptions: [u'HARBOR']
+x: [[128 245 339 330 213 118]], y: [[280 325 330 395 382 343]], ornt: [u'c'], transcriptions: [u'YACHT']
+x: [[354 432 511 541 449 372]], y: [[333 323 284 339 384 395]], ornt: [u'c'], transcriptions: [u'CLUB']
+x: [[491 519 555 538 487]], y: [[221 214 228 273 255]], ornt: [u'h'], transcriptions: [u'1889']
+x: [[105 153 137 128 112  95]], y: [[217 217 271 271 249 248]], ornt: [u'h'], transcriptions: [u'org']

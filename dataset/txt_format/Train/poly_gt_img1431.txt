@@ -1,0 +1,7 @@
+x: [[656 697 738 738 697 656]], y: [[386 386 386 419 419 419]], ornt: [u'h'], transcriptions: [u'LITTLE']
+x: [[681 712 742 742 712 681]], y: [[335 335 335 361 361 361]], ornt: [u'h'], transcriptions: [u'Spring']
+x: [[688 708 727 727 708 688]], y: [[367 367 367 383 383 383]], ornt: [u'h'], transcriptions: [u'FROM']
+x: [[648 696 751 758 691 643]], y: [[421 426 421 464 471 461]], ornt: [u'c'], transcriptions: [u'BARUK']
+x: [[731 754 752 729]], y: [[369 374 390 386]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[652 670 686 689 672 654]], y: [[374 371 369 384 385 389]], ornt: [u'c'], transcriptions: [u'TALES']
+x: [[661 683 680 661]], y: [[343 345 354 353]], ornt: [u'#'], transcriptions: [u'#']

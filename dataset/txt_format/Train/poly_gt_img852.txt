@@ -1,0 +1,7 @@
+x: [[106 118 129 129 118 106]], y: [[254 254 254 267 267 267]], ornt: [u'h'], transcriptions: [u'and']
+x: [[ 60 117 176 167 117  65]], y: [[144 124 143 160 145 163]], ornt: [u'c'], transcriptions: [u'Moosehead']
+x: [[ 81 121 153 149 112  86]], y: [[156 144 154 170 164 174]], ornt: [u'c'], transcriptions: [u'Coffee']
+x: [[ 2 43 41  3]], y: [[236 255 277 266]], ornt: [u'm'], transcriptions: [u'ERY']
+x: [[ 71  88 104 101  80  60]], y: [[234 254 253 266 260 243]], ornt: [u'c'], transcriptions: [u'Roasted']
+x: [[129 147 157 173 158 134]], y: [[252 246 236 240 260 268]], ornt: [u'c'], transcriptions: [u'Blended']
+x: [[ 88 113 141 144 111  86]], y: [[266 272 268 280 290 280]], ornt: [u'c'], transcriptions: [u'inMaine']

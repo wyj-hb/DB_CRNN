@@ -1,0 +1,7 @@
+x: [[ 71 328 583 597 340 138]], y: [[353 206 173 286 324 466]], ornt: [u'c'], transcriptions: [u'CHINESE']
+x: [[672 873 993 949 784 642]], y: [[181 247 357 448 337 292]], ornt: [u'c'], transcriptions: [u'FOOD']
+x: [[395 672 667 411]], y: [[534 526 621 639]], ornt: [u'm'], transcriptions: [u'OPEN']
+x: [[ 93 305 296  95]], y: [[708 711 829 829]], ornt: [u'h'], transcriptions: [u'EAT']
+x: [[338 446 449 340]], y: [[715 712 825 823]], ornt: [u'h'], transcriptions: [u'IN']
+x: [[467 731 747 493]], y: [[711 702 809 815]], ornt: [u'h'], transcriptions: [u'TAKE']
+x: [[763 981 993 762]], y: [[709 712 814 814]], ornt: [u'h'], transcriptions: [u'OUT']

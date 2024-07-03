@@ -1,0 +1,8 @@
+x: [[215 234 253 253 234 215]], y: [[125 125 125 151 151 151]], ornt: [u'h'], transcriptions: [u'CA']
+x: [[ 46  91 136 136  91  46]], y: [[162 162 162 176 176 176]], ornt: [u'h'], transcriptions: [u'STEINBECK']
+x: [[170 195 220 220 195 170]], y: [[162 162 162 175 175 175]], ornt: [u'h'], transcriptions: [u'PLAZA']
+x: [[222 239 256 256 239 222]], y: [[162 162 162 175 175 175]], ornt: [u'h'], transcriptions: [u'TWO']
+x: [[ 65 117 184 174 123  90]], y: [[ 99  62  63  96  92 118]], ornt: [u'c'], transcriptions: [u'CANNERY']
+x: [[192 220 237 214 195 180]], y: [[ 69  85 107 116 101  95]], ornt: [u'c'], transcriptions: [u'ROW']
+x: [[ 43 190 191  42]], y: [[123 124 152 152]], ornt: [u'h'], transcriptions: [u'MONTEREY']
+x: [[144 161 162 141]], y: [[165 163 177 176]], ornt: [u'h'], transcriptions: [u'1996']

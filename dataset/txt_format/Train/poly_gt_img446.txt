@@ -1,0 +1,8 @@
+x: [[284 614 785 821 482 251]], y: [[805 730 760 892 973 994]], ornt: [u'c'], transcriptions: [u'Lilla']
+x: [[ 857 1706 2348 2270 1637  878]], y: [[676 601 823 946 778 859]], ornt: [u'c'], transcriptions: [u'Franziskaner']
+x: [[2063 2258 2267 2063]], y: [[1399 1393 1435 1441]], ornt: [u'm'], transcriptions: [u'FESTMENY']
+x: [[2096 2207 2216 2108]], y: [[1441 1435 1471 1471]], ornt: [u'm'], transcriptions: [u'MENu']
+x: [[2135 2405 2417 2153]], y: [[1897 1888 1933 1933]], ornt: [u'm'], transcriptions: [u'KVALLSMENY']
+x: [[209 794 782 125]], y: [[1492 1474 1918 1924]], ornt: [u'#'], transcriptions: [u'#']
+x: [[1043 1619 1676 1028 1034]], y: [[1471 1447 1930 1933 1927]], ornt: [u'#'], transcriptions: [u'##']
+x: [[1913 2489 2516 1961]], y: [[1543 1531 1774 1798]], ornt: [u'#'], transcriptions: [u'#']

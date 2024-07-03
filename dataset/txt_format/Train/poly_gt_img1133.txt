@@ -1,0 +1,8 @@
+x: [[275 291 306 306 291 275]], y: [[469 469 469 481 481 481]], ornt: [u'h'], transcriptions: [u'OPEN']
+x: [[235 225 266 311 305 271 247 252]], y: [[342 284 255 259 281 272 293 330]], ornt: [u'c'], transcriptions: [u'CHUCKS']
+x: [[260 310 313 327 333 263]], y: [[340 335 276 276 342 369]], ornt: [u'c'], transcriptions: [u'BURGERS']
+x: [[41 96 99 36]], y: [[361 358 379 381]], ornt: [u'h'], transcriptions: [u'8245645']
+x: [[115 173 174 111]], y: [[363 365 379 382]], ornt: [u'h'], transcriptions: [u'71Pasteur']
+x: [[170 196 196 174]], y: [[362 362 379 381]], ornt: [u'h'], transcriptions: [u'D1']
+x: [[224 272 334 335 229]], y: [[350 363 353 390 389]], ornt: [u'#'], transcriptions: [u'#']
+x: [[127 151 154 127]], y: [[440 440 460 459]], ornt: [u'h'], transcriptions: [u'71']

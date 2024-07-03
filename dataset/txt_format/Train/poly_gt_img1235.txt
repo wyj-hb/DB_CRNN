@@ -1,0 +1,7 @@
+x: [[197 217 236 236 217 197]], y: [[293 293 293 340 340 340]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 63 134 201 196 139  86]], y: [[262 227 276 303 276 295]], ornt: [u'c'], transcriptions: [u'BIBBLE']
+x: [[260 271 277 236 238 227]], y: [[344 383 417 397 374 349]], ornt: [u'c'], transcriptions: [u'SIP']
+x: [[ 99 110  91  74]], y: [[350 377 394 360]], ornt: [u'm'], transcriptions: [u'BS']
+x: [[114 125 144 127 110  90]], y: [[383 402 417 445 431 398]], ornt: [u'c'], transcriptions: [u'ALL']
+x: [[141 165 193 187 153 134]], y: [[425 440 446 477 463 442]], ornt: [u'c'], transcriptions: [u'YOU']
+x: [[187 215 230 247 221 192]], y: [[451 449 437 459 482 479]], ornt: [u'c'], transcriptions: [u'WANT']

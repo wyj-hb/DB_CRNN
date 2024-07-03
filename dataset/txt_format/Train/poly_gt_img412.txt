@@ -1,0 +1,5 @@
+x: [[581 811 931 969 803 617]], y: [[534 406 352 524 648 742]], ornt: [u'm'], transcriptions: [u'Triple']
+x: [[1007 1167 1173 1009]], y: [[342 290 444 498]], ornt: [u'm'], transcriptions: [u'Ps']
+x: [[699 731 719 683]], y: [[716 734 778 766]], ornt: [u'm'], transcriptions: [u'by']
+x: [[715 771 891 885 715 663]], y: [[ 790  908  962 1030  950  798]], ornt: [u'c'], transcriptions: [u'WHITE']
+x: [[ 905  985 1035 1085 1037  919]], y: [[ 952  895  780  822  942 1012]], ornt: [u'c'], transcriptions: [u'SPOT']

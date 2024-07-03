@@ -1,0 +1,5 @@
+x: [[126 194 205 139]], y: [[155 125 146 176]], ornt: [u'm'], transcriptions: [u'PARC']
+x: [[145 215 232 156]], y: [[171 142 167 199]], ornt: [u'm'], transcriptions: [u'SIR']
+x: [[233 343 423 425 344 239]], y: [[133 108 114 144 141 164]], ornt: [u'c'], transcriptions: [u'DOUGLAS']
+x: [[438 515 570 559 497 437]], y: [[119 139 161 184 161 143]], ornt: [u'c'], transcriptions: [u'HAZEN']
+x: [[497 563 555 497]], y: [[160 187 203 181]], ornt: [u'm'], transcriptions: [u'PARK']

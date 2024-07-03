@@ -1,0 +1,5 @@
+x: [[  5 286 632 623 283   3]], y: [[ 81  15  74 139  85 147]], ornt: [u'c'], transcriptions: [u'DUNLOP']
+x: [[ 89 250 240  86]], y: [[175 174 203 199]], ornt: [u'h'], transcriptions: [u'DRIVING']
+x: [[258 305 305 257]], y: [[173 173 201 204]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[317 390 389 316]], y: [[172 171 202 202]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[398 548 550 395]], y: [[173 169 202 200]], ornt: [u'h'], transcriptions: [u'FUTURE']

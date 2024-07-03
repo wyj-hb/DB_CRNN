@@ -1,0 +1,4 @@
+x: [[197 258 319 319 258 197]], y: [[ 83  83  83 112 112 112]], ornt: [u'h'], transcriptions: [u'INGLESE']
+x: [[181 223 280 340 324 274 234 201]], y: [[68 35 30 64 84 52 56 80]], ornt: [u'c'], transcriptions: [u'PROFUMERIA']
+x: [[30 83 85 37]], y: [[211 211 316 313]], ornt: [u'#'], transcriptions: [u'#']
+x: [[419 471 471 422]], y: [[206 204 315 316]], ornt: [u'#'], transcriptions: [u'#']

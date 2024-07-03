@@ -1,0 +1,7 @@
+x: [[179 183 196 214 201 201]], y: [[736 696 667 680 704 739]], ornt: [u'c'], transcriptions: [u'PERFECT']
+x: [[194 222 251 251 229 213]], y: [[663 639 632 651 658 678]], ornt: [u'c'], transcriptions: [u'DRIVING']
+x: [[249 289 321 315 286 255]], y: [[632 628 639 656 646 648]], ornt: [u'c'], transcriptions: [u'ACADEMY']
+x: [[324 340 348 338 328 312]], y: [[642 651 666 677 666 658]], ornt: [u'c'], transcriptions: [u'SDN']
+x: [[348 363 370 351 348 336]], y: [[663 675 697 700 688 677]], ornt: [u'c'], transcriptions: [u'BHD']
+x: [[278 295 299 281]], y: [[670 666 680 685]], ornt: [u'm'], transcriptions: [u'P']
+x: [[463 552 566 512]], y: [[619 607 719 736]], ornt: [u'm'], transcriptions: [u'P']

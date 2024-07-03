@@ -1,0 +1,3 @@
+x: [[477 569 714 729 720 605 528 500]], y: [[ 64  30   3   9  39  63  86 103]], ornt: [u'c'], transcriptions: [u'Welcome']
+x: [[462 503 609 749 742 639 554 507 474]], y: [[130 111  82  61 101 114 139 158 173]], ornt: [u'c'], transcriptions: [u'Bienvenue']
+x: [[444 556 765 778 560 445]], y: [[498 474 440 505 541 553]], ornt: [u'm'], transcriptions: [u'Parliament']

@@ -1,0 +1,7 @@
+x: [[399 418 437 437 418 399]], y: [[279 279 279 291 291 291]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 87 152 268 275 162 113]], y: [[220 109  50  78 149 246]], ornt: [u'c'], transcriptions: [u'RAJASEKARAN']
+x: [[271 331 406 400 331 282]], y: [[45 34 38 64 65 75]], ornt: [u'c'], transcriptions: [u'FAMILY']
+x: [[415 506 572 553 485 413]], y: [[ 39  66 122 143  88  68]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[581 601 583 565]], y: [[131 153 166 152]], ornt: [u'm'], transcriptions: [u'U']
+x: [[607 626 636 613 601 581]], y: [[161 192 219 236 197 174]], ornt: [u'c'], transcriptions: [u'ALL']
+x: [[402 473 469 401]], y: [[297 301 317 314]], ornt: [u'#'], transcriptions: [u'#']

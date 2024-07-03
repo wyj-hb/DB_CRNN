@@ -1,0 +1,7 @@
+x: [[229 246 263 263 246 229]], y: [[239 239 239 255 255 255]], ornt: [u'h'], transcriptions: [u'2007']
+x: [[130 158 185 185 158 130]], y: [[208 208 208 227 227 227]], ornt: [u'h'], transcriptions: [u'BRYCE']
+x: [[124 186 248 235 189 141]], y: [[140 102 119 140 130 157]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[254 275 270 244]], y: [[125 146 164 145]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[193 266 268 193]], y: [[209 211 232 231]], ornt: [u'h'], transcriptions: [u'CANYON']
+x: [[169 199 232 223 198 174]], y: [[237 227 234 250 249 254]], ornt: [u'c'], transcriptions: [u'CITY']
+x: [[141 169 170 143]], y: [[242 240 257 257]], ornt: [u'h'], transcriptions: [u'EST']

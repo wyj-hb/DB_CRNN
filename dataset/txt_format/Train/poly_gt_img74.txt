@@ -1,0 +1,4 @@
+x: [[ 67 147 245 241 164  97]], y: [[154 119 120 156 175 220]], ornt: [u'c'], transcriptions: [u'Blue']
+x: [[291 398 451 428 353 258]], y: [[ 90 120 169 209 177 157]], ornt: [u'c'], transcriptions: [u'Lake']
+x: [[ 81 431 434  81]], y: [[339 333 366 375]], ornt: [u'h'], transcriptions: [u'ESTATES']
+x: [[557 625 624 558]], y: [[458 458 477 478]], ornt: [u'#'], transcriptions: [u'#']

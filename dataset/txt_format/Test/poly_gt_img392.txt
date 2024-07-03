@@ -1,0 +1,7 @@
+x: [[166 209 260 259 215 176]], y: [[154 140 136 151 156 168]], ornt: [u'c'], transcriptions: [u'BAKE']
+x: [[274 327 364 349 313 270]], y: [[134 144 158 172 158 150]], ornt: [u'c'], transcriptions: [u'SHOP']
+x: [[ 60 275 468 467 256  51]], y: [[162 164 170 295 256 290]], ornt: [u'c'], transcriptions: [u'PUNALUU']
+x: [[101 243 355 419 418 349 238 103]], y: [[292 273 281 296 320 303 293 314]], ornt: [u'c'], transcriptions: [u'SWEETBREAD']
+x: [[103 117 133 124]], y: [[344 336 345 366]], ornt: [u'#'], transcriptions: [u'#']
+x: [[137 201 269 275 192 131]], y: [[357 384 388 410 400 377]], ornt: [u'c'], transcriptions: [u'VISITOR']
+x: [[282 349 404 420 355 285]], y: [[390 374 339 350 393 406]], ornt: [u'c'], transcriptions: [u'CENTER']

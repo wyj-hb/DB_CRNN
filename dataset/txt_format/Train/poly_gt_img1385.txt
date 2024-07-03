@@ -1,0 +1,5 @@
+x: [[171 208 244 244 208 171]], y: [[443 443 443 467 467 467]], ornt: [u'h'], transcriptions: [u'SAINT']
+x: [[219 270 337 328 294 240]], y: [[187 168 165 213 214 233]], ornt: [u'c'], transcriptions: [u'GOD']
+x: [[351 424 477 463 409 352]], y: [[168 195 243 276 231 208]], ornt: [u'c'], transcriptions: [u'BLESS']
+x: [[444 525 531 448]], y: [[459 465 489 487]], ornt: [u'm'], transcriptions: [u'GERMAIn']
+x: [[238 342 444 474 363 222]], y: [[724 745 709 756 807 778]], ornt: [u'c'], transcriptions: [u'PIZZA']

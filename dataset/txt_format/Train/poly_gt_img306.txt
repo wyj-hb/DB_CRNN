@@ -1,0 +1,6 @@
+x: [[129 208 324 317 227 140]], y: [[128 103 104 149 146 167]], ornt: [u'c'], transcriptions: [u'Solway']
+x: [[357 442 516 502 445 344]], y: [[ 94 103 126 164 145 134]], ornt: [u'c'], transcriptions: [u'Coast']
+x: [[ 26 621 619  20]], y: [[294 292 366 368]], ornt: [u'h'], transcriptions: [u'ALLONBY']
+x: [[ 26 186 191  25]], y: [[375 374 410 412]], ornt: [u'h'], transcriptions: [u'Please']
+x: [[373 617 611 382]], y: [[373 374 416 415]], ornt: [u'h'], transcriptions: [u'Carefully']
+x: [[210 352 355 216]], y: [[371 373 406 409]], ornt: [u'h'], transcriptions: [u'Die']

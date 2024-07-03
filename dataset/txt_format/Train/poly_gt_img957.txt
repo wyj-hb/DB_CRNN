@@ -1,0 +1,8 @@
+x: [[169 214 258 258 214 169]], y: [[429 429 429 452 452 452]], ornt: [u'h'], transcriptions: [u'BAPTIS']
+x: [[266 343 419 419 343 266]], y: [[427 427 427 450 450 450]], ornt: [u'h'], transcriptions: [u'EMMANUEL']
+x: [[ 78 121 164 164 121  78]], y: [[429 429 429 452 452 452]], ornt: [u'h'], transcriptions: [u'GEREJA']
+x: [[107 121 137 155 142 125]], y: [[407 379 363 375 391 418]], ornt: [u'c'], transcriptions: [u'TADIKA']
+x: [[144 177 218 222 187 159]], y: [[356 332 315 340 350 371]], ornt: [u'c'], transcriptions: [u'EMMANUEL']
+x: [[268 350 391 366 329 266]], y: [[313 347 400 414 360 332]], ornt: [u'#'], transcriptions: [u'#']
+x: [[179 262 259 181]], y: [[376 372 411 411]], ornt: [u'#'], transcriptions: [u'#']
+x: [[118 361 361 123]], y: [[455 453 471 474]], ornt: [u'#'], transcriptions: [u'#']

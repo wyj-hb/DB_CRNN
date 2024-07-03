@@ -1,0 +1,8 @@
+x: [[ 72 168 162  68]], y: [[149 172 193 180]], ornt: [u'm'], transcriptions: [u'nothing']
+x: [[ 68 167 164  68]], y: [[182 197 228 221]], ornt: [u'm'], transcriptions: [u'brings']
+x: [[ 68 121 164 164 118  67]], y: [[221 224 228 253 240 248]], ornt: [u'c'], transcriptions: [u'PEOPLE']
+x: [[ 60 120 171 161 119  67]], y: [[255 241 260 280 271 275]], ornt: [u'c'], transcriptions: [u'together']
+x: [[ 95 130 130  95]], y: [[277 275 297 296]], ornt: [u'h'], transcriptions: [u'like']
+x: [[ 55  85 113 109  77  50]], y: [[300 302 302 355 349 329]], ornt: [u'c'], transcriptions: [u'GOOD']
+x: [[118 141 166 166 142 115]], y: [[300 302 302 329 347 363]], ornt: [u'c'], transcriptions: [u'FOOD']
+x: [[466 589 576 458]], y: [[137 168 205 189]], ornt: [u'm'], transcriptions: [u'BabaNyonya']

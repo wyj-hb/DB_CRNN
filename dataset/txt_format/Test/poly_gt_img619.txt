@@ -1,0 +1,4 @@
+x: [[245 325 426 412 332 264]], y: [[334 300 331 363 328 358]], ornt: [u'c'], transcriptions: [u'INTERFLORA']
+x: [[238 267 312 308 249 213]], y: [[465 501 525 543 514 473]], ornt: [u'c'], transcriptions: [u'FLOWERS']
+x: [[317 358 387 407 359 318]], y: [[520 525 512 527 544 541]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[393 415 429 456 434 411]], y: [[508 497 472 482 511 526]], ornt: [u'c'], transcriptions: [u'WIDE']

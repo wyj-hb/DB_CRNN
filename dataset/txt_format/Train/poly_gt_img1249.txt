@@ -1,0 +1,6 @@
+x: [[216 276 297 241]], y: [[424 389 430 464]], ornt: [u'm'], transcriptions: [u'ST']
+x: [[298 448 529 540 493 484 421 307]], y: [[371 379 470 527 545 497 428 416]], ornt: [u'c'], transcriptions: [u'DALFOUR']
+x: [[303 406 465 418 393 289]], y: [[448 451 518 559 494 484]], ornt: [u'c'], transcriptions: [u'SHAUN']
+x: [[324 363 385 357]], y: [[497 497 616 622]], ornt: [u'#'], transcriptions: [u'#']
+x: [[211 255 390 406 240 151]], y: [[529 641 670 722 704 556]], ornt: [u'c'], transcriptions: [u'DALFOUR']
+x: [[411 465 495 436]], y: [[650 613 644 695]], ornt: [u'm'], transcriptions: [u'ST']

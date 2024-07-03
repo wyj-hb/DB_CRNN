@@ -1,0 +1,7 @@
+x: [[363 415 584 592 467 430]], y: [[363 145  66 152 232 372]], ornt: [u'c'], transcriptions: [u'Proiet']
+x: [[488 559 566 508]], y: [[230 225 366 375]], ornt: [u'm'], transcriptions: [u'1']
+x: [[601 706 734 620]], y: [[341 325 465 498]], ornt: [u'm'], transcriptions: [u'6']
+x: [[395 543 545 398]], y: [[572 572 600 604]], ornt: [u'h'], transcriptions: [u'PRODUCED']
+x: [[550 592 593 551]], y: [[572 570 600 602]], ornt: [u'h'], transcriptions: [u'BY']
+x: [[597 763 767 601]], y: [[571 567 597 599]], ornt: [u'h'], transcriptions: [u'MEDICOM']
+x: [[771 852 852 779]], y: [[566 564 597 598]], ornt: [u'h'], transcriptions: [u'TOY']

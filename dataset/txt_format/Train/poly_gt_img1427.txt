@@ -1,0 +1,6 @@
+x: [[227 255 282 282 255 227]], y: [[ 99  99  99 115 115 115]], ornt: [u'h'], transcriptions: [u'IMALIENARLE']
+x: [[207 232 268 269 238 213]], y: [[ 93  72  70  86  88 107]], ornt: [u'c'], transcriptions: [u'SAVIGNON']
+x: [[279 294 304 296 280 269]], y: [[ 74  84  97 112  97  88]], ornt: [u'c'], transcriptions: [u'ORAN']
+x: [[222 236 234 215]], y: [[118 126 137 131]], ornt: [u'm'], transcriptions: [u'PUT']
+x: [[241 249 249 237]], y: [[127 131 145 142]], ornt: [u'm'], transcriptions: [u'EN']
+x: [[253 272 288 294 277 254]], y: [[129 127 117 133 141 146]], ornt: [u'c'], transcriptions: [u'LOCATION']

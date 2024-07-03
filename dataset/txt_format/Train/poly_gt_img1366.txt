@@ -1,0 +1,4 @@
+x: [[ 80 149 293 293 194 139]], y: [[196  53  -2  60 106 234]], ornt: [u'c'], transcriptions: [u'CHERRY']
+x: [[446 540 601 539 495 421]], y: [[ 25  94 227 243 130  65]], ornt: [u'c'], transcriptions: [u'STREET']
+x: [[141 209 333 323 161  85]], y: [[260 362 418 472 406 281]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[379 477 543 601 533 395]], y: [[415 375 284 302 424 477]], ornt: [u'c'], transcriptions: [u'HOUSE']

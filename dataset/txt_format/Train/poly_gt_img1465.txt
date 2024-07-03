@@ -1,0 +1,7 @@
+x: [[196 442 443 202]], y: [[216 259 310 279]], ornt: [u'm'], transcriptions: [u'BOUTIQUE']
+x: [[198 300 395 443 437 388 276 202]], y: [[406 397 330 333 438 438 527 535]], ornt: [u'c'], transcriptions: [u'BASKETS']
+x: [[312 358 355 306]], y: [[520 517 574 577]], ornt: [u'h'], transcriptions: [u'A']
+x: [[214 413 416 219]], y: [[574 575 643 667]], ornt: [u'h'], transcriptions: [u'Amsterdam']
+x: [[213 285 316 316 291 226]], y: [[748 700 688 719 730 782]], ornt: [u'c'], transcriptions: [u'PRODUCTS']
+x: [[313 397 434 434 403 318]], y: [[740 668 665 698 703 775]], ornt: [u'c'], transcriptions: [u'SOPHISTIQUES']
+x: [[307 350 353 315]], y: [[800 800 826 832]], ornt: [u'#'], transcriptions: [u'#']

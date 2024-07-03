@@ -1,0 +1,3 @@
+x: [[242 280 357 384 316 276]], y: [[396 260 177 210 301 409]], ornt: [u'c'], transcriptions: [u'SABAH']
+x: [[454 554 669 650 553 463]], y: [[ 89  44  54 119 105 142]], ornt: [u'c'], transcriptions: [u'FLYING']
+x: [[760 811 833 773 760 720]], y: [[116 189 279 306 218 155]], ornt: [u'c'], transcriptions: [u'CLUB']

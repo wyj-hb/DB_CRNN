@@ -1,0 +1,3 @@
+x: [[221 263 313 310 267 236]], y: [[ 98  73  89 108  95 113]], ornt: [u'c'], transcriptions: [u'CHELSEA']
+x: [[250 278 304 307 272 245]], y: [[165 177 179 188 190 180]], ornt: [u'c'], transcriptions: [u'FOOTBALL']
+x: [[310 323 335 317]], y: [[177 164 170 191]], ornt: [u'c'], transcriptions: [u'LUB']

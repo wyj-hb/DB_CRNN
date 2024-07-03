@@ -1,0 +1,6 @@
+x: [[406 490 605 608 511 442]], y: [[396 321 294 333 363 420]], ornt: [u'c'], transcriptions: [u'MONTEREY']
+x: [[629 733 845 826 719 617]], y: [[295 306 369 405 342 330]], ornt: [u'c'], transcriptions: [u'CALIFORNIA']
+x: [[ 233 1022 1021  233]], y: [[448 418 489 528]], ornt: [u'm'], transcriptions: [u'CANNERY']
+x: [[451 829 806 452]], y: [[520 502 579 598]], ornt: [u'm'], transcriptions: [u'ROW']
+x: [[343 458 617 620 472 347]], y: [[643 651 627 675 705 696]], ornt: [u'c'], transcriptions: [u'BREWING']
+x: [[628 767 910 913 766 637]], y: [[622 592 597 642 643 670]], ornt: [u'c'], transcriptions: [u'COMPANY']

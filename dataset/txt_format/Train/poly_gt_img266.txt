@@ -1,0 +1,4 @@
+x: [[151 260 376 462 423 356 265 190]], y: [[231 150 172 261 292 218 212 275]], ornt: [u'c'], transcriptions: [u'TRATTORIA']
+x: [[214 280 273 212]], y: [[245 246 323 317]], ornt: [u'h'], transcriptions: [u'A']
+x: [[287 403 407 301]], y: [[234 251 329 325]], ornt: [u'h'], transcriptions: [u'Pino']
+x: [[202 268 353 421 446 372 255 170]], y: [[322 370 376 331 362 417 413 339]], ornt: [u'c'], transcriptions: [u'GIRARROSTO']

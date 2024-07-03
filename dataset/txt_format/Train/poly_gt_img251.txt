@@ -1,0 +1,7 @@
+x: [[385 429 465 466 429 392]], y: [[179 160 157 176 184 198]], ornt: [u'c'], transcriptions: [u'Beverley']
+x: [[471 524 562 553 518 474]], y: [[153 165 188 203 183 176]], ornt: [u'c'], transcriptions: [u'Grammar']
+x: [[391 447 448 392]], y: [[212 214 227 226]], ornt: [u'h'], transcriptions: [u'FOUNDED']
+x: [[501 518 518 502]], y: [[213 215 227 227]], ornt: [u'h'], transcriptions: [u'700']
+x: [[519 538 538 519]], y: [[215 216 229 228]], ornt: [u'h'], transcriptions: [u'AD']
+x: [[444 503 503 442]], y: [[234 234 254 253]], ornt: [u'h'], transcriptions: [u'School']
+x: [[388 555 555 391]], y: [[261 263 274 275]], ornt: [u'h'], transcriptions: [u'wwbeverleygrammarcouk']

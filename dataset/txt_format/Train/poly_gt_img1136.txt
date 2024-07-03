@@ -1,0 +1,4 @@
+x: [[167 214 260 260 214 167]], y: [[ 98  98  98 128 128 128]], ornt: [u'h'], transcriptions: [u'Saigon']
+x: [[ 60 105 166 172 116  76]], y: [[103  75  57  97 113 138]], ornt: [u'c'], transcriptions: [u'THAO']
+x: [[177 266 264 182]], y: [[47 52 90 89]], ornt: [u'h'], transcriptions: [u'CAM']
+x: [[278 333 380 354 304 274]], y: [[ 55  65  89 125  95  93]], ornt: [u'c'], transcriptions: [u'VIEN']

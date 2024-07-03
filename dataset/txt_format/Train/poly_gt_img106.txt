@@ -1,0 +1,7 @@
+x: [[  7 211   4]], y: [[ 4  4 84]], ornt: [u'#'], transcriptions: [u'#']
+x: [[369 426 430 369]], y: [[364 357 376 384]], ornt: [u'm'], transcriptions: [u'DHL']
+x: [[181 214 235 210]], y: [[517 492 520 541]], ornt: [u'm'], transcriptions: [u'V']
+x: [[229 316 411 388 319 244]], y: [[472 456 490 531 507 519]], ornt: [u'c'], transcriptions: [u'PERSIE']
+x: [[186 415 444 216]], y: [[561 543 755 775]], ornt: [u'm'], transcriptions: [u'20']
+x: [[ 607  714  904 1087 1277 1229 1057  913  789  670]], y: [[523 304 231 276 442 531 378 330 385 598]], ornt: [u'c'], transcriptions: [u'MANCHESTER']
+x: [[ 821 1025 1214 1279 1051  802]], y: [[ 913  974  878  962 1069  989]], ornt: [u'c'], transcriptions: [u'UNITED']

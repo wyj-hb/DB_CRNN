@@ -1,0 +1,4 @@
+x: [[503 637 812 776 647 520]], y: [[524 460 535 581 511 559]], ornt: [u'c'], transcriptions: [u'PUBLIC']
+x: [[557 784 739 527]], y: [[544 551 781 769]], ornt: [u'h'], transcriptions: [u'P']
+x: [[512 644 760 794 652 494]], y: [[764 830 781 802 875 809]], ornt: [u'c'], transcriptions: [u'PARKING']
+x: [[315 349 361 319]], y: [[799 793 848 841]], ornt: [u'h'], transcriptions: [u'P']

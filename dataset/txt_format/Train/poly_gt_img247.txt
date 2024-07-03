@@ -1,0 +1,5 @@
+x: [[217 300 396 431 338 251]], y: [[237 189 163 239 272 310]], ornt: [u'c'], transcriptions: [u'221b']
+x: [[430 560 685 682 553 444]], y: [[156 133 151 231 222 241]], ornt: [u'c'], transcriptions: [u'Baker']
+x: [[712 838 953 922 801 691]], y: [[144 177 231 299 252 231]], ornt: [u'c'], transcriptions: [u'Street']
+x: [[409 516 591 597 483 399]], y: [[476 498 501 545 547 524]], ornt: [u'c'], transcriptions: [u'Sherlock']
+x: [[608 688 756 773 675 605]], y: [[502 493 474 510 542 544]], ornt: [u'c'], transcriptions: [u'Holmes']

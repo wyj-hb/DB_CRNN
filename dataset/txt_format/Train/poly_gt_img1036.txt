@@ -1,0 +1,6 @@
+x: [[256 306 373 389 333 302]], y: [[389 276 219 268 316 404]], ornt: [u'c'], transcriptions: [u'GOVTPILOT']
+x: [[480 501 502 481]], y: [[106 111 127 124]], ornt: [u'm'], transcriptions: [u'1926']
+x: [[382 425 473 478 429 402]], y: [[215 198 200 239 237 255]], ornt: [u'c'], transcriptions: [u'HIGHER']
+x: [[491 532 527 486]], y: [[204 224 257 240]], ornt: [u'm'], transcriptions: [u'SEC']
+x: [[552 586 606 589 562 534]], y: [[240 280 306 333 284 264]], ornt: [u'c'], transcriptions: [u'SCHOOL']
+x: [[615 636 642 626 612 593]], y: [[319 373 426 438 382 341]], ornt: [u'c'], transcriptions: [u'LARKANO']

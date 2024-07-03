@@ -1,0 +1,3 @@
+x: [[  5 132 254 256 129  20]], y: [[192 170 163 222 232 253]], ornt: [u'c'], transcriptions: [u'TAMAN']
+x: [[273 420 432 280]], y: [[165 173 227 216]], ornt: [u'c'], transcriptions: [u'KOTA']
+x: [[460 604 606 453]], y: [[184 224 272 229]], ornt: [u'm'], transcriptions: [u'LAMA']

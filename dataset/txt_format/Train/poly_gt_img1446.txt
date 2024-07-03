@@ -1,0 +1,5 @@
+x: [[ 25  34  71 101  70  53]], y: [[69 30  3 15 43 88]], ornt: [u'c'], transcriptions: [u'ITA']
+x: [[325 340 352 326 322 301]], y: [[ 85 118 166 171 132  94]], ornt: [u'c'], transcriptions: [u'EEN']
+x: [[ 83 334 314  71]], y: [[ 76 154 223 154]], ornt: [u'm'], transcriptions: [u'Rozzis']
+x: [[ 62  97 191 175  79  25]], y: [[121 217 289 312 253 138]], ornt: [u'c'], transcriptions: [u'CANTEEn']
+x: [[220 292 329 353 316 227]], y: [[289 268 202 213 295 318]], ornt: [u'c'], transcriptions: [u'ITALIAN']

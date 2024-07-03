@@ -1,0 +1,7 @@
+x: [[ 48  75 137 136  93  63]], y: [[ 96  51  42  69  68 111]], ornt: [u'c'], transcriptions: [u'SPORTING']
+x: [[145 174 184 169 158 137]], y: [[ 53  77 100 113  88  70]], ornt: [u'c'], transcriptions: [u'NEWS']
+x: [[ 81 158 157  78]], y: [[101 101 171 172]], ornt: [u'm'], transcriptions: [u'SN']
+x: [[69 76 83 72 56 51]], y: [[156 171 184 202 188 169]], ornt: [u'c'], transcriptions: [u'SEE']
+x: [[84 95 86 76]], y: [[191 198 218 209]], ornt: [u'm'], transcriptions: [u'A']
+x: [[ 98 132 159 169 135  93]], y: [[200 207 190 204 229 222]], ornt: [u'c'], transcriptions: [u'DIFFERENT']
+x: [[163 171 175 190 181 174]], y: [[182 171 152 157 183 197]], ornt: [u'c'], transcriptions: [u'GAME']

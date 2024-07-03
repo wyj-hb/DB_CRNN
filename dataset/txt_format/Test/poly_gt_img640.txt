@@ -1,0 +1,5 @@
+x: [[268 317 389 419 480 521 522 471 370 311 249]], y: [[118 131 114  86  79 108 154 142 180 185 163]], ornt: [u'c'], transcriptions: [u"Angelo's"]
+x: [[277 286 393 411 369]], y: [[184 241 243 180 180]], ornt: [u'c'], transcriptions: [u'Italy']
+x: [[273 427 418 249]], y: [[254 258 302 302]], ornt: [u'h'], transcriptions: [u'Authentic']
+x: [[436 540 536 444 429]], y: [[265 272 306 310 285]], ornt: [u'h'], transcriptions: [u'Cucina']
+x: [[554 605 669 669 541]], y: [[276 266 295 317 312]], ornt: [u'h'], transcriptions: [u'Italiana']

@@ -1,0 +1,4 @@
+x: [[222 235 258 296 272 272]], y: [[432 394 371 386 411 432]], ornt: [u'c'], transcriptions: [u'la']
+x: [[267 405 506 511 468 450 393 294]], y: [[335 261 309 372 390 351 328 376]], ornt: [u'c'], transcriptions: [u'Coccinelle']
+x: [[265 414 420 275]], y: [[660 630 660 694]], ornt: [u'm'], transcriptions: [u'Winstub']
+x: [[192 512 508 193]], y: [[717 648 702 766]], ornt: [u'm'], transcriptions: [u'RESTAURANT']

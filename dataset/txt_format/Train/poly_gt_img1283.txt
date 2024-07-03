@@ -1,0 +1,8 @@
+x: [[ 76 255 263  85]], y: [[203 161 201 242]], ornt: [u'm'], transcriptions: [u'SANDWICH']
+x: [[265 335 338 273]], y: [[164 146 183 197]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[162 205 229 254 275 248 194 149]], y: [[231 249 243 212 222 260 274 255]], ornt: [u'c'], transcriptions: [u'EXPRESS']
+x: [[ 31 107 106  34]], y: [[400 395 407 411]], ornt: [u'm'], transcriptions: [u'CATERING']
+x: [[109 183 184 109]], y: [[395 391 404 409]], ornt: [u'm'], transcriptions: [u'AVAILABLE']
+x: [[38 69 70 41]], y: [[414 413 427 429]], ornt: [u'm'], transcriptions: [u'FOR']
+x: [[71 96 99 70]], y: [[411 409 422 424]], ornt: [u'm'], transcriptions: [u'ALL']
+x: [[100 179 181 100]], y: [[411 405 418 424]], ornt: [u'm'], transcriptions: [u'OCCASIONS']

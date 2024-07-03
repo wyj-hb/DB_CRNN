@@ -1,0 +1,8 @@
+x: [[ 53 129 196 188 127  66]], y: [[50 24 24 57 57 78]], ornt: [u'c'], transcriptions: [u'CANNERY']
+x: [[204 237 270 255 225 200]], y: [[27 33 51 76 63 59]], ornt: [u'c'], transcriptions: [u'ROW']
+x: [[ 68 131 130  65]], y: [[103 104 130 133]], ornt: [u'm'], transcriptions: [u'ANT']
+x: [[164 183 185 167]], y: [[104 103 134 132]], ornt: [u'h'], transcriptions: [u'E']
+x: [[191 266 271 198]], y: [[105 103 131 132]], ornt: [u'm'], transcriptions: [u'MALL']
+x: [[ 66 101 101  68]], y: [[148 146 163 165]], ornt: [u'm'], transcriptions: [u'471']
+x: [[107 131 131 113]], y: [[147 146 159 160]], ornt: [u'm'], transcriptions: [u'W']
+x: [[180 265 265 178]], y: [[146 146 160 160]], ornt: [u'm'], transcriptions: [u'STREET']

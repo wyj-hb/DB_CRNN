@@ -1,0 +1,4 @@
+x: [[224 268 323 325 276 234]], y: [[145 123 115 141 143 163]], ornt: [u'c'], transcriptions: [u'SINCE']
+x: [[345 390 419 411 371 343]], y: [[116 121 131 155 140 137]], ornt: [u'c'], transcriptions: [u'2010']
+x: [[ 65 330 561 601 378  85]], y: [[212 155 169 330 373 398]], ornt: [u'c'], transcriptions: [u'Fabuzios']
+x: [[204 350 362 207]], y: [[381 346 383 419]], ornt: [u'm'], transcriptions: [u'PIZZA']

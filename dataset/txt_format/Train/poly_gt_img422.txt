@@ -1,0 +1,5 @@
+x: [[135 232 384 555 670 595 506 372 276 213]], y: [[155  48   7  40 146 196 101  76 117 188]], ornt: [u'c'], transcriptions: [u'BONANZA']
+x: [[254 555 557 248]], y: [[158 158 241 237]], ornt: [u'h'], transcriptions: [u'GIFT']
+x: [[215 276 280 210]], y: [[246 248 295 296]], ornt: [u'#'], transcriptions: [u'#']
+x: [[294 592 595 292]], y: [[244 248 300 296]], ornt: [u'h'], transcriptions: [u'SOUVENIR']
+x: [[191 611 616 189]], y: [[311 313 403 396]], ornt: [u'h'], transcriptions: [u'SHOPS']

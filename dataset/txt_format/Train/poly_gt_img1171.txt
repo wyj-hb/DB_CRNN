@@ -1,0 +1,4 @@
+x: [[201 163 195 241 214 251]], y: [[557 418 301 318 434 556]], ornt: [u'c'], transcriptions: [u'BUDAPESTI']
+x: [[299 448 617 607 445 323]], y: [[183 131 152 191 166 217]], ornt: [u'c'], transcriptions: [u'ELEKTROMOS']
+x: [[383 549 672 720 552 372]], y: [[661 680 631 653 736 714]], ornt: [u'c'], transcriptions: [u'TULAJDONA']
+x: [[768 818 820 774 770 736]], y: [[290 384 458 461 375 300]], ornt: [u'c'], transcriptions: [u'MUVEK']

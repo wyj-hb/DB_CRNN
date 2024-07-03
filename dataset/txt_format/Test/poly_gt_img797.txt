@@ -1,0 +1,2 @@
+x: [[131 208 324 309 217 139]], y: [[135  77  82 123 110 163]], ornt: [u'c'], transcriptions: [u'ANTIQUE']
+x: [[154 286 296 157]], y: [[160 128 159 191]], ornt: [u'm'], transcriptions: [u'HOSTEL']

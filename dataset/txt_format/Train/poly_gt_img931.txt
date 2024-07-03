@@ -1,0 +1,3 @@
+x: [[350 380 409 409 380 350]], y: [[595 595 595 617 617 617]], ornt: [u'h'], transcriptions: [u'TOYS']
+x: [[ 90 151 211 211 151  90]], y: [[594 594 594 616 616 616]], ornt: [u'h'], transcriptions: [u'HAMLEYS']
+x: [[187 325 421 429 333 211]], y: [[267 232 235 285 321 361]], ornt: [u'c'], transcriptions: [u'Hamleys']

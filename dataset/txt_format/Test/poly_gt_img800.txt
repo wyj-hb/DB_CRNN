@@ -1,0 +1,8 @@
+x: [[714 784 854 854 784 714]], y: [[237 237 237 261 261 261]], ornt: [u'h'], transcriptions: [u'CREATION']
+x: [[721 783 844 844 783 721]], y: [[264 264 264 287 287 287]], ornt: [u'h'], transcriptions: [u'MUSEUM']
+x: [[611 645 679 679 645 611]], y: [[306 306 306 326 326 326]], ornt: [u'h'], transcriptions: [u'EXIT']
+x: [[330 373 416 416 373 330]], y: [[ 99  99  99 126 126 126]], ornt: [u'h'], transcriptions: [u'KEEn']
+x: [[763 783 803 803 783 763]], y: [[293 293 293 312 312 312]], ornt: [u'h'], transcriptions: [u'org']
+x: [[137 300 668 799 820 685 313 122]], y: [[178 130 164 125 187 237 216 278]], ornt: [u'c'], transcriptions: [u'ANKYLOSAURUS']
+x: [[264 330 329 268]], y: [[ 98  98 125 130]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[672 700 697 671]], y: [[304 304 335 331]], ornt: [u'h'], transcriptions: [u'11']

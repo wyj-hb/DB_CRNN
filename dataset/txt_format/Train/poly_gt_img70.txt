@@ -1,0 +1,7 @@
+x: [[179 204 250 248 215 193]], y: [[53 24 22 38 38 64]], ornt: [u'c'], transcriptions: [u'COCKTAILS']
+x: [[205 220 232 234 216 201]], y: [[ 84  89  87 101 107 101]], ornt: [u'c'], transcriptions: [u'LIVE']
+x: [[233 250 255 269 262 240]], y: [[ 88  77  62  64  85 100]], ornt: [u'c'], transcriptions: [u'music']
+x: [[ 42 248 250  29]], y: [[ 50 112 144 123]], ornt: [u'm'], transcriptions: [u'Fishbones']
+x: [[ 50 139 143  51]], y: [[151 157 184 184]], ornt: [u'm'], transcriptions: [u'SEAFOOD']
+x: [[150 213 218 150]], y: [[159 161 189 191]], ornt: [u'm'], transcriptions: [u'STEAKS']
+x: [[224 269 274 226]], y: [[167 166 193 193]], ornt: [u'm'], transcriptions: [u'SUSHI']

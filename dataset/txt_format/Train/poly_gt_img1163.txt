@@ -1,0 +1,5 @@
+x: [[571 613 656 650 609 576]], y: [[287 268 275 297 290 309]], ornt: [u'c'], transcriptions: [u'KOMPLEKS']
+x: [[643 713 714 634]], y: [[591 582 608 615]], ornt: [u'm'], transcriptions: [u'alamno']
+x: [[563 659 659 563]], y: [[308 289 320 335]], ornt: [u'm'], transcriptions: [u'KELANA']
+x: [[530 613 616 531]], y: [[342 325 361 377]], ornt: [u'm'], transcriptions: [u'CENTRE']
+x: [[621 687 692 626]], y: [[324 314 349 364]], ornt: [u'm'], transcriptions: [u'POINT']

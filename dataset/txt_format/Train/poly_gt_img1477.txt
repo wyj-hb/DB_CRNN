@@ -1,0 +1,7 @@
+x: [[ 18 227 425 433 245  75]], y: [[ 75  20  51 123 100 167]], ornt: [u'c'], transcriptions: [u'MOREYS']
+x: [[458 561 630 608 525 447]], y: [[ 74 141 212 258 182 135]], ornt: [u'c'], transcriptions: [u'PIERS']
+x: [[447 518 528 453]], y: [[376 356 386 404]], ornt: [u'm'], transcriptions: [u'PRETZEL']
+x: [[523 598 607 534]], y: [[355 336 372 388]], ornt: [u'm'], transcriptions: [u'STAND']
+x: [[572 622 622 576]], y: [[385 372 391 403]], ornt: [u'm'], transcriptions: [u'Everyday']
+x: [[491 532 540 497]], y: [[397 390 408 413]], ornt: [u'm'], transcriptions: [u'Hotdogs']
+x: [[457 495 499 461]], y: [[405 395 413 420]], ornt: [u'm'], transcriptions: [u'Ratteld']

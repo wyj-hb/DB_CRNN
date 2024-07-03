@@ -1,0 +1,4 @@
+x: [[193 364 619 794 722 569 375 265]], y: [[274 136 138 274 319 216 232 336]], ornt: [u'c'], transcriptions: [u'VACATION']
+x: [[309 695 706 309]], y: [[295 277 491 481]], ornt: [u'm'], transcriptions: [u'25']
+x: [[349 484 653 626 487 373]], y: [[526 471 509 571 533 566]], ornt: [u'c'], transcriptions: [u'DOLLARS']
+x: [[313 518 700 767 526 283]], y: [[610 689 629 692 796 715]], ornt: [u'c'], transcriptions: [u'VINYL']

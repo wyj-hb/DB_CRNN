@@ -1,0 +1,6 @@
+x: [[139 249 387 384 265 180]], y: [[404 329 317 356 376 437]], ornt: [u'c'], transcriptions: [u'WARISAN']
+x: [[424 513 570 553 484 415]], y: [[316 340 382 421 379 356]], ornt: [u'c'], transcriptions: [u'DUNIA']
+x: [[103 148 132 141  85  76]], y: [[466 470 529 592 607 538]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[133 192 273 259 147  96]], y: [[601 677 712 751 710 626]], ornt: [u'c'], transcriptions: [u'HERITAGE']
+x: [[316 465 544 592 489 319]], y: [[721 689 617 638 736 763]], ornt: [u'c'], transcriptions: [u'PATRIMOINE']
+x: [[555 583 571 609 636 606]], y: [[596 529 448 433 524 623]], ornt: [u'c'], transcriptions: [u'MONDIAL']

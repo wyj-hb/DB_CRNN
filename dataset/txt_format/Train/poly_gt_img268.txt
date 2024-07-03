@@ -1,0 +1,7 @@
+x: [[118 207 282 288 202 118]], y: [[135 119 113 142 148 169]], ornt: [u'c'], transcriptions: [u'APPLE']
+x: [[316 443 549 547 430 317]], y: [[108 116 136 163 144 139]], ornt: [u'c'], transcriptions: [u'MARKET']
+x: [[247 294 294 246]], y: [[277 276 294 293]], ornt: [u'h'], transcriptions: [u'hand']
+x: [[302 347 347 300]], y: [[278 278 297 296]], ornt: [u'h'], transcriptions: [u'made']
+x: [[350 374 375 349]], y: [[278 279 297 299]], ornt: [u'h'], transcriptions: [u'Art']
+x: [[395 453 456 396]], y: [[280 279 298 299]], ornt: [u'h'], transcriptions: [u'Design']
+x: [[377 396 397 378]], y: [[279 279 298 299]], ornt: [u'#'], transcriptions: [u'#']

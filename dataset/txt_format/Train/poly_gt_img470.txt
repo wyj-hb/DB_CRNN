@@ -1,0 +1,4 @@
+x: [[161 208 269 272 219 170]], y: [[119  95  84 116 127 152]], ornt: [u'c'], transcriptions: [u'SUARA']
+x: [[309 352 403 392 345 296]], y: [[ 78  85 107 138 118 116]], ornt: [u'c'], transcriptions: [u'ALAM']
+x: [[ 44 300 300  44]], y: [[233 236 321 321]], ornt: [u'h'], transcriptions: [u'SAFARI']
+x: [[354 550 566 360]], y: [[225 225 316 322]], ornt: [u'h'], transcriptions: [u'TREK']

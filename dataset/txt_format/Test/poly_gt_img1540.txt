@@ -1,0 +1,5 @@
+x: [[312 387 385 308]], y: [[62 62 85 79]], ornt: [u'm'], transcriptions: [u'ASHBURY']
+x: [[ 52 139 244 270 162  54]], y: [[162 161 114 151 232 249]], ornt: [u'c'], transcriptions: [u'HEAD']
+x: [[255 358 456 457 347 247]], y: [[150 185 193 289 277 198]], ornt: [u'c'], transcriptions: [u'RUSh']
+x: [[331 361 354 329]], y: [[ 89  99 110 103]], ornt: [u'm'], transcriptions: [u'1500']
+x: [[284 370 370 282]], y: [[101 120 138 126]], ornt: [u'm'], transcriptions: [u'HAIGHT']

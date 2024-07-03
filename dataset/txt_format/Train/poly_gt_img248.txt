@@ -1,0 +1,1 @@
+x: [[145 240 346 336 244 161]], y: [[ 92  51  65 112  92 128]], ornt: [u'c'], transcriptions: [u'FORTEZZA']

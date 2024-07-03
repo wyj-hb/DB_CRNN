@@ -1,0 +1,3 @@
+x: [[ 729 1232 1244  735]], y: [[798 755 847 886]], ornt: [u'm'], transcriptions: [u'AKSARAY']
+x: [[ 689 1305 1305  686]], y: [[ 929  886 1091 1118]], ornt: [u'm'], transcriptions: [u'AVm']
+x: [[ 744  958 1205 1199  973  769]], y: [[1329 1258 1292 1386 1365 1414]], ornt: [u'c'], transcriptions: [u'OUTLET']

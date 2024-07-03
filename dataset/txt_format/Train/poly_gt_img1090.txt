@@ -1,0 +1,8 @@
+x: [[220 257 294 294 257 220]], y: [[196 196 196 237 237 237]], ornt: [u'h'], transcriptions: [u'BOY']
+x: [[  8  73 137 137  73   8]], y: [[115 115 115 240 240 240]], ornt: [u'h'], transcriptions: [u'HM']
+x: [[228 254 279 279 254 228]], y: [[447 447 447 475 475 475]], ornt: [u'h'], transcriptions: [u'PPf']
+x: [[187 255 323 323 255 187]], y: [[291 291 291 356 356 356]], ornt: [u'h'], transcriptions: [u'FILA']
+x: [[ 49  85 100  55]], y: [[234 234 388 394]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 51 102 105  52]], y: [[508 511 534 526]], ornt: [u'h'], transcriptions: [u'HIPANDA']
+x: [[202 202 258 262 228 223]], y: [[484 436 406 433 447 489]], ornt: [u'c'], transcriptions: [u'POPULAR']
+x: [[274 307 303 282 282 262]], y: [[414 448 489 492 454 436]], ornt: [u'c'], transcriptions: [u'TOPICS']

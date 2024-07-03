@@ -1,0 +1,5 @@
+x: [[271 308 345 345 308 271]], y: [[185 185 185 216 216 216]], ornt: [u'h'], transcriptions: [u'nGO']
+x: [[271 302 333 333 302 271]], y: [[163 163 163 190 190 190]], ornt: [u'h'], transcriptions: [u'ouc']
+x: [[132 190 224 212 194 198 172 129]], y: [[110 130 190 244 236 199 146 132]], ornt: [u'c'], transcriptions: [u'EXPERIENCE']
+x: [[123 150 184 202 158 119]], y: [[252 257 237 254 280 270]], ornt: [u'c'], transcriptions: [u'CENTR']
+x: [[ 71  54  79 114 121  90  80  88]], y: [[232 174 131 111 136 157 178 232]], ornt: [u'c'], transcriptions: [u'USTOMER']

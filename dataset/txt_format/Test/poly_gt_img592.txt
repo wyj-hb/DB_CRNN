@@ -1,0 +1,6 @@
+x: [[ 94 211 325 438 568 798 767 689 520 367 209  97]], y: [[243 218 196 195 210 250 338 309 282 280 301 324]], ornt: [u'c'], transcriptions: [u'NANTUCKET']
+x: [[171 595 595 383 182]], y: [[426 447 503 500 492]], ornt: [u'h'], transcriptions: [u'WHALING']
+x: [[642 742 746 673 633]], y: [[432 433 465 508 503]], ornt: [u'h'], transcriptions: [u'CO']
+x: [[222 314 308 222]], y: [[504 508 537 533]], ornt: [u'h'], transcriptions: [u'OLD']
+x: [[335 500 497 334]], y: [[505 507 541 535]], ornt: [u'h'], transcriptions: [u'SOUTH']
+x: [[517 671 661 525]], y: [[508 510 540 539]], ornt: [u'h'], transcriptions: [u'WHARF']

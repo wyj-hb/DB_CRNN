@@ -1,0 +1,8 @@
+x: [[169 202 228 202]], y: [[447 405 421 471]], ornt: [u'm'], transcriptions: [u'BC']
+x: [[220 325 466 457 331 235]], y: [[388 334 357 387 366 417]], ornt: [u'c'], transcriptions: [u'ENTERTAINMENT']
+x: [[477 516 543 519 492 462]], y: [[363 394 418 447 417 391]], ornt: [u'c'], transcriptions: [u'HALL']
+x: [[553 570 537 517]], y: [[436 480 487 456]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[573 583 580 555 553 535]], y: [[490 538 576 571 529 493]], ornt: [u'c'], transcriptions: [u'FAME']
+x: [[295 333 387 384 351 306]], y: [[435 421 423 454 450 471]], ornt: [u'c'], transcriptions: [u'BOB']
+x: [[405 451 486 460 432 394]], y: [[423 450 489 513 478 457]], ornt: [u'c'], transcriptions: [u'REID']
+x: [[253 307 381 384 297 232]], y: [[702 732 741 778 768 727]], ornt: [u'c'], transcriptions: [u'MUSIC']

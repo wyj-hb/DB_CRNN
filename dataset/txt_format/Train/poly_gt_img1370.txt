@@ -1,0 +1,3 @@
+x: [[ 58  73 115 151 113  98]], y: [[530 433 368 395 458 538]], ornt: [u'c'], transcriptions: [u'GRACE']
+x: [[131 193 272 275 202 158]], y: [[350 314 298 341 361 385]], ornt: [u'c'], transcriptions: [u'PLACE']
+x: [[292 400 455 428 376 292]], y: [[298 323 380 416 359 337]], ornt: [u'c'], transcriptions: [u'COFFEE']

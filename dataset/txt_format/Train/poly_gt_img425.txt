@@ -1,0 +1,5 @@
+x: [[  4  15 111 233 370 534 578 575 551 480 350 244 145 105  83]], y: [[319 151  45   7  32 192 313 394 406 208  99  90 142 243 315]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[264 481 486 268]], y: [[209 254 305 271]], ornt: [u'm'], transcriptions: [u'BOSTONS']
+x: [[269 478 482 266]], y: [[301 329 381 362]], ornt: [u'm'], transcriptions: [u'HISTORIC']
+x: [[273 444 449 275]], y: [[397 404 460 462]], ornt: [u'm'], transcriptions: [u'NORTH']
+x: [[457 526 533 464]], y: [[405 409 461 461]], ornt: [u'm'], transcriptions: [u'END']

@@ -1,0 +1,2 @@
+x: [[287 334 403 397 343 293]], y: [[692 678 678 717 717 734]], ornt: [u'c'], transcriptions: [u'Chick']
+x: [[421 478 468 415]], y: [[683 693 732 717]], ornt: [u'm'], transcriptions: [u'In']

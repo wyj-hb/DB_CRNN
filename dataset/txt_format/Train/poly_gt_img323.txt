@@ -1,0 +1,8 @@
+x: [[221 169 174 259 272 340]], y: [[1306 1144  990  998 1144 1289]], ornt: [u'c'], transcriptions: [u'Over']
+x: [[131 161 203 310 259 246]], y: [[939 810 746 789 883 986]], ornt: [u'c'], transcriptions: [u'100']
+x: [[221 353 511 554 413 297]], y: [[708 571 524 614 674 768]], ornt: [u'c'], transcriptions: [u'Years']
+x: [[545 618 691 699 631 575]], y: [[486 469 498 601 592 618]], ornt: [u'c'], transcriptions: [u'in']
+x: [[ 742  973 1105 1015  891  725]], y: [[464 580 751 802 665 610]], ornt: [u'c'], transcriptions: [u'Bloom']
+x: [[1216 1618 1618 1246]], y: [[541 481 785 840]], ornt: [u'm'], transcriptions: [u'The']
+x: [[1378 2652 2673 1374]], y: [[ 840  691 1041 1225]], ornt: [u'm'], transcriptions: [u'Butchart']
+x: [[1571 2665 2669 1596]], y: [[1216 1088 1430 1584]], ornt: [u'm'], transcriptions: [u'Gardens']

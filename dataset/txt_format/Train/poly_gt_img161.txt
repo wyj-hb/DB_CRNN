@@ -1,0 +1,8 @@
+x: [[577 664 769 779 695 616]], y: [[469 397 372 418 451 510]], ornt: [u'c'], transcriptions: [u'MUSEUM']
+x: [[ 806  945 1100 1070  941  811]], y: [[369 378 481 516 433 417]], ornt: [u'c'], transcriptions: [u'KESEHATAN']
+x: [[619 680 679 613]], y: [[598 600 633 634]], ornt: [u'h'], transcriptions: [u'Dr']
+x: [[692 946 947 701]], y: [[597 595 630 633]], ornt: [u'h'], transcriptions: [u'ADHYATMA']
+x: [[ 961 1049 1054  961]], y: [[594 595 628 627]], ornt: [u'h'], transcriptions: [u'MPH']
+x: [[644 861 863 647]], y: [[637 633 666 666]], ornt: [u'h'], transcriptions: [u'JLINDRAPURANO']
+x: [[859 889 886 863]], y: [[634 633 666 664]], ornt: [u'h'], transcriptions: [u'17']
+x: [[ 895 1015 1021  899]], y: [[634 631 660 661]], ornt: [u'h'], transcriptions: [u'SURABAYA']

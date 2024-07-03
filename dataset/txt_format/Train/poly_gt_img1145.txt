@@ -1,0 +1,6 @@
+x: [[436 463 501 503 470 456]], y: [[241 221 216 244 249 261]], ornt: [u'c'], transcriptions: [u'LAUNDRY']
+x: [[551 583 622 640 589 544]], y: [[232 236 223 242 269 258]], ornt: [u'c'], transcriptions: [u'WASHMASTER']
+x: [[354 448 452 362]], y: [[210 209 227 232]], ornt: [u'm'], transcriptions: [u'KEDAICUCIANKERING']
+x: [[ 71 131 131  70]], y: [[217 215 231 233]], ornt: [u'm'], transcriptions: [u'PUSATINTERNET']
+x: [[138 277 280 138]], y: [[228 225 253 261]], ornt: [u'#'], transcriptions: [u'#']
+x: [[157 283 284 160]], y: [[261 257 267 277]], ornt: [u'#'], transcriptions: [u'#']

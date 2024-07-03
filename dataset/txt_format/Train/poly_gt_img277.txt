@@ -1,0 +1,1 @@
+x: [[ 86 165 229 251 151  70]], y: [[419 443 431 464 486 463]], ornt: [u'c'], transcriptions: [u'Berthelot']

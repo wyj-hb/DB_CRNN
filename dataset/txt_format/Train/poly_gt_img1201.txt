@@ -1,0 +1,7 @@
+x: [[376 609 611 383]], y: [[207 193 245 259]], ornt: [u'm'], transcriptions: [u'PREMIER']
+x: [[390 389 403 409 400 400]], y: [[322 298 286 295 306 324]], ornt: [u'c'], transcriptions: [u'COLOUR']
+x: [[409 431 442 435 426 409]], y: [[284 285 296 306 295 296]], ornt: [u'c'], transcriptions: [u'TISSUE']
+x: [[398 419 433 439 419 394]], y: [[321 328 319 329 339 331]], ornt: [u'c'], transcriptions: [u'ORANGE']
+x: [[451 472 476 451]], y: [[307 305 324 329]], ornt: [u'm'], transcriptions: [u'80']
+x: [[476 505 505 477]], y: [[306 304 315 317]], ornt: [u'm'], transcriptions: [u'PULLS']
+x: [[476 503 504 479]], y: [[318 315 324 328]], ornt: [u'm'], transcriptions: [u'HELAi']

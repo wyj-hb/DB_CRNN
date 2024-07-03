@@ -1,0 +1,4 @@
+x: [[310 346 475 511 403 377]], y: [[457 337 277 328 376 479]], ornt: [u'c'], transcriptions: [u'MELUR']
+x: [[556 769 857 784 719 548]], y: [[263 304 478 500 358 308]], ornt: [u'c'], transcriptions: [u'PARKING']
+x: [[401 449 533 521 430 361]], y: [[512 551 571 620 590 538]], ornt: [u'c'], transcriptions: [u'SDN']
+x: [[601 674 745 788 703 616]], y: [[581 569 529 556 613 626]], ornt: [u'c'], transcriptions: [u'BHD']

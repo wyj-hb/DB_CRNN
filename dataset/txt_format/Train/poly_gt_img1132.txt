@@ -1,0 +1,4 @@
+x: [[141 160 160 138]], y: [[67 71 88 88]], ornt: [u'h'], transcriptions: [u's']
+x: [[168 200 235 221 196 170]], y: [[ 69  81 100 119  99  95]], ornt: [u'c'], transcriptions: [u'FAIFOO']
+x: [[137 166 195 192 164 135]], y: [[ 99 100 111 123 116 115]], ornt: [u'c'], transcriptions: [u'BOUTIQUE']
+x: [[198 215 233 224 213 191]], y: [[108 119 132 146 135 129]], ornt: [u'c'], transcriptions: [u'HOTEL']

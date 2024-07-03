@@ -1,0 +1,3 @@
+x: [[328 413 504 526 436 363]], y: [[136  88  71 127 146 190]], ornt: [u'c'], transcriptions: [u'CASA']
+x: [[526 583 589 529]], y: [[ 85  88 127 127]], ornt: [u'm'], transcriptions: [u'DE']
+x: [[597 741 884 863 731 596]], y: [[ 73 108 216 257 164 123]], ornt: [u'c'], transcriptions: [u'PORTUGAL']

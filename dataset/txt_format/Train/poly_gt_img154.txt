@@ -1,0 +1,6 @@
+x: [[218 326 478 468 357 249]], y: [[292 227 207 279 289 357]], ornt: [u'c'], transcriptions: [u'SANDY']
+x: [[527 645 735 693 608 509]], y: [[217 256 330 387 315 280]], ornt: [u'c'], transcriptions: [u'HOOK']
+x: [[324 624 619 315]], y: [[352 369 442 416]], ornt: [u'm'], transcriptions: [u'SCHOOL']
+x: [[419 520 518 419]], y: [[450 458 507 497]], ornt: [u'm'], transcriptions: [u'1956']
+x: [[238 452 450 237]], y: [[504 524 570 549]], ornt: [u'm'], transcriptions: [u'VISITORS']
+x: [[475 571 570 476]], y: [[522 528 577 564]], ornt: [u'm'], transcriptions: [u'WEL']

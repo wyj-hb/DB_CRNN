@@ -1,0 +1,2 @@
+x: [[ 67 226 389 387 225  65]], y: [[216 161 154 201 207 269]], ornt: [u'c'], transcriptions: [u'MICHIGAN']
+x: [[410 561 663 668 559 408]], y: [[158 190 251 297 228 200]], ornt: [u'c'], transcriptions: [u'STADIUM']

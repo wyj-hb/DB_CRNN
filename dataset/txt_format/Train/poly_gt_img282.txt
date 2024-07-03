@@ -1,0 +1,3 @@
+x: [[432 522 582 636 610 574 517 451]], y: [[268 233 260 319 335 291 273 297]], ornt: [u'c'], transcriptions: [u'BLEECKER']
+x: [[411 649 651 409]], y: [[315 368 426 373]], ornt: [u'm'], transcriptions: [u'RECORDS']
+x: [[466 535 604 617 537 448]], y: [[427 470 449 482 507 457]], ornt: [u'c'], transcriptions: [u'STREET']

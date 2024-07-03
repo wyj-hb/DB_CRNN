@@ -1,0 +1,8 @@
+x: [[332 387 442 442 387 332]], y: [[196 196 196 230 230 230]], ornt: [u'h'], transcriptions: [u'VARNISHES']
+x: [[143 288 432 432 288 143]], y: [[125 125 125 188 188 188]], ornt: [u'h'], transcriptions: [u'SUNDRIES']
+x: [[146 237 328 328 237 146]], y: [[193 193 193 232 232 232]], ornt: [u'h'], transcriptions: [u'PAINTSOILDS']
+x: [[166 417 422 154]], y: [[ 8 10 59 55]], ornt: [u'h'], transcriptions: [u'SGWALL']
+x: [[163 271 408 394 276 175]], y: [[ 83  55  80 124 103 125]], ornt: [u'c'], transcriptions: [u'DRUGGISTS']
+x: [[144 441 444 143]], y: [[306 308 330 334]], ornt: [u'h'], transcriptions: [u'PRESGRIPTIONS']
+x: [[269 438 439 271]], y: [[332 334 352 353]], ornt: [u'h'], transcriptions: [u'COMPOUNDED']
+x: [[ 7 21 18 36 39  5]], y: [[384 371 344 342 377 405]], ornt: [u'#'], transcriptions: [u'#']

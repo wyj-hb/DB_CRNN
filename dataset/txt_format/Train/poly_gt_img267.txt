@@ -1,0 +1,5 @@
+x: [[114 180 252 247 186 134]], y: [[236 184 182 210 214 255]], ornt: [u'c'], transcriptions: [u'HEINEKEN']
+x: [[264 308 341 323 293 253]], y: [[186 209 239 262 228 212]], ornt: [u'c'], transcriptions: [u'LAGER']
+x: [[ 95 358 361  93]], y: [[291 297 349 340]], ornt: [u'h'], transcriptions: [u'Heineken']
+x: [[127 173 231 226 156 108]], y: [[379 421 434 457 439 397]], ornt: [u'c'], transcriptions: [u'PREMIUM']
+x: [[235 279 319 335 306 240]], y: [[435 419 382 392 435 458]], ornt: [u'c'], transcriptions: [u'QUALITY']

@@ -1,0 +1,8 @@
+x: [[148 244 245 148]], y: [[ 61  63 162 166]], ornt: [u'h'], transcriptions: [u'SF']
+x: [[260 364 361 260]], y: [[ 93  93 124 126]], ornt: [u'h'], transcriptions: [u'SHOON']
+x: [[373 439 442 373]], y: [[ 99 100 126 129]], ornt: [u'h'], transcriptions: [u'FATT']
+x: [[118 169 233 241 200 160]], y: [[463 430 415 465 486 517]], ornt: [u'c'], transcriptions: [u'Lets']
+x: [[  7 311 592 503 322 170]], y: [[544 393 423 601 600 748]], ornt: [u'c'], transcriptions: [u'Party']
+x: [[260 293 347 359 317 287]], y: [[678 640 618 651 676 709]], ornt: [u'c'], transcriptions: [u'Assorted']
+x: [[355 397 451 449 404 364]], y: [[612 601 598 627 636 649]], ornt: [u'c'], transcriptions: [u'Biscuits']
+x: [[295 371 508 503 392 322]], y: [[745 666 624 672 705 783]], ornt: [u'#'], transcriptions: [u'#']

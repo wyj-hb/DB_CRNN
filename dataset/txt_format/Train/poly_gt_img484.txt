@@ -1,0 +1,5 @@
+x: [[544 782 781 542]], y: [[ 94  82 147 165]], ornt: [u'm'], transcriptions: [u'Sintex']
+x: [[542 548 568 586 572 568]], y: [[277 234 198 210 243 276]], ornt: [u'c'], transcriptions: [u'KEEP']
+x: [[575 610 658 659 628 602]], y: [[186 160 148 172 186 207]], ornt: [u'c'], transcriptions: [u'YOUR']
+x: [[673 713 743 731 709 673]], y: [[142 151 163 186 174 174]], ornt: [u'c'], transcriptions: [u'CITY']
+x: [[755 799 811 787 772 742]], y: [[171 207 261 267 220 190]], ornt: [u'c'], transcriptions: [u'CLEAN']

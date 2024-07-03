@@ -1,0 +1,5 @@
+x: [[272 321 324 276]], y: [[343 351 384 378]], ornt: [u'h'], transcriptions: [u'TEA']
+x: [[263 327 332 266]], y: [[384 393 427 422]], ornt: [u'h'], transcriptions: [u'SHOp']
+x: [[225 251 268 259 230 211]], y: [[457 476 483 521 507 487]], ornt: [u'c'], transcriptions: [u'TEA']
+x: [[276 293 291 269]], y: [[494 497 521 521]], ornt: [u'#'], transcriptions: [u'#']
+x: [[298 336 370 376 343 301]], y: [[493 488 465 503 522 532]], ornt: [u'c'], transcriptions: [u'SCONES']

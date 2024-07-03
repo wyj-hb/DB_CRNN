@@ -1,0 +1,7 @@
+x: [[209 238 270 272 243 217]], y: [[170 157 151 163 167 182]], ornt: [u'c'], transcriptions: [u'CERTIFIED']
+x: [[276 313 346 338 310 274]], y: [[153 155 173 185 169 165]], ornt: [u'c'], transcriptions: [u'AUTHENTIC']
+x: [[182 189 193 181 167 166]], y: [[249 270 284 292 270 252]], ornt: [u'c'], transcriptions: [u'MADE']
+x: [[196 222 252 250 209 184]], y: [[289 314 328 346 329 300]], ornt: [u'c'], transcriptions: [u'PRODUCED']
+x: [[256 277 273 254]], y: [[331 331 350 348]], ornt: [u'h'], transcriptions: [u'BY']
+x: [[279 316 344 356 321 279]], y: [[332 323 302 317 344 350]], ornt: [u'c'], transcriptions: [u'AMERICAN']
+x: [[346 359 369 387 375 355]], y: [[298 279 254 256 292 312]], ornt: [u'c'], transcriptions: [u'INDIANS']

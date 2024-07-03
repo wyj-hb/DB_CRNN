@@ -1,0 +1,4 @@
+x: [[291 362 484 618 764 839 824 760 607 471 365 335]], y: [[351 244 187 184 234 338 433 339 276 298 374 433]], ornt: [u'c'], transcriptions: [u'KHATULISTIWA']
+x: [[479 690 690 483]], y: [[355 353 427 427]], ornt: [u'm'], transcriptions: [u'CAFE']
+x: [[400 534 535 398]], y: [[485 480 537 541]], ornt: [u'm'], transcriptions: [u'OPEN']
+x: [[577 765 768 551 545]], y: [[482 473 525 538 481]], ornt: [u'm'], transcriptions: [u'24-HOURS']

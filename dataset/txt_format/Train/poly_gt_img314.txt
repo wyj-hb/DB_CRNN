@@ -1,0 +1,4 @@
+x: [[ 835  967 1144 1204 1033  943]], y: [[1214  983  875  956 1100 1292]], ornt: [u'c'], transcriptions: [u'Cristan']
+x: [[1198 1291 1345 1234]], y: [[857 806 911 956]], ornt: [u'm'], transcriptions: [u'Ja']
+x: [[1348 1612 1771 1759 1570 1333]], y: [[776 743 776 890 854 872]], ornt: [u'c'], transcriptions: [u'Esolde']
+x: [[1138 1486 1540 1174]], y: [[1064  908 1016 1175]], ornt: [u'm'], transcriptions: [u'kohuik']

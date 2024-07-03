@@ -1,0 +1,3 @@
+x: [[194 272 384 440 426 367 268 208]], y: [[181 158 165 181 210 192 191 204]], ornt: [u'c'], transcriptions: [u'COMMIT']
+x: [[278 347 344 278]], y: [[198 197 231 231]], ornt: [u'h'], transcriptions: [u'NO']
+x: [[184 442 449 181]], y: [[230 239 272 265]], ornt: [u'h'], transcriptions: [u'NUISANCE']

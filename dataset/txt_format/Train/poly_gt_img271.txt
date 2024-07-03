@@ -1,0 +1,4 @@
+x: [[ 55  93 193 323 231 231]], y: [[800 548 402 485 658 834]], ornt: [u'c'], transcriptions: [u'aux']
+x: [[ 309  619  865 1054  929  795  585  335]], y: [[298 200 296 516 612 460 394 444]], ornt: [u'c'], transcriptions: [u'crieurs']
+x: [[ 922 1102 1156  951]], y: [[630 564 812 848]], ornt: [u'm'], transcriptions: [u'de']
+x: [[337 803 805 361]], y: [[498 494 826 836]], ornt: [u'h'], transcriptions: [u'VIN']

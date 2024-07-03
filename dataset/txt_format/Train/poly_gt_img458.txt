@@ -1,0 +1,5 @@
+x: [[1631 2111 2911 2879 2167 1711]], y: [[ 906  782  946 1162 1022 1182]], ornt: [u'c'], transcriptions: [u'Welcome']
+x: [[2147 2347 2347 2171]], y: [[1166 1106 1214 1282]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[ 894 2331 2287  862]], y: [[1330 1374 1794 1754]], ornt: [u'h'], transcriptions: [u'GHOST']
+x: [[2375 3615 3647 2435]], y: [[1342 1338 1858 1826]], ornt: [u'h'], transcriptions: [u'TOWN']
+x: [[1607 2775 2771 1627]], y: [[1970 1974 2170 2186]], ornt: [u'h'], transcriptions: [u'1885']

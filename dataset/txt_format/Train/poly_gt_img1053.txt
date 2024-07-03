@@ -1,0 +1,6 @@
+x: [[308 333 373 379 356 341]], y: [[181 150 134 164 178 195]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[380 457 496 473 439 384]], y: [[126 147 191 205 169 160]], ornt: [u'c'], transcriptions: [u'KNACK']
+x: [[340 386 429 436 363 321]], y: [[299 334 338 368 365 320]], ornt: [u'c'], transcriptions: [u'ROUND']
+x: [[432 454 477 499 480 443]], y: [[336 325 301 332 352 362]], ornt: [u'c'], transcriptions: [u'TRIP']
+x: [[380 427 424 385]], y: [[391 392 405 403]], ornt: [u'm'], transcriptions: [u'PACIFIC']
+x: [[430 480 482 431]], y: [[394 397 406 407]], ornt: [u'm'], transcriptions: [u'OUTDOOR']

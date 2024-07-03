@@ -1,0 +1,7 @@
+x: [[342 416 490 490 416 342]], y: [[212 212 212 242 242 242]], ornt: [u'h'], transcriptions: [u'TAPHOUSE']
+x: [[369 384 404 410 395 378]], y: [[204 195 194 209 213 223]], ornt: [u'c'], transcriptions: [u'4TH']
+x: [[415 444 472 464 435 408]], y: [[194 198 212 223 213 210]], ornt: [u'c'], transcriptions: [u'STREET']
+x: [[352 370 386 381 354 338]], y: [[275 292 302 320 307 287]], ornt: [u'c'], transcriptions: [u'BAR']
+x: [[395 412 408 387]], y: [[303 308 328 323]], ornt: [u'#'], transcriptions: [u'#']
+x: [[415 456 488 501 465 413]], y: [[310 307 284 295 328 330]], ornt: [u'c'], transcriptions: [u'GRILLE']
+x: [[ 915 1075 1079  940]], y: [[462 372 485 570]], ornt: [u'm'], transcriptions: [u'SPRI']

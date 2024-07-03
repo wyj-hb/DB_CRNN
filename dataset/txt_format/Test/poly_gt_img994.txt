@@ -1,0 +1,3 @@
+x: [[  7 114 221 221 114   7]], y: [[ 81  81  81 113 113 113]], ornt: [u'h'], transcriptions: [u'FREAKSHOW']
+x: [[  2  43 102 104  54  16]], y: [[63 21 10 41 51 83]], ornt: [u'c'], transcriptions: [u'VENICE']
+x: [[119 176 224 201 151 109]], y: [[10 25 67 84 47 36]], ornt: [u'c'], transcriptions: [u'BEACH']

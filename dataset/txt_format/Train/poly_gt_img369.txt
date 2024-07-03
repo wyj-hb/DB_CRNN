@@ -1,0 +1,5 @@
+x: [[479 618 764 924 886 766 632 530]], y: [[383 293 285 379 459 353 359 437]], ornt: [u'c'], transcriptions: [u'PROVINCIAL']
+x: [[488 568 706 712 528 430]], y: [[619 725 779 841 795 651]], ornt: [u'c'], transcriptions: [u'MARINE']
+x: [[766 852 911 966 900 794]], y: [[765 719 631 663 769 827]], ornt: [u'c'], transcriptions: [u'PARK']
+x: [[534 856 852 538]], y: [[ 935  937 1017 1025]], ornt: [u'h'], transcriptions: [u'SANDY']
+x: [[528 878 884 538]], y: [[1107 1115 1193 1189]], ornt: [u'h'], transcriptions: [u'ISLAND']

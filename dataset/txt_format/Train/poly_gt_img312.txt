@@ -1,0 +1,4 @@
+x: [[225 287 336 339 276 233]], y: [[197 174 170 204 213 228]], ornt: [u'c'], transcriptions: [u'AYAM']
+x: [[355 451 533 515 441 353]], y: [[166 173 199 226 207 203]], ornt: [u'c'], transcriptions: [u'TANGKAP']
+x: [[274 355 356 272]], y: [[223 221 250 249]], ornt: [u'h'], transcriptions: [u'BLANG']
+x: [[364 473 474 364]], y: [[222 226 250 247]], ornt: [u'h'], transcriptions: [u'BINTANG']

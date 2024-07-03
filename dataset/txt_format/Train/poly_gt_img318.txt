@@ -1,0 +1,3 @@
+x: [[ 83 177 284 266 178 106]], y: [[ 73  38  89 125  79 111]], ornt: [u'c'], transcriptions: [u'TRACK']
+x: [[132 234 229 130]], y: [[131 131 319 314]], ornt: [u'h'], transcriptions: [u'4']
+x: [[ 69 128 217 292 317 234 134  38]], y: [[287 350 358 296 314 403 399 319]], ornt: [u'c'], transcriptions: [u'CROSSING']

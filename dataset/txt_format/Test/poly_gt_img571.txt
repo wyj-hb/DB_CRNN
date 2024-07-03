@@ -1,0 +1,4 @@
+x: [[ 70  88 128 139 166 183 175 164 133 106  92  79]], y: [[55 26 14 16 30 54 69 49 29 34 49 67]], ornt: [u'c'], transcriptions: [u'JeepPowerHouse.com']
+x: [[ 94 106 129 149 152 129 105  85]], y: [[105 114 120 114 125 132 127 112]], ornt: [u'c'], transcriptions: [u'DICKINSON']
+x: [[151 161 171 161]], y: [[114 103 108 121]], ornt: [u'c'], transcriptions: [u'TX']
+x: [[ 23 233 234  29]], y: [[145 146 161 160]], ornt: [u'h'], transcriptions: [u'WRANGLER']

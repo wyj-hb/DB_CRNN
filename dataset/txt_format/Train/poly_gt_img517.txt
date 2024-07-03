@@ -1,0 +1,8 @@
+x: [[ 70 106 112  81]], y: [[53 36 55 68]], ornt: [u'm'], transcriptions: [u'DO']
+x: [[123 151 175 163 146 121]], y: [[35 37 51 70 59 61]], ornt: [u'c'], transcriptions: [u'NOT']
+x: [[184 219 221 200 198 173]], y: [[ 56  94 150 153 105  76]], ornt: [u'c'], transcriptions: [u'LITTER']
+x: [[ 68 158 157  66]], y: [[177 176 191 195]], ornt: [u'm'], transcriptions: [u'LITTERING']
+x: [[ 87 106 106  90]], y: [[199 198 214 216]], ornt: [u'h'], transcriptions: [u'IS']
+x: [[110 135 137 112]], y: [[197 197 214 215]], ornt: [u'h'], transcriptions: [u'AN']
+x: [[ 71 152 150  73]], y: [[225 222 238 240]], ornt: [u'm'], transcriptions: [u'OFFENCE']
+x: [[15 36 34 13]], y: [[120 122 152 154]], ornt: [u'#'], transcriptions: [u'#']

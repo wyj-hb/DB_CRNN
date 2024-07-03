@@ -1,0 +1,8 @@
+x: [[246 294 466 586 567 483 383 343]], y: [[509 289 210 211 327 314 383 520]], ornt: [u'c'], transcriptions: [u'POKKA']
+x: [[679 788 797 693 674 609]], y: [[247 381 537 526 423 317]], ornt: [u'c'], transcriptions: [u'CAFE']
+x: [[327 363 411 388 321 296]], y: [[591 644 668 710 674 616]], ornt: [u'c'], transcriptions: [u'HOME']
+x: [[416 494 584 592 486 403]], y: [[682 700 694 730 746 716]], ornt: [u'c'], transcriptions: [u'ROASTED']
+x: [[593 657 702 730 682 620]], y: [[688 651 607 627 685 730]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[483 598 600 486]], y: [[1217 1199 1230 1253]], ornt: [u'm'], transcriptions: [u'Pokka']
+x: [[601 688 691 603]], y: [[1197 1182 1216 1231]], ornt: [u'm'], transcriptions: [u'Cafe']
+x: [[484 693 699 536]], y: [[1258 1222 1261 1280]], ornt: [u'#'], transcriptions: [u'#']

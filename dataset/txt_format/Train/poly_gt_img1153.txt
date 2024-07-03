@@ -1,0 +1,7 @@
+x: [[285 321 372 376 340 312]], y: [[349 290 263 299 322 366]], ornt: [u'c'], transcriptions: [u'SUSHI']
+x: [[389 431 478 463 416 382]], y: [[237 229 233 275 269 286]], ornt: [u'c'], transcriptions: [u'MASA']
+x: [[321 395 406 325]], y: [[385 337 379 430]], ornt: [u'#'], transcriptions: [u'#']
+x: [[247 503 507 242]], y: [[502 364 407 555]], ornt: [u'm'], transcriptions: [u'JAPANESE']
+x: [[242 331 331 251]], y: [[557 512 551 591]], ornt: [u'm'], transcriptions: [u'SUSHI']
+x: [[340 511 516 357]], y: [[504 415 449 536]], ornt: [u'm'], transcriptions: [u'CORNER']
+x: [[16 56 79 31 18  1]], y: [[1050 1088 1152 1192 1146 1103]], ornt: [u'c'], transcriptions: [u'SA']

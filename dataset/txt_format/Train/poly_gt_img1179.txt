@@ -1,0 +1,5 @@
+x: [[551 647 742 742 647 551]], y: [[447 447 447 497 497 497]], ornt: [u'#'], transcriptions: [u'#']
+x: [[396 495 594 594 495 396]], y: [[380 380 380 441 441 441]], ornt: [u'h'], transcriptions: [u'SUSHI']
+x: [[522 601 681 752 730 665 602 550]], y: [[329 287 290 330 363 324 329 362]], ornt: [u'c'], transcriptions: [u'SUSHIBAR']
+x: [[602 899 899 594]], y: [[380 382 437 437]], ornt: [u'h'], transcriptions: [u'AIRWAYS']
+x: [[570 637 713 727 638 555]], y: [[502 516 499 532 547 528]], ornt: [u'c'], transcriptions: [u'SINGAPORE']

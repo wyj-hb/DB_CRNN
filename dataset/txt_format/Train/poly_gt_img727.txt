@@ -1,0 +1,3 @@
+x: [[240 268 295 295 268 240]], y: [[193 193 193 207 207 207]], ornt: [u'h'], transcriptions: [u'CONVENTRY']
+x: [[190 272 336 314 271 219]], y: [[144 103 139 161 136 163]], ornt: [u'c'], transcriptions: [u'WEST']
+x: [[200 235 302 328 361 338 225 172]], y: [[190 256 261 186 185 281 297 191]], ornt: [u'c'], transcriptions: [u'ORCHARDS']

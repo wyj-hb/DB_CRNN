@@ -1,0 +1,5 @@
+x: [[321 353 384 384 353 321]], y: [[67 67 67 79 79 79]], ornt: [u'h'], transcriptions: [u'CLEARANCE']
+x: [[335 354 373 373 354 335]], y: [[53 53 53 63 63 63]], ornt: [u'h'], transcriptions: [u'STOCK']
+x: [[269 304 338 338 304 269]], y: [[125 125 125 151 151 151]], ornt: [u'h'], transcriptions: [u'BUTIK']
+x: [[261 307 356 358 301 251]], y: [[150 158 147 172 182 168]], ornt: [u'c'], transcriptions: [u'AMOUR']
+x: [[51 77 77 48]], y: [[235 236 247 248]], ornt: [u'h'], transcriptions: [u'BOSCH']

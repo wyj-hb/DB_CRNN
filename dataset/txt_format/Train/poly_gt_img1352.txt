@@ -1,0 +1,3 @@
+x: [[128 251 384 387 240 119]], y: [[ 47  86 101 129 120  73]], ornt: [u'c'], transcriptions: [u'MABONENG']
+x: [[134 157 153 133]], y: [[276 276 287 287]], ornt: [u'h'], transcriptions: [u'CV']
+x: [[160 201 199 155]], y: [[279 279 291 289]], ornt: [u'h'], transcriptions: [u'JOINTS']

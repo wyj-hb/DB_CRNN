@@ -1,0 +1,8 @@
+x: [[223 281 341 345 288 226]], y: [[102 101 108 132 128 131]], ornt: [u'c'], transcriptions: [u'SANTA']
+x: [[359 426 478 472 415 358]], y: [[111 131 156 175 151 136]], ornt: [u'c'], transcriptions: [u'MONICA']
+x: [[197 275 334 334 269 213]], y: [[152 142 146 167 166 179]], ornt: [u'c'], transcriptions: [u'YACHT']
+x: [[359 439 497 494 431 360]], y: [[150 174 200 223 190 173]], ornt: [u'c'], transcriptions: [u'HARBOR']
+x: [[108 177 236 247 184 124]], y: [[215 189 178 213 225 248]], ornt: [u'c'], transcriptions: [u'SPORT']
+x: [[253 323 391 389 325 260]], y: [[175 172 185 214 204 212]], ornt: [u'c'], transcriptions: [u'FISHING']
+x: [[426 504 546 539 481 424]], y: [[193 229 265 289 249 221]], ornt: [u'c'], transcriptions: [u'BOATING']
+x: [[304 367 418 413 357 307]], y: [[213 212 237 257 246 246]], ornt: [u'c'], transcriptions: [u'cafes']

@@ -1,0 +1,8 @@
+x: [[465 494 523 523 494 465]], y: [[271 271 271 287 287 287]], ornt: [u'h'], transcriptions: [u'STATE']
+x: [[331 350 369 369 350 331]], y: [[265 265 265 283 283 283]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[289 341 398 390 345 303]], y: [[146 108 123 143 134 159]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[405 424 411 393]], y: [[130 152 166 149]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[ 60 327 330  55]], y: [[157 168 318 309]], ornt: [u'h'], transcriptions: [u'MISS']
+x: [[409 529 525 407]], y: [[172 177 244 236]], ornt: [u'h'], transcriptions: [u'URI']
+x: [[374 434 430 377]], y: [[269 271 288 286]], ornt: [u'h'], transcriptions: [u'SHOW']
+x: [[439 462 463 436]], y: [[271 271 288 288]], ornt: [u'h'], transcriptions: [u'ME']

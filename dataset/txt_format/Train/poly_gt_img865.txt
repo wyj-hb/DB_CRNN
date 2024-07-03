@@ -1,0 +1,2 @@
+x: [[232 265 288 264]], y: [[361 344 382 405]], ornt: [u'm'], transcriptions: [u'R']
+x: [[292 356 431 425 350 304]], y: [[344 335 373 397 373 388]], ornt: [u'c'], transcriptions: [u'galerie']

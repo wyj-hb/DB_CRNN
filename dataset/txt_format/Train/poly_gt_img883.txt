@@ -1,0 +1,6 @@
+x: [[230 247 264 264 247 230]], y: [[269 269 269 281 281 281]], ornt: [u'h'], transcriptions: [u'RedBull']
+x: [[209 231 252 252 231 209]], y: [[356 356 356 366 366 366]], ornt: [u'#'], transcriptions: [u'#']
+x: [[227 279 330 330 279 227]], y: [[266 266 266 284 284 284]], ornt: [u'h'], transcriptions: [u'WORLD']
+x: [[338 391 453 459 394 324]], y: [[236 256 241 257 278 248]], ornt: [u'c'], transcriptions: [u'Aschauer']
+x: [[418 482 484 419]], y: [[386 358 380 407]], ornt: [u'#'], transcriptions: [u'#']
+x: [[201 256 254 209]], y: [[365 366 387 386]], ornt: [u'#'], transcriptions: [u'#']

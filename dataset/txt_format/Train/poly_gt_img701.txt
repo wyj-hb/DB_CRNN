@@ -1,0 +1,5 @@
+x: [[237 297 423 412 334 270]], y: [[410 352 320 389 407 457]], ornt: [u'c'], transcriptions: [u'CITY']
+x: [[229 234 342 321 174 175]], y: [[505 710 812 872 737 500]], ornt: [u'c'], transcriptions: [u'TERMINAL']
+x: [[240 277 399 423 330 297]], y: [[587 461 401 463 508 595]], ornt: [u'c'], transcriptions: [u'WORKS']
+x: [[289 313 369 342 268 241]], y: [[623 703 733 794 728 637]], ornt: [u'c'], transcriptions: [u'IRON']
+x: [[519 583 612 669 633 541]], y: [[749 683 590 608 730 811]], ornt: [u'c'], transcriptions: [u'OPEN']

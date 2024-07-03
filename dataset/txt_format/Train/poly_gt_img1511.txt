@@ -1,0 +1,7 @@
+x: [[222 238 254 254 238 222]], y: [[108 108 108 124 124 124]], ornt: [u'h'], transcriptions: [u'1895']
+x: [[123 140 156 156 140 123]], y: [[27 27 27 38 38 38]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[ 88 218 271 272 205  82]], y: [[ 37  36  50 100  82 115]], ornt: [u'c'], transcriptions: [u'Stronghold']
+x: [[116 149 149 118]], y: [[100  99 117 115]], ornt: [u'm'], transcriptions: [u'Los']
+x: [[158 216 216 156]], y: [[104 109 124 120]], ornt: [u'm'], transcriptions: [u'Angeles']
+x: [[161 200 200 165]], y: [[ 92  96 107 104]], ornt: [u'#'], transcriptions: [u'#']
+x: [[208 233 232 205]], y: [[ 99 101 107 106]], ornt: [u'#'], transcriptions: [u'#']

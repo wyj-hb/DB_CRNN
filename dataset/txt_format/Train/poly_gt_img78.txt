@@ -1,0 +1,8 @@
+x: [[268 304 352 368 335 296]], y: [[134  99  79 111 132 163]], ornt: [u'c'], transcriptions: [u'BOLD']
+x: [[368 427 487 488 440 385]], y: [[ 68  55  52  82  84 101]], ornt: [u'c'], transcriptions: [u'FLAVOR']
+x: [[504 557 607 600 557 506]], y: [[ 55  70 103 133 101  86]], ornt: [u'c'], transcriptions: [u'SMOOTH']
+x: [[615 646 668 654 631 607]], y: [[116 147 183 204 168 151]], ornt: [u'c'], transcriptions: [u'TASTE']
+x: [[140 577 578 143]], y: [[184 226 339 363]], ornt: [u'h'], transcriptions: [u'SEATTLES']
+x: [[588 718 716 582]], y: [[231 238 335 331]], ornt: [u'h'], transcriptions: [u'BEST']
+x: [[332 504 633 654 518 321]], y: [[430 479 408 457 547 506]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[653 838 844 660]], y: [[536 538 554 555]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,6 @@
+x: [[147 163 179 179 163 147]], y: [[220 220 220 235 235 235]], ornt: [u'h'], transcriptions: [u'Bistro']
+x: [[117 137 156 156 137 117]], y: [[198 198 198 218 218 218]], ornt: [u'h'], transcriptions: [u'Coffee']
+x: [[133 139 145 145 139 133]], y: [[220 220 220 235 235 235]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 82 108 134 142 122  95]], y: [[133 116 114 135 144 157]], ornt: [u'c'], transcriptions: [u'Caffe']
+x: [[146 196 227 212 188 144]], y: [[113 128 161 171 148 135]], ornt: [u'c'], transcriptions: [u'Artigiano']
+x: [[158 193 193 163]], y: [[204 205 222 221]], ornt: [u'h'], transcriptions: [u'House']

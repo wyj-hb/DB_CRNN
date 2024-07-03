@@ -1,0 +1,4 @@
+x: [[251 430 608 608 430 251]], y: [[653 653 653 690 690 690]], ornt: [u'h'], transcriptions: [u'COURTHOUSE']
+x: [[144 202 336 346 244 192]], y: [[434 292 224 268 334 453]], ornt: [u'c'], transcriptions: [u'KidZania']
+x: [[375 470 546 538 460 381]], y: [[203 192 221 260 239 245]], ornt: [u'c'], transcriptions: [u'Kuala']
+x: [[588 672 728 683 638 568]], y: [[232 314 415 429 339 264]], ornt: [u'c'], transcriptions: [u'Lumpur']

@@ -1,0 +1,2 @@
+x: [[189 422 607 602 403 190]], y: [[ 19  13  66 121  64  78]], ornt: [u'c'], transcriptions: [u'AKIHABARA']
+x: [[ 55 721 689  42]], y: [[100 164 232 175]], ornt: [u'm'], transcriptions: [u'GAMERS']

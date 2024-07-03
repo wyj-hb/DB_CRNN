@@ -1,0 +1,2 @@
+x: [[ 69 174 266 266 179  79]], y: [[433 396 395 463 457 500]], ornt: [u'c'], transcriptions: [u'Madly']
+x: [[294 429 513 487 378 287]], y: [[381 402 439 497 450 448]], ornt: [u'c'], transcriptions: [u'British']

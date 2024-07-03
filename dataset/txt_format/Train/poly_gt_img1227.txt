@@ -1,0 +1,7 @@
+x: [[271 356 485 470 360 277]], y: [[125  77  84 136 138 191]], ornt: [u'c'], transcriptions: [u'Sweet']
+x: [[334 433 522 494 416 333]], y: [[152 130 128 202 200 223]], ornt: [u'c'], transcriptions: [u'Land']
+x: [[411 521 522 414]], y: [[230 227 257 263]], ornt: [u'#'], transcriptions: [u'#']
+x: [[414 438 436 421]], y: [[196 193 215 216]], ornt: [u'#'], transcriptions: [u'#']
+x: [[487 511 517 485]], y: [[206 207 217 219]], ornt: [u'#'], transcriptions: [u'#']
+x: [[300 320 320 296]], y: [[226 227 238 234]], ornt: [u'#'], transcriptions: [u'#']
+x: [[374 399 401 373]], y: [[209 213 224 222]], ornt: [u'#'], transcriptions: [u'#']

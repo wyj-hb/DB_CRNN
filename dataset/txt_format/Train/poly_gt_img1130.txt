@@ -1,0 +1,3 @@
+x: [[543 655 763 761 633 513]], y: [[524 522 522 592 636 710]], ornt: [u'c'], transcriptions: [u'VINPEARL']
+x: [[769 847 907 903 833 763]], y: [[528 526 524 614 578 580]], ornt: [u'c'], transcriptions: [u'WATER']
+x: [[ 917  997 1047 1081  991  923]], y: [[530 528 528 706 652 622]], ornt: [u'c'], transcriptions: [u'PAARK']

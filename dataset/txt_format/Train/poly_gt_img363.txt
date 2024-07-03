@@ -1,0 +1,5 @@
+x: [[146 252 355 352 250 151]], y: [[ 91  82 102 145 136 139]], ornt: [u'c'], transcriptions: [u'HOTEL']
+x: [[64 97 88 37]], y: [[554 569 623 606]], ornt: [u'm'], transcriptions: [u'Le']
+x: [[109 164 216 214 146  98]], y: [[574 584 590 638 629 616]], ornt: [u'c'], transcriptions: [u'Relais']
+x: [[227 269 273 223]], y: [[586 588 641 638]], ornt: [u'h'], transcriptions: [u'du']
+x: [[272 364 435 453 367 275]], y: [[586 583 563 611 633 637]], ornt: [u'c'], transcriptions: [u'LOUVRE']

@@ -1,0 +1,3 @@
+x: [[158 191 236 236 199 167]], y: [[100  87  82  98 102 113]], ornt: [u'c'], transcriptions: [u'PENANG']
+x: [[240 291 288 244]], y: [[78 81 97 97]], ornt: [u'h'], transcriptions: [u'FREE']
+x: [[299 337 370 367 326 297]], y: [[ 80  87  99 114 101  97]], ornt: [u'c'], transcriptions: [u'SCHOOL']

@@ -1,0 +1,6 @@
+x: [[ 0 29 58 58 29  0]], y: [[58 58 58 93 93 93]], ornt: [u'h'], transcriptions: [u'EEZIT']
+x: [[  2  78 153 153  78   2]], y: [[ 3  3  3 43 43 43]], ornt: [u'h'], transcriptions: [u'Kelloggs']
+x: [[ 81 110 151 154 108  86]], y: [[75 56 50 64 74 89]], ornt: [u'c'], transcriptions: [u'RICEKRISPIES']
+x: [[ 84 113 156 153 122  98]], y: [[ 90  69  64  88  93 109]], ornt: [u'c'], transcriptions: [u'TREATS']
+x: [[121 158 158 125]], y: [[199 198 213 216]], ornt: [u'm'], transcriptions: [u'AR']
+x: [[234 278 274 234]], y: [[195 195 214 213]], ornt: [u'm'], transcriptions: [u'RAT']

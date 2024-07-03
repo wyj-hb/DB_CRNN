@@ -1,0 +1,4 @@
+x: [[ 99 188 300 406 381 291 198 140]], y: [[143  46  35 148 178  91  98 178]], ornt: [u'c'], transcriptions: [u'MANCHESTER']
+x: [[183 267 348 368 261 172]], y: [[310 328 294 330 366 344]], ornt: [u'c'], transcriptions: [u'UNITED']
+x: [[349 368 367 351]], y: [[348 350 370 374]], ornt: [u'#'], transcriptions: [u'R']
+x: [[522 549 546 515]], y: [[178 187 201 193]], ornt: [u'm'], transcriptions: [u'AON']

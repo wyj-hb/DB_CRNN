@@ -1,0 +1,5 @@
+x: [[ 66 375 684 684 375  66]], y: [[504 504 504 642 642 642]], ornt: [u'h'], transcriptions: [u'Schlumberger']
+x: [[337 402 466 466 402 337]], y: [[632 632 632 676 676 676]], ornt: [u'h'], transcriptions: [u'1842']
+x: [[256 289 321 321 289 256]], y: [[641 641 641 672 672 672]], ornt: [u'h'], transcriptions: [u'Seit']
+x: [[171 247 304 302 220 155]], y: [[654 689 698 729 707 678]], ornt: [u'c'], transcriptions: [u'METHODE']
+x: [[313 440 547 563 437 310]], y: [[699 702 675 698 734 725]], ornt: [u'c'], transcriptions: [u'TRADITIONNELLE']

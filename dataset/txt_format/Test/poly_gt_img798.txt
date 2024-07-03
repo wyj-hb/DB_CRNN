@@ -1,0 +1,6 @@
+x: [[299 347 394 394 347 299]], y: [[690 690 690 712 712 712]], ornt: [u'h'], transcriptions: [u'ZAUNER']
+x: [[217 256 295 295 256 217]], y: [[693 693 693 716 716 716]], ornt: [u'h'], transcriptions: [u'INGRID']
+x: [[508 549 590 590 549 508]], y: [[832 832 832 847 847 847]], ornt: [u'h'], transcriptions: [u'n']
+x: [[138 313 488 488 313 138]], y: [[609 609 609 687 687 687]], ornt: [u'h'], transcriptions: [u'Friseursalon']
+x: [[125 222 380 475 421 361 250 182]], y: [[400 317 308 397 421 362 364 432]], ornt: [u'c'], transcriptions: [u'HAARSCHARE']
+x: [[434 516 526 436]], y: [[817 819 892 887]], ornt: [u'#'], transcriptions: [u'#']

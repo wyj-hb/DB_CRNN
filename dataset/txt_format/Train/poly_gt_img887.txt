@@ -1,0 +1,3 @@
+x: [[169 200 254 262 214 191]], y: [[208 166 136 162 189 217]], ornt: [u'c'], transcriptions: [u'WHITE']
+x: [[271 353 423 404 341 275]], y: [[127 111 138 162 138 152]], ornt: [u'c'], transcriptions: [u'ELEPHANT']
+x: [[225 283 358 369 292 227]], y: [[274 274 243 267 304 301]], ornt: [u'c'], transcriptions: [u'GALLERY']

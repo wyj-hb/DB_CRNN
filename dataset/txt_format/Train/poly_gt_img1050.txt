@@ -1,0 +1,6 @@
+x: [[ 83 149 207 216 155 103]], y: [[ 99  87  89 130 126 146]], ornt: [u'c'], transcriptions: [u'PAPER']
+x: [[223 323 386 379 302 228]], y: [[ 80  98 120 150 125 124]], ornt: [u'c'], transcriptions: [u'PRODUCTS']
+x: [[228 273 274 230]], y: [[129 130 161 164]], ornt: [u'h'], transcriptions: [u'CO']
+x: [[206 299 298 212]], y: [[164 164 179 185]], ornt: [u'h'], transcriptions: [u'WHOLESALE']
+x: [[104 239 241 108]], y: [[175 179 212 210]], ornt: [u'h'], transcriptions: [u'TESTED']
+x: [[257 366 368 251]], y: [[180 182 209 208]], ornt: [u'h'], transcriptions: [u'PAPERS']

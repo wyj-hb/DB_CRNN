@@ -1,0 +1,7 @@
+x: [[251 286 320 320 286 251]], y: [[281 281 281 309 309 309]], ornt: [u'h'], transcriptions: [u'BACK']
+x: [[177 239 301 301 239 177]], y: [[313 313 313 340 340 340]], ornt: [u'h'], transcriptions: [u'TEACHERS']
+x: [[124 178 232 232 178 124]], y: [[277 277 277 307 307 307]], ornt: [u'h'], transcriptions: [u'WELCOME']
+x: [[166 175 237 253 196 194]], y: [[155  73  37  68 111 153]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[261 331 336 298 292 261]], y: [[ 34  69 138 145  90  69]], ornt: [u'c'], transcriptions: [u'WINES']
+x: [[209 264 299 326 271 188]], y: [[185 187 160 175 228 210]], ornt: [u'c'], transcriptions: [u'LIQUOR']
+x: [[181 204 206 183]], y: [[167 167 199 204]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,4 @@
+x: [[ 36 215 425 427 229  66]], y: [[183 142 142 238 236 277]], ornt: [u'c'], transcriptions: [u'Welcome']
+x: [[456 569 567 466]], y: [[141 148 249 240]], ornt: [u'h'], transcriptions: [u'to']
+x: [[602 765 827 821 695 592]], y: [[135 160 189 290 261 243]], ornt: [u'c'], transcriptions: [u'Kids']
+x: [[ 846 1015 1186 1177  969  835]], y: [[176 218 288 399 317 288]], ornt: [u'c'], transcriptions: [u'Town']

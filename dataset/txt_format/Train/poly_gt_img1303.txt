@@ -1,0 +1,5 @@
+x: [[259 336 426 429 340 271]], y: [[217 170 156 188 202 247]], ornt: [u'c'], transcriptions: [u'AUTHENTIC']
+x: [[443 495 534 525 483 432]], y: [[157 170 193 222 199 185]], ornt: [u'c'], transcriptions: [u'PIZZA']
+x: [[186 376 376 191]], y: [[372 365 418 424]], ornt: [u'm'], transcriptions: [u'TINOS']
+x: [[399 603 621 401]], y: [[366 358 416 420]], ornt: [u'm'], transcriptions: [u'PIZZA']
+x: [[306 461 442 309]], y: [[420 421 499 496]], ornt: [u'h'], transcriptions: [u'Cafe']

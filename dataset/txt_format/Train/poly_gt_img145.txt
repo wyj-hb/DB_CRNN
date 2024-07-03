@@ -1,0 +1,7 @@
+x: [[25 42 76 84 53 39]], y: [[180 148 132 143 160 188]], ornt: [u'c'], transcriptions: [u'SEAFOOD']
+x: [[ 86 140 186 181 135  90]], y: [[129 131 160 170 142 141]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[ 75 161 158  80]], y: [[191 198 217 209]], ornt: [u'h'], transcriptions: [u'snow']
+x: [[37 53 80 77 38 25]], y: [[210 238 262 275 251 213]], ornt: [u'c'], transcriptions: [u'PECTOPAH']
+x: [[ 84 146 187 197 152  76]], y: [[267 277 251 258 293 283]], ornt: [u'c'], transcriptions: [u'MOPENPOAYKTOB']
+x: [[195 203 206 188 186 178]], y: [[167 185 200 201 188 177]], ornt: [u'c'], transcriptions: [u'BAR']
+x: [[189 195 196 211 208 201]], y: [[242 232 220 227 244 252]], ornt: [u'c'], transcriptions: [u'GAP']

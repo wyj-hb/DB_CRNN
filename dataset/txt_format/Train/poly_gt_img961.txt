@@ -1,0 +1,7 @@
+x: [[185 203 259 262 222 205]], y: [[103  71  66  95  94 124]], ornt: [u'c'], transcriptions: [u'SPRING']
+x: [[278 301 323 311 293 267]], y: [[ 76  94 125 143 112  97]], ornt: [u'c'], transcriptions: [u'CAFE']
+x: [[204 220 279 281 209 170]], y: [[134 214 244 276 236 133]], ornt: [u'c'], transcriptions: [u'SMOOTHING']
+x: [[286 303 313 332 326 300]], y: [[240 233 205 215 244 268]], ornt: [u'c'], transcriptions: [u'YOUR']
+x: [[317 322 316 334 343 337]], y: [[199 180 152 153 183 202]], ornt: [u'c'], transcriptions: [u'DAY']
+x: [[23 64 67 22]], y: [[284 271 292 305]], ornt: [u'#'], transcriptions: [u'#']
+x: [[361 455 475 351]], y: [[216 218 371 371]], ornt: [u'#'], transcriptions: [u'#']

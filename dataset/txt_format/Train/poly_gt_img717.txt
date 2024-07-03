@@ -1,0 +1,8 @@
+x: [[463 481 499 499 481 463]], y: [[231 231 231 248 248 248]], ornt: [u'h'], transcriptions: [u'Play']
+x: [[775 789 803 803 789 775]], y: [[21 21 21 38 38 38]], ornt: [u'#'], transcriptions: [u'#']
+x: [[714 746 777 777 746 714]], y: [[23 23 23 36 36 36]], ornt: [u'#'], transcriptions: [u'#']
+x: [[324 370 409 410 373 337]], y: [[196 190 190 222 220 227]], ornt: [u'c'], transcriptions: [u'VVG']
+x: [[430 502 488 428]], y: [[192 204 228 220]], ornt: [u'h'], transcriptions: [u'Play']
+x: [[515 584 568 512]], y: [[202 223 250 232]], ornt: [u'm'], transcriptions: [u'Play']
+x: [[651 709 706 652]], y: [[25 24 37 36]], ornt: [u'#'], transcriptions: [u'#']
+x: [[416 453 456 418]], y: [[229 231 247 246]], ornt: [u'h'], transcriptions: [u'Food']

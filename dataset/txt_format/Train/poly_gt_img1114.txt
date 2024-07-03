@@ -1,0 +1,3 @@
+x: [[210 598 857 860 406 136]], y: [[ 16 245 278 668 623 458]], ornt: [u'c'], transcriptions: [u'Omaha']
+x: [[681 703 813 815 738 721]], y: [[124  36  10  61  75 144]], ornt: [u'c'], transcriptions: [u'GRADE']
+x: [[729 778 854 763]], y: [[ 96  67 142 200]], ornt: [u'm'], transcriptions: [u'A']

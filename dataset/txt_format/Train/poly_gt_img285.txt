@@ -1,0 +1,6 @@
+x: [[124 204 282 384 352 281 211 159]], y: [[128  84  94 162 181 132 121 154]], ornt: [u'c'], transcriptions: [u'BREAKING']
+x: [[ 60 110 152 154 108  57]], y: [[162 164 170 192 191 186]], ornt: [u'h'], transcriptions: [u'Coffee']
+x: [[374 396 401 380]], y: [[192 192 216 215]], ornt: [u'#'], transcriptions: [u'#']
+x: [[405 449 455 413]], y: [[195 199 221 218]], ornt: [u'h'], transcriptions: [u'Tea']
+x: [[146 177 219 198 140 116]], y: [[209 260 298 320 272 219]], ornt: [u'c'], transcriptions: [u'NEW']
+x: [[230 321 385 424 362 226]], y: [[299 309 234 246 352 339]], ornt: [u'c'], transcriptions: [u'GROUNDS']

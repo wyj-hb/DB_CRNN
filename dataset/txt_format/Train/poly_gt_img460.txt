@@ -1,0 +1,5 @@
+x: [[205 260 312 313 266 220]], y: [[159 132 132 157 158 182]], ornt: [u'c'], transcriptions: [u'Hemlock']
+x: [[325 364 392 381 354 318]], y: [[128 140 156 181 163 156]], ornt: [u'c'], transcriptions: [u'Bluffs']
+x: [[218 253 290 292 240 206]], y: [[199 219 226 249 239 222]], ornt: [u'c'], transcriptions: [u'Animal']
+x: [[301 345 383 396 354 300]], y: [[224 218 197 217 246 248]], ornt: [u'c'], transcriptions: [u'Hospital']
+x: [[240 357 356 241]], y: [[263 266 282 280]], ornt: [u'#'], transcriptions: [u'#']

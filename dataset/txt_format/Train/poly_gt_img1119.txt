@@ -1,0 +1,5 @@
+x: [[182 230 271 281 227 176]], y: [[ 96 110 101 115 130 117]], ornt: [u'c'], transcriptions: [u'TRADITIONAL']
+x: [[164 285 290 169]], y: [[130 134 161 157]], ornt: [u'h'], transcriptions: [u'WRIGHTS']
+x: [[173 189 208 210 194 178]], y: [[167 168 162 179 185 185]], ornt: [u'c'], transcriptions: [u'FISH']
+x: [[213 232 233 212]], y: [[163 163 175 182]], ornt: [u'#'], transcriptions: [u'#']
+x: [[225 247 272 271 249 229]], y: [[178 167 166 182 185 195]], ornt: [u'c'], transcriptions: [u'CHIPS']

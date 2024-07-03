@@ -1,0 +1,8 @@
+x: [[383 411 438 438 411 383]], y: [[525 525 525 549 549 549]], ornt: [u'h'], transcriptions: [u'THUAN']
+x: [[338 358 378 378 358 338]], y: [[524 524 524 545 545 545]], ornt: [u'h'], transcriptions: [u'MINH']
+x: [[332 338 359 350]], y: [[516 493 498 518]], ornt: [u'm'], transcriptions: [u'OI']
+x: [[343 358 385 389 369 363]], y: [[487 469 468 489 487 498]], ornt: [u'c'], transcriptions: [u'DONG']
+x: [[387 416 433 413 403 387]], y: [[463 466 490 502 484 485]], ornt: [u'c'], transcriptions: [u'NHAN']
+x: [[433 444 426 420]], y: [[493 518 523 503]], ornt: [u'm'], transcriptions: [u'DA']
+x: [[892 956 954 896]], y: [[630 632 690 687]], ornt: [u'#'], transcriptions: [u'#']
+x: [[377 400 400 376]], y: [[497 493 521 518]], ornt: [u'h'], transcriptions: [u'IT']

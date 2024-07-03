@@ -1,0 +1,8 @@
+x: [[  8 147 147   8]], y: [[1251 1257 1336 1330]], ornt: [u'h'], transcriptions: [u'En']
+x: [[ 24 175 179  18]], y: [[1490 1503 1560 1547]], ornt: [u'm'], transcriptions: [u'Lekamens']
+x: [[ 734 1068 1074  715]], y: [[1273 1320 1443 1402]], ornt: [u'm'], transcriptions: [u'SIA']
+x: [[ 727 1071 1074  721]], y: [[1408 1453 1484 1459]], ornt: [u'm'], transcriptions: [u'GLASS']
+x: [[478 529 604 639 585 532]], y: [[1074  992  935  989 1033 1106]], ornt: [u'c'], transcriptions: [u'DEN']
+x: [[491 415 453 519 481 544]], y: [[1560 1333 1112 1147 1352 1531]], ornt: [u'c'], transcriptions: [u'SVENSKA']
+x: [[ 563  683  841 1036 1150 1200 1046  828  623  519]], y: [[1563 1676 1755 1740 1642 1680 1815 1825 1724 1594]], ornt: [u'c'], transcriptions: [u'GRADDGLASSENS']
+x: [[1175 1241 1185 1140 1166 1244 1307 1235]], y: [[1604 1386 1162 1096 1052 1166 1399 1661]], ornt: [u'c'], transcriptions: [u'SKYDDSANGEL']

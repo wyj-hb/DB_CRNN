@@ -1,0 +1,3 @@
+x: [[695 781 866 866 781 695]], y: [[334 334 334 383 383 383]], ornt: [u'h'], transcriptions: [u'omo']
+x: [[318 493 752 749 602 261]], y: [[196 253 259 334 361 309]], ornt: [u'c'], transcriptions: [u'Shenanigans']
+x: [[207 341 339 209]], y: [[607 607 652 652]], ornt: [u'#'], transcriptions: [u'#']

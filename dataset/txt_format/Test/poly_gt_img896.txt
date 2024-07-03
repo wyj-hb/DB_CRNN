@@ -1,0 +1,5 @@
+x: [[ 11 110 209 209 110  11]], y: [[321 321 321 428 428 428]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 69  81 115 112  63  51]], y: [[202 235 261 272 242 202]], ornt: [u'c'], transcriptions: [u'TeaCoffee']
+x: [[212 358 359 210]], y: [[212 270 318 260]], ornt: [u'#'], transcriptions: [u'#']
+x: [[251 330 328 253]], y: [[294 316 335 309]], ornt: [u'm'], transcriptions: [u'BWDrink']
+x: [[588 612 647 653 608 578]], y: [[292 311 308 320 330 306]], ornt: [u'c'], transcriptions: [u'TeaCoffee']

@@ -1,0 +1,5 @@
+x: [[268 359 450 450 359 268]], y: [[423 423 423 505 505 505]], ornt: [u'h'], transcriptions: [u'PARIS']
+x: [[284 344 415 401 352 298]], y: [[32  4 21 48 28 50]], ornt: [u'c'], transcriptions: [u'PARIS']
+x: [[296 314 335 331 305 285]], y: [[118 134 142 157 149 135]], ornt: [u'c'], transcriptions: [u'SAINT']
+x: [[346 372 398 414 383 348]], y: [[145 140 118 127 155 160]], ornt: [u'c'], transcriptions: [u'GERMAIN']
+x: [[279 432 425 279]], y: [[353 348 421 427]], ornt: [u'h'], transcriptions: [u'PLAY']

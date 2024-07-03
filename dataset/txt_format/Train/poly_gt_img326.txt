@@ -1,0 +1,3 @@
+x: [[121 187 238 243 183 139]], y: [[167 140 132 161 169 192]], ornt: [u'c'], transcriptions: [u'INDIAN']
+x: [[254 384 492 477 365 257]], y: [[128 128 169 195 158 156]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[141 476 476 143]], y: [[185 193 258 254]], ornt: [u'h'], transcriptions: [u'GANDHI']

@@ -1,0 +1,6 @@
+x: [[197 250 338 347 275 224]], y: [[436 417 400 456 483 498]], ornt: [u'c'], transcriptions: [u'NEXT']
+x: [[371 467 611 704 697 584 464 373]], y: [[405 391 412 435 507 465 465 472]], ornt: [u'c'], transcriptions: [u'PERFORMANCE']
+x: [[422 521 488 406]], y: [[477 475 526 522]], ornt: [u'h'], transcriptions: [u'AT']
+x: [[397 559 553 386]], y: [[558 559 621 618]], ornt: [u'h'], transcriptions: [u'9:30']
+x: [[881 880 961 941]], y: [[549 571 564 544]], ornt: [u'#'], transcriptions: [u'#']
+x: [[869 950 974 938 863]], y: [[589 582 612 625 627]], ornt: [u'#'], transcriptions: [u'#']

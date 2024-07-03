@@ -1,0 +1,5 @@
+x: [[ 54  81 139 195 190 135  91  79]], y: [[90 57 40 43 58 54 73 95]], ornt: [u'c'], transcriptions: [u'FISHERMANS']
+x: [[203 248 267 237 226 195]], y: [[45 64 93 93 69 57]], ornt: [u'c'], transcriptions: [u'WHARF']
+x: [[77 78 83 55 50 51]], y: [[100 108 115 125 113 101]], ornt: [u'c'], transcriptions: [u'OF']
+x: [[ 85 101 127 105  76  58]], y: [[121 133 141 166 150 133]], ornt: [u'c'], transcriptions: [u'SAN']
+x: [[130 185 233 242 269 249 187 125]], y: [[143 144 119  98 105 147 170 166]], ornt: [u'c'], transcriptions: [u'FRANCISCO']

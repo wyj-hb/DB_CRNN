@@ -1,0 +1,5 @@
+x: [[ 654  921 1195 1184  921  729]], y: [[330 274 314 389 386 431]], ornt: [u'c'], transcriptions: [u'Welcome']
+x: [[1243 1405 1347 1219]], y: [[285 336 455 400]], ornt: [u'c'], transcriptions: [u'To']
+x: [[540 875 875 545]], y: [[509 514 735 732]], ornt: [u'h'], transcriptions: [u'My']
+x: [[ 907 1488 1514  921]], y: [[514 517 687 684]], ornt: [u'h'], transcriptions: [u'Town']
+x: [[ 931 1107 1110  942]], y: [[844 842 914 916]], ornt: [u'h'], transcriptions: [u'1859']

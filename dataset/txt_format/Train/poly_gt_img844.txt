@@ -1,0 +1,7 @@
+x: [[ 47 448 446  46]], y: [[ 98  96 129 125]], ornt: [u'#'], transcriptions: [u'#']
+x: [[259 358 356 252 250]], y: [[159 162 192 189 190]], ornt: [u'h'], transcriptions: [u'Fruits']
+x: [[365 392 390 367]], y: [[168 169 192 191]], ornt: [u'#'], transcriptions: [u'#']
+x: [[249 399 399 247]], y: [[188 192 216 218]], ornt: [u'h'], transcriptions: [u'Legumes']
+x: [[108 143 133  90]], y: [[262 287 319 288]], ornt: [u'm'], transcriptions: [u'La']
+x: [[156 225 291 291 212 147]], y: [[285 307 306 338 338 321]], ornt: [u'c'], transcriptions: [u'Carotte']
+x: [[304 357 410 429 379 302]], y: [[297 291 261 271 331 340]], ornt: [u'c'], transcriptions: [u'Joyeuse']

@@ -1,0 +1,2 @@
+x: [[230 401 404 236]], y: [[515 515 561 572]], ornt: [u'h'], transcriptions: [u'LOTS']
+x: [[157 256 381 478 525 410 256 123]], y: [[655 727 731 654 684 786 784 706]], ornt: [u'c'], transcriptions: [u'KRAAMHUYS']

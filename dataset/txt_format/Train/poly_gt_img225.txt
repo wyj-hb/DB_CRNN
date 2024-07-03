@@ -1,0 +1,6 @@
+x: [[201 228 248 268 246 226]], y: [[69 29 18 51 71 99]], ornt: [u'c'], transcriptions: [u'SAN']
+x: [[279 350 393 407 390 374 332 284]], y: [[ 12  29  76 107 131  97  60  51]], ornt: [u'c'], transcriptions: [u'LORENZO']
+x: [[217 401 402 219]], y: [[101 133 165 138]], ornt: [u'm'], transcriptions: [u'MEXICAN']
+x: [[ 77 188 315 318 185  87]], y: [[162 133 154 179 163 184]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[324 353 353 327]], y: [[160 156 185 178]], ornt: [u'#'], transcriptions: [u'#']
+x: [[362 426 425 364]], y: [[162 171 198 188]], ornt: [u'm'], transcriptions: [u'CAN']

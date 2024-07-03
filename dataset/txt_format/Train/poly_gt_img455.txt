@@ -1,0 +1,5 @@
+x: [[356 428 554 665 575 533]], y: [[937 793 703 781 871 991]], ornt: [u'c'], transcriptions: [u'La']
+x: [[ 599  992 1406 1646 1637 1526 1475 1328  998  686]], y: [[ 613  511  655  886 1036 1066  955  772  682  736]], ornt: [u'c'], transcriptions: [u'Baguettes']
+x: [[650 956 971 650]], y: [[ 961  976 1060 1045]], ornt: [u'h'], transcriptions: [u'HIGH']
+x: [[1010 1376 1376 1016]], y: [[ 991 1015 1078 1060]], ornt: [u'h'], transcriptions: [u'CLASS']
+x: [[ 413 1586 1598  362]], y: [[1057 1138 1243 1162]], ornt: [u'm'], transcriptions: [u'SANWICHES']

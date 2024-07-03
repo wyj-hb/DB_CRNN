@@ -1,0 +1,4 @@
+x: [[205 472 452 215]], y: [[229 202 280 328]], ornt: [u'm'], transcriptions: [u'Cadbury']
+x: [[ 98 326 550 502 346 140]], y: [[369 301 373 478 433 475]], ornt: [u'c'], transcriptions: [u'Drinking']
+x: [[193 344 458 445 343 217]], y: [[451 426 447 496 477 495]], ornt: [u'c'], transcriptions: [u'chocolate']
+x: [[277 355 353 280]], y: [[772 774 807 807]], ornt: [u'h'], transcriptions: [u'e400g']

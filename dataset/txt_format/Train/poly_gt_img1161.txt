@@ -1,0 +1,2 @@
+x: [[289 325 367 367 307 270]], y: [[703 733 743 777 761 729]], ornt: [u'c'], transcriptions: [u'IMMIGRESEN']
+x: [[369 406 434 475 431 378]], y: [[745 731 696 733 768 782]], ornt: [u'c'], transcriptions: [u'MALAYSIA']

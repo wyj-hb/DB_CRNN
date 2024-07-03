@@ -1,0 +1,5 @@
+x: [[259 348 441 425 360 292]], y: [[421 393 425 462 440 463]], ornt: [u'c'], transcriptions: [u'PAINS']
+x: [[204 230 212 184]], y: [[612 641 664 639]], ornt: [u'm'], transcriptions: [u'DE']
+x: [[237 309 373 380 291 220]], y: [[647 685 694 725 716 677]], ornt: [u'c'], transcriptions: [u'TRADITION']
+x: [[385 456 507 531 468 388]], y: [[693 672 626 650 705 727]], ornt: [u'c'], transcriptions: [u'FRANCAISE']
+x: [[258 334 415 463 490 431 325 226]], y: [[737 793 784 744 762 836 848 759]], ornt: [u'c'], transcriptions: [u'BOULANGERIE']

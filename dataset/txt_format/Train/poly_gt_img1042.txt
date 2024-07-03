@@ -1,0 +1,6 @@
+x: [[ 92 137 200 227 185 146]], y: [[169 110  96 157 175 219]], ornt: [u'c'], transcriptions: [u'WE']
+x: [[238 382 486 438 361 250]], y: [[ 78  93 196 248 166 147]], ornt: [u'c'], transcriptions: [u'LEARN']
+x: [[175 259 320 332 247 172]], y: [[419 454 457 508 505 472]], ornt: [u'c'], transcriptions: [u'Whats']
+x: [[343 384 425 445 395 370]], y: [[459 444 397 439 479 507]], ornt: [u'c'], transcriptions: [u'Your']
+x: [[180 447 450 189]], y: [[527 502 541 578]], ornt: [u'm'], transcriptions: [u'superpower']
+x: [[703 732 733 709]], y: [[117 110 142 146]], ornt: [u'm'], transcriptions: [u'MA']

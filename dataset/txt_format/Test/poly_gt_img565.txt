@@ -1,0 +1,6 @@
+x: [[194 267 355 530 530 337 254 194]], y: [[151 157 162 152 188 196 191 187]], ornt: [u'c'], transcriptions: [u'VENICE']
+x: [[695 664 664 697]], y: [[143 145 158 159]], ornt: [u'h'], transcriptions: [u'Pacif']
+x: [[210 224 225 210]], y: [[205 206 282 281]], ornt: [u'm'], transcriptions: [u'TATOO']
+x: [[ 61 129 124  60]], y: [[240 258 275 261]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 3 14 13  3]], y: [[235 234 253 254]], ornt: [u'#'], transcriptions: [u'f']
+x: [[23 45 45 26]], y: [[269 266 284 290]], ornt: [u'#'], transcriptions: [u'#']

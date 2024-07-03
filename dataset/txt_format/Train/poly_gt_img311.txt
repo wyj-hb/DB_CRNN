@@ -1,0 +1,8 @@
+x: [[393 495 503 389]], y: [[ 70  62 199 218]], ornt: [u'h'], transcriptions: [u'S']
+x: [[230 265 290 284 249 223]], y: [[235 242 241 274 270 259]], ornt: [u'c'], transcriptions: [u'SRI']
+x: [[304 406 465 476 357 294]], y: [[243 246 238 272 279 273]], ornt: [u'c'], transcriptions: [u'ANANDA']
+x: [[486 576 691 702 579 503]], y: [[237 224 195 230 258 270]], ornt: [u'c'], transcriptions: [u'BAHWAN']
+x: [[351 538 541 353]], y: [[289 275 301 309]], ornt: [u'm'], transcriptions: [u'RESTAURANT']
+x: [[394 417 415 395]], y: [[306 308 322 323]], ornt: [u'h'], transcriptions: [u'M']
+x: [[421 456 459 422]], y: [[305 303 319 322]], ornt: [u'm'], transcriptions: [u'SDN']
+x: [[460 497 498 461]], y: [[304 301 317 319]], ornt: [u'm'], transcriptions: [u'BHD']

@@ -1,0 +1,3 @@
+x: [[ 57 768 790  40]], y: [[156 148 447 459]], ornt: [u'm'], transcriptions: [u'OCRTIS']
+x: [[288 337 406 405 324 274]], y: [[490 511 522 562 552 532]], ornt: [u'c'], transcriptions: [u'KIDS']
+x: [[423 499 562 585 511 424]], y: [[520 508 481 522 552 558]], ornt: [u'c'], transcriptions: [u'STORE']

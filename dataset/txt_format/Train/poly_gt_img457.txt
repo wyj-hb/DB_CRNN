@@ -1,0 +1,8 @@
+x: [[ 75 205 328 345 218 109]], y: [[693 627 579 616 673 735]], ornt: [u'c'], transcriptions: [u'RESTORAN']
+x: [[ 99 459 830 832 459 206]], y: [[733 559 510 642 708 847]], ornt: [u'c'], transcriptions: [u'TWELVE']
+x: [[ 878 1003 1025  887]], y: [[496 492 612 612]], ornt: [u'h'], transcriptions: [u'12']
+x: [[718 928 928 716]], y: [[663 678 727 723]], ornt: [u'h'], transcriptions: [u'Welcome']
+x: [[1117 1373 1496 1457 1285 1090]], y: [[555 609 715 814 732 660]], ornt: [u'c'], transcriptions: [u'cafe']
+x: [[12 75 72 13]], y: [[868 870 922 925]], ornt: [u'h'], transcriptions: [u'12']
+x: [[487 569 565 488]], y: [[1174 1179 1198 1195]], ornt: [u'h'], transcriptions: [u'Garage']
+x: [[586 641 646 593]], y: [[1167 1170 1194 1198]], ornt: [u'h'], transcriptions: [u'Train']

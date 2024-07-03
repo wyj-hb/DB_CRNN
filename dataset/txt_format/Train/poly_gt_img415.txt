@@ -1,0 +1,3 @@
+x: [[ 87 110 147 185 152 131]], y: [[377 288 220 234 313 389]], ornt: [u'c'], transcriptions: [u'SHOPS']
+x: [[186 295 414 530 529 397 301 214]], y: [[166  86  50  56 104 102 138 205]], ornt: [u'c'], transcriptions: [u'RESTAURANTS']
+x: [[580 742 841 854 801 794 709 570]], y: [[ 74 167 324 412 408 341 203 112]], ornt: [u'c'], transcriptions: [u'ENTERTAINMENT']

@@ -1,0 +1,4 @@
+x: [[155 192 229 229 192 155]], y: [[334 334 334 350 350 350]], ornt: [u'h'], transcriptions: [u'COFFEE']
+x: [[337 365 393 393 365 337]], y: [[279 279 279 301 301 301]], ornt: [u'#'], transcriptions: [u'#']
+x: [[238 288 337 337 288 238]], y: [[333 333 333 350 350 350]], ornt: [u'h'], transcriptions: [u'ROASTERS']
+x: [[137 257 351 346 257 143]], y: [[306 281 303 326 305 326]], ornt: [u'c'], transcriptions: [u'STUMPTOWN']

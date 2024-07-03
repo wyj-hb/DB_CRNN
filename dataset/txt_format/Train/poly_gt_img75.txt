@@ -1,0 +1,6 @@
+x: [[291 392 538 533 388 293]], y: [[180 141 132 196 193 217]], ornt: [u'c'], transcriptions: [u'LOWBRAU']
+x: [[369 392 394 370]], y: [[216 215 228 228]], ornt: [u'h'], transcriptions: [u'est']
+x: [[396 424 424 396]], y: [[211 209 227 229]], ornt: [u'h'], transcriptions: [u'2012']
+x: [[143 163 165 142]], y: [[257 257 291 291]], ornt: [u'h'], transcriptions: [u'S']
+x: [[178 200 198 180]], y: [[259 258 292 293]], ornt: [u'h'], transcriptions: [u'R']
+x: [[240 264 265 241]], y: [[260 260 289 289]], ornt: [u'h'], transcriptions: [u'W']

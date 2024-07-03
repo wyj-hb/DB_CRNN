@@ -1,0 +1,6 @@
+x: [[ 45  64 102 110  75  58]], y: [[136 110  98 113 127 151]], ornt: [u'c'], transcriptions: [u'SEOUL']
+x: [[109 168 202 190 150 108]], y: [[ 94 100 130 141 114 110]], ornt: [u'c'], transcriptions: [u'SAUSAGE']
+x: [[101 121 123 101]], y: [[186 186 199 200]], ornt: [u'h'], transcriptions: [u'EST']
+x: [[123 147 149 124]], y: [[182 183 195 197]], ornt: [u'h'], transcriptions: [u'2010']
+x: [[ 86 127 171 182 125  76]], y: [[210 222 202 220 236 222]], ornt: [u'c'], transcriptions: [u'COMPANY']
+x: [[236 473 489 241]], y: [[134 125 185 184]], ornt: [u'h'], transcriptions: [u'seoul']

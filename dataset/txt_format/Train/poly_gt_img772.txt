@@ -1,0 +1,6 @@
+x: [[254 320 482 465 339 275]], y: [[454 381 358 468 457 521]], ornt: [u'c'], transcriptions: [u'TEHTARIK']
+x: [[316 395 390 317]], y: [[479 443 502 523]], ornt: [u'm'], transcriptions: [u'PLACE']
+x: [[539 635 652 550]], y: [[312 299 338 357]], ornt: [u'm'], transcriptions: [u'Bespoke']
+x: [[587 640 651 604]], y: [[358 350 378 389]], ornt: [u'm'], transcriptions: [u'Roti']
+x: [[257 327 317 263]], y: [[627 623 932 921]], ornt: [u'#'], transcriptions: [u'#']
+x: [[671 711 715 683]], y: [[295 295 544 540]], ornt: [u'#'], transcriptions: [u'#']

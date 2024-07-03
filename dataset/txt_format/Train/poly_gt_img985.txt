@@ -1,0 +1,4 @@
+x: [[102 177 252 253 174 102]], y: [[ 59  75  79 112 107  89]], ornt: [u'c'], transcriptions: [u'EVIGE']
+x: [[295 377 371 290]], y: [[ 82  77 106 112]], ornt: [u'h'], transcriptions: [u'LIV']
+x: [[421 476 475 413]], y: [[ 72  64  89 100]], ornt: [u'm'], transcriptions: [u'AT']
+x: [[ 4 54 49  3]], y: [[29 49 78 65]], ornt: [u'm'], transcriptions: [u'ET']

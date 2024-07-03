@@ -1,0 +1,5 @@
+x: [[237 270 302 302 270 237]], y: [[291 291 291 325 325 325]], ornt: [u'h'], transcriptions: [u'ALVES']
+x: [[437 472 506 506 472 437]], y: [[380 380 380 420 420 420]], ornt: [u'#'], transcriptions: [u'#']
+x: [[160 259 385 515 473 382 277 202]], y: [[ 79   7   2  72 141  86  83 137]], ornt: [u'c'], transcriptions: [u'PARIS']
+x: [[182 230 232 183]], y: [[297 294 324 324]], ornt: [u'm'], transcriptions: [u'DANI']
+x: [[195 282 284 198]], y: [[338 337 415 413]], ornt: [u'h'], transcriptions: [u'32']

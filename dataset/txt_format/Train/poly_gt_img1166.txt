@@ -1,0 +1,8 @@
+x: [[233 265 296 296 265 233]], y: [[406 406 406 428 428 428]], ornt: [u'h'], transcriptions: [u'HOTEL']
+x: [[106 138 170 170 138 106]], y: [[414 414 414 432 432 432]], ornt: [u'h'], transcriptions: [u'THEME']
+x: [[174 197 220 220 197 174]], y: [[409 409 409 431 431 431]], ornt: [u'h'], transcriptions: [u'PARk']
+x: [[306 324 342 342 324 306]], y: [[406 406 406 423 423 423]], ornt: [u'h'], transcriptions: [u'SPA']
+x: [[ 35 355 355  35]], y: [[ 78  76 154 160]], ornt: [u'h'], transcriptions: [u'agoda']
+x: [[ 83 193 357 363 203  99]], y: [[330 304 320 390 358 406]], ornt: [u'c'], transcriptions: [u'LOSTWORLD']
+x: [[209 281 311 321 277 207]], y: [[356 374 362 394 404 388]], ornt: [u'c'], transcriptions: [u'TAMBUN']
+x: [[173 285 281 173]], y: [[440 432 458 464]], ornt: [u'm'], transcriptions: [u'SUNWAY']

@@ -1,0 +1,5 @@
+x: [[ 87 110 173 199 200 159  97]], y: [[133 122 101  97 121 122 147]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[207 238 242 211]], y: [[ 94  88 108 117]], ornt: [u'c'], transcriptions: [u'TO']
+x: [[250 299 300 250]], y: [[ 90  82 110 109]], ornt: [u'c'], transcriptions: [u'OLD']
+x: [[309 356 386 383 348 310]], y: [[ 86  88  88 112 104 107]], ornt: [u'c'], transcriptions: [u'TOWN']
+x: [[392 426 458 502 496 440 391]], y: [[ 91  94  99 108 129 116 112]], ornt: [u'c'], transcriptions: [u'BANDON']

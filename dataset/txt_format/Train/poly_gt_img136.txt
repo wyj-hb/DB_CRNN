@@ -1,0 +1,5 @@
+x: [[ 778 1064 1344 1366 1070  764]], y: [[704 642 748 893 786 848]], ornt: [u'c'], transcriptions: [u'FLYING']
+x: [[ 778 1032 1372 1388 1062  786]], y: [[ 876  794  878 1060  936 1054]], ornt: [u'c'], transcriptions: [u'HORSES']
+x: [[ 954 1192 1210  954]], y: [[1014 1023 1078 1062]], ornt: [u'h'], transcriptions: [u'AMERICAS']
+x: [[ 990 1180 1184  990]], y: [[1062 1070 1122 1118]], ornt: [u'h'], transcriptions: [u'OLDEST']
+x: [[ 960 1210 1210  956]], y: [[1118 1136 1170 1162]], ornt: [u'h'], transcriptions: [u'CAROUSEL']

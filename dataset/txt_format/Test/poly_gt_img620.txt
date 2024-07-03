@@ -1,0 +1,5 @@
+x: [[139 156 214 217 186 147]], y: [[109  91  64  99 126 136]], ornt: [u'c'], transcriptions: [u'Caffe']
+x: [[241 281 354 365 366 324 268 228 223]], y: [[ 57  40  60  69 108  96  88  92  81]], ornt: [u'c'], transcriptions: [u'Fiorella']
+x: [[168 326 325 168]], y: [[142 115 139 161]], ornt: [u'm'], transcriptions: [u'TORREFAZIONE']
+x: [[190 237 237 190]], y: [[284 281 318 318]], ornt: [u'#'], transcriptions: [u'#']
+x: [[222 441 443 221]], y: [[558 561 578 577]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,4 @@
+x: [[170 186 204 196 172 155]], y: [[352 368 378 395 381 362]], ornt: [u'c'], transcriptions: [u'POLIS']
+x: [[207 240 267 272 235 201]], y: [[382 391 390 409 407 395]], ornt: [u'c'], transcriptions: [u'DIRAJA']
+x: [[275 312 337 356 321 277]], y: [[391 383 364 366 396 408]], ornt: [u'c'], transcriptions: [u'MALAYSIA']
+x: [[ 434 1002 1008  446]], y: [[252 309 409 381]], ornt: [u'm'], transcriptions: [u'PONDO']

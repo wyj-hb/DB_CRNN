@@ -1,0 +1,6 @@
+x: [[ 72 175 181  72]], y: [[130 131 181 181]], ornt: [u'h'], transcriptions: [u'HOME']
+x: [[197 252 253 200]], y: [[132 132 182 179]], ornt: [u'h'], transcriptions: [u'OF']
+x: [[265 334 336 270]], y: [[133 132 180 178]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[358 504 506 354]], y: [[131 131 179 182]], ornt: [u'h'], transcriptions: [u'FAMOUS']
+x: [[210 369 369 214]], y: [[186 185 234 234]], ornt: [u'h'], transcriptions: [u'JALAMA']
+x: [[ 75 228 372 494 474 342 229 101]], y: [[296 240 241 295 361 307 307 362]], ornt: [u'c'], transcriptions: [u'HAMBURGER']

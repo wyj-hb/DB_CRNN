@@ -1,0 +1,2 @@
+x: [[337 637 963 937 645 451]], y: [[702 588 712 844 792 868]], ornt: [u'c'], transcriptions: [u'Village']
+x: [[275 861 870 293]], y: [[ 900  862 1028 1098]], ornt: [u'm'], transcriptions: [u'Woods']

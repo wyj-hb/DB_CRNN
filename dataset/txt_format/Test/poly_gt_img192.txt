@@ -1,0 +1,4 @@
+x: [[ 21 106 175 180 110  47]], y: [[ 84  45  43  73  83 114]], ornt: [u'c'], transcriptions: [u'MORNING']
+x: [[189 225 248 248 224 193]], y: [[46 52 56 82 75 72]], ornt: [u'c'], transcriptions: [u'CALL']
+x: [[262 310 340 335 303 260]], y: [[ 61  79  97 120 102  87]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[347 375 398 387 366 338]], y: [[105 126 163 175 141 125]], ornt: [u'c'], transcriptions: [u'STAND']

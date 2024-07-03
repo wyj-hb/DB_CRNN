@@ -1,0 +1,8 @@
+x: [[161 269 376 376 269 161]], y: [[366 366 366 441 441 441]], ornt: [u'h'], transcriptions: [u'drunk']
+x: [[138 129 142 172 163 171]], y: [[445 402 360 369 397 447]], ornt: [u'c'], transcriptions: [u'CRAFT']
+x: [[148 160 189 213 184 174]], y: [[346 321 303 318 340 361]], ornt: [u'c'], transcriptions: [u'BEER']
+x: [[195 211 232 220]], y: [[294 280 309 319]], ornt: [u'#'], transcriptions: [u'#']
+x: [[225 273 328 321 280 237]], y: [[277 268 274 303 292 307]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[348 424 411 379 378 330]], y: [[279 352 448 429 351 307]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[190 237 289 289 202 165]], y: [[468 495 502 537 520 492]], ornt: [u'#'], transcriptions: [u'#']
+x: [[310 364 385 324]], y: [[496 456 480 526]], ornt: [u'#'], transcriptions: [u'#']

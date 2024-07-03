@@ -1,0 +1,4 @@
+x: [[249 349 477 534 508 440 331 263]], y: [[ 66  34  49  87 151 106 109 133]], ornt: [u'c'], transcriptions: [u'APOM']
+x: [[ 78 231 233  80]], y: [[191 194 233 223]], ornt: [u'h'], transcriptions: [u'PENANG']
+x: [[245 392 392 245]], y: [[194 201 235 232]], ornt: [u'h'], transcriptions: [u'GURNEY']
+x: [[399 498 499 399]], y: [[200 202 239 230]], ornt: [u'h'], transcriptions: [u'DRIVE']

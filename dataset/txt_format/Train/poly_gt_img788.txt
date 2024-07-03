@@ -1,0 +1,6 @@
+x: [[ 52  75 111 105  75  53]], y: [[ 99  85  77  99 105 128]], ornt: [u'c'], transcriptions: [u'HARCHT']
+x: [[143 202 266 267 191 131]], y: [[ 74  58  11  48  94 101]], ornt: [u'c'], transcriptions: [u'ASHBURY']
+x: [[ 72 108 110  71]], y: [[114  89  99 125]], ornt: [u'm'], transcriptions: [u'TATTOO']
+x: [[125 187 188 127]], y: [[78 40 54 91]], ornt: [u'm'], transcriptions: [u'PIERCING']
+x: [[112 121 124 113]], y: [[ 82  81  97 100]], ornt: [u'#'], transcriptions: [u'#']
+x: [[158 175 175 160]], y: [[136 135 212 212]], ornt: [u'm'], transcriptions: [u'TAT']

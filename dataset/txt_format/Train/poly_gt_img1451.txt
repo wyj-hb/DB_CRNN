@@ -1,0 +1,3 @@
+x: [[ 33 122 280 281 158  76]], y: [[223 144  79 141 178 257]], ornt: [u'c'], transcriptions: [u'ABANDON']
+x: [[298 358 415 398 349 298]], y: [[ 79  76  94 151 135 136]], ornt: [u'c'], transcriptions: [u'ALL']
+x: [[427 500 574 533 466 413]], y: [[ 97 123 169 219 172 151]], ornt: [u'c'], transcriptions: [u'HOPE']

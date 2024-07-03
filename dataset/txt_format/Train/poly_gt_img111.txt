@@ -1,0 +1,3 @@
+x: [[331 564 833 894 838 790 575 378]], y: [[170  65 137 180 248 216 166 228]], ornt: [u'c'], transcriptions: [u'FRIENDSHIP']
+x: [[166 287 288 166]], y: [[537 538 638 644]], ornt: [u'h'], transcriptions: [u'1st']
+x: [[ 338 1019 1033  336]], y: [[535 540 646 639]], ornt: [u'h'], transcriptions: [u'TOTTENHAM']

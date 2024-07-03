@@ -1,0 +1,7 @@
+x: [[325 356 446 558 546 463 395 364]], y: [[413 288 231 239 288 281 328 425]], ornt: [u'c'], transcriptions: [u'CHATHAM']
+x: [[587 656 665 613 601 563]], y: [[260 342 424 413 340 299]], ornt: [u'c'], transcriptions: [u'KENT']
+x: [[396 472 539 590 611 543 459 375]], y: [[484 524 519 486 532 566 568 513]], ornt: [u'c'], transcriptions: [u'POLICE']
+x: [[260 325 338 280]], y: [[663 653 695 708]], ornt: [u'm'], transcriptions: [u'To']
+x: [[339 403 456 462 413 348]], y: [[655 649 654 690 685 692]], ornt: [u'c'], transcriptions: [u'Serve']
+x: [[475 515 556 550 515 479]], y: [[655 654 659 694 686 687]], ornt: [u'c'], transcriptions: [u'and']
+x: [[570 654 719 712 639 567]], y: [[656 671 692 722 706 695]], ornt: [u'c'], transcriptions: [u'Protect']

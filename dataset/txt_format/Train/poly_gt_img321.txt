@@ -1,0 +1,6 @@
+x: [[556 675 805 798 684 596]], y: [[519 446 416 493 534 618]], ornt: [u'c'], transcriptions: [u'SeLamat']
+x: [[ 886  994 1065 1043  959  884]], y: [[442 479 550 636 556 515]], ornt: [u'c'], transcriptions: [u'Datang']
+x: [[701 864 873 715]], y: [[587 574 623 638]], ornt: [u'm'], transcriptions: [u'Welcome']
+x: [[880 928 933 891]], y: [[576 570 620 627]], ornt: [u'm'], transcriptions: [u'To']
+x: [[624 708 823 825 675 572]], y: [[645 704 728 799 768 704]], ornt: [u'c'], transcriptions: [u'GUNUNG']
+x: [[ 873  968 1032 1071  996  889]], y: [[704 686 612 651 735 790]], ornt: [u'c'], transcriptions: [u'LEDANG']

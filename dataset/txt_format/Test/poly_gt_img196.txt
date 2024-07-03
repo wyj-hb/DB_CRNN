@@ -1,0 +1,4 @@
+x: [[261 294 362 407 378 355 315 281]], y: [[238 191 181 240 258 227 220 253]], ornt: [u'c'], transcriptions: [u'TRIVENI']
+x: [[273 285 286 272]], y: [[295 296 313 311]], ornt: [u'h'], transcriptions: [u'A']
+x: [[287 342 344 288]], y: [[295 297 313 311]], ornt: [u'h'], transcriptions: [u'CHANDRA']
+x: [[344 393 393 344]], y: [[295 294 312 311]], ornt: [u'h'], transcriptions: [u'SEKHAR']

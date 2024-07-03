@@ -1,0 +1,7 @@
+x: [[460 908 889 402]], y: [[193 385 554 373]], ornt: [u'm'], transcriptions: [u'JAMES']
+x: [[522 766 842 592]], y: [[514 439 580 707]], ornt: [u'm'], transcriptions: [u'FOO']
+x: [[890 941 940 893]], y: [[547 560 608 598]], ornt: [u'h'], transcriptions: [u'TM']
+x: [[691 724 721 691]], y: [[664 674 709 700]], ornt: [u'#'], transcriptions: [u'#']
+x: [[733 838 835 732]], y: [[676 707 752 730]], ornt: [u'm'], transcriptions: [u'FAMILY']
+x: [[481 580 744 760 526 427]], y: [[518 727 814 910 785 541]], ornt: [u'c'], transcriptions: [u'western']
+x: [[756 833 886 928 869 769]], y: [[811 770 658 689 830 884]], ornt: [u'c'], transcriptions: [u'FOOD']

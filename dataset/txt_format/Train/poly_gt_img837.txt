@@ -1,0 +1,5 @@
+x: [[173 209 245 245 209 173]], y: [[126 126 126 138 138 138]], ornt: [u'h'], transcriptions: [u'ORCHARDS']
+x: [[49 72 94 94 72 49]], y: [[121 121 121 134 134 134]], ornt: [u'h'], transcriptions: [u'FRUIT']
+x: [[ 29 147 264 264 147  29]], y: [[ 74  74  74 108 108 108]], ornt: [u'h'], transcriptions: [u'HADLEY']
+x: [[102 126 150 150 117  99]], y: [[139 150 152 168 163 151]], ornt: [u'c'], transcriptions: [u'SINCE']
+x: [[154 172 186 196 175 157]], y: [[149 151 143 158 166 168]], ornt: [u'c'], transcriptions: [u'1931']

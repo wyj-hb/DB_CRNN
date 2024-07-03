@@ -1,0 +1,7 @@
+x: [[245 344 417 439 363 277]], y: [[482 421 387 436 469 529]], ornt: [u'c'], transcriptions: [u'TAMAN']
+x: [[450 577 744 746 582 476]], y: [[369 326 311 369 382 421]], ornt: [u'c'], transcriptions: [u'NASIONAL']
+x: [[ 776  903 1011  985  884  776]], y: [[302 316 343 393 361 363]], ornt: [u'c'], transcriptions: [u'GUNUNG']
+x: [[1042 1163 1240 1218 1123 1029]], y: [[352 400 451 492 439 402]], ornt: [u'c'], transcriptions: [u'RINJANI']
+x: [[541 726 731 545]], y: [[454 452 501 510]], ornt: [u'm'], transcriptions: [u'PINTU']
+x: [[750 970 981 754]], y: [[449 439 488 499]], ornt: [u'm'], transcriptions: [u'SENARU']
+x: [[1102 1163 1165 1106]], y: [[674 665 685 695]], ornt: [u'#'], transcriptions: [u'#']

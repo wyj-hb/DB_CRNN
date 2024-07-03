@@ -1,0 +1,3 @@
+x: [[ 54 101 161 192 148 100]], y: [[269 219 216 255 286 325]], ornt: [u'c'], transcriptions: [u'Old']
+x: [[162 262 379 372 283 201]], y: [[193 141 144 204 212 254]], ornt: [u'c'], transcriptions: [u'Coffee']
+x: [[401 505 583 551 488 385]], y: [[129 148 194 246 210 191]], ornt: [u'c'], transcriptions: [u'house']

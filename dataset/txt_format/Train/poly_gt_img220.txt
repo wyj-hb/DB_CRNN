@@ -1,0 +1,4 @@
+x: [[572 646 707 713 647 577]], y: [[483 459 468 505 493 517]], ornt: [u'c'], transcriptions: [u'PRARTHANA']
+x: [[721 769 800 788 751 710]], y: [[472 496 526 552 519 505]], ornt: [u'c'], transcriptions: [u'SCHOOL']
+x: [[850 880 880 848]], y: [[382 388 433 427]], ornt: [u'h'], transcriptions: [u'P']
+x: [[886 905 907 889]], y: [[391 397 445 441]], ornt: [u'h'], transcriptions: [u'1']

@@ -1,0 +1,6 @@
+x: [[ 86 112 153 180 216 232 222 200 165  84]], y: [[53 40 33 31 33 46 60 53 52 76]], ornt: [u'c'], transcriptions: [u'Trattoria']
+x: [[ 66 142 148 146  71]], y: [[114 114 123 136 135]], ornt: [u'c'], transcriptions: [u'Della']
+x: [[164 245 251 155]], y: [[114 104 120 138]], ornt: [u'c'], transcriptions: [u'Nonna']
+x: [[ 61 113 156 156  60]], y: [[150 159 160 175 172]], ornt: [u'c'], transcriptions: [u'Ristorante']
+x: [[163 168 169 162]], y: [[160 158 174 175]], ornt: [u'h'], transcriptions: [u'e']
+x: [[174 263 256 180]], y: [[157 139 156 172]], ornt: [u'c'], transcriptions: [u'Pizzeria']

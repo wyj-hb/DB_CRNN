@@ -1,0 +1,8 @@
+x: [[163 221 344 386 271 238]], y: [[637 501 409 461 534 649]], ornt: [u'c'], transcriptions: [u'LOUIE']
+x: [[389 546 725 812 716 666 548 401]], y: [[389 370 456 641 666 512 444 442]], ornt: [u'c'], transcriptions: [u'LINGUINIS']
+x: [[124 303 309 120]], y: [[811 806 850 859]], ornt: [u'm'], transcriptions: [u'PASTA']
+x: [[358 635 636 352]], y: [[802 794 844 850]], ornt: [u'm'], transcriptions: [u'SEAFOOD']
+x: [[677 855 867 679]], y: [[794 791 839 839]], ornt: [u'm'], transcriptions: [u'PIZZA']
+x: [[338 722 724 336]], y: [[ 976  964 1017 1024]], ornt: [u'm'], transcriptions: [u'UPSTAIRS']
+x: [[562 596 651 644 607 584]], y: [[939 909 904 934 937 954]], ornt: [u'c'], transcriptions: [u'CANNERY']
+x: [[655 677 694 669 658 643]], y: [[911 922 943 956 943 936]], ornt: [u'c'], transcriptions: [u'ROW']

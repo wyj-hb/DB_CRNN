@@ -1,0 +1,4 @@
+x: [[ 70  79  95 126 112 105]], y: [[237 194 167 184 209 240]], ornt: [u'c'], transcriptions: [u'YEE']
+x: [[107 142 188 203 160 131]], y: [[152 116  91 124 140 176]], ornt: [u'c'], transcriptions: [u'SHUN']
+x: [[202 248 293 293 251 210]], y: [[ 88  79  83 113 109 116]], ornt: [u'c'], transcriptions: [u'MILK']
+x: [[310 397 435 405 370 302]], y: [[ 91 141 227 234 162 117]], ornt: [u'c'], transcriptions: [u'COMPANY']

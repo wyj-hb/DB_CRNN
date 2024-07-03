@@ -1,0 +1,8 @@
+x: [[154 234 356 349 252 174]], y: [[368 302 304 338 335 392]], ornt: [u'c'], transcriptions: [u'ESTABLISHED']
+x: [[370 406 430 419 388 359]], y: [[317 334 358 382 361 341]], ornt: [u'c'], transcriptions: [u'2014']
+x: [[112 458 467 114]], y: [[404 383 538 593]], ornt: [u'm'], transcriptions: [u'Mint']
+x: [[163 380 386 162]], y: [[601 563 620 673]], ornt: [u'm'], transcriptions: [u'FLORAl']
+x: [[389 442 445 395]], y: [[572 562 608 614]], ornt: [u'm'], transcriptions: [u'CO']
+x: [[204 241 273 265 220 189]], y: [[671 695 700 725 719 698]], ornt: [u'c'], transcriptions: [u'MINT']
+x: [[283 337 380 403 343 285]], y: [[704 701 679 703 727 731]], ornt: [u'c'], transcriptions: [u'FLORAl']
+x: [[386 418 442 413]], y: [[676 641 665 707]], ornt: [u'm'], transcriptions: [u'CO']

@@ -1,0 +1,6 @@
+x: [[212 220 227 227 220 212]], y: [[286 286 286 300 300 300]], ornt: [u'#'], transcriptions: [u'#']
+x: [[135 243 355 342 234 139]], y: [[263 236 256 273 268 286]], ornt: [u'c'], transcriptions: [u'SOMERLED']
+x: [[105 169 169 105]], y: [[291 288 307 313]], ornt: [u'm'], transcriptions: [u'CELLAR']
+x: [[172 206 210 171]], y: [[290 289 306 309]], ornt: [u'm'], transcriptions: [u'Bar']
+x: [[233 285 285 235]], y: [[286 287 300 303]], ornt: [u'm'], transcriptions: [u'PICNIC']
+x: [[290 379 381 299]], y: [[282 280 295 302]], ornt: [u'm'], transcriptions: [u'PROVIDORE']

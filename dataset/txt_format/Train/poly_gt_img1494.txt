@@ -1,0 +1,3 @@
+x: [[573 640 682 676 630 576]], y: [[348 341 351 410 408 417]], ornt: [u'c'], transcriptions: [u'Bas']
+x: [[711 799 870 858 783 697]], y: [[336 348 376 436 408 403]], ornt: [u'c'], transcriptions: [u'Sekolah']
+x: [[167 183 204 212 196 174]], y: [[130 124 120 137 143 149]], ornt: [u'm'], transcriptions: [u'KIDS']

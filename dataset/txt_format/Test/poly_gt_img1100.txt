@@ -1,0 +1,7 @@
+x: [[354 495 468 304]], y: [[327 450 519 381]], ornt: [u'm'], transcriptions: [u'Google']
+x: [[423 454 444 412]], y: [[192 222 243 222]], ornt: [u'm'], transcriptions: [u'2017']
+x: [[249 343 379 342 318 259]], y: [[477 496 592 592 523 508]], ornt: [u'#'], transcriptions: [u'#']
+x: [[162 169 223 235 198 187]], y: [[583 525 483 511 534 595]], ornt: [u'c'], transcriptions: [u'TSINGHUA']
+x: [[199 208 232 223 187 174]], y: [[613 631 639 670 654 637]], ornt: [u'c'], transcriptions: [u'1911']
+x: [[253 312 340 364 327 253]], y: [[661 649 607 624 672 684]], ornt: [u'c'], transcriptions: [u'UNIVERSITY']
+x: [[204 310 333 222]], y: [[525 522 622 634]], ornt: [u'#'], transcriptions: [u'#']

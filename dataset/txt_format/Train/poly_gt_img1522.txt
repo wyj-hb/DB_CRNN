@@ -1,0 +1,5 @@
+x: [[ -1 140 203  19]], y: [[167  92 119 232]], ornt: [u'm'], transcriptions: [u'UBBA']
+x: [[161 300 318 199]], y: [[ 75  30  58 115]], ornt: [u'm'], transcriptions: [u'GUMP']
+x: [[ 61 215 242  88]], y: [[231 124 144 258]], ornt: [u'm'], transcriptions: [u'SHRIMP']
+x: [[271 317 322 286]], y: [[ 93  75  95 112]], ornt: [u'm'], transcriptions: [u'CO']
+x: [[ 49 180 312 318 199  38]], y: [[267 279 232 261 314 295]], ornt: [u'c'], transcriptions: [u'RESTAURANT']

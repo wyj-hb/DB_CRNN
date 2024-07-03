@@ -1,0 +1,6 @@
+x: [[785 795 804 804 795 785]], y: [[456 456 456 473 473 473]], ornt: [u'h'], transcriptions: [u'45']
+x: [[132 245 399 407 263 158]], y: [[269 200 161 205 247 313]], ornt: [u'c'], transcriptions: [u'CHILOCCO']
+x: [[438 556 654 647 546 442]], y: [[157 151 175 218 197 200]], ornt: [u'c'], transcriptions: [u'INDIAN']
+x: [[692 775 880 857 757 677]], y: [[182 214 296 327 258 229]], ornt: [u'c'], transcriptions: [u'SCHOOL']
+x: [[358 416 412 358]], y: [[472 473 518 519]], ornt: [u'#'], transcriptions: [u'#']
+x: [[604 659 662 604]], y: [[480 479 533 528]], ornt: [u'#'], transcriptions: [u'#']

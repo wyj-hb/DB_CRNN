@@ -1,0 +1,7 @@
+x: [[146 159 172 172 159 146]], y: [[483 483 483 531 531 531]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 89 139 182 184 134  89]], y: [[409 433 436 487 479 464]], ornt: [u'c'], transcriptions: [u'BUKIT']
+x: [[196 237 276 276 229 192]], y: [[434 445 437 486 495 489]], ornt: [u'c'], transcriptions: [u'KIARA']
+x: [[271 340 394 405 344 280]], y: [[444 434 412 453 478 489]], ornt: [u'c'], transcriptions: [u'EQUESTRIAN']
+x: [[224 302 298 232]], y: [[345 349 394 391]], ornt: [u'#'], transcriptions: [u'#']
+x: [[185 248 301 293 234 181]], y: [[489 498 486 532 540 534]], ornt: [u'c'], transcriptions: [u'COUNTRY']
+x: [[294 335 377 382 343 301]], y: [[487 484 465 504 526 534]], ornt: [u'c'], transcriptions: [u'RESORT']

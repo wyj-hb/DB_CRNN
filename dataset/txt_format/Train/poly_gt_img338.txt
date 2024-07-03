@@ -1,0 +1,4 @@
+x: [[167 384 576 555 400 217]], y: [[180 111 189 269 205 262]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[386 419 420 390]], y: [[218 219 255 253]], ornt: [u'h'], transcriptions: [u'to']
+x: [[291 375 377 291]], y: [[283 275 318 326]], ornt: [u'm'], transcriptions: [u'our']
+x: [[388 493 495 386]], y: [[262 263 316 324]], ornt: [u'm'], transcriptions: [u'home']

@@ -1,0 +1,7 @@
+x: [[746 775 803 803 775 746]], y: [[294 294 294 314 314 314]], ornt: [u'h'], transcriptions: [u'BLOCK']
+x: [[749 763 776 776 763 749]], y: [[346 346 346 363 363 363]], ornt: [u'h'], transcriptions: [u'129']
+x: [[779 799 818 818 799 779]], y: [[323 323 323 340 340 340]], ornt: [u'h'], transcriptions: [u'School']
+x: [[301 507 647 648 493 359]], y: [[230 150 190 246 261 321]], ornt: [u'c'], transcriptions: [u'TheCookin']
+x: [[716 785 863 846 760 710]], y: [[177 214 271 315 279 269]], ornt: [u'c'], transcriptions: [u'Room']
+x: [[755 775 779 754]], y: [[322 322 339 339]], ornt: [u'h'], transcriptions: [u'the']
+x: [[780 816 817 783]], y: [[347 347 365 364]], ornt: [u'h'], transcriptions: [u'Officces']

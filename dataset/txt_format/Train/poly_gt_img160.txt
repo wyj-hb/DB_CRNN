@@ -1,0 +1,6 @@
+x: [[248 315 418 404 336 267]], y: [[811 768 781 834 814 850]], ornt: [u'c'], transcriptions: [u'BOOK']
+x: [[271 357 435 464 363 264]], y: [[ 979 1000  960  994 1050 1032]], ornt: [u'c'], transcriptions: [u'BEACH']
+x: [[1175 1292 1294 1180]], y: [[586 550 589 624]], ornt: [u'm'], transcriptions: [u'catch']
+x: [[1298 1349 1357 1306]], y: [[552 541 580 591]], ornt: [u'm'], transcriptions: [u'the']
+x: [[1168 1346 1348 1180]], y: [[622 583 621 670]], ornt: [u'm'], transcriptions: [u'READING']
+x: [[1186 1306 1307 1210]], y: [[667 633 673 711]], ornt: [u'm'], transcriptions: [u'WAVE']

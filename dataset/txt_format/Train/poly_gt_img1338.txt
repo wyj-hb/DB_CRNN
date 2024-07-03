@@ -1,0 +1,8 @@
+x: [[946 969 991 991 969 946]], y: [[544 544 544 558 558 558]], ornt: [u'h'], transcriptions: [u'PARKINGBAYS']
+x: [[558 588 622 617 585 568]], y: [[167 155 156 173 172 181]], ornt: [u'c'], transcriptions: [u'SUBANG']
+x: [[629 648 658 654 640 620]], y: [[156 160 169 183 176 171]], ornt: [u'c'], transcriptions: [u'JAYA']
+x: [[554 667 658 553]], y: [[172 184 220 212]], ornt: [u'h'], transcriptions: [u'Lafite']
+x: [[574 597 621 619 602 581]], y: [[231 218 217 232 230 244]], ornt: [u'c'], transcriptions: [u'PHASE']
+x: [[946 991 994 948]], y: [[530 527 543 548]], ornt: [u'm'], transcriptions: [u'MOTORCYCLE']
+x: [[165 238 238 163]], y: [[702 694 712 720]], ornt: [u'm'], transcriptions: [u'proton']
+x: [[542 599 595 548]], y: [[687 686 704 704]], ornt: [u'm'], transcriptions: [u'SAGA']

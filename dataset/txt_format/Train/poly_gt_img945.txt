@@ -1,0 +1,2 @@
+x: [[139 284 432 441 278 157]], y: [[ 88  80 100 165 153 168]], ornt: [u'c'], transcriptions: [u'LUSHER']
+x: [[477 605 699 694 579 471]], y: [[111 150 201 257 199 167]], ornt: [u'c'], transcriptions: [u'SCHOOL']

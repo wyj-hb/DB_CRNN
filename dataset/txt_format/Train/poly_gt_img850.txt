@@ -1,0 +1,8 @@
+x: [[215 237 259 259 237 215]], y: [[357 357 357 378 378 378]], ornt: [u'h'], transcriptions: [u'Water']
+x: [[190 202 228 239 219 211]], y: [[344 314 295 312 329 355]], ornt: [u'c'], transcriptions: [u'TESTED']
+x: [[234 254 276 272 257 245]], y: [[295 290 288 309 310 317]], ornt: [u'c'], transcriptions: [u'AND']
+x: [[284 319 340 325 303 275]], y: [[289 307 339 354 324 310]], ornt: [u'c'], transcriptions: [u'CERTIFIED']
+x: [[261 313 313 261]], y: [[357 357 379 381]], ornt: [u'h'], transcriptions: [u'Quality']
+x: [[207 214 224 214 195 187]], y: [[367 392 406 420 401 374]], ornt: [u'c'], transcriptions: [u'UNDER']
+x: [[226 249 280 281 240 216]], y: [[405 417 418 437 437 423]], ornt: [u'c'], transcriptions: [u'INDUSTRY']
+x: [[278 308 320 338 323 284]], y: [[418 401 370 370 418 436]], ornt: [u'c'], transcriptions: [u'STANDARDS']

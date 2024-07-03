@@ -1,0 +1,4 @@
+x: [[130 172 209 222 209 191 171 150]], y: [[129 103 129 167 181 140 138 163]], ornt: [u'c'], transcriptions: [u'BMW']
+x: [[480 740 746 484]], y: [[256 381 477 380]], ornt: [u'm'], transcriptions: [u'NaraBMW']
+x: [[342 372 360 335]], y: [[215 223 329 323]], ornt: [u'm'], transcriptions: [u'i']
+x: [[529 578 594 532]], y: [[593 585 672 679]], ornt: [u'#'], transcriptions: [u'#']

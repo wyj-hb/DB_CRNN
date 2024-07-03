@@ -1,0 +1,2 @@
+x: [[156 208 265 276 209 150]], y: [[131 143 142 179 183 164]], ornt: [u'c'], transcriptions: [u'miami']
+x: [[337 416 484 480 405 336]], y: [[116 133 185 202 167 151]], ornt: [u'c'], transcriptions: [u'childrens']

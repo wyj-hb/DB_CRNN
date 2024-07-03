@@ -1,0 +1,4 @@
+x: [[ 85 437 921 893 451 191]], y: [[577 519 713 837 659 727]], ornt: [u'c'], transcriptions: [u'Cutlers']
+x: [[249 465 613 611 417 201]], y: [[741 831 849 913 891 789]], ornt: [u'c'], transcriptions: [u'COMPACT']
+x: [[643 751 845 867 779 661]], y: [[855 843 827 887 917 921]], ornt: [u'c'], transcriptions: [u'DISCS']
+x: [[121 797 811 119]], y: [[ 897  993 1147 1053]], ornt: [u'm'], transcriptions: [u'ENTER']

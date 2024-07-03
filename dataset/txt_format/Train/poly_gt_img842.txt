@@ -1,0 +1,2 @@
+x: [[515 604 690 687 607 522]], y: [[168 145 166 193 177 195]], ornt: [u'c'], transcriptions: [u'CALIFORNIA']
+x: [[576 622 623 585]], y: [[199 197 302 303]], ornt: [u'h'], transcriptions: [u'1']

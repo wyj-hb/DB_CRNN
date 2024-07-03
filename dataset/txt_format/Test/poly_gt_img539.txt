@@ -1,0 +1,7 @@
+x: [[373 448 540 616 708 684 583 491 395]], y: [[152 129 126 139 171 244 216 212 231]], ornt: [u'c'], transcriptions: [u'MALIBU']
+x: [[333 368 363 336]], y: [[251 251 292 290]], ornt: [u'h'], transcriptions: [u'27']
+x: [[376 471 471 377]], y: [[250 254 286 284]], ornt: [u'h'], transcriptions: [u'MILES']
+x: [[481 521 518 482]], y: [[255 255 287 287]], ornt: [u'h'], transcriptions: [u'OF']
+x: [[528 622 623 527]], y: [[254 255 288 288]], ornt: [u'h'], transcriptions: [u'SCENIC']
+x: [[632 728 724 632]], y: [[259 260 291 289]], ornt: [u'h'], transcriptions: [u'BEAUTY']
+x: [[677 690 689 674]], y: [[411 409 427 428]], ornt: [u'h'], transcriptions: [u'a']

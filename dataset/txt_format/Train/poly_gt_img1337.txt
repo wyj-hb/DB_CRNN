@@ -1,0 +1,6 @@
+x: [[267 471 647 654 464 267]], y: [[ 32  72  38  76 118  74]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[229 311 398 386 294 214]], y: [[ 62 114 139 172 148  92]], ornt: [u'c'], transcriptions: [u'BABY']
+x: [[488 579 682 704 625 493]], y: [[146 141  82  95 178 191]], ornt: [u'c'], transcriptions: [u'ETHAN']
+x: [[745 830 837 747]], y: [[188 180 220 233]], ornt: [u'h'], transcriptions: [u'baby']
+x: [[454 482 484 457]], y: [[345 346 378 374]], ornt: [u'h'], transcriptions: [u'F']
+x: [[325 389 409 337]], y: [[536 529 553 564]], ornt: [u'#'], transcriptions: [u'#']

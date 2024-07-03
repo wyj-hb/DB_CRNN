@@ -1,0 +1,5 @@
+x: [[167 189 190 160]], y: [[60 62 94 93]], ornt: [u'm'], transcriptions: [u'il']
+x: [[186 286 382 371 275 200]], y: [[ 20  15  47  91  71 103]], ornt: [u'c'], transcriptions: [u'Capriccio']
+x: [[226 370 370 224]], y: [[ 93  98 109 105]], ornt: [u'#'], transcriptions: [u'#']
+x: [[381 498 496 377]], y: [[136 141 161 152]], ornt: [u'#'], transcriptions: [u'#']
+x: [[102 117 119 103]], y: [[229 230 245 245]], ornt: [u'h'], transcriptions: [u'A']

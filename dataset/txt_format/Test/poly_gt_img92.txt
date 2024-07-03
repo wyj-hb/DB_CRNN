@@ -1,0 +1,6 @@
+x: [[  4  57 135 133  53   5]], y: [[49 30 17 40 52 72]], ornt: [u'c'], transcriptions: [u'RESTORAN']
+x: [[145 237 317 317 227 145]], y: [[15  5  5 30 29 37]], ornt: [u'c'], transcriptions: [u'MAKANAN']
+x: [[336 383 435 428 383 331]], y: [[ 4  7 15 40 34 32]], ornt: [u'c'], transcriptions: [u'LAUT']
+x: [[ 85 305 296  70]], y: [[42 28 75 85]], ornt: [u'm'], transcriptions: [u'Jeti']
+x: [[ 21 172 161  15]], y: [[ 91  85 113 114]], ornt: [u'h'], transcriptions: [u'seafood']
+x: [[180 389 389 178]], y: [[ 78  71 109 110]], ornt: [u'#'], transcriptions: [u'#']

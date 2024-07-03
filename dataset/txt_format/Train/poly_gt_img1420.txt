@@ -1,0 +1,5 @@
+x: [[675 790 883 887 783 683]], y: [[290 250 252 299 307 362]], ornt: [u'c'], transcriptions: [u'PARADISE']
+x: [[ 894  953 1005 1014  952  895]], y: [[237 240 257 339 314 297]], ornt: [u'c'], transcriptions: [u'PIER']
+x: [[618 651 655 623]], y: [[693 692 709 711]], ornt: [u'h'], transcriptions: [u'TOY']
+x: [[534 640 641 537]], y: [[731 728 749 753]], ornt: [u'h'], transcriptions: [u'MIDWAY']
+x: [[650 732 736 651]], y: [[729 726 748 749]], ornt: [u'h'], transcriptions: [u'MANIA']

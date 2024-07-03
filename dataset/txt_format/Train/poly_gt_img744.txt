@@ -1,0 +1,8 @@
+x: [[276 311 396 401 338 302]], y: [[425 381 349 375 405 458]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[428 545 609 584 525 425]], y: [[346 398 492 507 427 375]], ornt: [u'c'], transcriptions: [u'COFFEES']
+x: [[316 367 464 464 385 334]], y: [[480 417 419 458 451 503]], ornt: [u'c'], transcriptions: [u'AROUND']
+x: [[501 531 562 536 513 489]], y: [[446 474 519 540 499 477]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[319 434 563 549 429 319]], y: [[522 531 575 626 580 577]], ornt: [u'c'], transcriptions: [u'BEAN']
+x: [[360 426 495 511 420 352]], y: [[639 679 676 709 715 676]], ornt: [u'c'], transcriptions: [u'WORLD']
+x: [[299 343 420 419 323 279]], y: [[624 700 752 782 721 641]], ornt: [u'c'], transcriptions: [u'LOCALLY']
+x: [[432 510 571 598 525 431]], y: [[762 750 694 715 782 789]], ornt: [u'c'], transcriptions: [u'ROASTED']

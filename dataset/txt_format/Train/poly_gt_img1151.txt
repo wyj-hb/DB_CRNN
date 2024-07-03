@@ -1,0 +1,6 @@
+x: [[623 668 713 713 668 623]], y: [[901 901 901 962 962 962]], ornt: [u'h'], transcriptions: [u'DE']
+x: [[224 252 276 271 236 206]], y: [[419 433 437 465 451 435]], ornt: [u'c'], transcriptions: [u'Ministry']
+x: [[271 297 297 266]], y: [[435 433 463 463]], ornt: [u'h'], transcriptions: [u'of']
+x: [[297 320 341 357 336 306]], y: [[433 421 393 421 442 461]], ornt: [u'c'], transcriptions: [u'industry']
+x: [[236 285 329 345 292 250 210]], y: [[396 417 377 396 435 430 405]], ornt: [u'#'], transcriptions: [u'#']
+x: [[629 709 722 646]], y: [[826 821 882 901]], ornt: [u'#'], transcriptions: [u'#']

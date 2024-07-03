@@ -1,0 +1,8 @@
+x: [[228 242 256 256 242 228]], y: [[157 157 157 171 171 171]], ornt: [u'h'], transcriptions: [u'OF']
+x: [[ 92 132 142 106]], y: [[190 167 183 203]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[141 177 223 221 182 149]], y: [[165 155 154 174 173 180]], ornt: [u'c'], transcriptions: [u'PRINCE']
+x: [[271 310 336 321 296 265]], y: [[159 171 192 210 189 177]], ornt: [u'c'], transcriptions: [u'WALES']
+x: [[167 202 205 176]], y: [[351 341 351 363]], ornt: [u'm'], transcriptions: [u'ICH']
+x: [[229 262 257 223]], y: [[341 351 363 360]], ornt: [u'm'], transcriptions: [u'DIEN']
+x: [[201 219 238 228 222 206]], y: [[469 462 474 482 476 481]], ornt: [u'c'], transcriptions: [u'TAYLOR']
+x: [[211 219 230 239 219 203]], y: [[480 486 481 489 498 489]], ornt: [u'c'], transcriptions: [u'WALKER']

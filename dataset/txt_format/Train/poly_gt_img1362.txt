@@ -1,0 +1,5 @@
+x: [[126 193 259 259 193 126]], y: [[194 194 194 237 237 237]], ornt: [u'h'], transcriptions: [u'SHOP']
+x: [[ 90 138 215 292 263 213 148 112]], y: [[132  88  77 137 155 114 122 154]], ornt: [u'c'], transcriptions: [u'LAFAYETTE']
+x: [[ 84 291 292  84]], y: [[155 152 194 191]], ornt: [u'h'], transcriptions: [u'COFFEE']
+x: [[111 151 206 208 136  94]], y: [[231 262 270 298 289 253]], ornt: [u'c'], transcriptions: [u'PRIME']
+x: [[217 241 257 283 259 221]], y: [[264 252 232 250 279 291]], ornt: [u'c'], transcriptions: [u'RIB']

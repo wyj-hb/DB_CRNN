@@ -1,0 +1,4 @@
+x: [[496 686 876 876 686 496]], y: [[684 684 684 757 757 757]], ornt: [u'#'], transcriptions: [u'#']
+x: [[658 808 957 957 808 658]], y: [[554 554 554 677 677 677]], ornt: [u'h'], transcriptions: [u'Sann']
+x: [[298 482 692 703 481 290]], y: [[496 448 466 546 532 562]], ornt: [u'c'], transcriptions: [u'CENTER']
+x: [[307 623 622 284]], y: [[556 565 648 693]], ornt: [u'm'], transcriptions: [u'Khao']

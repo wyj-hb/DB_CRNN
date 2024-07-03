@@ -1,0 +1,1 @@
+x: [[ 15 163 214 235 168  30]], y: [[103  47   4   4  88 159]], ornt: [u'c'], transcriptions: [u'ZARAGOZA']

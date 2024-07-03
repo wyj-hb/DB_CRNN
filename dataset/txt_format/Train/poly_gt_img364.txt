@@ -1,0 +1,8 @@
+x: [[186 660 666 170]], y: [[603 623 721 713]], ornt: [u'h'], transcriptions: [u'LOVECIPES']
+x: [[228 334 332 226]], y: [[741 743 785 779]], ornt: [u'h'], transcriptions: [u'SPREAD']
+x: [[344 411 411 340]], y: [[741 747 783 785]], ornt: [u'h'], transcriptions: [u'LOVE']
+x: [[419 453 461 419]], y: [[747 749 785 783]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[457 518 516 465]], y: [[749 749 791 791]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[526 614 626 522]], y: [[753 757 791 787]], ornt: [u'h'], transcriptions: [u'WORLD']
+x: [[290 376 449 453 342 270]], y: [[825 855 867 905 903 862]], ornt: [u'c'], transcriptions: [u'vintage']
+x: [[463 514 544 560 522 467]], y: [[857 844 831 862 886 895]], ornt: [u'c'], transcriptions: [u'cafe']

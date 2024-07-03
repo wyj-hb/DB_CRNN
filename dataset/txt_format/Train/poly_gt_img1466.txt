@@ -1,0 +1,7 @@
+x: [[202 240 302 308 259 227]], y: [[247 199 188 209 222 267]], ornt: [u'c'], transcriptions: [u'MAINE']
+x: [[373 424 448 423 406 352]], y: [[207 250 308 309 258 218]], ornt: [u'c'], transcriptions: [u'CRAFT']
+x: [[245 276 274 243]], y: [[285 292 306 298]], ornt: [u'm'], transcriptions: [u'EST']
+x: [[371 406 407 370]], y: [[314 322 338 327]], ornt: [u'm'], transcriptions: [u'2012']
+x: [[273 310 348 353 304 264]], y: [[326 350 355 370 365 339]], ornt: [u'c'], transcriptions: [u'PORTLAND']
+x: [[357 375 382 361]], y: [[356 349 361 370]], ornt: [u'm'], transcriptions: [u'ME']
+x: [[236 283 350 412 430 365 275 208]], y: [[312 360 377 353 368 407 386 326]], ornt: [u'c'], transcriptions: [u'DISTILLING']

@@ -1,0 +1,4 @@
+x: [[316 658 641 309]], y: [[152 240 377 328]], ornt: [u'm'], transcriptions: [u'YPL']
+x: [[238 320 412 421 319 249]], y: [[407 375 361 395 410 442]], ornt: [u'c'], transcriptions: [u'FASHION']
+x: [[424 537 610 607 513 430]], y: [[357 357 377 410 394 393]], ornt: [u'c'], transcriptions: [u'LINGERIE']
+x: [[622 696 751 731 674 615]], y: [[380 407 447 470 432 410]], ornt: [u'c'], transcriptions: [u'HOUSE']

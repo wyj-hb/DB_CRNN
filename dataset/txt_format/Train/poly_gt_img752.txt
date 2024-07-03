@@ -1,0 +1,4 @@
+x: [[245 373 501 501 373 245]], y: [[418 418 418 510 510 510]], ornt: [u'h'], transcriptions: [u'DRY']
+x: [[751 796 841 841 796 751]], y: [[534 534 534 564 564 564]], ornt: [u'h'], transcriptions: [u'TEL']
+x: [[222 359 472 535 499 455 365 258]], y: [[294 217 255 322 352 303 268 332]], ornt: [u'c'], transcriptions: [u'PLEASANT']
+x: [[ 587 1022 1025  584]], y: [[436 452 541 529]], ornt: [u'h'], transcriptions: [u'CLEANE']

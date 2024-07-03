@@ -1,0 +1,6 @@
+x: [[268 336 440 456 376 322]], y: [[501 399 361 417 451 535]], ornt: [u'c'], transcriptions: [u'BLOOD']
+x: [[488 558 632 606 538 484]], y: [[351 357 377 427 411 413]], ornt: [u'c'], transcriptions: [u'AND']
+x: [[664 724 744 684 662 628]], y: [[401 457 527 533 469 443]], ornt: [u'c'], transcriptions: [u'FIRE']
+x: [[143 175 203 163 125 105]], y: [[825 867 905 942 895 861]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[338 482 600 614 466 334]], y: [[ 983 1006  988 1032 1048 1028]], ornt: [u'c'], transcriptions: [u'SALVATION']
+x: [[744 794 828 872 832 760]], y: [[916 879 831 864 918 960]], ornt: [u'c'], transcriptions: [u'ARMY']

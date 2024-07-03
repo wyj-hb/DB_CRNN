@@ -1,0 +1,6 @@
+x: [[146 170 177 206 204 188]], y: [[276 180  76  77 190 294]], ornt: [u'c'], transcriptions: [u'HAVANA']
+x: [[152 233 231 153]], y: [[322 311 342 351]], ornt: [u'm'], transcriptions: [u'Central']
+x: [[155 226 228 156]], y: [[371 376 388 384]], ornt: [u'm'], transcriptions: [u'RESTAURANT']
+x: [[177 205 202 177]], y: [[392 394 408 407]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[233 393 393 238]], y: [[459 470 499 492]], ornt: [u'm'], transcriptions: [u'Imperial']
+x: [[ 77 115 116  80]], y: [[475 473 499 499]], ornt: [u'm'], transcriptions: [u'imperial']

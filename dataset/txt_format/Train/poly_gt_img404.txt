@@ -1,0 +1,5 @@
+x: [[317 358 439 517 506 440 378 347]], y: [[199 122  83  94 129 114 143 209]], ornt: [u'c'], transcriptions: [u'MONOGRAM']
+x: [[534 580 595 573 552 516]], y: [[107 154 200 206 167 130]], ornt: [u'c'], transcriptions: [u'CLUB']
+x: [[377 529 529 377]], y: [[154 153 298 290]], ornt: [u'#'], transcriptions: [u'#']
+x: [[359 394 455 455 385 338]], y: [[278 312 329 359 346 294]], ornt: [u'c'], transcriptions: [u'NOTRE']
+x: [[466 511 551 579 537 473]], y: [[330 314 278 295 339 359]], ornt: [u'c'], transcriptions: [u'DAME']

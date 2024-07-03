@@ -1,0 +1,5 @@
+x: [[35 59 70 46]], y: [[81 65 83 97]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[ 67 110 160 152 110  72]], y: [[61 46 58 76 67 79]], ornt: [u'c'], transcriptions: [u'GREENCOAT']
+x: [[163 190 177 155]], y: [[63 78 95 80]], ornt: [u'm'], transcriptions: [u'BOY']
+x: [[47 78 81 53]], y: [[254 254 270 271]], ornt: [u'm'], transcriptions: [u'TJ']
+x: [[ 86 125 166 166 128  85]], y: [[254 253 256 271 266 270]], ornt: [u'c'], transcriptions: [u'BERNARD']

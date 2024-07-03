@@ -1,0 +1,4 @@
+x: [[130 253 374 375 256 141]], y: [[ 80  44  52  80  72 106]], ornt: [u'c'], transcriptions: [u'HAMMERSMITH']
+x: [[389 425 466 461 421 382]], y: [[ 58  68  84 111  93  82]], ornt: [u'c'], transcriptions: [u'PARk']
+x: [[190 250 322 323 246 178]], y: [[109 126 135 170 162 139]], ornt: [u'c'], transcriptions: [u'BOWLS']
+x: [[332 375 426 439 382 338]], y: [[134 125 111 141 156 163]], ornt: [u'c'], transcriptions: [u'CLUB']

@@ -1,0 +1,3 @@
+x: [[185 330 511 477 343 216]], y: [[142  75 139 198 142 198]], ornt: [u'c'], transcriptions: [u'AUTHORIZED']
+x: [[187 552 565 161]], y: [[234 181 307 401]], ornt: [u'm'], transcriptions: [u'Buick']
+x: [[210 305 392 487 534 406 279 166]], y: [[399 450 449 403 451 521 519 448]], ornt: [u'c'], transcriptions: [u'SERVICE']

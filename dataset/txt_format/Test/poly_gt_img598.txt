@@ -1,0 +1,2 @@
+x: [[ 79 142 207 215 169 118  73]], y: [[56 25 40 74 62 67 90]], ornt: [u'c'], transcriptions: [u'BAIANITA']
+x: [[110 134 132 110]], y: [[275 274 308 311]], ornt: [u'#'], transcriptions: [u'#']

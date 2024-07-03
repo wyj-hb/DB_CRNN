@@ -1,0 +1,3 @@
+x: [[179 413 650 632 402 178]], y: [[173 128 193 289 228 277]], ornt: [u'c'], transcriptions: [u'APPLE']
+x: [[133 663 669 123]], y: [[314 310 431 432]], ornt: [u'h'], transcriptions: [u'orchard']
+x: [[641 790 788 641]], y: [[501 503 528 528]], ornt: [u'#'], transcriptions: [u'#']

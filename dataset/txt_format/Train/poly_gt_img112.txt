@@ -1,0 +1,4 @@
+x: [[  6 327 327   5]], y: [[ 6  7 53 54]], ornt: [u'h'], transcriptions: [u'GARBOS']
+x: [[ 93 145 186 235 221 180 146 110]], y: [[191 158 160 189 208 182 184 208]], ornt: [u'c'], transcriptions: [u'GARBOS']
+x: [[ 79 151 151  81]], y: [[227 229 242 242]], ornt: [u'h'], transcriptions: [u'Swedish']
+x: [[156 249 247 160]], y: [[229 231 242 242]], ornt: [u'h'], transcriptions: [u'Restaurant']

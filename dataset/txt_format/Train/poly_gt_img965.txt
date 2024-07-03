@@ -1,0 +1,4 @@
+x: [[304 356 351 294]], y: [[364 377 409 402]], ornt: [u'm'], transcriptions: [u'St']
+x: [[313 398 512 564 532 489 411 353]], y: [[339 259 258 305 353 316 319 376]], ornt: [u'c'], transcriptions: [u'GASPAR']
+x: [[492 581 592 505]], y: [[374 329 355 395]], ornt: [u'c'], transcriptions: [u'Primary']
+x: [[524 608 608 526]], y: [[388 372 402 413]], ornt: [u'm'], transcriptions: [u'School']

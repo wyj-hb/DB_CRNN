@@ -1,0 +1,2 @@
+x: [[381 436 490 491 444 389]], y: [[327 309 303 336 350 371]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[505 664 834 831 661 520]], y: [[294 283 330 372 325 334]], ornt: [u'c'], transcriptions: [u'BOARDWALK']

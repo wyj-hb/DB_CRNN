@@ -1,0 +1,6 @@
+x: [[13 28 43 43 28 13]], y: [[362 362 362 375 375 375]], ornt: [u'#'], transcriptions: [u'#']
+x: [[15 28 41 41 28 15]], y: [[349 349 349 362 362 362]], ornt: [u'#'], transcriptions: [u'#']
+x: [[253 282 310 310 282 253]], y: [[352 352 352 374 374 374]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 45 104 104  45]], y: [[122 115 139 146]], ornt: [u'm'], transcriptions: [u'TOYS']
+x: [[335 412 413 341]], y: [[ 83  70  96 111]], ornt: [u'm'], transcriptions: [u'TOYS']
+x: [[139 219 301 300 219 131]], y: [[ 78  54  64 112 162 156]], ornt: [u'c'], transcriptions: [u'Hamleys']

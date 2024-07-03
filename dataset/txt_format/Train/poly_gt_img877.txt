@@ -1,0 +1,5 @@
+x: [[630 789 790 626]], y: [[ 82  76 103 116]], ornt: [u'm'], transcriptions: [u'CAPILANO']
+x: [[505 635 742 746 634 526]], y: [[139 111 111 160 161 196]], ornt: [u'c'], transcriptions: [u'TRADING']
+x: [[765 833 928 899 834 758]], y: [[108 104 119 172 161 156]], ornt: [u'c'], transcriptions: [u'POST']
+x: [[345 426 423 349]], y: [[373 371 391 393]], ornt: [u'#'], transcriptions: [u'#']
+x: [[545 582 578 546]], y: [[496 498 617 618]], ornt: [u'#'], transcriptions: [u'#']

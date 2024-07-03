@@ -1,0 +1,5 @@
+x: [[159 300 294 165]], y: [[ 97  65 108 138]], ornt: [u'c'], transcriptions: [u'port']
+x: [[317 386 376 316]], y: [[ 63  56 104 109]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[403 494 679 722 717 648 550 473 398]], y: [[ 57  53  80  95 135 120 103  97  98]], ornt: [u'c'], transcriptions: [u'NEWCASTLE']
+x: [[164 230 230 148]], y: [[163 165 191 196]], ornt: [u'h'], transcriptions: [u'Est']
+x: [[637 721 716 629]], y: [[164 164 195 189]], ornt: [u'h'], transcriptions: [u'1838']

@@ -1,0 +1,6 @@
+x: [[541 541 646 650 593]], y: [[401 378 383 409 401]], ornt: [u'c'], transcriptions: [u'NATURE']
+x: [[594 593 572 532 528 557]], y: [[398 430 433 445 406 403]], ornt: [u'c'], transcriptions: [u'NEXT']
+x: [[605 600 634 668 673 643]], y: [[398 434 431 448 407 398]], ornt: [u'c'], transcriptions: [u'TOUR']
+x: [[582 584 619 614]], y: [[459 436 440 462]], ornt: [u'm'], transcriptions: [u'AT']
+x: [[617 620 617 585 581 590]], y: [[512 495 480 480 495 515]], ornt: [u'h'], transcriptions: [u'00']
+x: [[617 634 640 617]], y: [[474 471 518 518]], ornt: [u'v'], transcriptions: [u'AM']

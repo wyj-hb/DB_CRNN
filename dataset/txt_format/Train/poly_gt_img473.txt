@@ -1,0 +1,6 @@
+x: [[136 200 265 267 204 144]], y: [[48 27 18 36 46 68]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[274 308 311 278]], y: [[13 12 30 33]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[323 372 373 323]], y: [[12 12 34 31]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[384 414 443 440 411 384]], y: [[16 17 24 42 36 36]], ornt: [u'c'], transcriptions: [u'CITY']
+x: [[456 487 488 454]], y: [[26 34 52 45]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[134 490 492 136]], y: [[ 71  67 147 147]], ornt: [u'h'], transcriptions: [u'GLYNDON']

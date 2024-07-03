@@ -1,0 +1,3 @@
+x: [[ 525  853 1140 1135  840  540]], y: [[282 231 255 321 297 349]], ornt: [u'c'], transcriptions: [u'DEUTSCHES']
+x: [[ 494  748 1117 1324 1300 1072  733  494]], y: [[391 336 336 382 457 400 406 456]], ornt: [u'c'], transcriptions: [u'OTHEKENMUSEUM']
+x: [[338 421 440 371]], y: [[444 411 471 504]], ornt: [u'm'], transcriptions: [u'A']

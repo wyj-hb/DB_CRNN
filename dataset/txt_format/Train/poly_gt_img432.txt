@@ -1,0 +1,2 @@
+x: [[468 574 718 697 564 468]], y: [[360 339 406 460 390 406]], ornt: [u'c'], transcriptions: [u'Euthanize']
+x: [[532 651 640 519]], y: [[393 423 472 444]], ornt: [u'm'], transcriptions: [u'Vick']

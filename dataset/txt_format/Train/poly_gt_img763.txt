@@ -1,0 +1,4 @@
+x: [[755 818 808 752]], y: [[346 361 381 372]], ornt: [u'm'], transcriptions: [u'MEET']
+x: [[727 833 826 725]], y: [[364 387 423 394]], ornt: [u'm'], transcriptions: [u'TERRY']
+x: [[731 836 833 724]], y: [[400 420 436 417]], ornt: [u'#'], transcriptions: [u'#']
+x: [[695 925 923 700]], y: [[472 546 585 514]], ornt: [u'm'], transcriptions: [u'TerryTheGoose']

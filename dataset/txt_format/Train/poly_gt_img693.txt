@@ -1,0 +1,8 @@
+x: [[400 491 592 681 645 581 505 422]], y: [[165 121 118 168 199 165 157 196]], ornt: [u'c'], transcriptions: [u'TERAMACHi']
+x: [[375 526 528 374]], y: [[244 243 296 294]], ornt: [u'#'], transcriptions: [u'#']
+x: [[551 673 681 553]], y: [[244 246 292 292]], ornt: [u'#'], transcriptions: [u'#']
+x: [[419 579 579 425]], y: [[303 305 384 383]], ornt: [u'h'], transcriptions: [u'Mr']
+x: [[338 715 715 332]], y: [[367 383 475 464]], ornt: [u'h'], transcriptions: [u'Yong']
+x: [[327 623 626 318]], y: [[451 456 543 537]], ornt: [u'h'], transcriptions: [u'Men']
+x: [[341 713 720 321]], y: [[769 753 943 942]], ornt: [u'h'], transcriptions: [u'50th']
+x: [[318 715 715 312]], y: [[ 973  973 1035 1032]], ornt: [u'h'], transcriptions: [u'Anniversary']

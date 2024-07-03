@@ -1,0 +1,3 @@
+x: [[127 564 570 131]], y: [[214 181 280 296]], ornt: [u'm'], transcriptions: [u'CARMINES']
+x: [[214 295 389 386 295 220]], y: [[377 357 375 422 397 423]], ornt: [u'c'], transcriptions: [u'CARMINES']
+x: [[482 528 526 494]], y: [[403 405 436 437]], ornt: [u'#'], transcriptions: [u'#']

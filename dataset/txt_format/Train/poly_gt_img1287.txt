@@ -1,0 +1,6 @@
+x: [[461 521 580 580 521 461]], y: [[138 138 138 194 194 194]], ornt: [u'h'], transcriptions: [u'BOX']
+x: [[ 34 101 168 168 101  34]], y: [[150 150 150 193 193 193]], ornt: [u'h'], transcriptions: [u'gabrielas']
+x: [[ 65  99 132 132  99  65]], y: [[201 201 201 223 223 223]], ornt: [u'h'], transcriptions: [u'TACOS']
+x: [[683 733 783 783 733 683]], y: [[190 190 190 212 212 212]], ornt: [u'h'], transcriptions: [u'BURGERS']
+x: [[442 595 596 441]], y: [[199 197 211 214]], ornt: [u'h'], transcriptions: [u'MEDITERRANNEAN']
+x: [[657 733 804 798 733 669]], y: [[170 143 169 192 167 192]], ornt: [u'c'], transcriptions: [u'WHITMANS']

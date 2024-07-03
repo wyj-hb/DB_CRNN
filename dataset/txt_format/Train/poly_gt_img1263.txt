@@ -1,0 +1,7 @@
+x: [[ 95 185 190  88]], y: [[287 322 355 321]], ornt: [u'm'], transcriptions: [u'Castle']
+x: [[203 273 274 197]], y: [[332 356 389 361]], ornt: [u'm'], transcriptions: [u'Area']
+x: [[ 95 237 238  86]], y: [[351 405 434 386]], ornt: [u'm'], transcriptions: [u'Riverside']
+x: [[171 215 210 173]], y: [[511 501 529 536]], ornt: [u'm'], transcriptions: [u'City']
+x: [[213 279 280 219]], y: [[497 480 505 522]], ornt: [u'm'], transcriptions: [u'Centre']
+x: [[416 437 467 486 475 459 443 428]], y: [[300 259 249 264 283 269 276 317]], ornt: [u'c'], transcriptions: [u'THECITYOF']
+x: [[431 445 465 479 456 432]], y: [[334 333 315 324 350 353]], ornt: [u'c'], transcriptions: [u'YORK']

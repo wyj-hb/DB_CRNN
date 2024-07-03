@@ -1,0 +1,8 @@
+x: [[ 98 212 350 473 500 469 430 325 245 150]], y: [[148  16  27 176 283 323 231 116 116 240]], ornt: [u'c'], transcriptions: [u'TOBERMORY']
+x: [[249 294 290 246]], y: [[145 160 185 174]], ornt: [u'm'], transcriptions: [u'AGED']
+x: [[300 358 355 300]], y: [[130 150 230 205]], ornt: [u'm'], transcriptions: [u'10']
+x: [[366 417 408 366]], y: [[194 214 236 219]], ornt: [u'm'], transcriptions: [u'YEARS']
+x: [[219 340 337 217]], y: [[205 245 286 246]], ornt: [u'm'], transcriptions: [u'SINGLE']
+x: [[348 428 421 343]], y: [[250 275 311 285]], ornt: [u'm'], transcriptions: [u'MALT']
+x: [[178 320 319 170]], y: [[243 288 313 274]], ornt: [u'm'], transcriptions: [u'SCOTCH']
+x: [[336 463 456 334]], y: [[292 333 354 322]], ornt: [u'm'], transcriptions: [u'WHISKY']

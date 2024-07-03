@@ -1,0 +1,3 @@
+x: [[233 270 309 307 281 246]], y: [[405 386 379 403 411 424]], ornt: [u'c'], transcriptions: [u'HALF']
+x: [[321 357 387 369 339 313]], y: [[381 390 407 423 408 402]], ornt: [u'c'], transcriptions: [u'PINT']
+x: [[249 311 373 376 317 247]], y: [[482 490 481 499 515 506]], ornt: [u'c'], transcriptions: [u'SUNDAES']

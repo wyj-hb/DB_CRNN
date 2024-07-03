@@ -1,0 +1,2 @@
+x: [[134 243 382 384 254 150]], y: [[409 372 358 409 428 462]], ornt: [u'c'], transcriptions: [u'Drunken']
+x: [[412 530 636 637 526 413]], y: [[356 366 393 440 415 406]], ornt: [u'c'], transcriptions: [u'BARRELS']

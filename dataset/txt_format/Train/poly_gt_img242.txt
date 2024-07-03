@@ -1,0 +1,2 @@
+x: [[ 65 160 262 337 305 244 169  97]], y: [[111  50  58 114 138 104 100 146]], ornt: [u'c'], transcriptions: [u'LIBERTY']
+x: [[ 69 330 328  76]], y: [[298 297 354 351]], ornt: [u'h'], transcriptions: [u'TATTOO']

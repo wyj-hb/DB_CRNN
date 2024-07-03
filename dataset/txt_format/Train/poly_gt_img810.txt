@@ -1,0 +1,5 @@
+x: [[146 187 237 242 197 165]], y: [[197 167 160 184 193 213]], ornt: [u'c'], transcriptions: [u'PRIRODNI']
+x: [[249 308 346 331 282 246]], y: [[160 169 186 204 184 180]], ornt: [u'c'], transcriptions: [u'PRODUKTY']
+x: [[118 380 392 125]], y: [[225 216 276 278]], ornt: [u'h'], transcriptions: [u'h']
+x: [[170 198 234 231 182 153]], y: [[291 311 317 342 331 313]], ornt: [u'c'], transcriptions: [u'NATUR']
+x: [[246 300 342 363 310 243]], y: [[319 312 284 305 335 343]], ornt: [u'c'], transcriptions: [u'PRODUCTS']

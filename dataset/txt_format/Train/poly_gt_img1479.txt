@@ -1,0 +1,2 @@
+x: [[ 92 194 308 307 203 116]], y: [[505 471 463 503 508 539]], ornt: [u'c'], transcriptions: [u'HEMISFAIR']
+x: [[357 419 473 462 391 351]], y: [[470 486 504 540 519 507]], ornt: [u'c'], transcriptions: [u'PARK']

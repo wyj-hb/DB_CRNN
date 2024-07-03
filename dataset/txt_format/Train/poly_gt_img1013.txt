@@ -1,0 +1,7 @@
+x: [[342 362 382 382 362 342]], y: [[317 317 317 342 342 342]], ornt: [u'h'], transcriptions: [u'CAFE']
+x: [[200 213 226 226 213 200]], y: [[276 276 276 293 293 293]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[186 249 291 304 240 185]], y: [[292 310 295 326 354 343]], ornt: [u'c'], transcriptions: [u'SEASONAL']
+x: [[304 357 401 403 349 308]], y: [[279 276 285 316 309 336]], ornt: [u'c'], transcriptions: [u'GARDEN']
+x: [[237 346 350 245]], y: [[386 378 402 417]], ornt: [u'm'], transcriptions: [u'ORGANIC']
+x: [[234 353 358 238]], y: [[423 408 435 449]], ornt: [u'm'], transcriptions: [u'SEASONAL']
+x: [[217 373 377 227]], y: [[459 444 469 484]], ornt: [u'm'], transcriptions: [u'WHOLEFOOD']

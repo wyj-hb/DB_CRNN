@@ -1,0 +1,6 @@
+x: [[523 554 584 584 554 523]], y: [[425 425 425 436 436 436]], ornt: [u'#'], transcriptions: [u'#']
+x: [[488 505 522 522 505 488]], y: [[425 425 425 435 435 435]], ornt: [u'#'], transcriptions: [u'#']
+x: [[467 477 486 486 477 467]], y: [[425 425 425 435 435 435]], ornt: [u'#'], transcriptions: [u'#']
+x: [[303 359 450 442 365 316]], y: [[132  61  20  56  85 152]], ornt: [u'c'], transcriptions: [u'CHAMPAGNE']
+x: [[358 471 471 360]], y: [[136  67 109 177]], ornt: [u'm'], transcriptions: [u'FRITES']
+x: [[292 434 430 282]], y: [[237 167 210 270]], ornt: [u'm'], transcriptions: [u'CAFEAULAIT']

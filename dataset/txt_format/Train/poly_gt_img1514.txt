@@ -1,0 +1,6 @@
+x: [[226 304 382 382 304 226]], y: [[240 240 240 282 282 282]], ornt: [u'h'], transcriptions: [u'UPSTAIRS']
+x: [[247 262 299 301 277 265]], y: [[145 118 107 124 132 155]], ornt: [u'c'], transcriptions: [u'BISTRO']
+x: [[308 348 364 344 326 309]], y: [[107 121 151 156 129 124]], ornt: [u'c'], transcriptions: [u'BOUDIN']
+x: [[287 324 324 288]], y: [[138 138 188 186]], ornt: [u'h'], transcriptions: [u'B']
+x: [[263 279 304 299 263 248]], y: [[168 194 200 220 205 176]], ornt: [u'c'], transcriptions: [u'BOUDIN']
+x: [[307 328 347 362 342 312]], y: [[200 191 168 172 209 219]], ornt: [u'c'], transcriptions: [u'BISTRO']

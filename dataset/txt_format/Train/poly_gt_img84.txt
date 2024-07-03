@@ -1,0 +1,2 @@
+x: [[185 480 782 745 483 222]], y: [[255 183 258 348 281 333]], ornt: [u'c'], transcriptions: [u'ENGLISH']
+x: [[114 853 855 108]], y: [[439 437 534 535]], ornt: [u'h'], transcriptions: [u'RESTAURANT']

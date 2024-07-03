@@ -1,0 +1,8 @@
+x: [[ 85 145 147  84]], y: [[176 172 204 206]], ornt: [u'H'], transcriptions: [u'KATANGKA']
+x: [[137 171 171 135]], y: [[121 122 151 151]], ornt: [u'h'], transcriptions: [u'KEL']
+x: [[162 180 207 228 205 187]], y: [[101  63  37  59  83 114]], ornt: [u'c'], transcriptions: [u'MAKAM']
+x: [[219 252 286 281 255 229]], y: [[32 21 23 49 46 56]], ornt: [u'c'], transcriptions: [u'ARUNG']
+x: [[291 340 363 335 309 279]], y: [[ 24  50  91 106  68  53]], ornt: [u'c'], transcriptions: [u'PALAKKA']
+x: [[348 379 383 346]], y: [[111 109 143 144]], ornt: [u'h'], transcriptions: [u'KEC']
+x: [[374 416 416 374]], y: [[161 162 197 194]], ornt: [u'h'], transcriptions: [u'SOMBA']
+x: [[416 439 440 415]], y: [[161 161 194 196]], ornt: [u'h'], transcriptions: [u'OPU']

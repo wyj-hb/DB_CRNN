@@ -1,0 +1,6 @@
+x: [[220 259 261 228]], y: [[202 204 238 237]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[ 57 193 296 415 417 288 199  65]], y: [[286 239 246 301 368 310 304 348]], ornt: [u'c'], transcriptions: [u'CAMBRIDGE']
+x: [[197 231 233 198]], y: [[314 315 349 350]], ornt: [u'h'], transcriptions: [u'EST']
+x: [[238 277 278 237]], y: [[318 320 353 350]], ornt: [u'h'], transcriptions: [u'2013']
+x: [[137 336 333 137]], y: [[353 365 415 406]], ornt: [u'm'], transcriptions: [u'BREW']
+x: [[117 353 351 117]], y: [[418 429 488 475]], ornt: [u'm'], transcriptions: [u'HOUSE']

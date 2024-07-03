@@ -1,0 +1,5 @@
+x: [[ 43  80 117 117  80  43]], y: [[331 331 331 356 356 356]], ornt: [u'h'], transcriptions: [u'barista']
+x: [[692 749 806 806 749 692]], y: [[333 333 333 366 366 366]], ornt: [u'h'], transcriptions: [u'education']
+x: [[314 382 456 459 382 331]], y: [[45 31 27 69 63 81]], ornt: [u'c'], transcriptions: [u'CAFFE']
+x: [[489 600 677 640 557 470]], y: [[ 36  83 159 186 105  68]], ornt: [u'c'], transcriptions: [u'PROMISED']
+x: [[686 714 718 681 668 647]], y: [[181 250 324 327 259 198]], ornt: [u'c'], transcriptions: [u'LAND']

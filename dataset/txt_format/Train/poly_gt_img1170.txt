@@ -1,0 +1,8 @@
+x: [[213 285 403 425 341 277]], y: [[420 306 255 308 356 450]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[415 471 493 433]], y: [[248 238 302 314]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[497 547 593 577 537 493]], y: [[242 244 262 330 306 306]], ornt: [u'c'], transcriptions: [u'SEA']
+x: [[607 721 777 714 669 585]], y: [[264 350 446 476 372 320]], ornt: [u'c'], transcriptions: [u'PARADISE']
+x: [[277 399 415 287]], y: [[522 524 568 562]], ornt: [u'h'], transcriptions: [u'SEA']
+x: [[427 720 720 423]], y: [[530 540 580 570]], ornt: [u'm'], transcriptions: [u'PARADISE']
+x: [[383 605 613 377]], y: [[572 582 604 592]], ornt: [u'#'], transcriptions: [u'#']
+x: [[267 419 597 721 775 649 387 217]], y: [[598 720 718 610 622 774 790 634]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,6 @@
+x: [[ 31 282 287  38]], y: [[443 339 404 496]], ornt: [u'm'], transcriptions: [u'HIGHLANDS']
+x: [[290 645 647 306]], y: [[332 173 276 402]], ornt: [u'm'], transcriptions: [u'COFFEE']
+x: [[581 607 665 702 683 661 622 599]], y: [[435 396 401 448 473 429 425 465]], ornt: [u'c'], transcriptions: [u'HIGHLANDS']
+x: [[607 648 673 691 653 602]], y: [[479 501 486 497 532 505]], ornt: [u'c'], transcriptions: [u'COFFEE']
+x: [[413 499 499 417]], y: [[530 520 546 559]], ornt: [u'm'], transcriptions: [u'DOCDAO']
+x: [[419 496 488 426]], y: [[510 499 519 530]], ornt: [u'#'], transcriptions: [u'#']

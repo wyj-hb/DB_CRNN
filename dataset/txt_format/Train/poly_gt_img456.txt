@@ -1,0 +1,7 @@
+x: [[188 470 764 764 497 215]], y: [[ 877  784  745  880  922 1000]], ornt: [u'c'], transcriptions: [u'ROASTS']
+x: [[ 866 1079 1124  884]], y: [[742 718 850 871]], ornt: [u'm'], transcriptions: [u'PIE']
+x: [[1340 1766 2165 2156 1700 1307]], y: [[ 715  766  898 1015  892  856]], ornt: [u'c'], transcriptions: [u'DUMPLINGS']
+x: [[ 398  866 1334 1814 2060 2111 1871 1313  776  272]], y: [[1027 1156 1189 1120 1045 1168 1261 1315 1270 1129]], ornt: [u'c'], transcriptions: [u'ACCOMMODATION']
+x: [[653 848 851 647]], y: [[1318 1321 1402 1414]], ornt: [u'h'], transcriptions: [u'All']
+x: [[ 881 1280 1280  887]], y: [[1330 1342 1411 1408]], ornt: [u'h'], transcriptions: [u'Rooms']
+x: [[1325 1760 1757 1328]], y: [[1330 1324 1405 1408]], ornt: [u'h'], transcriptions: [u'Ensuite']

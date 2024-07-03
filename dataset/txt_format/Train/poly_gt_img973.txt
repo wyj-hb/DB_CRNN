@@ -1,0 +1,4 @@
+x: [[197 211 228 234 223 202]], y: [[122 113  84  89 125 133]], ornt: [u'#'], transcriptions: [u'#']
+x: [[129 139 150 152 138 125]], y: [[249 258 261 276 271 263]], ornt: [u'c'], transcriptions: [u'Sum']
+x: [[154 179 204 205 173 150]], y: [[259 266 262 283 285 277]], ornt: [u'c'], transcriptions: [u'Schwarzen']
+x: [[204 222 230 205]], y: [[263 258 270 284]], ornt: [u'c'], transcriptions: [u'Role']

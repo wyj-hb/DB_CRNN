@@ -1,0 +1,2 @@
+x: [[ 58  82 109 110  83  58]], y: [[151 132 121 138 148 167]], ornt: [u'c'], transcriptions: [u'Public']
+x: [[117 136 173 167 140 117]], y: [[116 116 116 130 131 135]], ornt: [u'c'], transcriptions: [u'House']

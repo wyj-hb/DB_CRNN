@@ -1,0 +1,7 @@
+x: [[165 201 240 191]], y: [[219 177 198 251]], ornt: [u'm'], transcriptions: [u'One']
+x: [[200 264 276 227]], y: [[147 125 172 187]], ornt: [u'm'], transcriptions: [u'Old']
+x: [[267 347 367 285]], y: [[130 108 163 177]], ornt: [u'm'], transcriptions: [u'Crab']
+x: [[420 477 445 399]], y: [[111 135 191 168]], ornt: [u'm'], transcriptions: [u'An']
+x: [[499 589 614 565 528 469]], y: [[127 189 259 268 222 184]], ornt: [u'c'], transcriptions: [u'Angelfish']
+x: [[308 334 364 354 320 294]], y: [[291 308 311 348 348 328]], ornt: [u'c'], transcriptions: [u'Live']
+x: [[384 426 460 464 418 373]], y: [[297 312 311 339 353 343]], ornt: [u'c'], transcriptions: [u'Here']

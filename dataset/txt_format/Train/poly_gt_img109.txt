@@ -1,0 +1,4 @@
+x: [[ 63 134 246 312 218 171]], y: [[526 348 245 307 434 559]], ornt: [u'c'], transcriptions: [u'Clean']
+x: [[279 404 554 564 447 330]], y: [[192 118 109 215 224 283]], ornt: [u'c'], transcriptions: [u'FOOD']
+x: [[611 776 886 822 727 584]], y: [[109 170 254 330 246 205]], ornt: [u'c'], transcriptions: [u'GOOD']
+x: [[903 996 994 920 895 833]], y: [[281 425 569 573 448 346]], ornt: [u'c'], transcriptions: [u'Taste']

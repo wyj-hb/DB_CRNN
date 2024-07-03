@@ -1,0 +1,8 @@
+x: [[744 964 972 746]], y: [[117  91 225 247]], ornt: [u'm'], transcriptions: [u'BUTIK']
+x: [[344 460 466 338]], y: [[532 530 651 651]], ornt: [u'#'], transcriptions: [u'#']
+x: [[526 638 638 524]], y: [[528 526 637 641]], ornt: [u'#'], transcriptions: [u'#']
+x: [[722 903 906 722]], y: [[489 472 655 663]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 992 1106 1118 1002]], y: [[496 489 601 619]], ornt: [u'#'], transcriptions: [u'#']
+x: [[1178 1312 1314 1190]], y: [[488 477 591 601]], ornt: [u'#'], transcriptions: [u'#']
+x: [[430 610 862 876 544 300]], y: [[667 842 834 979 953 734]], ornt: [u'c'], transcriptions: [u'Oriental']
+x: [[ 898 1102 1194 1330 1230  928]], y: [[ 814  740  635  635  850 1000]], ornt: [u'c'], transcriptions: [u'Noble']

@@ -1,0 +1,2 @@
+x: [[ 52  76 107 105  81  50]], y: [[45 43 36 53 58 60]], ornt: [u'c'], transcriptions: [u'DOLBY']
+x: [[109 142 182 187 143 107]], y: [[37 30 17 32 47 52]], ornt: [u'c'], transcriptions: [u'THEATRE']

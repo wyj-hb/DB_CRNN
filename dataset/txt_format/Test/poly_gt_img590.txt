@@ -1,0 +1,4 @@
+x: [[37 91 97 45]], y: [[119  93 121 141]], ornt: [u'c'], transcriptions: [u'sun']
+x: [[114 195 209 203 136 108]], y: [[ 77  78  99 122 113 113]], ornt: [u'c'], transcriptions: [u'fresh']
+x: [[ 56 182 181  56]], y: [[138 125 140 153]], ornt: [u'm'], transcriptions: [u'MARKET']
+x: [[111 132 129 110]], y: [[166 163 176 175]], ornt: [u'h'], transcriptions: [u'4001']

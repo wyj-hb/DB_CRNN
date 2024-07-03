@@ -1,0 +1,5 @@
+x: [[ 25  99 163 153  95  40]], y: [[547 529 548 578 572 584]], ornt: [u'c'], transcriptions: [u'SuperZoo']
+x: [[238 309 381 369 312 256]], y: [[549 532 553 586 578 589]], ornt: [u'c'], transcriptions: [u'SuperZoo']
+x: [[459 530 595 584 531 478]], y: [[562 541 561 595 584 595]], ornt: [u'c'], transcriptions: [u'SuperZoo']
+x: [[678 754 809 802 747 687]], y: [[554 533 545 583 573 590]], ornt: [u'c'], transcriptions: [u'SuperZoo']
+x: [[ 888  955 1007  996  939  894]], y: [[544 526 542 575 572 583]], ornt: [u'c'], transcriptions: [u'SuperZoo']

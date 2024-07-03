@@ -1,0 +1,4 @@
+x: [[109 149 217 220 151 103]], y: [[521 489 480 504 516 549]], ornt: [u'c'], transcriptions: [u'ARDINIAN']
+x: [[338 387 418 417 376 339]], y: [[481 494 514 544 520 512]], ornt: [u'c'], transcriptions: [u'WINE']
+x: [[431 455 456 425]], y: [[522 550 575 545]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[120 280 451 460 262 109]], y: [[436 396 452 589 511 518]], ornt: [u'c'], transcriptions: [u'Fregatt']

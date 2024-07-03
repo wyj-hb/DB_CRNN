@@ -1,0 +1,4 @@
+x: [[368 400 401 371]], y: [[11  6 25 31]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[302 322 344 349 331 316]], y: [[69 53 42 65 75 85]], ornt: [u'c'], transcriptions: [u'SUN']
+x: [[350 377 412 408 381 353]], y: [[38 33 31 54 53 60]], ornt: [u'c'], transcriptions: [u'GOES']
+x: [[414 443 480 465 442 412]], y: [[31 35 54 78 60 55]], ornt: [u'c'], transcriptions: [u'DOWN']

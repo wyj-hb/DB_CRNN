@@ -1,0 +1,5 @@
+x: [[ 77  89 122 133 111  97]], y: [[ 93  66  40  64  75 100]], ornt: [u'c'], transcriptions: [u'BIG']
+x: [[140 202 238 215 188 133]], y: [[27 33 70 89 58 54]], ornt: [u'c'], transcriptions: [u'APPLE']
+x: [[ 89 103 140 140  89  73]], y: [[120 154 169 189 171 132]], ornt: [u'c'], transcriptions: [u'DONUTS']
+x: [[144 156 158 147]], y: [[169 169 188 188]], ornt: [u'#'], transcriptions: [u'#']
+x: [[159 194 215 236 211 165]], y: [[166 146 111 115 169 187]], ornt: [u'c'], transcriptions: [u'COFFEE']

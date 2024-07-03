@@ -1,0 +1,3 @@
+x: [[366 375 383 383 375 366]], y: [[575 575 575 585 585 585]], ornt: [u'#'], transcriptions: [u'#']
+x: [[127 165 208 225 169 117]], y: [[411 421 414 437 453 436]], ornt: [u'c'], transcriptions: [u'HOTEL']
+x: [[ 97 165 240 259 171  78]], y: [[419 452 427 448 485 445]], ornt: [u'c'], transcriptions: [u'SAINTMARTIN']

@@ -1,0 +1,4 @@
+x: [[347 366 384 384 366 347]], y: [[428 428 428 449 449 449]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 91 203 340 341 183  79]], y: [[143 152 214 231 195 212]], ornt: [u'c'], transcriptions: [u'Abbondanza']
+x: [[162 245 248 170]], y: [[208 201 236 250]], ornt: [u'm'], transcriptions: [u'Cafe']
+x: [[666 723 724 665]], y: [[389 377 399 415]], ornt: [u'm'], transcriptions: [u'USIS']

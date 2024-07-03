@@ -1,0 +1,3 @@
+x: [[448 971 992 447]], y: [[ 86  97 226 257]], ornt: [u'm'], transcriptions: [u'MOTHERS']
+x: [[ 85 241 432 532 502 403 243 144]], y: [[431 269 275 356 419 338 358 467]], ornt: [u'c'], transcriptions: [u'MOTHERS']
+x: [[166 271 379 453 496 411 277 124]], y: [[622 676 661 620 641 725 740 673]], ornt: [u'c'], transcriptions: [u'OTHERS']

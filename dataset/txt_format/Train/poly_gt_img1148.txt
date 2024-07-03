@@ -1,0 +1,8 @@
+x: [[285 365 444 444 365 285]], y: [[598 598 598 629 629 629]], ornt: [u'h'], transcriptions: [u'ITALIANO']
+x: [[334 356 378 378 356 334]], y: [[726 726 726 752 752 752]], ornt: [u'h'], transcriptions: [u'The']
+x: [[342 358 374 374 358 342]], y: [[793 793 793 823 823 823]], ornt: [u'h'], transcriptions: [u'OF']
+x: [[359 712 710 347]], y: [[171 260 293 209]], ornt: [u'#'], transcriptions: [u'#']
+x: [[273 456 451 281]], y: [[560 565 600 600]], ornt: [u'h'], transcriptions: [u'FRATELLO']
+x: [[288 367 448 451 357 270]], y: [[661 682 667 702 720 705]], ornt: [u'c'], transcriptions: [u'RISTORANTE']
+x: [[281 362 430 436 364 281]], y: [[755 763 745 781 794 786]], ornt: [u'c'], transcriptions: [u'Brotherhood']
+x: [[311 410 415 319]], y: [[824 819 847 857]], ornt: [u'm'], transcriptions: [u'Flavor']

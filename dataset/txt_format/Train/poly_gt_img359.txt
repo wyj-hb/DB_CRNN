@@ -1,0 +1,5 @@
+x: [[252 303 362 357 310 259]], y: [[104  64  95 122  88 123]], ornt: [u'c'], transcriptions: [u'ADENHART']
+x: [[105 135 182 177 133 103]], y: [[200 189 214 255 223 241]], ornt: [u'c'], transcriptions: [u'ANGELS']
+x: [[140 183 177 138]], y: [[253 264 311 302]], ornt: [u'm'], transcriptions: [u'34']
+x: [[245 365 371 252]], y: [[129 131 290 250]], ornt: [u'h'], transcriptions: [u'34']
+x: [[160 178 177 161]], y: [[57 62 79 75]], ornt: [u'm'], transcriptions: [u'A']

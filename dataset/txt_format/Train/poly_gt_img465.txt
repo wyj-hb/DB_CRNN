@@ -1,0 +1,7 @@
+x: [[ 374  521  769 1000  955  784  587  440]], y: [[524 347 293 356 455 401 431 575]], ornt: [u'C'], transcriptions: [u'WINERIES']
+x: [[392 437 530 482 338 296]], y: [[ 770  959 1055 1163 1001  755]], ornt: [u'C'], transcriptions: [u'SANTA']
+x: [[578 763 904 967 775 530]], y: [[1100 1160 1136 1213 1267 1195]], ornt: [u'c'], transcriptions: [u'CLARA']
+x: [[ 937 1087 1150 1249 1162 1024]], y: [[1097  968  752  779 1037 1171]], ornt: [u'c'], transcriptions: [u'VALLEY']
+x: [[1063 1126 1180 1078 1042  979]], y: [[416 482 539 602 539 497]], ornt: [u'c'], transcriptions: [u'OF']
+x: [[ 383 1147 1159  422]], y: [[1378 1378 1630 1639]], ornt: [u'h'], transcriptions: [u'WINE']
+x: [[ 284 1234 1237  299]], y: [[1720 1705 2002 2011]], ornt: [u'h'], transcriptions: [u'TRAIL']

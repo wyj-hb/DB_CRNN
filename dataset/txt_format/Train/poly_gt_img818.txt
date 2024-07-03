@@ -1,0 +1,5 @@
+x: [[ 82 103 132 133 106  87]], y: [[166 156 150 166 171 183]], ornt: [u'm'], transcriptions: [u'ALSACE']
+x: [[137 186 184 138]], y: [[145 148 164 164]], ornt: [u'h'], transcriptions: [u'GRAND']
+x: [[194 220 213 184]], y: [[150 160 176 166]], ornt: [u'm'], transcriptions: [u'CRu']
+x: [[133 149 168 176 149 126]], y: [[169 172 166 178 188 182]], ornt: [u'c'], transcriptions: [u'BRAND']
+x: [[128 162 192 197 151 119]], y: [[272 279 270 290 298 289]], ornt: [u'c'], transcriptions: [u'FrancisBar']

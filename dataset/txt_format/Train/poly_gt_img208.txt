@@ -1,0 +1,4 @@
+x: [[ 35 209 433 428 221  79]], y: [[315 183 198 271 259 379]], ornt: [u'c'], transcriptions: [u'Celebrate']
+x: [[483 622 692 619 551 440]], y: [[200 308 429 466 337 266]], ornt: [u'c'], transcriptions: [u'Breath']
+x: [[117 247 438 475 216  35]], y: [[514 653 704 763 768 575]], ornt: [u'c'], transcriptions: [u'Celebrate']
+x: [[466 541 584 641 600 508]], y: [[667 631 575 624 695 752]], ornt: [u'c'], transcriptions: [u'Life']

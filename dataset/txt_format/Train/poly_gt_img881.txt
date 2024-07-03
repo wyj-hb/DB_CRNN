@@ -1,0 +1,5 @@
+x: [[533 620 617 534]], y: [[15 17 52 53]], ornt: [u'#'], transcriptions: [u'#']
+x: [[307 409 400 299]], y: [[124 151 179 156]], ornt: [u'#'], transcriptions: [u'#']
+x: [[272 424 412 266]], y: [[164 196 234 197]], ornt: [u'#'], transcriptions: [u'#']
+x: [[273 288 307 295 266 257]], y: [[209 237 252 276 248 219]], ornt: [u'c'], transcriptions: [u'HOME']
+x: [[317 361 393 412 372 315]], y: [[263 261 238 252 281 284]], ornt: [u'c'], transcriptions: [u'DOCTOR']

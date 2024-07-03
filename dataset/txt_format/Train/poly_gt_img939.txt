@@ -1,0 +1,2 @@
+x: [[252 278 303 305 281 239]], y: [[341 347 350 367 370 355]], ornt: [u'c'], transcriptions: [u'Marine']
+x: [[311 346 379 394 350 308]], y: [[348 336 319 335 361 372]], ornt: [u'c'], transcriptions: [u'Apotheke']

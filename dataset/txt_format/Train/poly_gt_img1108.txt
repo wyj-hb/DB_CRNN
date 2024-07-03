@@ -1,0 +1,5 @@
+x: [[ 16 292 578 560 259  26]], y: [[313 238 292 451 433 498]], ornt: [u'c'], transcriptions: [u'Softlan']
+x: [[ 76 229 209  85]], y: [[537 483 561 601]], ornt: [u'm'], transcriptions: [u'Anti']
+x: [[250 392 530 509 355 248]], y: [[483 466 504 547 540 555]], ornt: [u'c'], transcriptions: [u'Wrinkles']
+x: [[509 553 566 520]], y: [[792 748 763 808]], ornt: [u'm'], transcriptions: [u'washes']
+x: [[401 475 509 517 470 401]], y: [[868 856 832 856 882 892]], ornt: [u'c'], transcriptions: [u'Lavender']

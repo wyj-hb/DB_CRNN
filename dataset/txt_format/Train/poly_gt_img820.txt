@@ -1,0 +1,3 @@
+x: [[106 153 205 200 154 109]], y: [[78 64 76 91 80 92]], ornt: [u'c'], transcriptions: [u'Leatherbouligue']
+x: [[119 188 190 117]], y: [[ 91  90 109 113]], ornt: [u'h'], transcriptions: [u'natalli']
+x: [[126 136 137 129]], y: [[113 113 125 126]], ornt: [u'h'], transcriptions: [u'B']

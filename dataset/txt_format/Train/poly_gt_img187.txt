@@ -1,0 +1,2 @@
+x: [[168 453 670 668 353 151]], y: [[173  94  64 132 181 243]], ornt: [u'c'], transcriptions: [u'MUSEUM']
+x: [[ 959 1238 1453 1455 1219  961]], y: [[ 62 115 175 243 179 132]], ornt: [u'c'], transcriptions: [u'GEOLOGI']

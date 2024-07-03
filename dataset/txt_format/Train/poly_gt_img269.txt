@@ -1,0 +1,3 @@
+x: [[302 385 472 455 387 323]], y: [[128  96 149 175 139 164]], ornt: [u'c'], transcriptions: [u'MAGIC']
+x: [[346 419 422 347]], y: [[155 158 173 170]], ornt: [u'm'], transcriptions: [u'BEYOND']
+x: [[326 437 437 327]], y: [[171 178 201 193]], ornt: [u'm'], transcriptions: [u'BELIEF']

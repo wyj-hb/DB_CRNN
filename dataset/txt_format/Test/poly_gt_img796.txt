@@ -1,0 +1,5 @@
+x: [[ 57 133 134  54]], y: [[112  87 113 140]], ornt: [u'm'], transcriptions: [u'Mouche']
+x: [[144 163 158 145]], y: [[ 91  92 113 113]], ornt: [u'h'], transcriptions: [u'a']
+x: [[171 215 205 163]], y: [[ 85  95 126 116]], ornt: [u'm'], transcriptions: [u'Feu']
+x: [[ 92 110 133 131 111  94]], y: [[137 132 131 141 143 150]], ornt: [u'c'], transcriptions: [u'BOUTIQUE']
+x: [[136 170 171 134]], y: [[127 129 140 140]], ornt: [u'm'], transcriptions: [u'CADEAUX']

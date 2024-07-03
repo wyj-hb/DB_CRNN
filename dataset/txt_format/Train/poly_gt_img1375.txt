@@ -1,0 +1,8 @@
+x: [[139 247 377 371 263 167]], y: [[367 301 307 360 355 409]], ornt: [u'c'], transcriptions: [u'HERBAL']
+x: [[412 506 544 499 458 377]], y: [[315 385 505 514 412 354]], ornt: [u'c'], transcriptions: [u'ACTIVES']
+x: [[188 269 343 359 262 166]], y: [[657 696 694 723 729 684]], ornt: [u'c'], transcriptions: [u'HERBAL']
+x: [[362 443 490 533 466 367]], y: [[684 645 568 589 682 727]], ornt: [u'c'], transcriptions: [u'ACTIVES']
+x: [[ 73  86  98 140 124 121]], y: [[492 445 421 441 472 499]], ornt: [u'c'], transcriptions: [u'100']
+x: [[125 133 154 116 104  88]], y: [[565 597 619 640 609 576]], ornt: [u'c'], transcriptions: [u'100']
+x: [[100 130 166 148]], y: [[417 381 406 438]], ornt: [u'#'], transcriptions: [u'#']
+x: [[152 185 155 119]], y: [[619 643 679 642]], ornt: [u'#'], transcriptions: [u'#']

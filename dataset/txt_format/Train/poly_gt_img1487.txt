@@ -1,0 +1,6 @@
+x: [[181 198 214 214 198 181]], y: [[ 50  50  50 112 112 112]], ornt: [u'h'], transcriptions: [u'12']
+x: [[221 248 282 276 247 221]], y: [[ 55  49  46 122 120 114]], ornt: [u'c'], transcriptions: [u'WINE']
+x: [[291 347 403 399 347 290]], y: [[ 47  48  58 105 117 123]], ornt: [u'c'], transcriptions: [u'BARRELS']
+x: [[189 220 221 191]], y: [[123 123 199 197]], ornt: [u'#'], transcriptions: [u'#']
+x: [[229 289 291 230]], y: [[120 122 195 191]], ornt: [u'h'], transcriptions: [u'19']
+x: [[309 386 387 309]], y: [[125 126 195 194]], ornt: [u'h'], transcriptions: [u'99']

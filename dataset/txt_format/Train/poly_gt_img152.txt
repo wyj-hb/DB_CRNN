@@ -1,0 +1,4 @@
+x: [[ 63 444 807 813 462 146]], y: [[532 291 263 385 464 662]], ornt: [u'c'], transcriptions: [u'Frikkie']
+x: [[ 900 1116 1102  883]], y: [[245 304 427 381]], ornt: [u'm'], transcriptions: [u'du']
+x: [[1201 1403 1507 1459 1311 1174]], y: [[302 407 507 608 503 438]], ornt: [u'c'], transcriptions: [u'Toit']
+x: [[ 540 1172 1187  537]], y: [[511 516 651 652]], ornt: [u'h'], transcriptions: [u'Safaris']

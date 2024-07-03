@@ -1,0 +1,6 @@
+x: [[418 429 440 440 429 418]], y: [[232 232 232 255 255 255]], ornt: [u'h'], transcriptions: [u'18']
+x: [[497 515 532 532 515 497]], y: [[229 229 229 260 260 260]], ornt: [u'h'], transcriptions: [u'99']
+x: [[425 471 509 497 463 433]], y: [[195 183 193 214 205 213]], ornt: [u'c'], transcriptions: [u'Wemhmis']
+x: [[442 477 510 519 478 435]], y: [[270 276 269 290 303 293]], ornt: [u'c'], transcriptions: [u'Gdmabel']
+x: [[203 236 273 265 235 208]], y: [[103  92 106 123 109 121]], ornt: [u'c'], transcriptions: [u'Warshuyer']
+x: [[219 239 261 269 241 210]], y: [[145 149 147 162 170 163]], ornt: [u'c'], transcriptions: [u'Sofbmu']

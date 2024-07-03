@@ -1,0 +1,5 @@
+x: [[226 236 246 246 236 226]], y: [[208 208 208 234 234 234]], ornt: [u'#'], transcriptions: [u'#']
+x: [[209 273 274 212]], y: [[42 49 82 76]], ornt: [u'm'], transcriptions: [u'THE']
+x: [[ 16 175 306 381 366 272 184  60]], y: [[149  88  99 154 205 170 174 225]], ornt: [u'c'], transcriptions: [u'BULLPEN']
+x: [[166 220 218 172]], y: [[217 215 238 243]], ornt: [u'm'], transcriptions: [u'BAR']
+x: [[250 314 319 255]], y: [[212 206 228 234]], ornt: [u'm'], transcriptions: [u'GRILLE']

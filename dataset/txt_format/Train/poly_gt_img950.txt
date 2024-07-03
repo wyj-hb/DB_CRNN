@@ -1,0 +1,4 @@
+x: [[288 544 542 277]], y: [[283 366 434 375]], ornt: [u'm'], transcriptions: [u'Hassan']
+x: [[357 461 553 547 464 361]], y: [[495 490 540 595 557 567]], ornt: [u'c'], transcriptions: [u'SJUPTOWN']
+x: [[386 530 526 382]], y: [[574 595 630 613]], ornt: [u'm'], transcriptions: [u'SELAMATDATANG']
+x: [[184 255 257 162]], y: [[250 266 392 370]], ornt: [u'#'], transcriptions: [u'#']

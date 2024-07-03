@@ -1,0 +1,2 @@
+x: [[ 71 117 165 167 111  77]], y: [[117 108 106 129 132 138]], ornt: [u'c'], transcriptions: [u'WAGSTAFF']
+x: [[171 234 284 285 234 171]], y: [[107 107 113 138 130 130]], ornt: [u'c'], transcriptions: [u'GYMNASIUM']

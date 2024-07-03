@@ -1,0 +1,6 @@
+x: [[283 315 347 347 315 283]], y: [[149 149 149 169 169 169]], ornt: [u'h'], transcriptions: [u'1560']
+x: [[146 187 227 227 187 146]], y: [[148 148 148 169 169 169]], ornt: [u'h'], transcriptions: [u'zalozen']
+x: [[133 376 384 137]], y: [[183 193 247 245]], ornt: [u'h'], transcriptions: [u'Eggenberg']
+x: [[180 211 191 166]], y: [[240 253 277 268]], ornt: [u'm'], transcriptions: [u'U']
+x: [[204 242 278 278 234 194]], y: [[261 272 272 290 293 286]], ornt: [u'c'], transcriptions: [u'pisare']
+x: [[283 313 339 355 325 291]], y: [[262 261 250 260 283 294]], ornt: [u'c'], transcriptions: [u'Jana']

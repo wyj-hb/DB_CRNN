@@ -1,0 +1,2 @@
+x: [[ 44 114 210 308 304 212 119  51]], y: [[209 173 167 210 228 186 190 220]], ornt: [u'c'], transcriptions: [u'HOLLYWOOD']
+x: [[166 187 187 166]], y: [[  4   4 104 105]], ornt: [u'm'], transcriptions: [u'OLLYWOOD']

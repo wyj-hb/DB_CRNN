@@ -1,0 +1,3 @@
+x: [[515 646 809 803 650 524]], y: [[304 277 315 340 304 331]], ornt: [u'#'], transcriptions: [u'#']
+x: [[526 653 808 803 667 526]], y: [[331 306 340 364 333 351]], ornt: [u'c'], transcriptions: [u'CNAGUANGDONGPILOTFREETRADEZONE']
+x: [[595 674 737 743 658 601]], y: [[340 328 342 370 367 373]], ornt: [u'#'], transcriptions: [u'#']

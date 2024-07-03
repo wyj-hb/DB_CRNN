@@ -1,0 +1,8 @@
+x: [[521 545 568 568 545 521]], y: [[369 369 369 379 379 379]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 92 111 140 140 120 102]], y: [[201 184 173 190 200 217]], ornt: [u'c'], transcriptions: [u'PRIRODNI']
+x: [[142 168 195 186 167 141]], y: [[170 169 178 193 184 188]], ornt: [u'c'], transcriptions: [u'PRODUKTY']
+x: [[ 82 212 216  83]], y: [[217 189 222 244]], ornt: [u'm'], transcriptions: [u'BABYKA']
+x: [[ 94 116 132 128 104  89]], y: [[248 258 257 281 274 259]], ornt: [u'c'], transcriptions: [u'NATUR']
+x: [[130 161 186 202 173 131]], y: [[259 254 235 242 268 278]], ornt: [u'c'], transcriptions: [u'PRODUCTS']
+x: [[324 451 451 327]], y: [[144 159 180 167]], ornt: [u'm'], transcriptions: [u'VINARNA']
+x: [[319 459 461 314]], y: [[252 261 284 278]], ornt: [u'm'], transcriptions: [u'KONVICE']

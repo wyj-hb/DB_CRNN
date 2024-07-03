@@ -1,0 +1,6 @@
+x: [[197 222 247 247 222 197]], y: [[55 55 55 83 83 83]], ornt: [u'h'], transcriptions: [u'DASRWEN']
+x: [[196 210 224 224 210 196]], y: [[ 94  94  94 124 124 124]], ornt: [u'h'], transcriptions: [u'SEHR']
+x: [[ 37 103 102  39]], y: [[ 81  81 103 113]], ornt: [u'm'], transcriptions: [u'CHRIST']
+x: [[108 135 169 162 137 115]], y: [[ 87  78  85 112 103 115]], ornt: [u'c'], transcriptions: [u'DIRTY']
+x: [[109 143 169 169 136 109]], y: [[116 125 119 143 146 139]], ornt: [u'c'], transcriptions: [u'DEED']
+x: [[229 252 253 230]], y: [[ 96  90 114 113]], ornt: [u'#'], transcriptions: [u'#']

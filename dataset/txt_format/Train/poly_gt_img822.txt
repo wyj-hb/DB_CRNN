@@ -1,0 +1,8 @@
+x: [[146 157 168 168 157 146]], y: [[206 206 206 228 228 228]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 71  53  91 108  80  95]], y: [[293 217 150 168 229 290]], ornt: [u'c'], transcriptions: [u'MONTFORT']
+x: [[231 269 239 228 238 217]], y: [[159 233 292 274 223 175]], ornt: [u'c'], transcriptions: [u'YERCAUD']
+x: [[108 126 146 155 134 110]], y: [[184 177 163 173 193 200]], ornt: [u'c'], transcriptions: [u'VIRTUS']
+x: [[172 191 209 201 175 161]], y: [[162 177 185 200 188 170]], ornt: [u'c'], transcriptions: [u'LABOR']
+x: [[147 169 173 146]], y: [[176 174 189 190]], ornt: [u'h'], transcriptions: [u'ET']
+x: [[112 136 137 118]], y: [[206 206 225 226]], ornt: [u'h'], transcriptions: [u'D']
+x: [[181 198 202 180]], y: [[206 207 227 227]], ornt: [u'h'], transcriptions: [u'S']

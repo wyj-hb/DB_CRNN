@@ -1,0 +1,8 @@
+x: [[16 70 66 15]], y: [[300 315 339 333]], ornt: [u'm'], transcriptions: [u'Tan']
+x: [[ 76 135 126  67]], y: [[313 327 357 348]], ornt: [u'm'], transcriptions: [u'Ngan']
+x: [[ 6 94 93  6]], y: [[373 387 435 427]], ornt: [u'm'], transcriptions: [u'ALO']
+x: [[100 109 123 150 136 130]], y: [[429 402 375 390 414 447]], ornt: [u'c'], transcriptions: [u'AH']
+x: [[136 195 267 265 204 154]], y: [[358 312 309 345 352 381]], ornt: [u'c'], transcriptions: [u'CHENG']
+x: [[288 357 390 355 322 273]], y: [[309 355 412 438 375 346]], ornt: [u'c'], transcriptions: [u'Laksa']
+x: [[160 193 237 232 177 144]], y: [[559 583 595 624 609 583]], ornt: [u'c'], transcriptions: [u'since']
+x: [[253 292 318 342 306 255]], y: [[598 583 564 577 610 618]], ornt: [u'c'], transcriptions: [u'1960']

@@ -1,0 +1,7 @@
+x: [[29 53 72 90 68 51]], y: [[72 50 44 65 77 99]], ornt: [u'c'], transcriptions: [u'SS']
+x: [[100 175 248 287 244 217 165 104]], y: [[ 21  12  40 102 122  79  49  58]], ornt: [u'c'], transcriptions: [u'JEREMIAH']
+x: [[36 34 51 20  6  8]], y: [[142 184 216 231 188 141]], ornt: [u'c'], transcriptions: [u'PORT']
+x: [[ 59  79 101  87  55  34]], y: [[228 247 255 289 270 251]], ornt: [u'c'], transcriptions: [u'AND']
+x: [[113 141 157 160 134 110]], y: [[260 269 266 303 302 292]], ornt: [u'c'], transcriptions: [u'ME']
+x: [[251 296 297 254]], y: [[134 130 154 157]], ornt: [u'#'], transcriptions: [u'#']
+x: [[200 233 248 291 270 226]], y: [[252 220 186 194 247 279]], ornt: [u'c'], transcriptions: [u'RIEN']

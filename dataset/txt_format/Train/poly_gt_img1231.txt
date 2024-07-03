@@ -1,0 +1,8 @@
+x: [[ 16 101 185 185 101  16]], y: [[330 330 330 369 369 369]], ornt: [u'h'], transcriptions: [u'Thailand']
+x: [[352 500 492 340]], y: [[139 198 227 182]], ornt: [u'm'], transcriptions: [u'Thailand']
+x: [[344 391 412 356]], y: [[699 672 690 728]], ornt: [u'm'], transcriptions: [u'THAI']
+x: [[369 432 439 383]], y: [[761 755 789 798]], ornt: [u'm'], transcriptions: [u'Highlands']
+x: [[222 246 253 232]], y: [[857 857 899 905]], ornt: [u'm'], transcriptions: [u'Bali']
+x: [[169 218 222 200 181 152]], y: [[398 446 497 497 451 414]], ornt: [u'c'], transcriptions: [u'HatYai']
+x: [[  8 126 122   4]], y: [[624 643 658 639]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 8 30  8]], y: [[455 561 559]], ornt: [u'#'], transcriptions: [u'#']

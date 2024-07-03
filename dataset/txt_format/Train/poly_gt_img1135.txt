@@ -1,0 +1,4 @@
+x: [[261 425 588 588 425 261]], y: [[327 327 327 415 415 415]], ornt: [u'h'], transcriptions: [u'HEWELL']
+x: [[364 426 487 487 426 364]], y: [[274 274 274 316 316 316]], ornt: [u'h'], transcriptions: [u'HMP']
+x: [[303 407 495 491 401 323]], y: [[252 224 230 262 256 284]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[503 547 537 499]], y: [[228 252 280 262]], ornt: [u'm'], transcriptions: [u'TO']

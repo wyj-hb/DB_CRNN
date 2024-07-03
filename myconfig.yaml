@@ -1,0 +1,68 @@
+meta:
+  root_dir: /autodl-fs/data/DB_CRNN
+  round_number: 8
+  debug: False
+  device: cuda
+  test_device: cuda
+alphabet: '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+lrs:
+  mode: reduce  # reduce / poly
+  warmup_iters: 10
+  factor: 0.2
+  patience: 4
+hps:
+  batch_size: 4
+  test_batch_size: 1  # must be set to 1 to evaluate metric
+  img_size: 640
+  no_epochs: 50
+  warmup_epochs: 10
+  no_classes: 2
+  log_iter: 100
+lrs:
+  mode: reduce  # reduce / poly
+  warmup_iters: 1
+  factor: 0.2
+  patience: 4
+augmentation:
+callbacks:
+data:
+  totaltext:
+    train_dir: /root/autodl-tmp/DB_CRNN/dataset/total_text/train
+    test_dir: /root/autodl-tmp/DB_CRNN/dataset/total_text/test
+    train_gt_dir: /root/autodl-tmp/DB_CRNN/dataset/txt_format/Train
+    test_gt_dir: /root/autodl-tmp/DB_CRNN/dataset/txt_format/Test
+    ignore_tags: ["#"]
+dataset:
+  name: totaltext
+  return_dict: True
+logging:
+  logger_file: train.log
+loss:
+model:
+  DBnet: /root/autodl-tmp/DB_CRNN/models/db_resnet18.pth
+  CRNN: /root/autodl-tmp/DB_CRNN/netCRNN_24_10.pth
+CRNN:
+  nh: 256
+  nc: 1
+  nclass: 63
+  imgH: 32
+optimizer:
+  type: adam
+  lr: 0.005
+  lr_finetune: 0.001
+  weight_decay: 0.0
+  reduction: mean
+  alpha: 1
+  beta: 10
+  negative_ratio: 3
+  amsgrad: False
+metric:
+  thred_text_score: 0.25
+  prob_threshold: 0.50
+  unclip_ratio: 1.50
+  is_output_polygon: True
+private:
+scheduler:
+trainer:
+training:
+n_test_disp: 10

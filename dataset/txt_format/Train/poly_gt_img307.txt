@@ -1,0 +1,2 @@
+x: [[105 240 484 480 291 171]], y: [[382 151  63 154 217 405]], ornt: [u'c'], transcriptions: [u'POLLUTION']
+x: [[552 769 910 814 720 537]], y: [[ 60 145 378 414 225 132]], ornt: [u'c'], transcriptions: [u'INTERDITE']

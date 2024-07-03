@@ -1,0 +1,2 @@
+x: [[ 809 1079 1496 1463 1103  854]], y: [[847 751 838 937 904 973]], ornt: [u'c'], transcriptions: [u'Skeppsbar']
+x: [[1130 1289 1295 1139]], y: [[1579 1567 1651 1651]], ornt: [u'h'], transcriptions: [u'OPPE']

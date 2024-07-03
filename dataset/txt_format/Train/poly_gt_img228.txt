@@ -1,0 +1,5 @@
+x: [[198 210 194 183]], y: [[209 227 236 220]], ornt: [u'm'], transcriptions: [u'AT']
+x: [[210 237 267 270 225 198]], y: [[229 251 250 270 268 245]], ornt: [u'c'], transcriptions: [u'JACKSON']
+x: [[273 297 316 332 307 277]], y: [[247 228 204 209 251 265]], ornt: [u'c'], transcriptions: [u'SQUARE']
+x: [[155 326 332 158]], y: [[170 155 194 205]], ornt: [u'm'], transcriptions: [u'GRILL']
+x: [[206 287 291 209]], y: [[137 132 228 231]], ornt: [u'h'], transcriptions: [u'G']

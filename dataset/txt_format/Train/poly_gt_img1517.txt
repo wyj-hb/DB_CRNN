@@ -1,0 +1,2 @@
+x: [[129 152 174 170 152 136]], y: [[32 26 32 47 40 46]], ornt: [u'c'], transcriptions: [u'BOOK']
+x: [[129 146 168 175 152 122]], y: [[ 93 101  89  97 112 107]], ornt: [u'c'], transcriptions: [u'RETURN']

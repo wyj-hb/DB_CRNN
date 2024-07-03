@@ -1,0 +1,6 @@
+x: [[ 293  375  590  816 1058 1080  996  959  892  602  305]], y: [[314 277 251 269 289 409 483 439 449 407 514]], ornt: [u'c'], transcriptions: [u'LOSTWORLD']
+x: [[535 594 585 535]], y: [[423 420 465 466]], ornt: [u'c'], transcriptions: [u'OF']
+x: [[621 682 767 843 898 948 975 914 806 698 601]], y: [[414 427 455 465 466 439 499 534 530 502 470]], ornt: [u'c'], transcriptions: [u'TAMBUN']
+x: [[380 634 621 368]], y: [[571 584 647 633]], ornt: [u'm'], transcriptions: [u'SUNWAY']
+x: [[659 804 784 646]], y: [[581 591 659 649]], ornt: [u'h'], transcriptions: [u'CITY']
+x: [[818 969 968 817]], y: [[589 602 663 653]], ornt: [u'h'], transcriptions: [u'IPOH']

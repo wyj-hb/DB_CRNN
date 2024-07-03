@@ -1,0 +1,7 @@
+x: [[102 213 324 324 213 102]], y: [[648 648 648 697 697 697]], ornt: [u'h'], transcriptions: [u'SHINYOGOKU']
+x: [[ 35 225 415 415 225  35]], y: [[501 501 501 636 636 636]], ornt: [u'h'], transcriptions: [u'HATLABO']
+x: [[794 871 948 948 871 794]], y: [[639 639 639 700 700 700]], ornt: [u'h'], transcriptions: [u'HATLABO']
+x: [[131 245 358 358 245 131]], y: [[451 451 451 510 510 510]], ornt: [u'#'], transcriptions: [u'#']
+x: [[830 850 869 869 850 830]], y: [[422 422 422 471 471 471]], ornt: [u'h'], transcriptions: [u'IN']
+x: [[743 778 812 830 806 781]], y: [[469 448 429 466 480 507]], ornt: [u'c'], transcriptions: [u'BORN']
+x: [[892 943 986 959 923 884]], y: [[426 448 481 504 478 465]], ornt: [u'c'], transcriptions: [u'KYOTO']

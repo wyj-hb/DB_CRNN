@@ -1,0 +1,5 @@
+x: [[344 421 498 498 421 344]], y: [[441 441 441 471 471 471]], ornt: [u'h'], transcriptions: [u'COCKTAILS']
+x: [[745 807 868 868 807 745]], y: [[269 269 269 300 300 300]], ornt: [u'h'], transcriptions: [u'ABODE']
+x: [[724 735 768 773 750 739]], y: [[249 211 193 214 236 265]], ornt: [u'c'], transcriptions: [u'comfort']
+x: [[785 824 852 842 814 788]], y: [[187 187 196 218 205 208]], ornt: [u'c'], transcriptions: [u'cookery']
+x: [[865 891 891 876 870 855]], y: [[213 236 267 272 247 231]], ornt: [u'c'], transcriptions: [u'COFFEE']

@@ -1,0 +1,2 @@
+x: [[ 18 115 204 201 107  24]], y: [[ 33  21  41  98  71 119]], ornt: [u'c'], transcriptions: [u'LIPTONS']
+x: [[ 49 173 181  50]], y: [[161 159 197 202]], ornt: [u'm'], transcriptions: [u'TEA']

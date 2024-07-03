@@ -1,0 +1,2 @@
+x: [[209 376 379 206]], y: [[276 294 331 319]], ornt: [u'm'], transcriptions: [u'OTTOS']
+x: [[199 298 386 409 292 169]], y: [[468 514 478 522 571 504]], ornt: [u'c'], transcriptions: [u'BAKERY']

@@ -1,0 +1,6 @@
+x: [[ 58  67  90 108  90  82]], y: [[138 101  75  93 118 145]], ornt: [u'c'], transcriptions: [u'UBUMWE']
+x: [[ 95 137 180 197 177 162 139 111]], y: [[69 49 59 75 93 84 80 90]], ornt: [u'c'], transcriptions: [u'COMMUNITY']
+x: [[196 217 221 200 193 182]], y: [[ 81 108 129 139 115  96]], ornt: [u'c'], transcriptions: [u'CENTER']
+x: [[ 94 117 155 150 123 103]], y: [[133  99  95 108 114 142]], ornt: [u'c'], transcriptions: [u'COMMUNITY']
+x: [[158 183 187 177 171 152]], y: [[ 99 115 136 140 123 109]], ornt: [u'c'], transcriptions: [u'CENTER']
+x: [[121 147 168 177 153 118]], y: [[170 176 161 170 189 187]], ornt: [u'c'], transcriptions: [u'UBUMWE']

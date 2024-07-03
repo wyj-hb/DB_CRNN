@@ -1,0 +1,5 @@
+x: [[509 592 675 675 592 509]], y: [[410 410 410 472 472 472]], ornt: [u'h'], transcriptions: [u'49ERS']
+x: [[446 517 529 466]], y: [[222 193 229 252]], ornt: [u'm'], transcriptions: [u'SAN']
+x: [[526 628 734 707 616 536]], y: [[193 181 231 264 220 226]], ornt: [u'c'], transcriptions: [u'FRANCISCO']
+x: [[526 661 659 541]], y: [[253 258 385 390]], ornt: [u'm'], transcriptions: [u'SF']
+x: [[487 551 550 482]], y: [[558 558 612 613]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,3 @@
+x: [[310 348 386 386 348 310]], y: [[494 494 494 523 523 523]], ornt: [u'h'], transcriptions: [u'WINE']
+x: [[299 342 415 474 492 464 448 410 358 322]], y: [[440 379 370 414 458 466 430 401 407 452]], ornt: [u'c'], transcriptions: [u'VINOTHEQUE']
+x: [[348 475 476 347]], y: [[532 539 562 555]], ornt: [u'm'], transcriptions: [u'TASTING']

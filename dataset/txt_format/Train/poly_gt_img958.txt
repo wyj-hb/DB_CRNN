@@ -1,0 +1,6 @@
+x: [[172 274 357 381 271 154]], y: [[468 485 459 482 520 496]], ornt: [u'c'], transcriptions: [u'ASCHAUER']
+x: [[225 272 313 314 272 221]], y: [[510 515 506 535 543 539]], ornt: [u'c'], transcriptions: [u'Hute']
+x: [[110 154 194 184 156 118]], y: [[540 521 538 558 543 556]], ornt: [u'c'], transcriptions: [u'SCHLOSSEREI']
+x: [[112 194 194 114]], y: [[558 556 582 588]], ornt: [u'h'], transcriptions: [u'Bieber']
+x: [[121 163 198 201 160 115]], y: [[610 618 609 625 632 626]], ornt: [u'c'], transcriptions: [u'SCHLUSSEI']
+x: [[125 162 191 191 157 119]], y: [[627 631 626 637 639 636]], ornt: [], transcriptions: [u'DIENST']

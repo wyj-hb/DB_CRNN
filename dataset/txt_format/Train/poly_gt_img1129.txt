@@ -1,0 +1,4 @@
+x: [[ 54  79 115 126  97  73]], y: [[148 103  85 107 129 164]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[123 144 151 133]], y: [[ 86  80 102 109]], ornt: [u'm'], transcriptions: [u'TO']
+x: [[153 194 219 204 180 152]], y: [[ 74  90 107 125 110 102]], ornt: [u'c'], transcriptions: [u'FLOWER']
+x: [[222 242 252 228 215 200]], y: [[115 134 156 166 144 132]], ornt: [u'c'], transcriptions: [u'PARK']

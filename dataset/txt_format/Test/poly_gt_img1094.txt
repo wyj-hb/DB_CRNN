@@ -1,0 +1,8 @@
+x: [[406 463 519 519 463 406]], y: [[209 209 209 231 231 231]], ornt: [u'h'], transcriptions: [u'MACAU']
+x: [[527 578 628 628 578 527]], y: [[209 209 209 234 234 234]], ornt: [u'h'], transcriptions: [u'Taste']
+x: [[356 387 417 417 387 356]], y: [[60 60 60 83 83 83]], ornt: [u'#'], transcriptions: [u'#']
+x: [[443 487 530 529 489 454]], y: [[199 184 188 206 206 213]], ornt: [u'c'], transcriptions: [u'Established']
+x: [[533 549 549 532]], y: [[191 191 208 208]], ornt: [u'h'], transcriptions: [u'in']
+x: [[552 571 588 581 566 551]], y: [[193 194 202 217 210 207]], ornt: [u'c'], transcriptions: [u'2008']
+x: [[468 562 567 465]], y: [[237 241 256 258]], ornt: [u'#'], transcriptions: [u'#']
+x: [[444 522 558 441]], y: [[ 2  6 26 12]], ornt: [u'#'], transcriptions: [u'#']

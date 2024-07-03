@@ -1,0 +1,4 @@
+x: [[197 362 361 195]], y: [[473 471 491 494]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 94 117 184 257 231 187 135 124]], y: [[255 204 174 203 228 203 224 265]], ornt: [u'c'], transcriptions: [u'restaurace']
+x: [[149 195 225 247 224 139]], y: [[287 297 268 275 354 336]], ornt: [u'c'], transcriptions: [u'bupa']
+x: [[ 7 26 26  3]], y: [[66 69 87 87]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,5 @@
+x: [[304 320 336 336 320 304]], y: [[721 721 721 742 742 742]], ornt: [u'#'], transcriptions: [u'#']
+x: [[196 273 270 195]], y: [[496 526 551 532]], ornt: [u'#'], transcriptions: [u'#']
+x: [[459 556 662 660 553 469]], y: [[539 510 520 559 553 568]], ornt: [u'c'], transcriptions: [u'THECRABSNACK']
+x: [[187 386 389 178]], y: [[643 637 679 683]], ornt: [u'h'], transcriptions: [u'Heineken']
+x: [[498 573 621 628 500]], y: [[721 699 722 753 747]], ornt: [u'#'], transcriptions: [u'#']

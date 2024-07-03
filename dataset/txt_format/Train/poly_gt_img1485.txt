@@ -1,0 +1,5 @@
+x: [[363 393 422 422 393 363]], y: [[136 136 136 154 154 154]], ornt: [u'h'], transcriptions: [u'Barre']
+x: [[114 317 319 117]], y: [[183 173 203 212]], ornt: [u'm'], transcriptions: [u'WIRTSHAUS']
+x: [[201 221 242 230 194 169]], y: [[409 439 450 482 466 425]], ornt: [u'c'], transcriptions: [u'MAX']
+x: [[237 254 250 231]], y: [[465 469 486 484]], ornt: [u'm'], transcriptions: [u'u']
+x: [[256 307 340 372 341 259]], y: [[456 446 402 409 469 487]], ornt: [u'c'], transcriptions: [u'MORITZ']

@@ -1,0 +1,3 @@
+x: [[ 33  69 135 248 291 250 212 136  85  65]], y: [[122  62  26  47 126 138  85  65  95 142]], ornt: [u'c'], transcriptions: [u'SOUTHERN']
+x: [[ 81 236 236  83]], y: [[145 142 174 180]], ornt: [u'm'], transcriptions: [u'LINES']
+x: [[ 71 160 256 272 157  42]], y: [[196 252 197 234 288 224]], ornt: [u'c'], transcriptions: [u'PACIFIC']

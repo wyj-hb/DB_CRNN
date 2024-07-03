@@ -1,0 +1,8 @@
+x: [[165 253 339 356 259 174]], y: [[325 303 290 338 353 378]], ornt: [u'c'], transcriptions: [u'BUBBA']
+x: [[363 445 521 513 428 368]], y: [[281 284 288 337 329 337]], ornt: [u'c'], transcriptions: [u'GUMP']
+x: [[225 295 364 355 295 229]], y: [[375 357 354 375 382 399]], ornt: [u'c'], transcriptions: [u'SHRIMP']
+x: [[202 261 340 333 250 185]], y: [[376 432 449 469 449 391]], ornt: [u'c'], transcriptions: [u'RESTAURANT']
+x: [[422 472 475 423]], y: [[342 345 366 369]], ornt: [u'h'], transcriptions: [u'CO']
+x: [[426 458 491 508 481 434]], y: [[422 397 344 351 408 444]], ornt: [u'c'], transcriptions: [u'MARKET']
+x: [[399 417 427 408]], y: [[435 429 450 455]], ornt: [u'#'], transcriptions: [u'#']
+x: [[478 497 501 484]], y: [[419 413 431 436]], ornt: [u'm'], transcriptions: [u'TM']

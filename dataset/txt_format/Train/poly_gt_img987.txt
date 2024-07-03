@@ -1,0 +1,8 @@
+x: [[281 300 319 319 300 281]], y: [[190 190 190 208 208 208]], ornt: [u'#'], transcriptions: [u'#']
+x: [[136 152 168 168 152 136]], y: [[45 45 45 59 59 59]], ornt: [u'#'], transcriptions: [u'#']
+x: [[29 48 66 66 48 29]], y: [[173 173 173 190 190 190]], ornt: [u'#'], transcriptions: [u'#']
+x: [[134 140 145 145 140 134]], y: [[107 107 107 121 121 121]], ornt: [u'#'], transcriptions: [u'#']
+x: [[288 296 303 303 296 288]], y: [[63 63 63 73 73 73]], ornt: [u'#'], transcriptions: [u'#']
+x: [[268 286 303 303 286 268]], y: [[63 63 63 77 77 77]], ornt: [u'#'], transcriptions: [u'#']
+x: [[130 155 177 204 186 170 155 143]], y: [[111  95  93 118 124 109 109 127]], ornt: [u'c'], transcriptions: [u'ASHCAMPc']
+x: [[ 68 259 264  65]], y: [[191 192 221 222]], ornt: [u'h'], transcriptions: [u'CHANGCUTRANGERSASHCAMP']

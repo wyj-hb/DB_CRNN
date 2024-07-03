@@ -1,0 +1,8 @@
+x: [[177 299 399 397 311 211]], y: [[179 116 110 159 162 224]], ornt: [u'c'], transcriptions: [u'KIFARU']
+x: [[426 490 530 517 468 412]], y: [[117 134 169 216 179 162]], ornt: [u'c'], transcriptions: [u'ARK']
+x: [[179 534 532 178]], y: [[331 313 361 375]], ornt: [u'm'], transcriptions: [u'NAIROBI']
+x: [[182 418 419 191]], y: [[382 373 402 413]], ornt: [u'm'], transcriptions: [u'NATIONAL']
+x: [[427 532 534 432]], y: [[370 366 397 403]], ornt: [u'm'], transcriptions: [u'PARk']
+x: [[131 336 338 129]], y: [[481 471 503 518]], ornt: [u'm'], transcriptions: [u'SOUVENIR']
+x: [[363 447 446 364]], y: [[471 464 501 507]], ornt: [u'm'], transcriptions: [u'AND']
+x: [[475 563 562 482]], y: [[465 460 497 503]], ornt: [u'm'], transcriptions: [u'GIFT']

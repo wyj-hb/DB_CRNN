@@ -1,0 +1,5 @@
+x: [[162 477 797 789 465 176]], y: [[289 163 132 254 283 389]], ornt: [u'c'], transcriptions: [u'KOFFEE']
+x: [[ 899 1072 1225 1187 1042  885]], y: [[130 152 195 305 267 256]], ornt: [u'c'], transcriptions: [u'KUP']
+x: [[918 946 954 916]], y: [[648 648 678 680]], ornt: [u'#'], transcriptions: [u'#']
+x: [[131 475 473 125]], y: [[744 725 796 819]], ornt: [u'm'], transcriptions: [u'FAMILY']
+x: [[ 532 1233 1231  534]], y: [[723 684 762 796]], ornt: [u'm'], transcriptions: [u'RESTAURANT']

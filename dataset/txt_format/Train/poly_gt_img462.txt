@@ -1,0 +1,3 @@
+x: [[316 366 409 415 388 348]], y: [[ 79  58  55 100 105 126]], ornt: [u'c'], transcriptions: [u'BAY']
+x: [[421 492 550 537 486 424]], y: [[ 49  73 121 157 112  99]], ornt: [u'c'], transcriptions: [u'CREEK']
+x: [[331 544 541 336]], y: [[133 163 205 178]], ornt: [u'm'], transcriptions: [u'Neighborhood']

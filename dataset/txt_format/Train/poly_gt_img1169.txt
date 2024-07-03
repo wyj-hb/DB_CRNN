@@ -1,0 +1,2 @@
+x: [[ 70 198 309 433 428 310 178  73]], y: [[121  83  85 120 171 139 139 178]], ornt: [u'c'], transcriptions: [u'FLAMINGOS']
+x: [[173 318 322 177]], y: [[161 159 204 206]], ornt: [u'h'], transcriptions: [u'CLUB']

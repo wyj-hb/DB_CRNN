@@ -1,0 +1,8 @@
+x: [[183 197 210 210 197 183]], y: [[178 178 178 201 201 201]], ornt: [u'h'], transcriptions: [u'ABG']
+x: [[357 370 382 382 370 357]], y: [[174 174 174 195 195 195]], ornt: [u'h'], transcriptions: [u'ABG']
+x: [[145 189 234 237 197 154]], y: [[130 115 114 142 141 159]], ornt: [u'c'], transcriptions: [u'BEECH']
+x: [[247 290 325 324 286 250]], y: [[106 109 111 138 135 140]], ornt: [u'c'], transcriptions: [u'GROVE']
+x: [[336 374 404 404 372 330]], y: [[114 122 131 157 146 136]], ornt: [u'c'], transcriptions: [u'FARMS']
+x: [[151 226 283 283 228 154]], y: [[236 230 230 255 260 262]], ornt: [u'm'], transcriptions: [u'REGISTERED']
+x: [[288 348 348 292]], y: [[229 226 252 255]], ornt: [u'm'], transcriptions: [u'BLACK']
+x: [[353 411 410 352]], y: [[225 223 246 252]], ornt: [u'm'], transcriptions: [u'ANGUS']

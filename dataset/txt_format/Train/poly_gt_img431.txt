@@ -1,0 +1,8 @@
+x: [[532 639 610 510]], y: [[ 17  46 146 119]], ornt: [u'm'], transcriptions: [u'17']
+x: [[528 585 582 522]], y: [[160 172 191 178]], ornt: [u'm'], transcriptions: [u'ONTARIO']
+x: [[441 520 517 445]], y: [[241 259 286 269]], ornt: [u'm'], transcriptions: [u'TRANS']
+x: [[534 625 624 531]], y: [[263 280 304 284]], ornt: [u'm'], transcriptions: [u'CANADA']
+x: [[433 489 550 558 486 427]], y: [[452 478 475 497 499 472]], ornt: [u'c'], transcriptions: [u'ONTORIO']
+x: [[154 298 297 151]], y: [[550 553 644 646]], ornt: [u'h'], transcriptions: [u'90']
+x: [[147 231 228 153]], y: [[686 685 727 730]], ornt: [u'h'], transcriptions: [u'km']
+x: [[261 292 297 273]], y: [[688 689 731 734]], ornt: [u'h'], transcriptions: [u'h']

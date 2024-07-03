@@ -1,0 +1,5 @@
+x: [[163 187 206 209 186 159]], y: [[105 108 106 158 174 190]], ornt: [u'c'], transcriptions: [u'ALL']
+x: [[216 246 270 273 246 219]], y: [[109 106 107 150 148 160]], ornt: [u'c'], transcriptions: [u'OUR']
+x: [[283 319 361 359 322 279]], y: [[105 104 108 179 165 149]], ornt: [u'c'], transcriptions: [u'STAFF']
+x: [[178 337 338 178]], y: [[183 181 217 220]], ornt: [u'h'], transcriptions: [u'SPEAK']
+x: [[161 367 368 164]], y: [[381 379 439 440]], ornt: [u'h'], transcriptions: [u'ENGLISH']

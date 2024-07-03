@@ -1,0 +1,6 @@
+x: [[ 40  70 136 189 211 196 133  95  44]], y: [[156 144 140 144 156 180 168 172 184]], ornt: [u'c'], transcriptions: [u'BIGBEN']
+x: [[ 49 105 105  52]], y: [[204 200 227 227]], ornt: [u'h'], transcriptions: [u'English']
+x: [[110 196 194 112]], y: [[201 201 225 226]], ornt: [u'h'], transcriptions: [u'Restaurant']
+x: [[ 64 144 145  65]], y: [[231 227 238 239]], ornt: [u'#'], transcriptions: [u'#']
+x: [[ 64  66 196 195]], y: [[238 255 255 233]], ornt: [u'h'], transcriptions: [u'EXCHANGE']
+x: [[ 4 40 35  5]], y: [[249 250 263 265]], ornt: [u'#'], transcriptions: [u'#']

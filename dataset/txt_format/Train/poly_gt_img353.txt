@@ -1,0 +1,3 @@
+x: [[480 525 681 689 568 514]], y: [[424 249 154 206 281 438]], ornt: [u'c'], transcriptions: [u'KENTUCKY']
+x: [[738 861 937 922 845 740]], y: [[152 170 225 254 207 189]], ornt: [u'c'], transcriptions: [u'HORSE']
+x: [[ 965 1014 1024  992  974  937]], y: [[265 347 426 429 349 288]], ornt: [u'c'], transcriptions: [u'PARk']

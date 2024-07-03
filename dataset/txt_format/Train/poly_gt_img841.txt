@@ -1,0 +1,2 @@
+x: [[217 244 231 197]], y: [[237 250 279 255]], ornt: [u'c'], transcriptions: [u'hot']
+x: [[250 288 318 333 296 246]], y: [[253 252 235 251 276 279]], ornt: [u'c'], transcriptions: [u'Apotheke']

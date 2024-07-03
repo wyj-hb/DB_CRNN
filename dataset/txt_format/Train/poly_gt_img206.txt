@@ -1,0 +1,6 @@
+x: [[187 246 341 373 294 239]], y: [[246 144  81 128 187 279]], ornt: [u'c'], transcriptions: [u'DARK']
+x: [[376 461 540 533 452 394]], y: [[ 58  35  33  91  91 111]], ornt: [u'c'], transcriptions: [u'EYE']
+x: [[255 306 363 329 260 226]], y: [[550 616 652 703 649 585]], ornt: [u'c'], transcriptions: [u'EYE']
+x: [[383 472 580 584 465 371]], y: [[671 700 698 752 750 716]], ornt: [u'c'], transcriptions: [u'DARK']
+x: [[780 808 825 877 855 819]], y: [[560 501 436 445 528 598]], ornt: [u'c'], transcriptions: [u'EYE']
+x: [[796 859 880 825 816 754]], y: [[181 291 406 410 318 216]], ornt: [u'c'], transcriptions: [u'DARK']

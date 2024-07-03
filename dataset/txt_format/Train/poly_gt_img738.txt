@@ -1,0 +1,7 @@
+x: [[1166 1220 1273 1273 1220 1166]], y: [[210 210 210 293 293 293]], ornt: [u'h'], transcriptions: [u'102']
+x: [[ 36 126 105  21]], y: [[355 386 431 392]], ornt: [u'm'], transcriptions: [u'PIG']
+x: [[692 779 920 926 797 715]], y: [[389 351 343 390 393 436]], ornt: [u'c'], transcriptions: [u'FLYING']
+x: [[ 975 1055 1041  968]], y: [[351 393 431 398]], ornt: [u'm'], transcriptions: [u'PIG']
+x: [[501 593 593 490]], y: [[42 52 88 79]], ornt: [u'm'], transcriptions: [u'm']
+x: [[607 759 751 601]], y: [[45 61 97 86]], ornt: [u'm'], transcriptions: [u'FLYING']
+x: [[762 836 830 760]], y: [[ 62  67 100  94]], ornt: [u'm'], transcriptions: [u'PIG']

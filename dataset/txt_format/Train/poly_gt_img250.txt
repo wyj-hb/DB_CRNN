@@ -1,0 +1,6 @@
+x: [[185 170 178 189 187 200]], y: [[380 343 307 313 346 370]], ornt: [u'c'], transcriptions: [u'BAGISAG']
+x: [[179 191 206 190]], y: [[300 285 293 313]], ornt: [u'm'], transcriptions: [u'NG']
+x: [[198 232 264 258 229 207]], y: [[278 264 276 290 281 293]], ornt: [u'c'], transcriptions: [u'PANGULO']
+x: [[271 287 274 261]], y: [[280 299 309 295]], ornt: [u'm'], transcriptions: [u'NG']
+x: [[274 285 275 288 301 288]], y: [[367 335 314 304 337 377]], ornt: [u'c'], transcriptions: [u'PILIPINAS']
+x: [[220 593 587 236]], y: [[194 203 282 276]], ornt: [u'h'], transcriptions: [u'BANGSAMOR']

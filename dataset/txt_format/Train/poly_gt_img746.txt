@@ -1,0 +1,4 @@
+x: [[518 650 838 844 797 772 661 547]], y: [[151  43 179 245 262 214 127 223]], ornt: [u'c'], transcriptions: [u'ORIGINAL']
+x: [[547 572 667 644 521 496]], y: [[278 379 472 535 419 289]], ornt: [u'c'], transcriptions: [u'PILAH']
+x: [[692 770 799 848 814 701]], y: [[473 431 325 346 475 544]], ornt: [u'c'], transcriptions: [u'KUALA']
+x: [[ 81 461 470  78]], y: [[271 265 298 302]], ornt: [u'#'], transcriptions: [u'#']

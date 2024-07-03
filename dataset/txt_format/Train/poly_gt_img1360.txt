@@ -1,0 +1,8 @@
+x: [[206 266 325 325 266 206]], y: [[359 359 359 400 400 400]], ornt: [u'h'], transcriptions: [u'FIRST']
+x: [[ 78 220 361 361 220  78]], y: [[405 405 405 450 450 450]], ornt: [u'h'], transcriptions: [u'COFFESHOP']
+x: [[ 99 139 179 179 139  99]], y: [[359 359 359 399 399 399]], ornt: [u'h'], transcriptions: [u'THE']
+x: [[ 31  67 119 146 101  76]], y: [[122  77  57  93 117 146]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[139 271 395 349 247 152]], y: [[ 46  32 114 144  80  93]], ornt: [u'c'], transcriptions: [u'BULLDOG']
+x: [[ 65 124 123  70]], y: [[468 468 494 497]], ornt: [u'h'], transcriptions: [u'13']
+x: [[156 210 212 162]], y: [[472 472 493 493]], ornt: [u'h'], transcriptions: [u'41']
+x: [[250 312 311 255]], y: [[471 469 493 493]], ornt: [u'h'], transcriptions: [u'07']

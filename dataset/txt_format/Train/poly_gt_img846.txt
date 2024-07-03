@@ -1,0 +1,8 @@
+x: [[227 356 478 465 350 238]], y: [[137 111 117 156 152 177]], ornt: [u'c'], transcriptions: [u'cannery']
+x: [[487 554 611 595 534 476]], y: [[122 136 157 197 172 159]], ornt: [u'c'], transcriptions: [u'ROW']
+x: [[150 193 192 147]], y: [[444 443 466 463]], ornt: [u'm'], transcriptions: [u'AQU']
+x: [[108 147 141 104]], y: [[438 441 461 461]], ornt: [u'm'], transcriptions: [u'BAY']
+x: [[ 85 101 102  79]], y: [[439 440 462 461]], ornt: [u'm'], transcriptions: [u'EY']
+x: [[ 7 20 17  2]], y: [[437 438 459 458]], ornt: [u'm'], transcriptions: [u'M']
+x: [[110 136  89  50]], y: [[113 213 307 219]], ornt: [u'm'], transcriptions: [u'iViva']
+x: [[126 150 120  95]], y: [[294 298 430 409]], ornt: [u'#'], transcriptions: [u'#']

@@ -1,0 +1,8 @@
+x: [[21 76 75 21]], y: [[551 552 579 578]], ornt: [u'h'], transcriptions: [u'apm']
+x: [[186 214 256 255 228 204]], y: [[286 253 250 269 269 297]], ornt: [u'c'], transcriptions: [u'AUTHENTIC']
+x: [[261 284 297 287 274 253]], y: [[249 263 287 292 278 271]], ornt: [u'c'], transcriptions: [u'BAKERY']
+x: [[211 273 273 216]], y: [[292 290 322 322]], ornt: [u'h'], transcriptions: [u'TLJ']
+x: [[213 230 246 247 224 206]], y: [[343 356 352 366 367 356]], ornt: [u'c'], transcriptions: [u'SINCE']
+x: [[250 264 274 281 267 250]], y: [[352 350 340 357 367 370]], ornt: [u'c'], transcriptions: [u'1997']
+x: [[389 567 565 399]], y: [[258 253 380 378]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[467 565 565 469]], y: [[556 556 586 585]], ornt: [u'h'], transcriptions: [u'TOUS']

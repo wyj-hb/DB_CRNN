@@ -1,0 +1,5 @@
+x: [[ 98 172 271 298 171  71]], y: [[260 292 265 312 344 308]], ornt: [u'c'], transcriptions: [u'SABAH']
+x: [[284 326 339 384 377 325]], y: [[251 185 125 108 223 284]], ornt: [u'c'], transcriptions: [u'WIND']
+x: [[94 78 98 62 40 55]], y: [[123 190 245 282 199 117]], ornt: [u'c'], transcriptions: [u'LAND']
+x: [[ 86 157 258 243 174 118]], y: [[ 82  16   2  35  52 104]], ornt: [u'c'], transcriptions: [u'BELOW']
+x: [[290 340 370 329 307 274]], y: [[ 6 27 68 96 66 40]], ornt: [u'c'], transcriptions: [u'THE']

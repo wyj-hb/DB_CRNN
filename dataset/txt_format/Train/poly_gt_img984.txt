@@ -1,0 +1,2 @@
+x: [[295 352 428 427 361 308]], y: [[ 68  42  35  81  91 114]], ornt: [u'c'], transcriptions: [u'NEW']
+x: [[440 583 731 722 569 451]], y: [[ 27  28  70 111  73  75]], ornt: [u'c'], transcriptions: [u'ORLEANS']

@@ -1,0 +1,4 @@
+x: [[475 525 593 599 533 493]], y: [[468 448 442 472 485 501]], ornt: [u'c'], transcriptions: [u'Kids']
+x: [[605 639 639 609]], y: [[440 438 479 479]], ornt: [u'h'], transcriptions: [u'e']
+x: [[645 731 791 783 711 661]], y: [[442 450 460 499 485 481]], ornt: [u'c'], transcriptions: [u'World']
+x: [[423 503 501 417]], y: [[837 837 903 891]], ornt: [u'#'], transcriptions: [u'#']

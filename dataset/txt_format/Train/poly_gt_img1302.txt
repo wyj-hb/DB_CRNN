@@ -1,0 +1,5 @@
+x: [[460 498 543 529 498 470]], y: [[193 164 193 209 190 214]], ornt: [u'c'], transcriptions: [u'RABITY']
+x: [[686 734 700 662]], y: [[532 623 636 558]], ornt: [u'm'], transcriptions: [u'CAUTION']
+x: [[735 768 739 702]], y: [[629 703 718 649]], ornt: [u'm'], transcriptions: [u'Please']
+x: [[763 796 765 739]], y: [[711 769 785 724]], ornt: [u'm'], transcriptions: [u'step']
+x: [[796 812 798 774]], y: [[776 806 839 792]], ornt: [u'm'], transcriptions: [u'off']

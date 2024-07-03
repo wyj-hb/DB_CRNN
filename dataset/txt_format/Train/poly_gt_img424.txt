@@ -1,0 +1,6 @@
+x: [[ 123 1011 1019  135]], y: [[262 256 412 430]], ornt: [u'h'], transcriptions: [u'WELCOME']
+x: [[1081 1287 1295 1083]], y: [[256 247 384 382]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[ 127  769 1257 1301  739  115]], y: [[467 452 456 818 638 834]], ornt: [u'c'], transcriptions: [u'DRESSER']
+x: [[161 317 323 157]], y: [[1056 1050 1122 1124]], ornt: [u'h'], transcriptions: [u'OLD']
+x: [[361 567 567 349]], y: [[1050 1050 1114 1118]], ornt: [u'h'], transcriptions: [u'TIME']
+x: [[ 609 1257 1263  611]], y: [[1048 1032 1100 1116]], ornt: [u'h'], transcriptions: [u'FRIENDLINESS']

@@ -1,0 +1,5 @@
+x: [[ 878 1181 1499 1511 1190  881]], y: [[854 773 818 956 896 965]], ornt: [u'c'], transcriptions: [u'WELCOME']
+x: [[1124 1244 1247 1139]], y: [[ 950  941 1028 1034]], ornt: [u'h'], transcriptions: [u'TO']
+x: [[ 848 1568 1574  848]], y: [[1064 1034 1148 1172]], ornt: [u'h'], transcriptions: [u'MUDVILLE']
+x: [[ 869 1367 1364  869]], y: [[1229 1205 1274 1298]], ornt: [u'm'], transcriptions: [u'POPULATION']
+x: [[1397 1502 1514 1388]], y: [[1208 1202 1274 1280]], ornt: [u'm'], transcriptions: [u'352']

@@ -1,0 +1,7 @@
+x: [[142 177 215 239 199 182]], y: [[381 321 298 324 356 395]], ornt: [u'c'], transcriptions: [u'YEGUA']
+x: [[233 290 360 346 290 240]], y: [[290 277 303 335 313 324]], ornt: [u'c'], transcriptions: [u'AIRGUN']
+x: [[370 407 422 390 377 350]], y: [[316 347 388 398 364 340]], ornt: [u'c'], transcriptions: [u'CLUB']
+x: [[173 178 193 165 149 140]], y: [[442 467 487 508 483 448]], ornt: [u'c'], transcriptions: [u'THE']
+x: [[196 247 318 325 241 169]], y: [[500 540 545 576 576 524]], ornt: [u'c'], transcriptions: [u'REPUBLIC']
+x: [[324 352 375 343]], y: [[537 520 553 570]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[360 385 399 431 412 383]], y: [[516 486 442 442 509 540]], ornt: [u'c'], transcriptions: [u'TEXAS']

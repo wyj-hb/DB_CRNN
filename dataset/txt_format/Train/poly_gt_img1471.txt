@@ -1,0 +1,4 @@
+x: [[ 98 211 314 311 206  95]], y: [[196 187 226 278 262 317]], ornt: [u'c'], transcriptions: [u'JUNGLE']
+x: [[320 394 506 506 407 347]], y: [[275 213 207 240 244 296]], ornt: [u'c'], transcriptions: [u'EXPEDITION']
+x: [[185 321 402 410 297 190]], y: [[266 285 285 352 375 375]], ornt: [u'c'], transcriptions: [u'CRUISE']
+x: [[192 360 359 192]], y: [[461 472 513 500]], ornt: [u'm'], transcriptions: [u'EXOTIC']

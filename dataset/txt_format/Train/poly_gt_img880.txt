@@ -1,0 +1,4 @@
+x: [[148 243 362 388 259 160]], y: [[386 355 333 393 413 441]], ornt: [u'c'], transcriptions: [u'FUTA']
+x: [[181 349 359 181]], y: [[327 290 321 357]], ornt: [u'#'], transcriptions: [u'#']
+x: [[403 509 499 401]], y: [[300 298 402 399]], ornt: [u'h'], transcriptions: [u'ff']
+x: [[521 652 760 760 630 520]], y: [[333 350 382 444 408 398]], ornt: [u'c'], transcriptions: [u'BAYA']

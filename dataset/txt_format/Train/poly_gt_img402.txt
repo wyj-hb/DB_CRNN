@@ -1,0 +1,5 @@
+x: [[551 594 753 928 911 772 665 637]], y: [[542 347 268 326 409 364 433 563]], ornt: [u'c'], transcriptions: [u'FISHERMANS']
+x: [[592 562 626 678]], y: [[711 615 604 717]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[678 723 778 751 663 624]], y: [[719 788 829 908 839 773]], ornt: [u'c'], transcriptions: [u'SAN']
+x: [[ 800  911 1012 1042 1099 1039  909  783]], y: [[837 863 764 677 711 878 955 931]], ornt: [u'c'], transcriptions: [u'FRANCISCO']
+x: [[ 950 1056 1104 1033  997  926]], y: [[349 493 651 653 514 422]], ornt: [u'c'], transcriptions: [u'WHARF']

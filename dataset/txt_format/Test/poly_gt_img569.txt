@@ -1,0 +1,6 @@
+x: [[119 157 238 350 389 279 212 192]], y: [[260 165  77  52 123 148 228 290]], ornt: [u'c'], transcriptions: [u'PIZZA']
+x: [[426 517 555 565 530 485 412]], y: [[ 74 141 213 263 275 189 127]], ornt: [u'c'], transcriptions: [u'PORT']
+x: [[148 293 410 409 411 177]], y: [[447 399 376 442 449 517]], ornt: [u'c'], transcriptions: [u'BOTTLE']
+x: [[433 518 563 546 428]], y: [[374 373 379 445 445]], ornt: [u'c'], transcriptions: [u'SHOP']
+x: [[263 318 395 396 330 263 231]], y: [[494 535 534 570 575 554 523]], ornt: [u'c'], transcriptions: [u'BREWING']
+x: [[403 450 481 505 524 465 403]], y: [[531 511 485 443 467 535 568]], ornt: [u'c'], transcriptions: [u'COMPANY']

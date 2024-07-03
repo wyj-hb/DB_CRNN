@@ -1,0 +1,5 @@
+x: [[202 264 343 351 274 220]], y: [[ 88  78  72 127 130 144]], ornt: [u'c'], transcriptions: [u'HAVE']
+x: [[382 455 448 367]], y: [[ 67  76 130 126]], ornt: [u'm'], transcriptions: [u'An']
+x: [[205 346 473 463 322 219]], y: [[145 120 129 193 183 205]], ornt: [u'c'], transcriptions: [u'EGGSTRA']
+x: [[150 234 351 343 255 174]], y: [[243 190 180 241 247 298]], ornt: [u'c'], transcriptions: [u'SPECIAL']
+x: [[374 463 538 511 437 361]], y: [[178 199 223 277 247 238]], ornt: [u'c'], transcriptions: [u'SPRING']

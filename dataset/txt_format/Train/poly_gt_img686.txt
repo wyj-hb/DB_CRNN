@@ -1,0 +1,4 @@
+x: [[127 283 442 457 300 156]], y: [[654 576 523 595 645 736]], ornt: [u'c'], transcriptions: [u'BURMAH']
+x: [[438 580 673 674 569 462]], y: [[496 471 478 558 562 589]], ornt: [u'c'], transcriptions: [u'ROAD']
+x: [[691 845 994 991 839 694]], y: [[447 466 508 598 556 555]], ornt: [u'c'], transcriptions: [u'GOSPEL']
+x: [[1027 1159 1228 1207 1100  991]], y: [[495 547 604 699 636 595]], ornt: [u'c'], transcriptions: [u'HALL']

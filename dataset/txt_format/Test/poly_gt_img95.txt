@@ -1,0 +1,4 @@
+x: [[46 64 92 80 37 27]], y: [[ 56  98 129 141  98  58]], ornt: [u'c'], transcriptions: [u'UNITED']
+x: [[103 145 188 187 125  90]], y: [[133 149 152 172 164 149]], ornt: [u'c'], transcriptions: [u'STATES']
+x: [[194 225 236 201]], y: [[151 142 158 169]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[236 278 296 318 288 242]], y: [[136  99  55  55 122 156]], ornt: [u'c'], transcriptions: [u'AMERICA']

@@ -1,0 +1,8 @@
+x: [[222 265 328 309 232 192]], y: [[651 705 745 781 738 670]], ornt: [u'c'], transcriptions: [u'MUSIC']
+x: [[264 307 327 282]], y: [[393 363 393 421]], ornt: [u'm'], transcriptions: [u'BC']
+x: [[330 457 580 543 448 333]], y: [[358 351 439 457 390 384]], ornt: [u'c'], transcriptions: [u'ENTERTAINMENT']
+x: [[576 604 610 580 570 549]], y: [[451 495 534 537 501 477]], ornt: [u'c'], transcriptions: [u'HALL']
+x: [[612 613 582 579]], y: [[546 594 589 544]], ornt: [u'm'], transcriptions: [u'OF']
+x: [[553 570 577 609 600 576]], y: [[664 633 597 604 643 685]], ornt: [u'c'], transcriptions: [u'FAME']
+x: [[288 367 445 435 363 301]], y: [[480 429 438 477 466 519]], ornt: [u'c'], transcriptions: [u'ARTHUR']
+x: [[466 535 514 472 451 483 489 447]], y: [[450 549 642 682 646 621 555 478]], ornt: [u'c'], transcriptions: [u'DELAMONT']

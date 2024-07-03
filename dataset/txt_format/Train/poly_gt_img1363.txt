@@ -1,0 +1,8 @@
+x: [[423 449 475 475 449 423]], y: [[686 686 686 727 727 727]], ornt: [u'h'], transcriptions: [u'to']
+x: [[145 189 232 232 189 145]], y: [[558 558 558 628 628 628]], ornt: [u'#'], transcriptions: [u'#']
+x: [[144 190 235 235 190 144]], y: [[259 259 259 326 326 326]], ornt: [u'#'], transcriptions: [u'#']
+x: [[290 389 365 278]], y: [[ 94 102 163 156]], ornt: [u'h'], transcriptions: [u'Pool']
+x: [[382 457 451 374]], y: [[115 123 174 174]], ornt: [u'h'], transcriptions: [u'cafe']
+x: [[253 299 466 413 205 196]], y: [[117 201 387 409 180 102]], ornt: [u'c'], transcriptions: [u'COFFEESHOP']
+x: [[191 248 272 214]], y: [[451 426 469 500]], ornt: [u'm'], transcriptions: [u'get']
+x: [[281 376 436 407 317 244]], y: [[506 601 664 709 617 532]], ornt: [u'm'], transcriptions: [u'DOWN']

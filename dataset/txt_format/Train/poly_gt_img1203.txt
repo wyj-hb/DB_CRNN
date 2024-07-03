@@ -1,0 +1,5 @@
+x: [[470 484 497 497 484 470]], y: [[137 137 137 167 167 167]], ornt: [u'#'], transcriptions: [u'#']
+x: [[409 495 496 413]], y: [[  4   2 136 149]], ornt: [u'm'], transcriptions: [u'ER']
+x: [[308 335 330 317 317 300]], y: [[108 151 179 175 149 124]], ornt: [u'c'], transcriptions: [u'Dispenser']
+x: [[304 313 319 329 321 309]], y: [[181 178 169 184 190 194]], ornt: [u'c'], transcriptions: [u'User']
+x: [[244 260 266 256]], y: [[19 19 83 84]], ornt: [u'#'], transcriptions: [u'#']

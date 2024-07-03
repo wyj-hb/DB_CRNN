@@ -1,0 +1,2 @@
+x: [[126 168 249 225 183 139]], y: [[334 309 337 367 343 364]], ornt: [u'c'], transcriptions: [u'Byrord']
+x: [[145 190 229 241 192 132]], y: [[409 433 417 438 462 439]], ornt: [u'c'], transcriptions: [u'LONDON']
