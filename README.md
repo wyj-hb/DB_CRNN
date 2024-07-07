@@ -14,10 +14,10 @@ This is a PyToch implementation trained jointly by DBNet and CRNN through the Br
 
 ## reference
 
-* [Bridge]([2404.04624 (arxiv.org)](https://arxiv.org/pdf/2404.04624))
+* [Bridge](https://arxiv.org/pdf/2404.04624)
 
-* [DBnet]([Real-time Scene Text Detection with Differentiable Binarization (arxiv.org)](https://arxiv.org/pdf/1911.08947))
+* [DBnet](https://arxiv.org/pdf/1911.08947)
 
-* [CRNN]([[1507.05717\] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (arxiv.org)](https://arxiv.org/abs/1507.05717))
+* [CRNN](https://arxiv.org/abs/1507.05717)
 
   
