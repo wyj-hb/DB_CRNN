@@ -1,6 +1,6 @@
 ## Introduction
 
-![image-20240707132917942](C:/Users/王喻杰/AppData/Roaming/Typora/typora-user-images/image-20240707132917942.png)
+![content](./figs/bridge_text_spotting.png)
 
 This is a PyToch implementation trained jointly by DBNet and CRNN through the Bridge structure. Through the Bridge structure, the recognizer and detector can be connected to improve detection performance while maintaining modularity.
 
