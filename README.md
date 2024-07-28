@@ -10,7 +10,7 @@ This is a PyToch implementation trained jointly by DBNet and CRNN through the Br
 
 | Method  | Det-P | Det-R | Det-F | E2E-P | E2E-R | E2E-F |
 | :-----: | :---: | :---: | :---: | :---: | :---: | :---: |
-| DB-CRNN | 0.84  | 0.74  | 0.78  | 0.76  | 0.67  | 0.72  |
+| DB-CRNN | 0.79  | 0.60  | 0.68  | 0.72  | 0.55  | 0.62  |
 
 ## reference
 
